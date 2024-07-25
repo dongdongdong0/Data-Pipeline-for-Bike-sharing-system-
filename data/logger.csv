@@ -1,0 +1,8 @@
+request_id,request_time,success,message
+Vancouver-aNpKgACE,2024-07-25 00:01:36,Yes,Successful request for Vancouver
+Vancouver-ZNwa41UW,2024-07-25 00:03:19,Yes,Successful request for Vancouver
+Vancouver-ZNwa41UW,2024-07-25 00:03:19,App-executed,app.py run succesfully at 2024-07-25 00:03:19
+Toronto-CaRPFgrZ,2024-07-25 00:03:21,Yes,Successful request for Toronto
+Toronto-CaRPFgrZ,2024-07-25 00:03:21,App-executed,app.py run succesfully at 2024-07-25 00:03:21
+Montreal-3Vr4r4ET,2024-07-25 00:03:22,Yes,Successful request for Montreal
+Montreal-3Vr4r4ET,2024-07-25 00:03:22,App-executed,app.py run succesfully at 2024-07-25 00:03:22

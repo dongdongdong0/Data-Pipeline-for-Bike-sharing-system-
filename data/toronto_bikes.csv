@@ -1,0 +1,821 @@
+request_id,timestamp,_id,date,day_name,hour,city,station_id,station_name,free_bikes,empty_slots
+Toronto-u7GSxMS0,2024-07-25T05:54:15.782000Z,QueenStE/WoodwardAve--jc1jVEBu,2024-07-25,Thursday,00:03,Toronto,fb337bbed72e2be090071e199899b2be,Queen St E / Woodward Ave,15,3
+Toronto-TYXcChIj,2024-07-25T05:54:15.796000Z,PrimroseAve/DavenportRd--QgX0AINj,2024-07-25,Thursday,00:03,Toronto,4ff88d5880e71aa40d34cfe5d09b0ca7,Primrose Ave / Davenport Rd,3,12
+Toronto-rUL7k09z,2024-07-25T05:54:15.812000Z,QueenStE/RhodesAve--VAAfaFL5,2024-07-25,Thursday,00:03,Toronto,a09c67c0b419654d907c9134b108e328,Queen St E / Rhodes Ave,14,8
+Toronto-O0Fvtitc,2024-07-25T05:54:15.937000Z,BondSt/QueenStE--7graku8R,2024-07-25,Thursday,00:03,Toronto,d6a9daee68070a8b106cfb598d81308c,Bond St / Queen St E,6,30
+Toronto-JLKnuvIS,2024-07-25T05:54:15.948000Z,ChurchSt/AlexanderSt--0mn5WC6Y,2024-07-25,Thursday,00:03,Toronto,8f8af40d9388c8a3962559e8681d3db7,Church St / Alexander St,6,29
+Toronto-rKw8hMhX,2024-07-25T05:54:15.964000Z,UniversityAve/GerrardStW(EastSide)--9eBdOp8q,2024-07-25,Thursday,00:03,Toronto,5a441560e262305d1934fb3ada5a9517,University Ave / Gerrard St W (East Side),0,23
+Toronto-wCurGtKW,2024-07-25T05:54:15.985000Z,EdwardSt/YongeSt--eIvuUaH9,2024-07-25,Thursday,00:03,Toronto,18ea490ab3ca4d10e2927308416edbef,Edward St / Yonge St,2,20
+Toronto-CrElPrif,2024-07-25T05:54:16.001000Z,EuclidAve/BloorStW--7TC4sRX5,2024-07-25,Thursday,00:03,Toronto,b7850948607474362d3728f19a77fdff,Euclid Ave / Bloor St W,12,3
+Toronto-vci4wQQT,2024-07-25T05:54:16.007000Z,YongeSt/AylmerAve--75KsNRPz,2024-07-25,Thursday,00:03,Toronto,7ffd06e0207f80fe1ff6b5ae0bb0544c,Yonge St / Aylmer Ave,20,3
+Toronto-tyAcGDRl,2024-07-25T05:54:16.020000Z,DavenportRd/AvenueRd--0zrF160w,2024-07-25,Thursday,00:03,Toronto,17fadbdc5848036c8485099bbf517294,Davenport Rd / Avenue Rd,2,8
+Toronto-2PjOcB8o,2024-07-25T05:54:16.024000Z,YongeSt/YorkvilleAve--ENWfeeYO,2024-07-25,Thursday,00:03,Toronto,843dcb87ce2ddb002d2b2900a5418355,Yonge St / Yorkville Ave,1,15
+Toronto-SokT2IjN,2024-07-25T05:54:16.038000Z,DundasStE/BroadviewAve--II2eDnpP,2024-07-25,Thursday,00:03,Toronto,438406694750984faa317bc6b1f3f909,Dundas St E / Broadview Ave,17,0
+Toronto-jMK8MgI7,2024-07-25T05:54:16.061000Z,FrontStW/YongeSt(HockeyHallofFame)--b1SU6grx,2024-07-25,Thursday,00:03,Toronto,41c3e6d3bf3bd993e7d56e22084ab5ee,Front St W / Yonge St (Hockey Hall of Fame),1,43
+Toronto-EFHrV76B,2024-07-25T05:54:16.065000Z,GerrardStE/RiverSt--5Inj45i1,2024-07-25,Thursday,00:03,Toronto,c95712a6fe0babf73cb9da2c05889749,Gerrard St E / River St,10,1
+Toronto-WJ5l74bV,2024-07-25T05:54:16.066000Z,JarvisSt/DundasStE--Crc1gJQJ,2024-07-25,Thursday,00:03,Toronto,2aedc79960408d746f43fb1d91bf7030,Jarvis St / Dundas St E,24,2
+Toronto-c9e0MvPq,2024-07-25T05:54:16.584000Z,RegalRd/DufferinSt--SK8yTTRP,2024-07-25,Thursday,00:03,Toronto,77f9f2420581968255251d9f26c78024,Regal Rd / Dufferin St,3,12
+Toronto-DFofpsED,2024-07-25T05:54:16.608000Z,MorseSt/EasternAve--bGJmmLfl,2024-07-25,Thursday,00:03,Toronto,7461a94289f2956b380e5b7684b56a1e,Morse St / Eastern Ave,4,5
+Toronto-tyCqBnYT,2024-07-25T05:54:16.616000Z,AltonAve/DundasStE(GreenwoodPark)--DSFMMqRP,2024-07-25,Thursday,00:03,Toronto,69dc0257a4d3a1dcd5af06dc3b4eed8c,Alton Ave / Dundas St E (Greenwood Park),17,6
+Toronto-ITeKpIOd,2024-07-25T05:54:16.628000Z,BlakeSt/BoultbeeAve--PK5rEQS2,2024-07-25,Thursday,00:03,Toronto,365a0f49bf1c9b42c35b531688b9fed9,Blake St / Boultbee Ave,10,5
+Toronto-YzFLpNin,2024-07-25T05:54:16.633000Z,EasternAve/WinnifredAve--tbNsyCFL,2024-07-25,Thursday,00:03,Toronto,49021f20833894e3dbfaea4fb6e7a9dc,Eastern Ave / Winnifred Ave,13,1
+Toronto-kTnh8vrs,2024-07-25T05:54:16.656000Z,GambleAve/BroadviewAve--LcVSJLtR,2024-07-25,Thursday,00:03,Toronto,3910976dfd5888140602a42b14637022,Gamble Ave / Broadview Ave,2,21
+Toronto-l48yHkj9,2024-07-25T05:54:16.684000Z,111BondSt(NorthofDundasStE)-SMART--6Q524MK0,2024-07-25,Thursday,00:03,Toronto,1fe2e0ad1678ffaf965b10e03a08aaf2,111 Bond St (North of Dundas St E)  - SMART,4,10
+Toronto-oFoOq17s,2024-07-25T05:54:16.704000Z,DundasStE/PembrokeSt-SMART--4VrvOuu0,2024-07-25,Thursday,00:03,Toronto,e565aef96d6d5fce5279ef6f24b9ce69,Dundas St E / Pembroke St - SMART,10,5
+Toronto-AhwwUpvf,2024-07-25T05:54:16.712000Z,VictoriaParkSubwayStation-SMART--wkzreiw0,2024-07-25,Thursday,00:03,Toronto,c765943cac057b6cac0946eff428bf5b,Victoria Park Subway Station - SMART,7,12
+Toronto-wu0xQV6d,2024-07-25T05:54:16.742000Z,WychwoodAve/BensonAve-SMART--gFwPAMfL,2024-07-25,Thursday,00:03,Toronto,e0dec8b8f5ed285bfbd952bb253084f4,Wychwood Ave / Benson Ave - SMART,0,12
+Toronto-3IfxhJ2s,2024-07-25T05:54:16.868000Z,LawtonBlvd/YongeSt--xG4H2YqV,2024-07-25,Thursday,00:03,Toronto,5ee5f79fc51737623d425310eb0bf02b,Lawton Blvd / Yonge St,13,1
+Toronto-OOSc2eH1,2024-07-25T05:54:22.396000Z,YongeSt/DavisvilleAve--H3ismjD1,2024-07-25,Thursday,00:03,Toronto,0daa4477ec313c30dc3036f4bd45e0ba,Yonge St / Davisville Ave,6,7
+Toronto-joKMktK9,2024-07-25T05:54:16.912000Z,FortYorkBlvd/CapreolCt--ztfhzNoN,2024-07-25,Thursday,00:03,Toronto,e2911ec2b832c350dad0a8831a30d273,Fort York  Blvd / Capreol Ct,33,13
+Toronto-pZnHpyvg,2024-07-25T05:54:16.932000Z,St.GeorgeSt/BloorStW--DbHQmn84,2024-07-25,Thursday,00:03,Toronto,57ef343f4e12ae497e29c3693d922197,St. George St / Bloor St W,9,10
+Toronto-qJCMVIJd,2024-07-25T05:54:16.936000Z,KingStW/YorkSt--V8dvi3jz,2024-07-25,Thursday,00:03,Toronto,a0100ff8f210b72706e06b4c31a329fe,King St W / York St,0,22
+Toronto-ai2mVKki,2024-07-25T05:54:16.988000Z,RosehillAve/AvocaAve-SMART--BhUsTUgb,2024-07-25,Thursday,00:03,Toronto,75b9fc3e9bf42a5d26fa1393d9ce72ed,Rosehill Ave / Avoca Ave - SMART,0,13
+Toronto-KNVZ7MnY,2024-07-25T05:54:17.081000Z,BloorStW/DundasStW--8LPrCDKy,2024-07-25,Thursday,00:03,Toronto,d3e1a4057d9bf7c31c216017a0f1989b,Bloor St W / Dundas St W,3,11
+Toronto-2LHsfpPb,2024-07-25T05:54:17.097000Z,BathurstSt/FortYorkBlvd--IOcFccWa,2024-07-25,Thursday,00:03,Toronto,8a4d335d5540e0c2132ffdb1def165f6,Bathurst St / Fort York Blvd,18,0
+Toronto-eWV9rsww,2024-07-25T05:54:17.111000Z,SpadinaAve/WillcocksSt--GnlVnSiy,2024-07-25,Thursday,00:03,Toronto,359ce82fbe9d1e9e9962321e62f6066f,Spadina Ave / Willcocks St,0,14
+Toronto-MHBqUKZ6,2024-07-25T05:54:17.117000Z,CaribooAve/RailpathTrail--EoYpMR9P,2024-07-25,Thursday,00:03,Toronto,4077bf05c083f50d09a52487fd234193,Cariboo Ave / Railpath Trail,6,12
+Toronto-TuCYKzki,2024-07-25T05:54:17.158000Z,CollegeSt/MajorSt--VzeacOAz,2024-07-25,Thursday,00:03,Toronto,6aa469025f8c5ff029052fab35bca1f4,College St / Major St,10,5
+Toronto-jOIaD2x6,2024-07-25T05:54:17.162000Z,McGillSt/ChurchSt--ctQ4UgUz,2024-07-25,Thursday,00:03,Toronto,b086f4ccca33b1b976b40abe69b78d42,McGill St / Church St,5,11
+Toronto-em0VTme9,2024-07-25T05:54:17.175000Z,QueensQuayW/DanLeckieWay--af50X2Jw,2024-07-25,Thursday,00:03,Toronto,0fa15700b0d780b8f810ced06a01760d,Queens Quay W / Dan Leckie Way,11,12
+Toronto-6aBwYLrI,2024-07-25T05:54:17.209000Z,CollegeParkSouth--VtOmAmUl,2024-07-25,Thursday,00:03,Toronto,c3033415413ac24bf33672aa79838018,College Park South,0,17
+Toronto-bJsSDW1C,2024-07-25T05:54:17.217000Z,25YorkSt–UnionStationSouth--MAgEmUhe,2024-07-25,Thursday,00:03,Toronto,ce6e330ba7f61e0453dc1567eaa02745,25 York St – Union Station South,0,9
+Toronto-3qdNaUjB,2024-07-25T05:54:17.248000Z,161BleeckerSt(SouthofWellesley)--QbOUA6zm,2024-07-25,Thursday,00:03,Toronto,049c76540151608ec55bfcd0e1748f41,161 Bleecker St (South of Wellesley),17,5
+Toronto-0vp1ivj6,2024-07-25T05:54:17.261000Z,SpadinaAve/FortYorkBlvd--dABGA04t,2024-07-25,Thursday,00:03,Toronto,55a100afdce605b59cf4acbefcdf3213,Spadina Ave / Fort York Blvd,18,1
+Toronto-2WWBwjQ2,2024-07-25T05:54:17.372000Z,AugustaAve/DenisonSq--UUPSChxj,2024-07-25,Thursday,00:03,Toronto,422a936ddcb551dd9f26ec313a450057,Augusta Ave / Denison Sq,2,11
+Toronto-fdtZEpwD,2024-07-25T05:54:17.392000Z,LansdowneAve/WhytockAve--0wvfnggL,2024-07-25,Thursday,00:03,Toronto,e38ee1ccd4c3964a5c0d308d29403b88,Lansdowne Ave / Whytock Ave,5,10
+Toronto-7qHQF99O,2024-07-25T05:54:17.405000Z,SterlingRd/DundasStW--4UcfTc4G,2024-07-25,Thursday,00:03,Toronto,fc5b892aa82601e2374e8c1772dde569,Sterling Rd / Dundas St W,7,12
+Toronto-4sA56Tgd,2024-07-25T05:54:17.421000Z,OssingtonAve/CollegeSt--XeY3PyEP,2024-07-25,Thursday,00:03,Toronto,452241fc4e912119f006a20b4b0099cf,Ossington Ave / College St,1,6
+Toronto-s9V250BE,2024-07-25T05:54:17.439000Z,HighParkSubwayStation--wgGEcOhP,2024-07-25,Thursday,00:03,Toronto,eb20e0b8c7c8bf1fc4157a3b715e2837,High Park Subway Station,7,1
+Toronto-2eJOzmBM,2024-07-25T05:54:17.447000Z,LakeShoreBlvdW/EllisAve--sO16E4bz,2024-07-25,Thursday,00:03,Toronto,baedec3042f7094d0564ef8a1295e5d8,Lake Shore Blvd W / Ellis Ave,17,1
+Toronto-YO5yXURf,2024-07-25T05:54:17.492000Z,LakeShoreBlvdW/WindermereAve--vJcm1y2K,2024-07-25,Thursday,00:03,Toronto,e4481e45d22462b01aca9513d8f5674e,Lake Shore Blvd W / Windermere Ave,12,1
+Toronto-sQryHjmQ,2024-07-25T05:54:17.544000Z,MartinGoodmanTrail(MarilynBellPark)--EzhQdzfH,2024-07-25,Thursday,00:03,Toronto,0cf5a51077c51159b5d6c8ed5b4c9db5,Martin Goodman Trail (Marilyn Bell Park),18,13
+Toronto-SEGTurS7,2024-07-25T05:54:17.573000Z,LakeShoreBlvdW/TheBoulevardClub--JNpPOuqd,2024-07-25,Thursday,00:03,Toronto,59ef2a57efd0caf7727dbb6451bb8808,Lake Shore Blvd W / The Boulevard Club,13,4
+Toronto-HncnGnTU,2024-07-25T05:54:17.589000Z,DundasStW/RoncesvallesAveGreenP-SMART--Cs1SegX9,2024-07-25,Thursday,00:03,Toronto,fe00988a883c9469b82d17221ef1824b,Dundas St W / Roncesvalles Ave Green P -SMART,4,8
+Toronto-iRAjTFrn,2024-07-25T05:54:17.618000Z,ErskineAve/YongeStSMART--7kY0Z6UJ,2024-07-25,Thursday,00:03,Toronto,f376aecd6bb0d97d5d1580e9537017dd,Erskine Ave / Yonge St SMART,1,15
+Toronto-QpsbcpAe,2024-07-25T05:54:17.662000Z,D'ArcySt/McCaulSt-SMART--stmRBFYh,2024-07-25,Thursday,00:03,Toronto,d04f206f6afecb72f5821586d56f5071,D'Arcy St / McCaul St - SMART,0,14
+Toronto-vh00LrFq,2024-07-25T05:54:17.680000Z,MortimerAve/CarlawAveSMART--GVSSCXye,2024-07-25,Thursday,00:03,Toronto,d7227eafd0ff8024632b2c9cef1f209c,Mortimer Ave / Carlaw Ave SMART,2,10
+Toronto-rfc6kzZm,2024-07-25T05:54:17.690000Z,CumberlandSt/BayStSMART--GX8ab2PJ,2024-07-25,Thursday,00:03,Toronto,0ec9fc6c92f35e65f603cd6e7c550f1f,Cumberland St / Bay St SMART,0,9
+Toronto-mjACaRQL,2024-07-25T05:54:17.742000Z,NiagaraSt/TecumsethSt--wptKPn7g,2024-07-25,Thursday,00:03,Toronto,0ff8f31be644b9e2af6d38b89bf42c07,Niagara St / Tecumseth St,11,2
+Toronto-vmyijE64,2024-07-25T05:54:18.048000Z,DundasStW/St.PatrickSt--puNpRlmz,2024-07-25,Thursday,00:03,Toronto,bb30daddc7221e19cffecf3ac108f28c,Dundas St W / St. Patrick St,0,17
+Toronto-gw0sW44P,2024-07-25T05:54:18.109000Z,RobertSt/BloorStW-SMART--sVtxRL4x,2024-07-25,Thursday,00:03,Toronto,f52bcef41a84669da7a468cfc4531356,Robert St / Bloor St W - SMART,11,5
+Toronto-Jo5PKZb4,2024-07-25T05:54:18.150000Z,QueenStE/HammersmithAve--7mK6GKYF,2024-07-25,Thursday,00:03,Toronto,05d7abba295be4af9e74ca3ec241ebd7,Queen St E / Hammersmith Ave,2,8
+Toronto-WWXNlcQ0,2024-07-25T05:54:18.155000Z,QueenSt.E/EasternAve--7G77YwE8,2024-07-25,Thursday,00:03,Toronto,973748f7f27229b41ca0d2a96dea777e,Queen St. E / Eastern Ave,10,4
+Toronto-iFMUOCAH,2024-07-25T05:54:18.160000Z,HubbardBlvd/BalsamAv--TozDB7by,2024-07-25,Thursday,00:03,Toronto,e5a7fc18db4989ecaf70a7e98866faee,Hubbard Blvd / Balsam Av,10,7
+Toronto-RxoKzeEr,2024-07-25T05:54:18.169000Z,QueenSt.E/SpruceHillRd.--xFIQtTsG,2024-07-25,Thursday,00:03,Toronto,c7cbc921ca5b8310e7218ca5669ad83f,Queen St. E / Spruce Hill Rd.,11,4
+Toronto-mjR3GSez,2024-07-25T05:54:18.182000Z,LowerSpadinaAve/LakeShoreBlvdW--9OTySoM1,2024-07-25,Thursday,00:03,Toronto,d1de2ddc0ea8a90d00ff717ad60a2f23,Lower Spadina Ave / Lake Shore Blvd W,17,1
+Toronto-Z9Z6v7um,2024-07-25T05:54:18.186000Z,LowerCoxwellAve/LakeShoreBlvdE--S9sAI0Vu,2024-07-25,Thursday,00:03,Toronto,61291082be03c77f92f883b95292557a,Lower Coxwell Ave /  Lake Shore Blvd E,5,10
+Toronto-Z6KoXMzU,2024-07-25T05:54:18.189000Z,AmeliaSt/SumachSt--ylls3RT3,2024-07-25,Thursday,00:03,Toronto,d60491c58bb95d6ddefb1f1b1ac3f56f,Amelia St / Sumach St,2,8
+Toronto-o1a4KMpZ,2024-07-25T05:54:18.273000Z,AugustaAve/DundasStW--Pkh4XJdt,2024-07-25,Thursday,00:03,Toronto,d81d4d6231b9da01ba7f3d6e50728ca8,Augusta Ave / Dundas St W,0,13
+Toronto-C9DrhuKx,2024-07-25T05:54:18.360000Z,QueenStW/OssingtonAve--Sf674Otf,2024-07-25,Thursday,00:03,Toronto,d0a8478c786cb2480de4fcecda844781,Queen St W / Ossington Ave,27,4
+Toronto-OKiM5UhX,2024-07-25T05:54:18.373000Z,TrinitySt/FrontStE--FA97RXyJ,2024-07-25,Thursday,00:03,Toronto,1053161189e46ea1c3122c94b644bc9d,Trinity St /Front St E,5,14
+Toronto-Nr9jchE5,2024-07-25T05:54:18.413000Z,DundasStW/YongeSt--vo2O8Voq,2024-07-25,Thursday,00:03,Toronto,02feaaef65cff4671fb1935179895659,Dundas St W / Yonge St,3,27
+Toronto-IvRFOCNn,2024-07-25T05:54:18.448000Z,KendalAve/SpadinaRd--GAd7qz8Y,2024-07-25,Thursday,00:03,Toronto,b076c918fa10b274340bcdb0f0bca1a6,Kendal Ave / Spadina Rd,2,7
+Toronto-6Q1i0fGI,2024-07-25T05:54:18.731000Z,KingStW/JoeShusterWay--ZAGoI2aP,2024-07-25,Thursday,00:03,Toronto,dc268bf6d12c7311db0b5b61b3304b03,King St W / Joe Shuster Way,12,8
+Toronto-Lsuyzfuz,2024-07-25T05:54:18.734000Z,YarmouthRd/ChristieSt--zP2XIApF,2024-07-25,Thursday,00:03,Toronto,0abdfc3177000757dcd71bd4c8b479ee,Yarmouth Rd / Christie St,3,8
+Toronto-1nWMdzor,2024-07-25T05:54:18.737000Z,PalmerstonAve/VermontAve--0M8h7kVJ,2024-07-25,Thursday,00:03,Toronto,37c32c09c594b83701b3b8f6e32db605,Palmerston Ave / Vermont Ave,8,4
+Toronto-pDfGTno6,2024-07-25T05:54:18.740000Z,ChristieSt/BensonAve(WychwoodBarns)--jVSf23NQ,2024-07-25,Thursday,00:03,Toronto,8536b57314846d3b42645c0023e6e60d,Christie St / Benson Ave (Wychwood Barns),3,15
+Toronto-zkkxU3MK,2024-07-25T05:54:18.742000Z,KingStW/FraserAve--6RUyRUvl,2024-07-25,Thursday,00:03,Toronto,8db5b143b08ea1fed85f0702fcfe01ec,King St W / Fraser Ave,11,4
+Toronto-UP3owYIR,2024-07-25T05:54:18.745000Z,MacphersonAve/SpadinaRd--S477mvq2,2024-07-25,Thursday,00:03,Toronto,879f0d4ef4403ab902e541528bf329f6,Macpherson Ave / Spadina Rd,7,7
+Toronto-gtIbgWFR,2024-07-25T05:54:18.748000Z,BridgmanAve/KendalAve--2dKFiahk,2024-07-25,Thursday,00:03,Toronto,c497911a9c04bebbbc32e5211c081f85,Bridgman Ave / Kendal Ave,0,15
+Toronto-74LLl3ZU,2024-07-25T05:54:18.750000Z,BridgmanAve/BathurstSt--B0Y2dCv2,2024-07-25,Thursday,00:03,Toronto,2e19220f1e64559e88f3c48b3ebf2916,Bridgman Ave / Bathurst St,2,12
+Toronto-rcw3OaAe,2024-07-25T05:54:18.753000Z,KendalAve/BernardAve--rCONVpE7,2024-07-25,Thursday,00:03,Toronto,afa3ff2218a5d1817934c7c7c7bb5d19,Kendal Ave / Bernard Ave,10,2
+Toronto-broFy6Mo,2024-07-25T05:54:18.956000Z,PretoriaAve/BroadviewAve--KZq88S58,2024-07-25,Thursday,00:03,Toronto,ddba9c631e11fbae48e2be60289f60c2,Pretoria Ave / Broadview Ave,9,9
+Toronto-eDMj9env,2024-07-25T05:54:18.959000Z,BroadviewAve/WestwoodAve--KRASpBZZ,2024-07-25,Thursday,00:03,Toronto,a7ca61373064c6581461132f1ae050de,Broadview Ave / Westwood Ave,5,16
+Toronto-wEnN9IdM,2024-07-25T05:54:18.962000Z,FultonAve/PapeAve--MOXvOAWa,2024-07-25,Thursday,00:03,Toronto,62a1c39596c3d512dfa04f1d29b81035,Fulton Ave / Pape Ave,6,13
+Toronto-8EXizU2X,2024-07-25T05:54:18.968000Z,CosburnAve/DonlandsAve--B15HKlc5,2024-07-25,Thursday,00:03,Toronto,b960be1eba97f5aefc6ad39ecc93cb11,Cosburn Ave / Donlands Ave,2,15
+Toronto-nfIEGt1g,2024-07-25T05:54:18.972000Z,BeltlineTrail/ChaplinCres--WIjYhAyn,2024-07-25,Thursday,00:03,Toronto,908b17c0d06011373777bace0a3cd74c,Beltline Trail / Chaplin Cres,3,11
+Toronto-QCOUoqS6,2024-07-25T05:54:18.976000Z,LakeShoreBlvdE/LeslieSt--kxSrmQQc,2024-07-25,Thursday,00:03,Toronto,d2ce6ae839b7df2c912ab140253a5574,Lake Shore Blvd E / Leslie St,15,4
+Toronto-sjENp7X2,2024-07-25T05:54:18.985000Z,RosedalePark(20ScholfieldAve)--kzTGmJZO,2024-07-25,Thursday,00:03,Toronto,72de8a8e0a0966768f8115d755532e4c,Rosedale Park (20 Scholfield Ave),1,20
+Toronto-PYmciecl,2024-07-25T05:54:19.121000Z,MaryMcCormickRecCentre(SheridanAve)--dSx1zXOV,2024-07-25,Thursday,00:03,Toronto,4c18c44e6f93e57321d327124945cb19,Mary McCormick Rec Centre (Sheridan Ave),15,0
+Toronto-7a7DCdpt,2024-07-25T05:54:19.376000Z,DavenportRd/LansdowneAve--xg2hdb37,2024-07-25,Thursday,00:03,Toronto,071b427d1f3f600d6b9f35ca6576ebe2,Davenport Rd / Lansdowne Ave,2,16
+Toronto-hUAIf64c,2024-07-25T05:54:19.389000Z,FrontStW/UniversityAve(2)--aU8saQRT,2024-07-25,Thursday,00:03,Toronto,08b57a79795bbd49a15e4a3692ee924f,Front St W / University Ave (2),0,18
+Toronto-vEzRAVC2,2024-07-25T05:54:19.398000Z,457KingStW--Xm4Rqv8C,2024-07-25,Thursday,00:03,Toronto,fe806cf907683c67f4d2899eb4123f00,457 King St W,0,14
+Toronto-RkPgZs9P,2024-07-25T05:54:19.403000Z,DufferinSt/SylvanAv(DufferinGrovePark)--ztP1cQQ2,2024-07-25,Thursday,00:03,Toronto,dad51db43939490092b81d8cea72e018,Dufferin St / Sylvan Av (Dufferin Grove Park),12,6
+Toronto-asmI8V5P,2024-07-25T05:54:19.407000Z,CrawfordSt/QueenStW--BTpf8hG0,2024-07-25,Thursday,00:03,Toronto,d06ed2c21f6ff4e4cbc77b64e65bd801,Crawford St / Queen St W,11,6
+Toronto-VfJMejve,2024-07-25T05:54:19.445000Z,DundasStE/RegentParkBlvd--3sJDJZeL,2024-07-25,Thursday,00:03,Toronto,789f216e52af17d73307365401bb9109,Dundas St E / Regent Park Blvd,22,1
+Toronto-EzKGM0gj,2024-07-25T05:54:19.460000Z,LowerSherbourneSt/TheEsplanade--j1FSmJWt,2024-07-25,Thursday,00:03,Toronto,9c5b6e6af1002ebba73b6be3039e78a2,Lower Sherbourne St / The Esplanade,24,1
+Toronto-kntrheWR,2024-07-25T05:54:19.480000Z,NelsonSt/DuncanSt--mIKTkDHn,2024-07-25,Thursday,00:03,Toronto,ceb52586adc7097b47183068a3d24862,Nelson St / Duncan St,2,25
+Toronto-wt8nh12j,2024-07-25T05:54:19.496000Z,JimmieSimpsonPark(QueenStE)--RUCXCj4q,2024-07-25,Thursday,00:03,Toronto,4b5b510307e10e878321a5eaa419c976,Jimmie Simpson Park (Queen St E),12,0
+Toronto-z768ew0n,2024-07-25T05:54:19.517000Z,QueenStE/SackvilleSt--xtmhtFOj,2024-07-25,Thursday,00:03,Toronto,ed77bb45e5a6964a4b94c780d5c21584,Queen St E / Sackville St,8,7
+Toronto-pEeOhxvn,2024-07-25T05:54:19.532000Z,MillSt/TanneryRd--2GxbIHfh,2024-07-25,Thursday,00:03,Toronto,419d42f093b90ba03bd31b21039ff5f0,Mill St / Tannery Rd,25,0
+Toronto-u5N1pOL7,2024-07-25T05:54:19.545000Z,CherrySt/DistilleryLn--b68tbyu5,2024-07-25,Thursday,00:03,Toronto,b3fca97a4a4308fefb648b6815e3907d,Cherry St / Distillery Ln,15,0
+Toronto-iMCramqu,2024-07-25T05:54:19.557000Z,QueenStW/SpadinaAve--9kDvqD5k,2024-07-25,Thursday,00:03,Toronto,17b0d8ca1c69eca14d3173c15fa144e4,Queen St W / Spadina Ave,4,7
+Toronto-3vU10Qy3,2024-07-25T05:54:19.561000Z,WillcocksSt/St.GeorgeSt--nDZyAi6U,2024-07-25,Thursday,00:03,Toronto,c4077147fd13aa009cb7f1a59b0f8178,Willcocks St / St. George St,0,17
+Toronto-uDMkgMPF,2024-07-25T05:54:19.563000Z,DundasStE/ParliamentSt--uc118zXG,2024-07-25,Thursday,00:03,Toronto,b894ec8d0d8ab0f3a9bf708ee4c90d14,Dundas St E / Parliament St,15,0
+Toronto-oKuywK7H,2024-07-25T05:54:19.569000Z,Queen'sPark/BloorStW--qD38MGci,2024-07-25,Thursday,00:03,Toronto,195c1a917f697ab4b4fb52431e921423,Queen's Park / Bloor St W,2,19
+Toronto-c5QsO67t,2024-07-25T05:54:19.672000Z,FortYorkBlvd/BathurstSt-SMART--Eclq3S59,2024-07-25,Thursday,00:03,Toronto,e67960ae2a91a3adf6adf65a92dfd09f,Fort York Blvd / Bathurst St - SMART,20,0
+Toronto-6KrkU6Tf,2024-07-25T05:54:19.679000Z,AlmaAve/GladstoneAveSMART--QQIQiRnN,2024-07-25,Thursday,00:03,Toronto,4b7f75302d4eec9130e1e486ba486571,Alma Ave / Gladstone Ave SMART,13,0
+Toronto-Mn6x6MVU,2024-07-25T05:54:19.796000Z,HarbordSt/ClintonSt--QvekVMjm,2024-07-25,Thursday,00:03,Toronto,1e01daecd9b52d95d82346c5c81d2ba0,Harbord St / Clinton St,9,4
+Toronto-tanecYx1,2024-07-25T05:54:19.801000Z,CentralTech(HarbordSt)--5pQfodyZ,2024-07-25,Thursday,00:03,Toronto,82051b9dc79b4b401acc0872abc734a9,Central Tech  (Harbord St),4,4
+Toronto-rCjLHLrk,2024-07-25T05:54:19.824000Z,RoxtonRd/HarbordSt--NeKSnYMG,2024-07-25,Thursday,00:03,Toronto,4504736e6ccb393e9f89000f91479688,Roxton Rd / Harbord St,7,3
+Toronto-QsyyenC0,2024-07-25T05:54:19.829000Z,UlsterSt/BathurstSt--gjgxctfN,2024-07-25,Thursday,00:03,Toronto,b4e20439535ceebae999cba2f02789eb,Ulster St / Bathurst St,10,1
+Toronto-AOqbbpqv,2024-07-25T05:54:19.840000Z,MortimerAve/CoxwellAve--XDoMsiT9,2024-07-25,Thursday,00:03,Toronto,09007b5f868cd54be0f040f9a9a75c42,Mortimer Ave / Coxwell Ave,5,16
+Toronto-PGUqAlTt,2024-07-25T05:54:22.147000Z,DanforthAve/BarringtonAve--DvU371NQ,2024-07-25,Thursday,00:03,Toronto,7f29cbdced0d217c129cc9648f1becbe,Danforth Ave / Barrington Ave,1,12
+Toronto-46wNQqJg,2024-07-25T05:54:20.011000Z,CollegePark-GerrardEntrance--xFob5ppC,2024-07-25,Thursday,00:03,Toronto,135f69ed3bde48aaf1d0006b4f080149,College Park - Gerrard Entrance,3,13
+Toronto-Tut5hvmd,2024-07-25T05:54:20.048000Z,DanforthAve/CoxwellAve--OcD4lHWF,2024-07-25,Thursday,00:03,Toronto,fe97ae335b31b6c455f340f397904d38,Danforth Ave / Coxwell Ave,6,9
+Toronto-ibuVIzBs,2024-07-25T05:54:20.120000Z,12HarbourSt--uuFG0Uud,2024-07-25,Thursday,00:03,Toronto,d8db167197846ff7cbe59c9a35aed587,12 Harbour St,12,2
+Toronto-XG8H3Y5h,2024-07-25T05:54:20.141000Z,HowardParkAve/DundasStW-SMART--jy7OayYy,2024-07-25,Thursday,00:03,Toronto,391a459d2ca6e2c8eefa90736b2e9142,Howard Park Ave / Dundas St W - SMART,2,9
+Toronto-nb96oFLx,2024-07-25T05:54:20.168000Z,DufferinGate-SMART--36vBOSIf,2024-07-25,Thursday,00:03,Toronto,0ac5489c6a4750403c053598153880b0,Dufferin Gate - SMART,6,10
+Toronto-WuH7q9vw,2024-07-25T05:54:20.180000Z,LakeShoreBlvdW/OntarioDr--8TSTS2Ky,2024-07-25,Thursday,00:03,Toronto,0e89e5d6c910f6df787cd9c903ade959,Lake Shore Blvd W / Ontario Dr,6,26
+Toronto-oh0qigcF,2024-07-25T05:54:20.198000Z,BloorStW/ShawSt-SMART--XLRJOS2M,2024-07-25,Thursday,00:03,Toronto,d0d6832dcab19b3cb35c2474d2e8c088,Bloor St W / Shaw St - SMART,7,27
+Toronto-qTjOgVzf,2024-07-25T05:54:20.208000Z,ConcordAve/DewsonSt--VKdVGsgf,2024-07-25,Thursday,00:03,Toronto,beb87ea54499f95a614653924c99b9c4,Concord Ave / Dewson St,14,3
+Toronto-DRet6Cdh,2024-07-25T05:54:20.218000Z,HockenAve/VaughanRd--G4cg5Hsf,2024-07-25,Thursday,00:03,Toronto,d8c6779ffdcc8889412fd4c9b0a08c35,Hocken Ave / Vaughan Rd,9,10
+Toronto-jB81F4XZ,2024-07-25T05:54:20.228000Z,StClairAveW/BathurstSt.--4IqjSxyb,2024-07-25,Thursday,00:03,Toronto,fba4560a5641afdb69a97d04466ef788,St Clair Ave W / Bathurst St.,0,19
+Toronto-oJ00Vr49,2024-07-25T05:54:20.240000Z,QueenStE/NursewoodRd--UywoaSXO,2024-07-25,Thursday,00:03,Toronto,a943462e1ee05f0073b647a5b787f81d,Queen St E / Nursewood Rd,10,5
+Toronto-4mjRMgwr,2024-07-25T05:54:20.248000Z,KewbeachAve/KenilworthAve--rvMCCYMV,2024-07-25,Thursday,00:03,Toronto,e3c4ef5e47b905992ebcd262cc3df594,Kewbeach Ave / Kenilworth Ave,14,9
+Toronto-EXAQnFBF,2024-07-25T05:54:20.260000Z,LakeviewAve/HarrisonSt(GreenP)–SMART--X9FbgzNN,2024-07-25,Thursday,00:03,Toronto,044fd938d016b91837e9b02be913b5c7,Lakeview Ave / Harrison St (Green P) – SMART,15,0
+Toronto-lxQwjYfK,2024-07-25T05:54:20.268000Z,BaldwinSt/SpadinaAve-SMART--SKxRkZS7,2024-07-25,Thursday,00:03,Toronto,c8cc2df4c8343778481f7f7c53499df7,Baldwin St / Spadina Ave - SMART,11,8
+Toronto-sP00lRoj,2024-07-25T05:54:20.378000Z,CollegeSt/BordenSt--dFQNl3AV,2024-07-25,Thursday,00:03,Toronto,2037c7d47c8b7babcd2c4a058a66a6c8,College St / Borden St,4,3
+Toronto-MJ8hGAMv,2024-07-25T05:54:20.412000Z,BeverleySt/DundasStW--4vSG1btd,2024-07-25,Thursday,00:03,Toronto,73555343619c6b9d1253029204bbd5cd,Beverley St / Dundas St W,14,14
+Toronto-uVA69JUD,2024-07-25T05:54:20.424000Z,BaySt/St.JosephSt--USXKVQDg,2024-07-25,Thursday,00:03,Toronto,d4c9a3af6604468422edfb03f56462db,Bay St / St. Joseph St,3,11
+Toronto-oRgSkpBv,2024-07-25T05:54:20.457000Z,GouldSt/MutualSt--1SNeR1ND,2024-07-25,Thursday,00:03,Toronto,6e0b53806a9d068b042fa21bd67c5418,Gould St / Mutual St,14,15
+Toronto-pjsOFY4g,2024-07-25T05:54:20.681000Z,RiverdaleParkNorth(BroadviewAve)--3zs01AwE,2024-07-25,Thursday,00:03,Toronto,c6f56ec0831b791abbce0992adba6318,Riverdale Park North (Broadview Ave),8,4
+Toronto-iU8wdw6z,2024-07-25T05:54:20.685000Z,DanforthAve/EllerbeckSt--GMSlgsCF,2024-07-25,Thursday,00:03,Toronto,3b2853992a1700739c8fa569801e1c48,Danforth Ave / Ellerbeck St,7,6
+Toronto-LfnCXcDF,2024-07-25T05:54:20.696000Z,DanforthAve/GoughAve--dKjPmFfe,2024-07-25,Thursday,00:03,Toronto,a9f7723da0cc432f4d057e3ceede292e,Danforth Ave / Gough Ave,8,15
+Toronto-hfGS5yhl,2024-07-25T05:54:20.702000Z,DanforthAve/LambAve--TCuGehdA,2024-07-25,Thursday,00:03,Toronto,79b67fbfd130d41c9162e805a9e755be,Danforth Ave / Lamb Ave,9,9
+Toronto-l2os5dUg,2024-07-25T05:54:20.705000Z,KingStW/StaffordSt--fUM7LMX8,2024-07-25,Thursday,00:03,Toronto,667cd54aa27ec06620753f3d19a78b3d,King St W / Stafford St,9,4
+Toronto-ta8Q0Lk6,2024-07-25T05:54:20.722000Z,BathurstSt/LennoxSt--bNNl4Fxe,2024-07-25,Thursday,00:03,Toronto,37b46f2e5573e69f5451dc09c0c14660,Bathurst St / Lennox St,14,5
+Toronto-YC9tCCuT,2024-07-25T05:54:20.724000Z,BathurstSubwayStation--Y5ZpVDZa,2024-07-25,Thursday,00:03,Toronto,8db545a0135f7b92022fbdbbc75af6c4,Bathurst Subway Station,17,5
+Toronto-qWHYY4z2,2024-07-25T05:54:20.742000Z,BloorStW/ChristieSt--RcpZkk83,2024-07-25,Thursday,00:03,Toronto,78ac4436b3398ac55b47569863af6c41,Bloor St W / Christie St,2,16
+Toronto-WlpCWxhA,2024-07-25T05:54:20.748000Z,OssingtonAve/BloorStW--KCY2BbwC,2024-07-25,Thursday,00:03,Toronto,6d45f03d18059ba5e61f0d44a0cea59d,Ossington Ave / Bloor St W,1,9
+Toronto-jluhlXLc,2024-07-25T05:54:20.752000Z,EssexSt/ChristieSt-SMART--nIr2OqXY,2024-07-25,Thursday,00:03,Toronto,cf1adac21d23e26855ea06278b5cd149,Essex St / Christie St - SMART,6,12
+Toronto-EerDBHIy,2024-07-25T05:54:20.860000Z,WestmorelandAve/FernbankAve--cPYqDCzz,2024-07-25,Thursday,00:03,Toronto,3863dd61e00ea66710f789ae4297a2d2,Westmoreland Ave / Fernbank Ave,5,13
+Toronto-WT4L1fzJ,2024-07-25T05:54:20.861000Z,HavelockSt/DufferinPark--JgVrbsXN,2024-07-25,Thursday,00:03,Toronto,46bdd4a2b7715a9e32917b830777f17f,Havelock St / Dufferin Park,5,13
+Toronto-7bniBXNc,2024-07-25T05:54:20.876000Z,BathurstSt/AdelaideStW--MYFZuURY,2024-07-25,Thursday,00:03,Toronto,6ac9cdf0b92883715b404d41c779af0b,Bathurst St / Adelaide St W,9,14
+Toronto-RPTTwgRq,2024-07-25T05:54:20.877000Z,MillSt/ParliamentSt--U6a1Nyg1,2024-07-25,Thursday,00:03,Toronto,a0582ad73e21704a28197ee3c0aa4bcd,Mill St / Parliament St,2,12
+Toronto-0FeHWb3e,2024-07-25T05:54:21.201000Z,OssingtonAve/HarrisonSt--Dz0RVxBU,2024-07-25,Thursday,00:03,Toronto,bc19a4e6924e29937e76c9e82b55584c,Ossington Ave / Harrison St,16,3
+Toronto-hVrGO20e,2024-07-25T05:54:21.203000Z,80ClintonSt--gilMMgY3,2024-07-25,Thursday,00:03,Toronto,71debce521f35fd4e280e8ee1e2dd8cc,80 Clinton St,5,9
+Toronto-yLO5AkzC,2024-07-25T05:54:21.248000Z,ClaremontSt/DundasStW--cMr85qjn,2024-07-25,Thursday,00:03,Toronto,5dd14c8888280d1274f6ad3e04f6d6cd,Claremont St / Dundas St W,8,5
+Toronto-ZbUXbXnI,2024-07-25T05:54:21.249000Z,RusholmeParkCres/CollegeSt--yEHTnv6T,2024-07-25,Thursday,00:03,Toronto,d7bb48a755f69109f6584df0a207c9b2,Rusholme Park Cres / College St,12,1
+Toronto-lrfNuvjW,2024-07-25T05:54:21.253000Z,CollegeSt/CrawfordSt--0jH8GexT,2024-07-25,Thursday,00:03,Toronto,e53f168eadc3a7e3b9704193c739cb12,College St / Crawford St,10,4
+Toronto-7qGGc0PU,2024-07-25T05:54:21.393000Z,QueenStE/AltonAv--CRhCjVC5,2024-07-25,Thursday,00:03,Toronto,3e05658e4bcad33e9d606744235dadcc,Queen St E / Alton Av,18,1
+Toronto-Ez3ZU148,2024-07-25T05:54:21.408000Z,SimcoeSt/WellingtonStWNorth--eDKdPuyY,2024-07-25,Thursday,00:03,Toronto,ab92855299769ca50b1354e489b31a31,Simcoe St / Wellington St W North,0,15
+Toronto-8uM9cW9c,2024-07-25T05:54:21.440000Z,CoxwellAve/PlainsRd--PrCm4Qom,2024-07-25,Thursday,00:03,Toronto,20671fface2f37dd6d2d4263534c29e5,Coxwell Ave / Plains Rd,3,16
+Toronto-4JgLaeYS,2024-07-25T05:54:21.452000Z,CarlawAve/StrathconaAve--EGV2nRrm,2024-07-25,Thursday,00:03,Toronto,67862da2d3680a6eaa417b8ce2d945d4,Carlaw Ave / Strathcona Ave,6,9
+Toronto-xDKeOlBB,2024-07-25T05:54:21.652000Z,LibertySt/FraserAveGreenP--plyIxux5,2024-07-25,Thursday,00:03,Toronto,f42363acf4af847ca6fcdbe9b48c8290,Liberty St / Fraser Ave Green P,13,3
+Toronto-m63wVago,2024-07-25T05:54:21.664000Z,KingStW/DouroSt--fJ9Jjgv4,2024-07-25,Thursday,00:03,Toronto,3c85f738ad60e03252f1d62fec2f34d6,King St W / Douro St,9,1
+Toronto-c1Xpegs6,2024-07-25T05:54:21.702000Z,QueenStE/BerkeleySt--Vo9kYOdI,2024-07-25,Thursday,00:03,Toronto,c7948cf5155f3ddaefa9a8279f203b5a,Queen St E / Berkeley St,5,10
+Toronto-8p6vr2Z8,2024-07-25T05:54:21.771000Z,CarltonSt/ParliamentSt--6RmcEsDO,2024-07-25,Thursday,00:03,Toronto,13e6abf323682b291aadb3371ce32cc7,Carlton St / Parliament St,4,20
+Toronto-TlwiLH6c,2024-07-25T05:54:21.773000Z,SumachSt/CarltonSt(RiverdaleFarm)--2W3Rx5tV,2024-07-25,Thursday,00:03,Toronto,e46a04a7825e44fa858bc0cb00a4458a,Sumach St / Carlton St (Riverdale Farm),1,13
+Toronto-uS5pd1qT,2024-07-25T05:54:21.780000Z,KingStW/BaySt(EastSide)--UFpUkGQ0,2024-07-25,Thursday,00:03,Toronto,5db77b72334a7b8823a28662a03f8e38,King St W / Bay St (East Side),0,19
+Toronto-J51sq9lT,2024-07-25T05:54:21.793000Z,FrontStW/BlueJaysWay--l37ebQpH,2024-07-25,Thursday,00:03,Toronto,c955acbcda8513471837f2aa55a98fb1,Front St W / Blue Jays Way,3,12
+Toronto-9ZAngCKH,2024-07-25T05:54:21.820000Z,MetroHallPlaza--gcWzVh4A,2024-07-25,Thursday,00:03,Toronto,6d07f3c1d79ff6816c5c04a7def6e6eb,Metro Hall Plaza,2,25
+Toronto-71YIGsee,2024-07-25T05:54:21.832000Z,NavyWharfCrt/BremnerBlvd--NQ74Vw6v,2024-07-25,Thursday,00:03,Toronto,019e5937c3fc120cee906770bca8fa69,Navy Wharf Crt / Bremner Blvd,0,6
+Toronto-zdtmYosG,2024-07-25T05:54:21.844000Z,JarvisSt/CarltonSt--ltDmDFO7,2024-07-25,Thursday,00:03,Toronto,3754aff9599513c7ba4e4649ea3818dd,Jarvis St / Carlton St,13,2
+Toronto-csNt1qLT,2024-07-25T05:54:21.928000Z,LakeShoreBlvdE/KnoxAve--KjSotFIX,2024-07-25,Thursday,00:03,Toronto,e0ae749c309ee887012688bbd69c8b10,Lake Shore Blvd E / Knox Ave,10,1
+Toronto-If9okmkN,2024-07-25T05:54:18.078000Z,HubbardBlvd/GlenManorDr--Qyhrla3b,2024-07-25,Thursday,00:03,Toronto,ee45e3b6a9f07f4581d82c06d9bd5f51,Hubbard Blvd / Glen Manor Dr,7,6
+Toronto-KTEUHfXg,2024-07-25T05:54:22.375000Z,YongeSt/DundonaldSt-SMART--xJP1aYEc,2024-07-25,Thursday,00:03,Toronto,af0a7227a67fe55fb0c12597326e6b3b,Yonge St / Dundonald St - SMART,7,4
+Toronto-CCYxyB6D,2024-07-25T05:54:22.389000Z,BaySt/CharlesStW-SMART--D8aMk3Kd,2024-07-25,Thursday,00:03,Toronto,4f8770c2a0ee3962babd83913df2e99c,Bay St / Charles St W - SMART,1,16
+Toronto-OcHFrnH7,2024-07-25T05:54:22.444000Z,EglintonAveW/HenningAveSMART--Uu9wOG0i,2024-07-25,Thursday,00:03,Toronto,f0af815a9e6c12bd0382843e03fd322f,Eglinton Ave W / Henning Ave SMART,0,20
+Toronto-ELDXvKoQ,2024-07-25T05:54:22.459000Z,BalliolSt/YongeStSMART--4u4uCBEB,2024-07-25,Thursday,00:03,Toronto,b3786025b3e4a46d9a21d6b82087cd12,Balliol St / Yonge St  SMART,32,2
+Toronto-9sqwkjoU,2024-07-25T05:54:22.476000Z,FrobisherAve/LascellesBlvd--BBUUBWWD,2024-07-25,Thursday,00:03,Toronto,44bdbe8a2ac75fbe4cc0edf41fe1d4fa,Frobisher Ave / Lascelles Blvd,0,16
+Toronto-urIGPnWY,2024-07-25T05:54:22.479000Z,FrontStE/ScottSt--Af08KRFp,2024-07-25,Thursday,00:03,Toronto,ba979c39b60f1144fc9dd91faaeeea64,Front St E / Scott St,0,9
+Toronto-Rcek3HWN,2024-07-25T05:54:22.485000Z,FrederickSt/TheEsplanade--4sPpiTgD,2024-07-25,Thursday,00:03,Toronto,eb9f4cf130feebf9af0dc0225411eb98,Frederick St / The Esplanade,18,0
+Toronto-3ERaOg3s,2024-07-25T05:54:22.689000Z,KingStW/BaySt(WestSide)--PRToCgdi,2024-07-25,Thursday,00:03,Toronto,52d497af695140c759b28d7bf63e94f4,King St W / Bay St (West Side),0,36
+Toronto-jeyOTOvE,2024-07-25T05:54:22.700000Z,ElizabethSt/EdwardSt(BusTerminal)--PRK4XHXL,2024-07-25,Thursday,00:03,Toronto,ee2e9277d3e8a86acbfdda0e395d1378,Elizabeth St / Edward St (Bus Terminal),0,13
+Toronto-zKROq8fe,2024-07-25T05:54:22.717000Z,KingStW/SpadinaAve--EaFfZWm8,2024-07-25,Thursday,00:03,Toronto,90d36d6e81fff926a434e196e0a43d53,King St W / Spadina Ave,3,15
+Toronto-vs3IX8BG,2024-07-25T05:54:22.840000Z,GlenEdythDr/DavenportRd--3tCU5nCN,2024-07-25,Thursday,00:03,Toronto,14d5d7e0f5a8e23c9b50f62ea39f725c,Glen Edyth Dr / Davenport Rd,6,9
+Toronto-BYXBloE0,2024-07-25T05:54:22.853000Z,QueensQuay/YongeSt--LUpfUxSl,2024-07-25,Thursday,00:03,Toronto,3bfbe7d9edced07da6dd283495fb8170,Queens Quay / Yonge St,11,34
+Toronto-fNBscrMr,2024-07-25T05:54:22.864000Z,FrontStW/BaySt(NorthSide)--Oc8VfuCK,2024-07-25,Thursday,00:03,Toronto,58c0d439a59414e5e23bf5021e264d79,Front St W / Bay St (North Side),0,7
+Toronto-BgdEXNvu,2024-07-25T05:54:22.880000Z,DanforthAve/WestlakeAve--IFMT2LCi,2024-07-25,Thursday,00:03,Toronto,f36d8ed5ff407fc4eab6c9cc344661f9,Danforth Ave / Westlake Ave,3,12
+Toronto-M44pcE4e,2024-07-25T05:54:22.904000Z,JarvisSt/IsabellaSt--ygLaNuW4,2024-07-25,Thursday,00:03,Toronto,15fc89637ebe1c3e63fbe123d70819ee,Jarvis St / Isabella St,1,22
+Toronto-BFUHDJ7C,2024-07-25T05:54:22.913000Z,YongeSt/WoodSt--Ik2eh9Hw,2024-07-25,Thursday,00:03,Toronto,ef0363fb67db85c62cfe83b7032ade5b,Yonge St / Wood St,0,13
+Toronto-9IOyltza,2024-07-25T05:54:22.924000Z,KingStW/TecumsethSt--4wIS06dF,2024-07-25,Thursday,00:03,Toronto,9fcbcd2e313ddf16bc7200bede80e9a6,King St W / Tecumseth St,6,10
+Toronto-sg04c7Cq,2024-07-25T05:54:22.940000Z,BeverleySt/CollegeSt--57Z8zY7b,2024-07-25,Thursday,00:03,Toronto,f5506a406fb49a19088bedd1d8e9cd2f,Beverley St / College St,0,20
+Toronto-MDjtLpM0,2024-07-25T05:54:22.943000Z,GouldSt/YongeSt(TMU)--LwKVSTBO,2024-07-25,Thursday,00:03,Toronto,fc62f74abe3d79fa430f55f6f56e5e3a,Gould St / Yonge St (TMU),3,18
+Toronto-0Y6Qaz5O,2024-07-25T05:54:22.945000Z,FrontStW/BaySt(SouthSide)--9TyTXYos,2024-07-25,Thursday,00:03,Toronto,4b13a471170e0768fe5e1ca0b30fde8d,Front St W / Bay St (South Side),3,16
+Toronto-5uy3VsJZ,2024-07-25T05:54:23.028000Z,CharlesStW/BalmutoSt-SMART--eBFL2k1j,2024-07-25,Thursday,00:03,Toronto,5e8bf46c90fa957882beddfb6625870b,Charles St W / Balmuto St - SMART,2,21
+Toronto-OsuWTYce,2024-07-25T05:54:23.050000Z,CharlesStE/JarvisSt-SMART--duf2slHp,2024-07-25,Thursday,00:03,Toronto,3ba9b248dbb5b0ffa30ec9807f14476c,Charles St E / Jarvis St - SMART,6,12
+Toronto-EcadlW3W,2024-07-25T05:54:23.076000Z,QueenStE/PapeAve-SMART--BNx2dNf2,2024-07-25,Thursday,00:03,Toronto,0690f86b4ecb172570d8e08b5f9004c3,Queen St E / Pape Ave - SMART,14,1
+Toronto-7AY07jSL,2024-07-25T05:54:23.108000Z,GerrardStE/BroadviewAve-SMART--vQlf7cVS,2024-07-25,Thursday,00:03,Toronto,9796c16b7ac90260d9f033ba4735acea,Gerrard St E / Broadview Ave  - SMART,15,2
+Toronto-xXOure5l,2024-07-25T05:54:23.216000Z,HumberBayShoresParkEast--9uBRbNN2,2024-07-25,Thursday,00:03,Toronto,abbcc3b45ad10472c3ec35ce3fb6e078,Humber Bay Shores Park East,18,2
+Toronto-bGt5WIDi,2024-07-25T05:54:23.249000Z,HumberBayShoresParkWest--ctlah0r1,2024-07-25,Thursday,00:03,Toronto,ec48a65298b460584afe2586c15c360c,Humber Bay Shores Park West,26,0
+Toronto-ZgCl3Wvk,2024-07-25T05:54:23.298000Z,TaddleCreekPark--Vr1Dp81C,2024-07-25,Thursday,00:03,Toronto,21982c325ac8d5dcc146b350aa0e8298,Taddle Creek Park,8,6
+Toronto-GEcG9iPO,2024-07-25T05:54:23.457000Z,ThompsonSt/BroadviewAve-SMART--RAudxG9j,2024-07-25,Thursday,00:03,Toronto,82748c8c8a714dd216bcd4c636585556,Thompson St / Broadview Ave - SMART,20,2
+Toronto-B4gJV6SV,2024-07-25T05:54:23.474000Z,RoncesvallesAve/MarmadukeSt--ngZYq4NT,2024-07-25,Thursday,00:03,Toronto,16658c808dda522274b99346e8f815fb,Roncesvalles Ave / Marmaduke St,8,11
+Toronto-XeQ3nPwb,2024-07-25T05:54:23.494000Z,QueenStW/FullerAve-SMART--vW7MF9LG,2024-07-25,Thursday,00:03,Toronto,4d985c0489e4b123e499fcaa4b70e32e,Queen St W  /  Fuller Ave - SMART,15,1
+Toronto-9QSDPpw3,2024-07-25T05:54:23.509000Z,KingStW/CowanAve-SMART--2Zijt2vN,2024-07-25,Thursday,00:03,Toronto,2567d3e27e558c6e6ee94c289c838111,King St W / Cowan Ave - SMART,15,1
+Toronto-XqxUKP8q,2024-07-25T05:54:23.516000Z,GardenAve/RoncesvallesAve--T6muvCKf,2024-07-25,Thursday,00:03,Toronto,760056e88951946d2f3e9bea859333eb,Garden Ave / Roncesvalles Ave,4,15
+Toronto-w3dTZxrW,2024-07-25T05:54:23.559000Z,SoraurenAve/GeoffreySt-SMART--Qj3YaBhR,2024-07-25,Thursday,00:03,Toronto,c08362564d4889e345bfaaa42da5fb4f,Sorauren Ave / Geoffrey St - SMART,14,2
+Toronto-X3s1Xefd,2024-07-25T05:54:16.966000Z,MallonAve/JonesAve-SMART--RgOeCKll,2024-07-25,Thursday,00:03,Toronto,29f79e7d7e4440c7554a3f3e3bae4f88,Mallon Ave / Jones Ave -SMART,15,0
+Toronto-j1x2sMBP,2024-07-25T05:54:21.624000Z,BerkeleySt/DundasStE-SMART--i83m5mEg,2024-07-25,Thursday,00:03,Toronto,8d65a48806e799a8c2d5dcb77e97c1cb,Berkeley St / Dundas St E - SMART,13,6
+Toronto-xHocadYb,2024-07-25T05:54:18.943000Z,128SterlingRd-SMART--O02FtArg,2024-07-25,Thursday,00:03,Toronto,53fc6d540a0eac8fb9f5366572e53515,128 Sterling Rd - SMART,7,13
+Toronto-Rns9UKms,2024-07-25T05:54:18.942000Z,SunnysideAve/TheQueensway-SMART--tHnvb68o,2024-07-25,Thursday,00:03,Toronto,049156f7c0e19a53a77d8310d93eed0c,Sunnyside Ave / The Queensway - SMART,7,10
+Toronto-hQSkv5F9,2024-07-25T05:54:18.939000Z,SackvilleSt/EasternAve-SMART--hHVJ1lsJ,2024-07-25,Thursday,00:03,Toronto,adaa360374ea04ae057eba2ca7ba3e5b,Sackville St / Eastern Ave - SMART,6,6
+Toronto-bUHCI2B9,2024-07-25T05:54:18.948000Z,DavenportRd/McAlpineSt-SMART--MmIfu5A1,2024-07-25,Thursday,00:03,Toronto,8485289697ef258129b2437308511fcb,Davenport Rd / McAlpine St - SMART,4,7
+Toronto-BkU2XoKK,2024-07-25T05:54:21.052000Z,SumachSt/QueenStE--6P2WLspW,2024-07-25,Thursday,00:03,Toronto,fb0ff514e9bb7798f0a682f36f644b05,Sumach St  / Queen St E,15,4
+Toronto-NlphlF1I,2024-07-25T05:54:20.936000Z,GerrardStE/MainSt--XQOL5rMQ,2024-07-25,Thursday,00:03,Toronto,c835abf1540e63c50d5a879e5075387e,Gerrard St E / Main St,1,20
+Toronto-eSdqVY7a,2024-07-25T05:54:20.964000Z,SouthwoodDr/KingstonRd-SMART--7BGMWD24,2024-07-25,Thursday,00:03,Toronto,32b476b39dacc23dda545c39ffb549cc,Southwood Dr / Kingston Rd - SMART,0,10
+Toronto-HXVaEF0c,2024-07-25T05:54:20.956000Z,NeilMcLellanPark--fECDJH9u,2024-07-25,Thursday,00:03,Toronto,de5dcf1ee9ccff065e01b4516b46f190,Neil McLellan Park,2,11
+Toronto-YPOUTX10,2024-07-25T05:54:21.279000Z,JaneSt/BloorStW(JaneSubwayStation)--duwtHk46,2024-07-25,Thursday,00:03,Toronto,8aa5c061e4ae37e2e05b05d04afadc2e,Jane St / Bloor St W (Jane Subway Station),1,14
+Toronto-QgSI0RVp,2024-07-25T05:54:21.377000Z,AntlerSt/CampbellAve-SMART--573tDcdC,2024-07-25,Thursday,00:03,Toronto,5f6ec96dda864a01fdf0c031b6a1b6d0,Antler St / Campbell Ave - SMART,0,20
+Toronto-kuCaOa4w,2024-07-25T05:54:21.344000Z,ClarenceSquare--yM9Ij3qe,2024-07-25,Thursday,00:03,Toronto,4a5734eee8c1c49197ffe9b992dd032a,Clarence Square,18,4
+Toronto-smOnbCxe,2024-07-25T05:54:23.869000Z,FrontStW/SimcoeSt--N1TilIL7,2024-07-25,Thursday,00:03,Toronto,41466727730d71a0286376ef3675d282,Front St W / Simcoe St,0,24
+Toronto-v8myGdzH,2024-07-25T05:54:23.920000Z,LowerSimcoeSt/BremnerBlvd--Yxy1c48V,2024-07-25,Thursday,00:03,Toronto,213541646a587196b1acb812a3d0a8ad,Lower Simcoe St / Bremner Blvd,8,7
+Toronto-Zwzep06M,2024-07-25T05:54:23.924000Z,GlendonwynneRd/BloorStW--ZXtDXRGX,2024-07-25,Thursday,00:03,Toronto,1a68bd75d5159c7cc33367b97ee8ab8e,Glendonwynne Rd / Bloor St W,17,1
+Toronto-vn3EXDHe,2024-07-25T05:54:23.927000Z,RussellHillRd/StClairAveW--xUEh8fjx,2024-07-25,Thursday,00:03,Toronto,1dd10befe3fa0d7d7ebc657b9a01942b,Russell Hill Rd / St Clair Ave W,2,16
+Toronto-ZGTdlUuc,2024-07-25T05:54:17.762000Z,ChurchSt/LombardSt--g63OX4Fr,2024-07-25,Thursday,00:03,Toronto,41ead9c9a4a83459161794bfb1894c07,Church St / Lombard St,1,14
+Toronto-6IUTYSxm,2024-07-25T05:54:23.898000Z,RichmondStE/YongeSt--v7w7huz8,2024-07-25,Thursday,00:03,Toronto,888212c5d33ceed5acbab77b4e544689,Richmond St E / Yonge St,1,16
+Toronto-IkYj9Nfb,2024-07-25T05:54:17.703000Z,Queen'sParkCresW/HoskinAve--ohl1CUIA,2024-07-25,Thursday,00:03,Toronto,189995604737e19f1b76cd3a3ff3aff9,Queen's Park Cres W / Hoskin Ave,3,18
+Toronto-PGeN9rJF,2024-07-25T05:54:17.717000Z,PotteryRd/LowerDonRiverTrail--ucLJ36sB,2024-07-25,Thursday,00:03,Toronto,fe268f3f2f439d0016dc46605491078e,Pottery Rd / Lower Don River Trail,5,10
+Toronto-D4nTZVjt,2024-07-25T05:54:17.723000Z,BleeckerSt/StJamesAve--D3X9iEFN,2024-07-25,Thursday,00:03,Toronto,70ad303e74f93aa2bfaea256b9b09753,Bleecker St / St James Ave,5,15
+Toronto-VQrhvM20,2024-07-25T05:54:17.735000Z,WesternBatteryRd/PirandelloSt--gYMzQbPC,2024-07-25,Thursday,00:03,Toronto,a7cdbedefded6e117505bde22c24ef84,Western Battery Rd / Pirandello St,30,0
+Toronto-frczBMms,2024-07-25T05:54:17.732000Z,CarlawAve/DanforthAve--nflEguXi,2024-07-25,Thursday,00:03,Toronto,fbcb8f44813b5f7eba282691176d9249,Carlaw Ave / Danforth Ave,8,7
+Toronto-HkJHCWmz,2024-07-25T05:54:19.948000Z,CosburnAve/CedarvaleAve--19WDmpFk,2024-07-25,Thursday,00:03,Toronto,280ce4cfc4b101f3a8a08843e4a258d6,Cosburn Ave / Cedarvale Ave,4,9
+Toronto-nniZPC4j,2024-07-25T05:54:19.956000Z,GoodwoodParkCrt/DentoniaPark--fASg48qv,2024-07-25,Thursday,00:03,Toronto,9d4f1f5d63ed3e297fc737908616f617,Goodwood Park Crt / Dentonia Park,11,8
+Toronto-d3jMVcmy,2024-07-25T05:54:19.910000Z,EastwoodRd/CoxwellAve--xFNpPKAV,2024-07-25,Thursday,00:03,Toronto,0729b25bcf663b7a2278f01d63b50fcf,Eastwood Rd / Coxwell Ave,14,4
+Toronto-Ti8BkXFL,2024-07-25T05:54:19.932000Z,TrentAve/DanforthAve--7VzhKA2t,2024-07-25,Thursday,00:03,Toronto,27e30ff4939a3992db39e99af9dfe172,Trent Ave / Danforth Ave,7,14
+Toronto-15Am61SS,2024-07-25T05:54:19.937000Z,OrchardPark--ebf7M8nz,2024-07-25,Thursday,00:03,Toronto,675628c054189e3bce23785d6574a24d,Orchard Park,14,5
+Toronto-XZbCY6pe,2024-07-25T05:54:19.924000Z,ClendenanAve/RowlandSt-SMART--3VpXpXAK,2024-07-25,Thursday,00:03,Toronto,32915794131e41a355ebee1ab9ad78fb,Clendenan Ave / Rowland St - SMART,3,17
+Toronto-8lnWwK4r,2024-07-25T05:54:20.291000Z,ConcordAve/BloorStW--vRrjJC7r,2024-07-25,Thursday,00:03,Toronto,738cf12a45b36f443d7585aa9d55e3a9,Concord Ave / Bloor St W,2,9
+Toronto-ZEXY12ih,2024-07-25T05:54:20.358000Z,GothicAve/QuebecAve--Py70ArDk,2024-07-25,Thursday,00:03,Toronto,1f5bb4fff3139fff3f927f1a4980dc1e,Gothic Ave / Quebec Ave,11,8
+Toronto-wc1TPn8i,2024-07-25T05:54:20.281000Z,RushtonRd/StClairAveW--TfKTTPmZ,2024-07-25,Thursday,00:03,Toronto,3df6faa6bc73f93a672aa3e3004434f0,Rushton Rd / St Clair Ave W,4,4
+Toronto-fveYP1jh,2024-07-25T05:54:20.324000Z,DundasStE/BoultonAve-SMART--2Q0QqdbK,2024-07-25,Thursday,00:03,Toronto,8ab6f991fa3032ee2a20b1d34d50be01,Dundas St E / Boulton Ave - SMART,14,0
+Toronto-RW9HmyiV,2024-07-25T05:54:20.312000Z,GerrardStE/LeslieSt--3JB0gGZP,2024-07-25,Thursday,00:03,Toronto,236729e04a979069b035a3070e608f6e,Gerrard St E / Leslie St,22,1
+Toronto-DBXQlvrk,2024-07-25T05:54:20.298000Z,MarilynBellParkTennisCourt--EnwguWSz,2024-07-25,Thursday,00:03,Toronto,2800c972b83e435cecefcdb95078e435,Marilyn Bell Park Tennis Court,5,16
+Toronto-VwfA639F,2024-07-25T05:54:22.510000Z,TheQueenswayatSouthKingsway--VcXIqfMS,2024-07-25,Thursday,00:03,Toronto,2c32c6a2dbfb666ee51150ce15e1b9a5,The Queensway at South Kingsway,17,5
+Toronto-L1KuJJVz,2024-07-25T05:54:22.520000Z,MertonSt/MountPleasantRd--FiFtLmIT,2024-07-25,Thursday,00:03,Toronto,9fa8f250a5b887af9cda8df6931f2eca,Merton St / Mount Pleasant Rd,8,15
+Toronto-30ra8wZS,2024-07-25T05:54:22.533000Z,TyndallAve/KingStW-SMART--IgzFrwTL,2024-07-25,Thursday,00:03,Toronto,c9395d274aa197587eb89f34e68e262a,Tyndall Ave / King St W - SMART,15,0
+Toronto-I7DGOFpn,2024-07-25T05:54:16.816000Z,CollegePark-YongeStEntrance--KRkNGLAn,2024-07-25,Thursday,00:03,Toronto,a3eb9012fe995bffeef3b7d02cfffbd1,College Park - Yonge St Entrance,0,25
+Toronto-ljtPFxuw,2024-07-25T05:54:22.538000Z,BartonAve/HowlandAve-SMART--sR2Ed3yH,2024-07-25,Thursday,00:03,Toronto,7c6f64117f740f5dc9114ebfb26a6247,Barton Ave / Howland Ave - SMART,13,6
+Toronto-agztaCj5,2024-07-25T05:54:16.788000Z,KeeleSt/AnnetteSt--xi6AxG4o,2024-07-25,Thursday,00:03,Toronto,d1bac3c8125c67909fa2e4a3cdf6b409,Keele St / Annette St,6,9
+Toronto-gJ4vwl2p,2024-07-25T05:54:16.796000Z,KeeleSt/VineAve--e13owR2T,2024-07-25,Thursday,00:03,Toronto,e7384509a60160b8e84403a3247255a5,Keele St / Vine Ave,0,22
+Toronto-KCH22lHr,2024-07-25T05:54:16.760000Z,HowardSt/RoseAve--bRaPnU5m,2024-07-25,Thursday,00:03,Toronto,56ff366ef56862dc34e4df414568d4b0,Howard St / Rose Ave,13,6
+Toronto-0lQAou25,2024-07-25T05:54:16.764000Z,LittleNorwayPark--jhAptV3F,2024-07-25,Thursday,00:03,Toronto,940aa4a33247df5ea989d1b07e125e5d,Little Norway Park,18,2
+Toronto-vrFiiJed,2024-07-25T05:54:19.349000Z,LascellesBlvd/EglintonAveW--VbYnH6SB,2024-07-25,Thursday,00:03,Toronto,ef9dfe14fccf2237630ed9002c48fc3b,Lascelles Blvd / Eglinton Ave W,19,0
+Toronto-PUu5EgvE,2024-07-25T05:54:19.340000Z,PolsonPier--4RmnZKoO,2024-07-25,Thursday,00:03,Toronto,93727b82ed700768aa9695d49140f6b3,Polson Pier,2,21
+Toronto-U3nYzF46,2024-07-25T05:54:19.841000Z,DentoniaPark--fbkhjSCD,2024-07-25,Thursday,00:03,Toronto,f84773b4dcedcaea20de2c7e324d8c90,Dentonia Park,7,14
+Toronto-Nd6KW9PI,2024-07-25T05:54:19.864000Z,LowerJarvisSt/QueensQuayE--shcXOlXF,2024-07-25,Thursday,00:03,Toronto,3d13e32b7336dbe2c6b2190df3ba8600,Lower Jarvis St / Queens Quay E,15,1
+Toronto-KAKA9qnj,2024-07-25T05:54:21.095000Z,SummerhillAve/MaclennanAve--aNf9JNtm,2024-07-25,Thursday,00:03,Toronto,009f180cf35ae1285733d98ccf058313,Summerhill Ave / Maclennan Ave,1,9
+Toronto-SPkyfTwL,2024-07-25T05:54:16.724000Z,QueensQuayE/LowerSherbourneSt--WXs90w7M,2024-07-25,Thursday,00:03,Toronto,c452eea1e95d474e6f1b7ea545e79d1b,Queens Quay E / Lower Sherbourne St,9,13
+Toronto-Fazambno,2024-07-25T05:54:23.524000Z,WrightAve/SoraurenAve-SMART--VdrivYAA,2024-07-25,Thursday,00:03,Toronto,1fe6812cc638f0e5080113daa9a7d77a,Wright Ave / Sorauren Ave - SMART,11,6
+Toronto-b7i7Yj3j,2024-07-25T05:54:21.274000Z,EllisAve/TheQueensway--5DFyVEkS,2024-07-25,Thursday,00:03,Toronto,b4462a2daef20c76a3ff7c53326f10e4,Ellis Ave / The Queensway,18,0
+Toronto-hYwmpGcv,2024-07-25T05:54:22.886000Z,HighPark-GrenadierCafe--H5J6OXYE,2024-07-25,Thursday,00:03,Toronto,1e83030210b6666f3fe29bade92f1181,High Park - Grenadier Cafe,5,6
+Toronto-9wZa9RDS,2024-07-25T05:54:15.745000Z,WinonaDr/DavenportRd--89BElleQ,2024-07-25,Thursday,00:03,Toronto,c102428e69ec84dd803fd2f51b8cfc83,Winona Dr / Davenport Rd,7,3
+Toronto-Ceu8pENt,2024-07-25T05:54:22.892000Z,DanforthAve/AldridgeAve--GKcoy5D4,2024-07-25,Thursday,00:03,Toronto,68185cf4a510f34c7dd396bb2fb7549a,Danforth Ave / Aldridge Ave,5,5
+Toronto-zVQxD4eZ,2024-07-25T05:54:20.438000Z,DundonaldSt/ChurchSt--X4Jj84KI,2024-07-25,Thursday,00:03,Toronto,deb6cce4318ac072f72c4988efd9dbdf,Dundonald St / Church St,7,32
+Toronto-9DI91OXM,2024-07-25T05:54:21.572000Z,GerrardStE/MalvernAve-SMART--eZ0TZScg,2024-07-25,Thursday,00:03,Toronto,7f15a95a0104437a73d574be76cb4158,Gerrard St E / Malvern Ave - SMART,1,18
+Toronto-Q7PuxcHZ,2024-07-25T05:54:21.226000Z,BathurstSt/QueensQuay(BillyBishopAirport)--YfYKRlLV,2024-07-25,Thursday,00:03,Toronto,263344f0b04caa421826eceaadd15697,Bathurst St/Queens Quay(Billy Bishop Airport),8,24
+Toronto-vXvyvGYj,2024-07-25T05:54:17.426000Z,QueensQuayW/LowerSimcoeSt--f6RfMG2E,2024-07-25,Thursday,00:03,Toronto,624be8411d63932754479f0b710eaa97,Queens Quay W / Lower Simcoe St,4,10
+Toronto-KzNYkK5J,2024-07-25T05:54:22.635000Z,BremnerBlvd/ReesSt--6DYkAsZU,2024-07-25,Thursday,00:03,Toronto,082fdb9cce172f916dde26cc3a543b69,Bremner Blvd / Rees St,0,23
+Toronto-wgNs7xUl,2024-07-25T05:54:16.746000Z,KingStW/CrawfordSt--AbzVFeJI,2024-07-25,Thursday,00:03,Toronto,26c9984a5ec1ea1e7edb7fafa8d1e6f7,King St W / Crawford St,22,0
+Toronto-s0iDqAbU,2024-07-25T05:54:19.859000Z,YongeSt/DundasSq--g3VWWQvV,2024-07-25,Thursday,00:03,Toronto,d52672d5cddbb77befa3d5d448fc2534,Yonge St / Dundas Sq,1,27
+Toronto-WKcd2IKf,2024-07-25T05:54:20.657000Z,StClairAveW/WinonaDr--eBGbCBpf,2024-07-25,Thursday,00:03,Toronto,735f71a11ab473f25860d7366582a5fa,St Clair Ave W / Winona Dr,2,8
+Toronto-czmXYyF9,2024-07-25T05:54:18.258000Z,BaySt/WellesleyStW--rmP0t3zl,2024-07-25,Thursday,00:03,Toronto,6f5d2f1ea5a0702ceb169480117ac9fd,Bay St / Wellesley St W,17,31
+Toronto-5VZ7hne5,2024-07-25T05:54:21.496000Z,HumbersideGrounds-SMART--jMcXoUpB,2024-07-25,Thursday,00:03,Toronto,9c5267129912b44d3d8c91094256f1e2,Humberside Grounds - SMART,5,14
+Toronto-zUg4mUXt,2024-07-25T05:54:16.700000Z,BloorStE/HuntleySt-SMART--RfQPf2zW,2024-07-25,Thursday,00:03,Toronto,22cedcbf1b4580a7995f4e15843bd2ef,Bloor St E / Huntley St - SMART,5,14
+Toronto-30cY8QtX,2024-07-25T05:54:23.866000Z,YorkSt/WellingtonStW--cLqt7iZb,2024-07-25,Thursday,00:03,Toronto,ed02403ba3e67b969a9d5e10742b7d5b,York St / Wellington St W ,1,20
+Toronto-jiG6jOSE,2024-07-25T05:54:19.572000Z,DaltonRd/BloorStW--vgNl618u,2024-07-25,Thursday,00:03,Toronto,aeeb1fa2ea65f1492a523f0477de71d7,Dalton Rd / Bloor St W,1,13
+Toronto-WA2LzKgT,2024-07-25T05:54:18.268000Z,DavenportRd/ChristieSt--Bf1eIBWy,2024-07-25,Thursday,00:03,Toronto,a249bee44425dc2b5c2f384a00a59f33,Davenport Rd / Christie St,6,20
+Toronto-2PTdaip6,2024-07-25T05:54:16.782000Z,KingStW/JordanSt--YtV6xd5l,2024-07-25,Thursday,00:03,Toronto,24de23035684fccb1f588c7161489075,King St W / Jordan St,0,10
+Toronto-gQQUT4AG,2024-07-25T05:54:17.721000Z,E.T.SetonPark(EglintonAveE/LeslieSt)--2JL1Uge3,2024-07-25,Thursday,00:03,Toronto,aa101867125c9cc13920e34d881f86b2,E.T. Seton Park (Eglinton Ave E / Leslie St),9,17
+Toronto-69Qnt9dr,2024-07-25T05:54:22.596000Z,WoodbineAve/LakeShoreBlvdE--1ilgcx3d,2024-07-25,Thursday,00:03,Toronto,6cdafdc1db0f73b22c3fd462fd984805,Woodbine Ave / Lake Shore Blvd E,23,4
+Toronto-7tSe318i,2024-07-25T05:54:19.371000Z,KingStW/CharlotteSt--fdBJ5BIU,2024-07-25,Thursday,00:03,Toronto,1d827726987d707bbcd5562e02416b0e,King St W / Charlotte St,12,9
+Toronto-bgX9vpvM,2024-07-25T05:54:21.348000Z,JarvisSt/RichmondStE--vgBYUIWD,2024-07-25,Thursday,00:03,Toronto,08d867cbed5f08addb01b714700eacf7,Jarvis St / Richmond St E,7,12
+Toronto-29wxJcZL,2024-07-25T05:54:21.366000Z,SymingtonAve/DupontSt--A4S34I2R,2024-07-25,Thursday,00:03,Toronto,2d9b09d13ca6695d876ff08853469a24,Symington Ave / Dupont St,7,8
+Toronto-pqcxLL5R,2024-07-25T05:54:16.880000Z,KingStE/JarvisSt--Zz1KU7qN,2024-07-25,Thursday,00:03,Toronto,c9624aaf955b7fb236dcf2c8443c8fe9,King St E / Jarvis St,4,20
+Toronto-14xzAKg8,2024-07-25T05:54:20.452000Z,BaySt/BloorStW(EastSide)--pd8zcqMb,2024-07-25,Thursday,00:03,Toronto,2d1d89a437dbc32634ba928744831860,Bay St / Bloor St W (East Side),0,14
+Toronto-fmX8tzwc,2024-07-25T05:54:21.398000Z,BaySt/BloorStW(WestSide)--2udmksWX,2024-07-25,Thursday,00:03,Toronto,179e575503c062aa31a47c6f67d492da,Bay St / Bloor St W (West Side),8,11
+Toronto-3QyFXO6z,2024-07-25T05:54:20.233000Z,WellsHillAve/StClairAveW--zKtf0yWw,2024-07-25,Thursday,00:03,Toronto,ffc954e6f4228f59169c040483ebcc3a,Wells Hill Ave / St Clair Ave W,0,13
+Toronto-gO7N9G1a,2024-07-25T05:54:19.904000Z,DundasStE/GeorgeSt--if4Qlirk,2024-07-25,Thursday,00:03,Toronto,41b880ed1fe29761e25d4e3a492b563d,Dundas St E / George St,14,11
+Toronto-LTLFf6VY,2024-07-25T05:54:17.253000Z,FleetSt/BathurstSt--K1GVSbg9,2024-07-25,Thursday,00:03,Toronto,c209afb99ac56fcd8f423e9365621ee7,Fleet St / Bathurst St,20,2
+Toronto-sKFudO3l,2024-07-25T05:54:20.160000Z,TecumsethSt/QueenStW-SMART--CFHgsILF,2024-07-25,Thursday,00:03,Toronto,7f5ae543870ee8917aaa5022234c5e0b,Tecumseth St / Queen St W - SMART,6,3
+Toronto-sa98RIVN,2024-07-25T05:54:20.916000Z,BriarHillAve/YongeSt-SMART--VXFzvgxt,2024-07-25,Thursday,00:03,Toronto,d00c14c6cffc4b0fb30239ec2410232c,Briar Hill Ave / Yonge St - SMART,0,16
+Toronto-BYH2AE12,2024-07-25T05:54:17.168000Z,KingStE/ChurchSt--GELTl3KO,2024-07-25,Thursday,00:03,Toronto,9c2e322a9d2bd1035e3f607f96152a98,King St E / Church St,0,13
+Toronto-PTMmDx8D,2024-07-25T05:54:16.897000Z,WellesleyStW/Queen'sParkCres--ZtKAS5CE,2024-07-25,Thursday,00:03,Toronto,03cb067499bb9bc86cf0c884edb403bc,Wellesley St W / Queen's Park Cres,0,16
+Toronto-8R5Ac4q5,2024-07-25T05:54:21.536000Z,UniversityAve/CollegeSt(East)--SwBUGe1x,2024-07-25,Thursday,00:03,Toronto,2f10b834460965288d419163586f3f89,University Ave / College St (East),0,19
+Toronto-h3vpsMof,2024-07-25T05:54:15.836000Z,SuperiorAve/LakeShoreBlvdW--1xOYrJMQ,2024-07-25,Thursday,00:03,Toronto,1ac23b3d20ad003acf2f9b1f8a2f2f0b,Superior Ave / Lake Shore Blvd W,16,0
+Toronto-QLRl1Npz,2024-07-25T05:54:15.922000Z,LakeShoreBlvdW/ColborneLodgeDr--0flS8OKG,2024-07-25,Thursday,00:03,Toronto,50d8ed93a01d05c04298300fe52b5ac7,Lake Shore Blvd W / Colborne Lodge Dr,19,8
+Toronto-9mwhmc0h,2024-07-25T05:54:15.828000Z,RipleyAve/OrmskirkAve--c9hlzm5e,2024-07-25,Thursday,00:03,Toronto,f897c08ea341fc832b7ca756cb0982ae,Ripley Ave / Ormskirk Ave,23,0
+Toronto-sWDhAihQ,2024-07-25T05:54:18.204000Z,StClarensAve/ShirleySt--6mWldepW,2024-07-25,Thursday,00:03,Toronto,0ebd7e4e7c35126cda830c1c67bb3241,St Clarens Ave / Shirley St,14,0
+Toronto-KoLC1Ob8,2024-07-25T05:54:18.225000Z,BartlettParkette--COZpOmbo,2024-07-25,Thursday,00:03,Toronto,f926e2b4fe4ff841a24b2ac4962e62bd,Bartlett Parkette,6,15
+Toronto-MEhhur8N,2024-07-25T05:54:20.364000Z,SherbourneStN/ElmAve--EekQQU5Z,2024-07-25,Thursday,00:03,Toronto,791f66f190e1848c7eeeaf8b937e304f,Sherbourne St N / Elm Ave,2,16
+Toronto-GpYcs6Zj,2024-07-25T05:54:20.328000Z,WalnutAve/QueenStW--QJGSj7ih,2024-07-25,Thursday,00:03,Toronto,068f5330e49bd7236864c7cbf904813f,Walnut Ave / Queen St W,4,8
+Toronto-bnBTW2nZ,2024-07-25T05:54:19.896000Z,VaughanRd/WychwoodAve--SvWsrAPe,2024-07-25,Thursday,00:03,Toronto,36c244827ed3bd3ee314ab1d2781db2a,Vaughan Rd /Wychwood Ave,4,15
+Toronto-qfOHHLMK,2024-07-25T05:54:20.352000Z,PalmerstonAve/DundasStW--jYeh5mGm,2024-07-25,Thursday,00:03,Toronto,91b75f5884eca61cded2a3da80a6dc2b,Palmerston Ave / Dundas St W,1,19
+Toronto-dnaYQlc8,2024-07-25T05:54:20.765000Z,541HuronSt-SMART--qQamf9CV,2024-07-25,Thursday,00:03,Toronto,e6151e077a7d8141f6ae96e6223d12e9,541 Huron St - SMART,12,5
+Toronto-mLJjNcLP,2024-07-25T05:54:20.338000Z,EuclidAve/HerrickSt-SMART--LV9OxaiK,2024-07-25,Thursday,00:03,Toronto,03b565f085260e768988cd216fbeeef4,Euclid Ave / Herrick St - SMART,6,9
+Toronto-0N5ki21S,2024-07-25T05:54:22.579000Z,BaldwinSt/HenrySt--MSVVBKgq,2024-07-25,Thursday,00:03,Toronto,34a94fc072487f4615b041d2b7a6c659,Baldwin St / Henry St,0,15
+Toronto-RNmdtcx1,2024-07-25T05:54:18.912000Z,OrdeSt/McCaulSt--xA2aAmmL,2024-07-25,Thursday,00:03,Toronto,2b2e280f715656fb630b59ec9a6d1e0c,Orde St / McCaul St,0,13
+Toronto-Y7dnrN8P,2024-07-25T05:54:17.376000Z,RossSt/CecilSt-SMART--4Vcs9R5N,2024-07-25,Thursday,00:03,Toronto,026bf7c2104a659ef0392f1c22bc6e17,Ross St / Cecil St - SMART,4,13
+Toronto-9Keoo0Wq,2024-07-25T05:54:16.806000Z,LakeShoreBlvdW/ThirtyNinthStreet--5HCDPL4F,2024-07-25,Thursday,00:03,Toronto,b7461d8effda846e2f78dfbee059c433,Lake Shore Blvd W / Thirty Ninth Street,9,9
+Toronto-mcuiDHQ6,2024-07-25T05:54:16.802000Z,LakeShoreBlvdW/TwentyFourthSt--YfWU1lYf,2024-07-25,Thursday,00:03,Toronto,f1bad47f1bca16159267c0ad3e50fb1a,Lake Shore Blvd W / Twenty Fourth St,16,1
+Toronto-0qi5A9az,2024-07-25T05:54:16.830000Z,WindsorSt/NewcastleSt--mmVOwuFy,2024-07-25,Thursday,00:03,Toronto,4d9f7ef78ba9859e04d259c1567d1d61,Windsor St / Newcastle St,0,30
+Toronto-dyAWIxuE,2024-07-25T05:54:16.834000Z,RoyalYorkRd/MimicoAve--wnLrW79e,2024-07-25,Thursday,00:03,Toronto,1d5a56319adf364532940f86be71ce4b,Royal York Rd / Mimico Ave,18,2
+Toronto-x2e58wMZ,2024-07-25T05:54:22.759000Z,BerryRd/BellManorDr--e2efmFFg,2024-07-25,Thursday,00:03,Toronto,0deaf45500eb93eeacff86adaafeb180,Berry Rd / Bell Manor Dr,14,3
+Toronto-USn9jpw5,2024-07-25T05:54:16.855000Z,HumberCollege(LakeshoreCampus)--nBgKVyXT,2024-07-25,Thursday,00:03,Toronto,4e5712234feb60f46fff461ab136e147,Humber College (Lakeshore Campus),14,13
+Toronto-hx9h4xes,2024-07-25T05:54:15.840000Z,AmosWaitesPark--1XvYVBqW,2024-07-25,Thursday,00:03,Toronto,8b49ce875b451df6dbe4fb4667acb3bd,Amos Waites Park,26,0
+Toronto-pYGgvptZ,2024-07-25T05:54:19.044000Z,PriscillaAve/DundasStW--ryVquie0,2024-07-25,Thursday,00:03,Toronto,d9d0c97c8f65e3fb4ebcd464a11f5522,Priscilla Ave / Dundas St W,2,19
+Toronto-Nj5I9iXY,2024-07-25T05:54:19.005000Z,DurieSt/DundasStW--6ipflbgN,2024-07-25,Thursday,00:03,Toronto,27b5be1cbbce21764b224e820c7f888c,Durie St / Dundas St W,0,23
+Toronto-bYukkLsx,2024-07-25T05:54:19.083000Z,StClairAveW/CastletonAve--Ozh24atO,2024-07-25,Thursday,00:03,Toronto,600672c7f313e01de8bab00cbee9e7f4,St Clair Ave W / Castleton Ave,2,16
+Toronto-1kRsro4l,2024-07-25T05:54:18.998000Z,WestonLionsPark--rzWAHv5v,2024-07-25,Thursday,00:03,Toronto,50dc0fcbc5a62a2cc676ada21ede905c,Weston Lions Park,1,26
+Toronto-gASpbJtA,2024-07-25T05:54:19.104000Z,AnnetteSt/JaneSt--fvatxNJR,2024-07-25,Thursday,00:03,Toronto,6d6c301acbd12264042475dfd0e0e1e3,Annette St / Jane St,5,8
+Toronto-1uZszeqf,2024-07-25T05:54:20.118000Z,JamesonAve/QueenStW--ONkbN7Tv,2024-07-25,Thursday,00:03,Toronto,1e5bc0c0a2797265956ee948d6dcd49d,Jameson Ave / Queen St W,18,6
+Toronto-5bpOciTy,2024-07-25T05:54:21.199000Z,CarlawAve/DundasStE--lnyfeWsw,2024-07-25,Thursday,00:03,Toronto,e933ad7ff4aae2c390d9f79c1043d657,Carlaw Ave / Dundas St E,7,6
+Toronto-JUsHfRaj,2024-07-25T05:54:20.132000Z,TorontoInukshukPark--S5mVQl01,2024-07-25,Thursday,00:03,Toronto,c1704a7eebf0bff8016166d14fe130bd,Toronto Inukshuk Park,21,20
+Toronto-DxOJpH8j,2024-07-25T05:54:17.294000Z,CosburnAve/DurantAve--TSmO5Dwg,2024-07-25,Thursday,00:03,Toronto,5bed66406f7431f8d4d8542d107225ea,Cosburn Ave / Durant Ave,1,13
+Toronto-yy3C87cr,2024-07-25T05:54:22.734000Z,SwanseaCommunityCentre--WBmtgWGK,2024-07-25,Thursday,00:03,Toronto,124ed44b13876f8019e356d76ba645ee,Swansea Community Centre,2,12
+Toronto-YQO7BQr4,2024-07-25T05:54:22.556000Z,BellwoodsAve/TrefordPl-SMART--PYCQyKeq,2024-07-25,Thursday,00:03,Toronto,12481528bb8d296c8bc4014306f36afd,Bellwoods Ave / Treford Pl - SMART,14,6
+Toronto-tzTdxvjb,2024-07-25T05:54:21.208000Z,BayviewAve/LawrenHarrisSquare--fC54QS4O,2024-07-25,Thursday,00:03,Toronto,5282337e262f025cee74afaf2659b223,Bayview Ave / Lawren Harris Square,12,2
+Toronto-ND2d3ZAV,2024-07-25T05:54:16.824000Z,TheQueensway/HighSt--fPfQL27U,2024-07-25,Thursday,00:03,Toronto,125e730a6da5714af8567ae352485337,The Queensway / High St,20,2
+Toronto-iEIISLg5,2024-07-25T05:54:18.252000Z,SymingtonAve/DavenportRd--bOTWAGd9,2024-07-25,Thursday,00:03,Toronto,0b153cb4fe7873b109e3068cf99dbf74,Symington Ave / Davenport Rd,3,11
+Toronto-JLvKzOTs,2024-07-25T05:54:21.221000Z,FrontStE/BayviewAvenue--dBvdfpyN,2024-07-25,Thursday,00:03,Toronto,fb3867774f8ac943a838fb13a41bd1b6,Front St E / Bayview Avenue,21,0
+Toronto-4AAjbTLt,2024-07-25T05:54:21.213000Z,OakSt/SumachSt--OQrE93Tu,2024-07-25,Thursday,00:03,Toronto,8c4531a1d91e5583aff9759a5aedb46d,Oak St / Sumach St,23,3
+Toronto-1Lk2O3jy,2024-07-25T05:54:22.504000Z,439SherbourneSt--HdY7DUsQ,2024-07-25,Thursday,00:03,Toronto,4bb6659976fc4aaf5a141c488a405a00,439 Sherbourne St,18,29
+Toronto-m0EJIs2U,2024-07-25T05:54:16.662000Z,GlebeRdW/YongeSt--g1Eh0MUP,2024-07-25,Thursday,00:03,Toronto,f04359bb2878aa6d672474276e5017e4,Glebe Rd W / Yonge St,3,14
+Toronto-jQ98kyUy,2024-07-25T05:54:23.776000Z,HillsdaleAveW/YongeSt--uEBHNdcT,2024-07-25,Thursday,00:03,Toronto,9447917367c25ac832d404c1a4696615,Hillsdale Ave W / Yonge St,13,1
+Toronto-66Y6PUzk,2024-07-25T05:54:22.542000Z,AlvinAve/StClairAveE--Z8GBC6Mx,2024-07-25,Thursday,00:03,Toronto,0b85c7861c4c48a4cd4fe140c913da57,Alvin Ave / St Clair Ave E,0,19
+Toronto-mxIELYhC,2024-07-25T05:54:23.857000Z,EglintonAveW/ScarlettRd--94AXKIuC,2024-07-25,Thursday,00:03,Toronto,f0ef11b3bf1f1a2ab5d7a556fde038f6,Eglinton Ave W / Scarlett Rd,3,16
+Toronto-U8iNPSkp,2024-07-25T05:54:23.664000Z,ThePondRd/SentinelRd--w9L2orii,2024-07-25,Thursday,00:03,Toronto,e228eced48bdb1f81b6b38456fdcad39,The Pond Rd / Sentinel Rd,2,25
+Toronto-yiaeHGh8,2024-07-25T05:54:23.681000Z,SentinelRd/FinchCorridorTrail--jXalkhMl,2024-07-25,Thursday,00:03,Toronto,71bf1ff10731929ec44b9dcce72edba6,Sentinel Rd / Finch Corridor Trail,1,26
+Toronto-lRnbdtbN,2024-07-25T05:54:23.710000Z,FinchWestSubwayStation--NJpyqEj0,2024-07-25,Thursday,00:03,Toronto,6a4d3e7625cc41d49674986b994fc5e1,Finch West Subway Station,0,22
+Toronto-nByiNlDo,2024-07-25T05:54:23.757000Z,DufferinSt/FinchCorridorTrail--bKJKQ1yU,2024-07-25,Thursday,00:03,Toronto,bf413030081fe6f86c21b6412f4e4e1a,Dufferin St / Finch Corridor Trail,0,16
+Toronto-hAQ05PNx,2024-07-25T05:54:23.620000Z,GRossLordPark--Vv3WgRv9,2024-07-25,Thursday,00:03,Toronto,cfcbfa258711beff217aa9d929a3a3ea,G Ross Lord Park,0,19
+Toronto-MaRAD3bv,2024-07-25T05:54:20.628000Z,ElwoodBlvd/AvenueRd--qsVp9v9x,2024-07-25,Thursday,00:03,Toronto,7a86196b811f1b13212052f5cd37e692,Elwood Blvd / Avenue Rd,0,23
+Toronto-m9BNPtlP,2024-07-25T05:54:17.756000Z,RoehamptonAve/BayviewAve--j9NZGyyr,2024-07-25,Thursday,00:03,Toronto,2c429e9e841e213f875d2116cfab30e9,Roehampton Ave / Bayview Ave,7,20
+Toronto-fL9WM5qO,2024-07-25T05:54:20.480000Z,TeddingtonParkAve--CoewMO56,2024-07-25,Thursday,00:03,Toronto,482006b8f83e7802372448cd4dbd463d,Teddington Park Ave,8,6
+Toronto-tjHXO6yL,2024-07-25T05:54:22.084000Z,UrsulaFranklinSt/HuronSt-SMART--75QXhROn,2024-07-25,Thursday,00:03,Toronto,b3ac9ac4dba9aff36e24ba60b6171308,Ursula Franklin St / Huron St - SMART,5,15
+Toronto-SaQ25gvx,2024-07-25T05:54:22.041000Z,WoodbineAve/O'ConnorDr--gdNM2Dw7,2024-07-25,Thursday,00:03,Toronto,7978548b201c5c5ab2421bc2906bc446,Woodbine Ave / O'Connor Dr,10,9
+Toronto-jT8okjvR,2024-07-25T05:54:21.973000Z,DawesRd/TaylorCreekTrl--cGXSFJLZ,2024-07-25,Thursday,00:03,Toronto,65aefd1c1484ebd15a7827285971734e,Dawes Rd / Taylor Creek Trl,5,13
+Toronto-tiep3LVL,2024-07-25T05:54:21.969000Z,FairmountPark--6T6qEHN5,2024-07-25,Thursday,00:03,Toronto,812af6af42e905fac0cafcf05146f3ba,Fairmount Park,9,8
+Toronto-1sEhKJFH,2024-07-25T05:54:20.459000Z,RichmondStW/YorkSt--6lu9Jx5O,2024-07-25,Thursday,00:03,Toronto,165388972f43146138b4f5180eead75a,Richmond St W / York St,0,17
+Toronto-Wq4XVGGl,2024-07-25T05:54:21.953000Z,SunnybrookPark--sLxQidJM,2024-07-25,Thursday,00:03,Toronto,3b0ffacf6f626924fb61b0d6d578561a,Sunnybrook Park,12,14
+Toronto-0h3k2vVl,2024-07-25T05:54:19.684000Z,VaughanRd/OakwoodAve--F15dK35Y,2024-07-25,Thursday,00:03,Toronto,3dccd3e0582902632ace3ada9481abb0,Vaughan Rd / Oakwood Ave,0,19
+Toronto-dvX4h2Ru,2024-07-25T05:54:19.696000Z,BraemarAve/EglintonAveW--Vp2HkIBY,2024-07-25,Thursday,00:03,Toronto,cca065ea85fe108c99c68759adf859ee,Braemar Ave / Eglinton Ave W,0,14
+Toronto-LqdVPyB3,2024-07-25T05:54:18.641000Z,MarieCurtisPark--fDv8VC9G,2024-07-25,Thursday,00:03,Toronto,e4d76b13daa3859403326b474684159d,Marie Curtis Park,14,7
+Toronto-Gq4D0Cgd,2024-07-25T05:54:18.565000Z,GuildwoodGOStation(South)--8PnhoGHK,2024-07-25,Thursday,00:03,Toronto,4a491c94c9b46d3b7927b72a3bad0ab6,Guildwood GO Station (South),3,7
+Toronto-0j30ex4x,2024-07-25T05:54:22.412000Z,ChorleyPark-SMART--GxduBUA2,2024-07-25,Thursday,00:03,Toronto,0c49d15e80cceca5feb5a2bc84ddc2f5,Chorley Park - SMART,3,15
+Toronto-uo4x392p,2024-07-25T05:54:16.600000Z,CherryBeach--b8Fj7CO6,2024-07-25,Thursday,00:03,Toronto,937a6d6b325ab59d5e0047f4b8eeb0ac,Cherry Beach,1,44
+Toronto-17zjzu2f,2024-07-25T05:54:23.117000Z,SpadinaAve/HarbordSt-SMART--MkLw7Vkq,2024-07-25,Thursday,00:03,Toronto,30c56fdec4d36ab0124297d6f0101490,Spadina Ave / Harbord St - SMART,6,30
+Toronto-HMjOPIWW,2024-07-25T05:54:18.068000Z,UrsulaFranklinSt/St.GeorgeSt-SMART--8Zi7OBpX,2024-07-25,Thursday,00:03,Toronto,4a1203492305451d3154777c392532f3,Ursula Franklin St / St. George St - SMART,2,13
+Toronto-dOrwQ0Kg,2024-07-25T05:54:18.596000Z,RougeHillGOStation--Vv2UHe4q,2024-07-25,Thursday,00:03,Toronto,07c0bbd2b5c108bacb3a32250af2a076,Rouge Hill GO Station,24,1
+Toronto-SD9dYT4Z,2024-07-25T05:54:19.712000Z,ColonelDanforthPark--tKm5B6Hi,2024-07-25,Thursday,00:03,Toronto,a70fe5dd2fa91d6c13d66b5415e9740e,Colonel Danforth Park,9,10
+Toronto-gDwvRn6T,2024-07-25T05:54:19.704000Z,MorningsidePark(HighlandCreekTrail)--mJpOjXME,2024-07-25,Thursday,00:03,Toronto,254006acb0d0299f535d3723f656ae67,Morningside Park (Highland Creek Trail),6,16
+Toronto-2uKGeOzL,2024-07-25T05:54:19.752000Z,LivingstonRd/GuildwoodPkwy--lMiY8qwS,2024-07-25,Thursday,00:03,Toronto,93699b431ac46c9e98b3b1c74cda8e95,Livingston Rd / Guildwood Pkwy,5,14
+Toronto-khmluBUq,2024-07-25T05:54:19.760000Z,LivingstonRd(HighlandCreekTrail)--xpc5DFuz,2024-07-25,Thursday,00:03,Toronto,a3860ef7a1996bfe83863f7086adb77b,Livingston Rd (Highland Creek Trail),2,16
+Toronto-jdS0Yiv5,2024-07-25T05:54:16.152000Z,TwelfthSt/ThirteenthSt--T6uHmS6S,2024-07-25,Thursday,00:03,Toronto,8bd81a9fcb43f04a9b8f80996312e61e,Twelfth St / Thirteenth St,22,0
+Toronto-WaLDoQF9,2024-07-25T05:54:18.193000Z,WallaceAve/PaulineAve--frERWsmc,2024-07-25,Thursday,00:03,Toronto,c5db2e6382e20bec3e404aaf7ea89ccb,Wallace Ave / Pauline Ave,6,10
+Toronto-NW5vHEXE,2024-07-25T05:54:19.739000Z,KingstonRd/BeechAve--fyAjcvHx,2024-07-25,Thursday,00:03,Toronto,d747893c66003f215b8502161eb40f5e,Kingston Rd / Beech Ave,8,5
+Toronto-fi93PtM5,2024-07-25T05:54:19.748000Z,VictoriaParkAve/DanforthAve--RVMNSb56,2024-07-25,Thursday,00:03,Toronto,0153756b9e136b96e730aaa2f048227f,Victoria Park Ave / Danforth Ave,6,11
+Toronto-Y0QJj9HC,2024-07-25T05:54:18.301000Z,UnionStation--QfI2tuhj,2024-07-25,Thursday,00:03,Toronto,ded51d399ed59c94c0a464202fc09fe0,Union Station,2,37
+Toronto-m7hWANq7,2024-07-25T05:54:22.908000Z,HayterSt/LaPlanteAve--ochg1oEY,2024-07-25,Thursday,00:03,Toronto,b5012608da25a66be2fe79465186ff62,Hayter St / La Plante Ave,0,22
+Toronto-qashHIzT,2024-07-25T05:54:19.547000Z,SeatonSt/DundasStE-SMART--cIsZaEBs,2024-07-25,Thursday,00:03,Toronto,033dd75f330fec10400341177c68036e,Seaton St / Dundas St E - SMART,18,14
+Toronto-svVAbu8C,2024-07-25T05:54:18.704000Z,LundyAve/ÉtienneBrûléPark--hERLKEDR,2024-07-25,Thursday,00:03,Toronto,080c6cc1f827d976fd75f9ccf53db95c,Lundy Ave / Étienne Brûlé Park,14,0
+Toronto-dqJca6UV,2024-07-25T05:54:16.132000Z,ChilternHillRd/EglintonAveW--raS97Ab1,2024-07-25,Thursday,00:03,Toronto,5f02574f10f8ec2871df512546cf6f65,Chiltern Hill Rd / Eglinton Ave W,1,15
+Toronto-HiC5zMe1,2024-07-25T05:54:23.636000Z,TorresdaleAve/AntibesDr--yBPAptyf,2024-07-25,Thursday,00:03,Toronto,3e8872d5357f08ebd702863ab04e913e,Torresdale Ave / Antibes Dr,3,9
+Toronto-SZAqexoT,2024-07-25T05:54:20.652000Z,EstherShinerStadium--PxX6dCPL,2024-07-25,Thursday,00:03,Toronto,126121fbcccd20a50c8bd94206c7d81b,Esther Shiner Stadium,2,21
+Toronto-ceowSztv,2024-07-25T05:54:19.812000Z,St.GeorgeSt/HoskinAve--MihpdA5v,2024-07-25,Thursday,00:03,Toronto,a2e02c044b1d003adb0993f8da78ee58,St. George St / Hoskin Ave,4,9
+Toronto-2cWFKBaL,2024-07-25T05:54:17.751000Z,FlemingCres/BayviewAve--hjsjsGg9,2024-07-25,Thursday,00:03,Toronto,70222e00b684e247dd3f982cfb268e2e,Fleming Cres / Bayview Ave,4,9
+Toronto-5WsBtGkP,2024-07-25T05:54:21.420000Z,KingStE/VictoriaSt--grxY8Hku,2024-07-25,Thursday,00:03,Toronto,af8ef901117705bf69e591e81d28a15f,King St E / Victoria St,10,7
+Toronto-FyX23qHc,2024-07-25T05:54:23.844000Z,AlamedaAve/VaughanRd-SMART--9IjUkrqr,2024-07-25,Thursday,00:03,Toronto,9ee0fa9e2c3afc338a74a6b49af02e41,Alameda Ave / Vaughan Rd - SMART,2,13
+Toronto-u9fxqSdT,2024-07-25T05:54:21.338000Z,AdelaideStW/StrachanAve--ftk2Pyin,2024-07-25,Thursday,00:03,Toronto,bcf5ea04f184984e5cbd8571527636ff,Adelaide St W / Strachan Ave,7,3
+Toronto-yyYyCbRz,2024-07-25T05:54:18.624000Z,RoyalYorkRd/LakeShoreBlvdW--0J8OyZnN,2024-07-25,Thursday,00:03,Toronto,9c10c5f861261da626f9707ada4e8e04,Royal York Rd / Lake Shore Blvd W,17,1
+Toronto-AU1CFpG5,2024-07-25T05:54:16.197000Z,RunnymedeRd/AnnetteSt--RgMmZpbA,2024-07-25,Thursday,00:03,Toronto,48a626ef3a6cfbbccdaea283ce5901c6,Runnymede Rd / Annette St,3,9
+Toronto-AC5WgH7h,2024-07-25T05:54:20.716000Z,SalemAve/BloorStW--4eExIhyn,2024-07-25,Thursday,00:03,Toronto,57f2fc67a917b973ca7f31a994e0c63a,Salem Ave / Bloor St W,5,9
+Toronto-iyumPev5,2024-07-25T05:54:20.706000Z,DufferinSt/BloorStW--7QloUSBV,2024-07-25,Thursday,00:03,Toronto,8ef3bc5ab6805d2c5411023f4318d778,Dufferin St / Bloor St W,0,20
+Toronto-qnRLiVkp,2024-07-25T05:54:19.849000Z,DavisvilleAve/PailtonCres--Pxvloo19,2024-07-25,Thursday,00:03,Toronto,407c8fc47ef8f822af020375a4f7dc79,Davisville Ave / Pailton Cres,14,3
+Toronto-WxwwpicL,2024-07-25T05:54:23.802000Z,HighParkAve/DundasStW--FIHt7M4a,2024-07-25,Thursday,00:03,Toronto,3afcafcea065abef8dd2beafcb78c7bd,High Park Ave / Dundas St W,4,10
+Toronto-Hst1oL1Z,2024-07-25T05:54:16.180000Z,JudsonSt/RoyalYorkRd--VRxGeaJn,2024-07-25,Thursday,00:03,Toronto,e6588e3838b256ab32f9b7db54be5a66,Judson St / Royal York Rd,9,7
+Toronto-m52efp40,2024-07-25T05:54:21.956000Z,WilketCreekPark--O3D3ywVo,2024-07-25,Thursday,00:03,Toronto,b29cba584424066f83f374b2c3fe1780,Wilket Creek Park,4,23
+Toronto-HaQfhylb,2024-07-25T05:54:22.789000Z,AnnetteSt/DundasStW--9Sg5FJya,2024-07-25,Thursday,00:03,Toronto,87722dd793400f7a61a96a59b9133e4f,Annette St / Dundas St W,1,14
+Toronto-PclPDJIn,2024-07-25T05:54:16.139000Z,NobleSt/QueenStW--2A6uXEqM,2024-07-25,Thursday,00:03,Toronto,d6d49f7d4ddb2cd466938a1b424c1412,Noble St / Queen St W,12,1
+Toronto-12ON0GUc,2024-07-25T05:54:22.766000Z,OriolePkwy/KilbarryRd--H9s1MjSC,2024-07-25,Thursday,00:03,Toronto,51987cd2ab0d05eeb2f79bcb596e348b,Oriole Pkwy / Kilbarry Rd,1,17
+Toronto-H9b4gShT,2024-07-25T05:54:22.829000Z,EastLynnAve/DanforthAve--TyTYXKz6,2024-07-25,Thursday,00:03,Toronto,b20ef84c05107095581cdd50b2bb4a2c,East Lynn Ave / Danforth Ave,7,7
+Toronto-LzdCT0Vk,2024-07-25T05:54:20.496000Z,LangfordAve/DanforthAve-SMART--sn2rcQHQ,2024-07-25,Thursday,00:03,Toronto,c4a01864ecb66e9b1ee3023d3205a281,Langford Ave / Danforth Ave - SMART,15,17
+Toronto-2WfqeM0M,2024-07-25T05:54:22.816000Z,UniversityofTorontoScarborough--nsLJu3Xl,2024-07-25,Thursday,00:03,Toronto,3c7236f4a281b569b57f40c0bf29c4ca,University of Toronto Scarborough,9,7
+Toronto-IfnBwvGh,2024-07-25T05:54:20.812000Z,190QueensQuayE--m4Sf3Mgw,2024-07-25,Thursday,00:03,Toronto,df0ee6e75eb32441818a11d990fa844a,190 Queens Quay E,6,6
+Toronto-KlGbCfdv,2024-07-25T05:54:22.802000Z,ElmSt/UniversityAve(EastSide)--MYVezFyq,2024-07-25,Thursday,00:03,Toronto,9703f67f16a349591949e76da3714b61,Elm St/ University Ave (East Side),0,16
+Toronto-IMHLHUya,2024-07-25T05:54:19.724000Z,WaterfrontTrail(RougeHill)--l25SkPTR,2024-07-25,Thursday,00:03,Toronto,b1685246ce6cfe5b9d621a1991c3cedb,Waterfront Trail (Rouge Hill),15,4
+Toronto-1Kg7uyoC,2024-07-25T05:54:19.025000Z,StClairAveW/GunnsRd--0TLEV44E,2024-07-25,Thursday,00:03,Toronto,c0538b0581a59e1e7321a382b5ab17ab,St Clair Ave W / Gunns Rd,3,19
+Toronto-8k2ocVgA,2024-07-25T05:54:16.643000Z,PapeAve/GambleAve--aFySTa0B,2024-07-25,Thursday,00:03,Toronto,052763ac927bce9197aa6381f508576f,Pape Ave / Gamble Ave,17,0
+Toronto-zZxwIiNz,2024-07-25T05:54:19.292000Z,RoehamptonAve/MountPleasantRd--aBXqFItZ,2024-07-25,Thursday,00:03,Toronto,0faf9e7c7d5403b8f7dc7574fa6d0c6e,Roehampton Ave / Mount Pleasant Rd,1,13
+Toronto-goLjQ3Qt,2024-07-25T05:54:18.333000Z,ChurchSt/BloorStE--EFLUay0D,2024-07-25,Thursday,00:03,Toronto,f3aa2a6bb24e5012b030c6810cf39964,Church St / Bloor St E,0,13
+Toronto-Li2kghFY,2024-07-25T05:54:21.428000Z,200BloorStE--AlYvcPNB,2024-07-25,Thursday,00:03,Toronto,6fcf6974fe1a08b20ab7f70d70da6cb0,200 Bloor St E,1,22
+Toronto-VZxYRiFQ,2024-07-25T05:54:17.746000Z,MoorePark--sgrRqd7e,2024-07-25,Thursday,00:03,Toronto,fb2618cee3456166ccc52c3ceeae13c6,Moore Park,3,8
+Toronto-ePzxXsAG,2024-07-25T05:54:20.623000Z,BloorStW/PacificAve--vyvCWA8e,2024-07-25,Thursday,00:03,Toronto,e473bffc39f79fdd42e27583ccbe0709,Bloor St W / Pacific Ave,7,0
+Toronto-thLIsv0n,2024-07-25T05:54:22.169000Z,DanforthAve/DewhurstBlvd--i5t8TWSI,2024-07-25,Thursday,00:03,Toronto,3d71c9ff5bcbaad794a49115e11786e3,Danforth Ave / Dewhurst Blvd,4,10
+Toronto-PJBDsIYc,2024-07-25T05:54:20.636000Z,BloorStW/BrockAve--953t4LuV,2024-07-25,Thursday,00:03,Toronto,fea3f9dfbcc18225728f10913c5d3d5b,Bloor St W / Brock Ave,1,7
+Toronto-mxahhEAE,2024-07-25T05:54:19.381000Z,DavenportRd/DovercourtRd-SMART--QQowQo06,2024-07-25,Thursday,00:03,Toronto,f3a880cb5277285662d2d68f5523488d,Davenport Rd / Dovercourt Rd - SMART,0,15
+Toronto-glIRT2kz,2024-07-25T05:54:20.637000Z,1MarketSt-SMART--lacsCwuO,2024-07-25,Thursday,00:03,Toronto,844d02b2b7dfdabf7bd044c3edf050d5,1 Market St - SMART,11,0
+Toronto-7RXfCCC9,2024-07-25T05:54:22.056000Z,BrickWorks--zRNuAMRR,2024-07-25,Thursday,00:03,Toronto,3d38244751d3c44617f0066466a3bc7d,Brick Works,9,14
+Toronto-eKV8gmb7,2024-07-25T05:54:23.150000Z,UniversityAve/KingStW-SMART--317euzKx,2024-07-25,Thursday,00:03,Toronto,2b4c28b78247a24037bcff2ad8fcc605,University Ave / King St W - SMART,0,23
+Toronto-LbKqWtWX,2024-07-25T05:54:22.236000Z,AmrothAve/DanforthAve--OYph3EHP,2024-07-25,Thursday,00:03,Toronto,9d7e8386839f9d834777d1cf0a8482c1,Amroth Ave / Danforth Ave,11,7
+Toronto-PgZDYT4Y,2024-07-25T05:54:18.440000Z,SummerhillSubwayStation--vz32Z2ZI,2024-07-25,Thursday,00:03,Toronto,10722d0c5054c529a0d71f9eb2c89f92,Summerhill Subway Station,0,11
+Toronto-C7Ji2zLP,2024-07-25T05:54:19.550000Z,BeatyAve/QueenStW--rmOpQZDV,2024-07-25,Thursday,00:03,Toronto,b1c628d5509021c582f104bc3089e514,Beaty Ave / Queen St W,14,4
+Toronto-mabJVTbx,2024-07-25T05:54:19.558000Z,BlantyrePark--MCyojYQA,2024-07-25,Thursday,00:03,Toronto,f889b35bb8077eaa77f35bed4d524e89,Blantyre Park,7,14
+Toronto-KhXGCUQM,2024-07-25T05:54:18.177000Z,QueenStE/RushbrookeAve--HrrIoul4,2024-07-25,Thursday,00:03,Toronto,7e8db6cca9980f9b6daf293197f25fc4,Queen St E / Rushbrooke Ave,8,7
+Toronto-JF1y3J5C,2024-07-25T05:54:22.456000Z,DonlandsSubwayStation--4j4ADeq8,2024-07-25,Thursday,00:03,Toronto,34ec939e3772ab6f8f9be4ae0c98f3a2,Donlands Subway Station,3,12
+Toronto-5HFt4RHQ,2024-07-25T05:54:18.200000Z,LynnWilliamsSt/EastLibertySt-SMART--PPYV3sZ0,2024-07-25,Thursday,00:03,Toronto,1cc9575bb686fa4a3eb7f4afbdea5073,Lynn Williams St / East Liberty St - SMART,6,7
+Toronto-6BwfDnj2,2024-07-25T05:54:20.928000Z,EastwoodRd/WoodbineAve-SMART--jxdSMMVQ,2024-07-25,Thursday,00:03,Toronto,cf43a77e34066db8b926a42b49814963,Eastwood Rd / Woodbine Ave - SMART,4,9
+Toronto-oeFUxwtb,2024-07-25T05:54:23.329000Z,285VictoriaSt--31N32HRs,2024-07-25,Thursday,00:03,Toronto,48f8a355073b35f8720761c96f77d86b,285 Victoria St,18,20
+Toronto-OrWVeeeG,2024-07-25T05:54:21.472000Z,GerrardStE/VictoriaParkAve-SMART--0x1OL2m7,2024-07-25,Thursday,00:03,Toronto,c147f315755b1b1e79467fab3aaf3cb4,Gerrard St E / Victoria Park Ave - SMART,10,6
+Toronto-1P9fJ0n1,2024-07-25T05:54:19.548000Z,KilgourRd/RumseyRd--wsWHxsMa,2024-07-25,Thursday,00:03,Toronto,199a939521be6324c802d8d50ebeb4a8,Kilgour Rd / Rumsey Rd,4,13
+Toronto-VQsWDFT2,2024-07-25T05:54:16.033000Z,BaySt/ScollardSt--7G8R2foj,2024-07-25,Thursday,00:03,Toronto,04cadbe0f9b27f89f5fa6f6dbdea0883,Bay St / Scollard St,1,13
+Toronto-I9ASkO28,2024-07-25T05:54:18.992000Z,WestonRd/StClairAveW-SMART--Qfw4X5Gv,2024-07-25,Thursday,00:03,Toronto,be90e51f9b29e31ae1d40a8dea028dcf,Weston Rd / St Clair Ave W - SMART,0,18
+Toronto-pd2wxFun,2024-07-25T05:54:19.553000Z,SunnybrookHealthCentre-LWing--dOxgddKz,2024-07-25,Thursday,00:03,Toronto,4704fb679220b3879edfa3a853d55fbd,Sunnybrook Health Centre - L Wing,8,7
+Toronto-Q9Zmi1iE,2024-07-25T05:54:19.556000Z,DundasStW/StHelen'sAve-SMART--DvrUhh43,2024-07-25,Thursday,00:03,Toronto,8e40f60a48a909297b4114be18956d5c,Dundas St W / St Helen's Ave - SMART,5,21
+Toronto-L7SXBDvZ,2024-07-25T05:54:22.778000Z,YongeSt/StClairAve--ixYsfrbD,2024-07-25,Thursday,00:03,Toronto,2ad52acd0c231c654b488e03060224f2,Yonge St / St Clair Ave,14,2
+Toronto-Y8BjpuXR,2024-07-25T05:54:16.772000Z,SpadinaAve/BlueJaysWay--e5fpKUYO,2024-07-25,Thursday,00:03,Toronto,1a0670e4e55fe4259c105c6803651334,Spadina Ave / Blue Jays Way,28,2
+Toronto-47AotTN9,2024-07-25T05:54:16.162000Z,BloorStW/RiversideDr--5bGDwjue,2024-07-25,Thursday,00:03,Toronto,9d145fd59618d68dab06dba1c8900fe9,Bloor St W / Riverside Dr,0,22
+Toronto-rVv0aR8M,2024-07-25T05:54:19.551000Z,SunnybrookHealthCentre-SWing--LmmPeh0p,2024-07-25,Thursday,00:03,Toronto,ea3315c38d0d6b79d5e38457850a1cfc,Sunnybrook Health Centre - S Wing,5,6
+Toronto-Rg0glXOC,2024-07-25T05:54:18.436000Z,SimcoeSt/MichaelSweetAve--gVNCzpI0,2024-07-25,Thursday,00:03,Toronto,238f97722fa9fb7a59373178433ee0bb,Simcoe St / Michael Sweet Ave,3,15
+Toronto-Nz1IuAEE,2024-07-25T05:54:19.817000Z,QueenStW/DovercourtRd--XGy9OiXN,2024-07-25,Thursday,00:03,Toronto,bac1dcd28fcdff0438987edfef742154,Queen St W / Dovercourt Rd,10,1
+Toronto-Q5ADWSKB,2024-07-25T05:54:20.642000Z,King'sMillPark--4c63V01p,2024-07-25,Thursday,00:03,Toronto,b5473ba8329a31e18dfbc5067cf61369,King's Mill Park,6,20
+Toronto-w5X6KZjt,2024-07-25T05:54:16.122000Z,135QueensWharfRd-SMART--ycF3BULn,2024-07-25,Thursday,00:03,Toronto,2a56ebfe680276d40a591ef322457f70,135 Queens Wharf Rd - SMART,13,1
+Toronto-z5r1f3kg,2024-07-25T05:54:15.906000Z,406OakwoodAve--2B0dnqAL,2024-07-25,Thursday,00:03,Toronto,fc6389e5eba6c99ed3c0185b65c9cb5c,406 Oakwood Ave,1,18
+Toronto-vYzmFp5g,2024-07-25T05:54:20.828000Z,GranbySt/ChurchSt-SMART--GqAL5l2f,2024-07-25,Thursday,00:03,Toronto,3681db49ef2d337bfb035ab1ac33e2c2,Granby St / Church St - SMART,19,5
+Toronto-Liy6ZnVo,2024-07-25T05:54:21.976000Z,LumsdenAve/EastdaleAve--zTxAs0rD,2024-07-25,Thursday,00:03,Toronto,d10b85cd917407519f2491252a022a01,Lumsden Ave / Eastdale Ave,2,18
+Toronto-6NSGE1au,2024-07-25T05:54:18.556000Z,YongeSt/LawrenceAveE--oy2iNWOW,2024-07-25,Thursday,00:03,Toronto,2cf04264d349d318f68193444d9c5ad0,Yonge St / Lawrence Ave E,5,17
+Toronto-fSLxsOnC,2024-07-25T05:54:17.637000Z,YongeSt/OrchardViewBlvd--g1iRPfAE,2024-07-25,Thursday,00:03,Toronto,b63112d639d75af6c2e5481df147cf77,Yonge St / Orchard View Blvd,34,0
+Toronto-3bzWZQJx,2024-07-25T05:54:20.670000Z,LowerDonRiverTrailandTaylorCreekTrail--9WgxTEGp,2024-07-25,Thursday,00:03,Toronto,7398115d8ae10074445ef787822317dd,Lower Don River Trail and Taylor Creek Trail,13,4
+Toronto-S23tAqx6,2024-07-25T05:54:21.982000Z,StColumbaPl/StClairAveE--NYMWKN03,2024-07-25,Thursday,00:03,Toronto,3941abb3cf0f4b0fed316e0a2ed7452f,St Columba Pl / St Clair Ave E,5,13
+Toronto-ImD5mN1M,2024-07-25T05:54:17.123000Z,StrachanAve/Princes'Blvd--iLUJr1ta,2024-07-25,Thursday,00:03,Toronto,9eb5acc897b27515ad12ee8fade63062,Strachan Ave / Princes' Blvd,9,9
+Toronto-hNKZHNpG,2024-07-25T05:54:19.509000Z,KingStE/RiverSt--mG0dA6eb,2024-07-25,Thursday,00:03,Toronto,8b5819a5a6fb1ea79521a607ebb0a5ab,King St E / River St,14,0
+Toronto-CxcU4Xqi,2024-07-25T05:54:17.740000Z,YongeSt/GolfdaleRd--MdxmirQM,2024-07-25,Thursday,00:03,Toronto,bc0aa12455a97e86cf1be415300027db,Yonge St / Golfdale Rd,5,10
+Toronto-36V5035v,2024-07-25T05:54:21.709000Z,640BloorStreetE--ztPaNr6E,2024-07-25,Thursday,00:03,Toronto,685abb6b7df0fc0b474505ef5e2663fe,640 Bloor Street E,1,16
+Toronto-X2Yka7Dx,2024-07-25T05:54:17.128000Z,YorkUniversity(GlendonCampus)-SMART--q0B8dcpl,2024-07-25,Thursday,00:03,Toronto,2fe7046cdd8cc701a2240f52b9e8555f,York University (Glendon Campus) - SMART,2,13
+Toronto-FMpUrSa2,2024-07-25T05:54:17.134000Z,1303YongeSt-SMART--GPDKcD0n,2024-07-25,Thursday,00:03,Toronto,37b4b6822fe05d33d64c2a174a23a4ee,1303 Yonge St - SMART,0,16
+Toronto-EWJ0clY2,2024-07-25T05:54:17.017000Z,YorkUniversityStation(South)-SMART--flPwtGUe,2024-07-25,Thursday,00:03,Toronto,db63343ae1e174637ed6eba3912c4440,York University Station (South) - SMART,0,16
+Toronto-5yGE5pX1,2024-07-25T05:54:22.586000Z,WoodbineSubwayStation--1kN2A9ME,2024-07-25,Thursday,00:03,Toronto,ef56a1cd06ce475b3420570afbced3fa,Woodbine Subway Station,1,13
+Toronto-kUCpoDZC,2024-07-25T05:54:19.554000Z,SpadinaAve/SussexAve-SMART--6hrENLB6,2024-07-25,Thursday,00:03,Toronto,e5f767772c705d8231b6b198de4aa458,Spadina Ave / Sussex Ave - SMART,7,26
+Toronto-QJlQyXeh,2024-07-25T05:54:20.387000Z,SimcoeSt/QueenStW--UrwAq23z,2024-07-25,Thursday,00:03,Toronto,fc7fa6476f3fce587eeb9e2200faa005,Simcoe St / Queen St W,1,36
+Toronto-ZfZm0YzI,2024-07-25T05:54:20.026000Z,BathurstSt/FrontStW--sMhtmXt9,2024-07-25,Thursday,00:03,Toronto,a93e2f7df07b08d45c3ae0a1502c184c,Bathurst St / Front St W,24,9
+Toronto-ybO5JiYm,2024-07-25T05:54:18.490000Z,BaySt/HarbourSt(East)--twSU2Eik,2024-07-25,Thursday,00:03,Toronto,ca19ceffb308e52cc30e908f7dd57475,Bay St / Harbour St (East),8,15
+Toronto-OE8xzBcF,2024-07-25T05:54:19.393000Z,EastLibertySt/WesternBatteryRd--ZEJR8FZj,2024-07-25,Thursday,00:03,Toronto,b64e9d0701f0c67b654468e6bfdba32a,East Liberty St / Western Battery Rd,17,1
+Toronto-CgfARUfH,2024-07-25T05:54:20.006000Z,KingStW/BrantSt--Ruhx7dsB,2024-07-25,Thursday,00:03,Toronto,5e955f1219b3ebaf906b808073da5e1e,King St W / Brant St,2,17
+Toronto-44XWgjfp,2024-07-25T05:54:19.972000Z,BloorStW/GladstoneAve-SMART--QWOsJOok,2024-07-25,Thursday,00:03,Toronto,3a6af188aaae40c51d6ec8d22cd104d2,Bloor St W / Gladstone Ave - SMART,2,6
+Toronto-cgfbIlgI,2024-07-25T05:54:19.145000Z,FortYorkBlvd/GarrisonRd--thHTiOmW,2024-07-25,Thursday,00:03,Toronto,3ffc414d28a17036998674a120f66c6f,Fort York Blvd / Garrison Rd,10,3
+Toronto-IDtgxAZ6,2024-07-25T05:54:20.372000Z,HouseySt/DanLeckieWay--46nJIcKo,2024-07-25,Thursday,00:03,Toronto,32444ff0455dc908ae997a28379ebe7d,Housey St / Dan Leckie Way,23,2
+Toronto-t1EhSWHV,2024-07-25T05:54:17.141000Z,1525DundasStW--8nhCTfzC,2024-07-25,Thursday,00:03,Toronto,bf59891d338ebdd311b6d839cdde77b8,1525 Dundas St W,13,0
+Toronto-UmKlXNPu,2024-07-25T05:54:17.808000Z,85LeeAve--4N5KVxsE,2024-07-25,Thursday,00:03,Toronto,32b49dd6da901eac98ec2028f4447d71,85 Lee Ave,5,19
+Toronto-dVINf3Hq,2024-07-25T05:54:17.817000Z,MutualSt/ShuterSt(ArenaGardens)--yZdixY0P,2024-07-25,Thursday,00:03,Toronto,a5836251279be7a7699855d904f4ddf0,Mutual St / Shuter St (Arena Gardens),15,3
+Toronto-o7HRnBl7,2024-07-25T05:54:17.774000Z,QueenStE/JosephDugganRd--xIRlMYaB,2024-07-25,Thursday,00:03,Toronto,010507feed5b8d87c40cd95933ed5654,Queen St E / Joseph Duggan Rd,16,2
+Toronto-neY378pZ,2024-07-25T05:54:17.778000Z,HeyworthCres/KingstonRd--NA3f4o79,2024-07-25,Thursday,00:03,Toronto,941a4749a64f58b21da983a2c679ee40,Heyworth Cres / Kingston Rd,3,15
+Toronto-utZlUzcL,2024-07-25T05:54:17.893000Z,StClairAveW/CaledoniaRd--gobNSWUK,2024-07-25,Thursday,00:03,Toronto,d9103bade315662e56fbbc902b342ee6,St Clair Ave W / Caledonia Rd,0,13
+Toronto-utcQj17p,2024-07-25T05:54:19.173000Z,WellingtonStW/StaffordSt--unjW7dr3,2024-07-25,Thursday,00:03,Toronto,e7c767f3a1e8dcb9a41229a68b69eaad,Wellington St W / Stafford St,19,1
+Toronto-kbEM3LnX,2024-07-25T05:54:16.492000Z,111BroadviewAve--rAFiiXOf,2024-07-25,Thursday,00:03,Toronto,a7060ce11ef209bd9f6905ab5bd50a34,111 Broadview Ave,7,7
+Toronto-v7nN1jf2,2024-07-25T05:54:17.798000Z,ChristieSt/DupontSt--oYXDs5jv,2024-07-25,Thursday,00:03,Toronto,947c5660ee75d790b7db219013ea64e7,Christie St / Dupont St,2,16
+Toronto-cvo6P3JH,2024-07-25T05:54:21.826000Z,RichmondStE/JarvisStGreenP--hWEJxhVR,2024-07-25,Thursday,00:03,Toronto,b59204ea6e3eaa8ade44469b0cd3703e,Richmond St E / Jarvis St Green P,11,4
+Toronto-VeRrZdky,2024-07-25T05:54:16.504000Z,OakSt/SackvilleSt--rfkCaD3m,2024-07-25,Thursday,00:03,Toronto,b01afd080bfe7a9ae061756b868ef9f0,Oak St / Sackville St,16,0
+Toronto-RNEODpMN,2024-07-25T05:54:16.476000Z,24MountjoyAve--DnjaHVpb,2024-07-25,Thursday,00:03,Toronto,4c1ee1ccabcd1c9eaca449e5b3bbbb6f,24 Mountjoy Ave,4,15
+Toronto-xe0SeEWi,2024-07-25T05:54:16.484000Z,ColgateAve/CarlawAve--9yBf0JTH,2024-07-25,Thursday,00:03,Toronto,d2505c265a6e749d5d2be70c140f029d,Colgate Ave / Carlaw Ave,18,1
+Toronto-kNtplqlE,2024-07-25T05:54:16.462000Z,FelsteadAve/GillardAve(MonarchPark)--Uhgfr21C,2024-07-25,Thursday,00:03,Toronto,a2f8dc99e24a4f75d8d8f3f98efbc535,Felstead Ave/Gillard Ave (Monarch Park),10,16
+Toronto-X6XGZtdf,2024-07-25T05:54:18.483000Z,LowerJarvisSt/TheEsplanade--FLWhgTGk,2024-07-25,Thursday,00:03,Toronto,290fef611ea995910eb2d8e6dee93350,Lower Jarvis St / The Esplanade,15,0
+Toronto-xbrobInG,2024-07-25T05:54:16.529000Z,101CedarvaleAve--dTBxHS9r,2024-07-25,Thursday,00:03,Toronto,edbbbbc2b0bd5c8322b6395633ce610c,101 Cedarvale Ave,5,11
+Toronto-KAawSf2G,2024-07-25T05:54:17.929000Z,StClairAveW/OakwoodAve--vRguRPcj,2024-07-25,Thursday,00:03,Toronto,61b868926458c2406053b0bf2f81dcd6,St Clair Ave W / Oakwood Ave,2,13
+Toronto-cT1rMRc9,2024-07-25T05:54:16.536000Z,BeltlineTrail/YongeSt--fwceipOC,2024-07-25,Thursday,00:03,Toronto,804d113fb2dbc6b44947189e9e8bff7d,Beltline Trail / Yonge St,9,12
+Toronto-N2oFQ1et,2024-07-25T05:54:18.578000Z,ShawSt/EssexSt-SMART--k44d6QMJ,2024-07-25,Thursday,00:03,Toronto,7a271c4cbc993e06ac677f78d5b6ba4b,Shaw St / Essex St - SMART,8,6
+Toronto-x9zvS7AB,2024-07-25T05:54:16.512000Z,StClairAveW/RobinaAve--HUz4cqb3,2024-07-25,Thursday,00:03,Toronto,d24c01668df7f8e972f3e5980bf1fc6e,St Clair Ave W / Robina Ave,4,11
+Toronto-GVmBkmWw,2024-07-25T05:54:18.229000Z,JosephJPiccininniCommunityCentre--6jsgyMyv,2024-07-25,Thursday,00:03,Toronto,a76d410d56c1dadfbc8960683df209e2,Joseph J Piccininni Community Centre,1,18
+Toronto-zAA96PpM,2024-07-25T05:54:18.916000Z,11SpadinaRd--OaWSpxMe,2024-07-25,Thursday,00:03,Toronto,910e92b9e361308bb305c6780fce822f,11 Spadina Rd,4,4
+Toronto-9c8bQErw,2024-07-25T05:54:18.025000Z,VanauleySt/QueenStW-SMART--IxdIftSN,2024-07-25,Thursday,00:03,Toronto,56275b952451bea6cdc0a9e666ea363f,Vanauley St / Queen St W - SMART,11,0
+Toronto-QE2GvqRR,2024-07-25T05:54:17.435000Z,SherbourneSt/WellesleyStE--kEvg0CwH,2024-07-25,Thursday,00:03,Toronto,2904c293698dc248004b5f43e1a28f80,Sherbourne St / Wellesley St E,29,0
+Toronto-3N74yJnE,2024-07-25T05:54:21.227000Z,QueenStW/BaySt(CityHall)--PBPKUzKA,2024-07-25,Thursday,00:03,Toronto,2e6dd23e4dee03087c5e80f76cda5519,Queen St W / Bay St (City Hall),0,19
+Toronto-SjCGvMG0,2024-07-25T05:54:17.598000Z,KingStW/WilsonParkBlvd--32l8IQYD,2024-07-25,Thursday,00:03,Toronto,90753b36d53f9713816264fff0eb5cba,King St W / Wilson Park Blvd,19,0
+Toronto-y1ykiD8q,2024-07-25T05:54:18.913000Z,HavelockSt/DewsonSt--QvfDBQ6b,2024-07-25,Thursday,00:03,Toronto,19997314e5dc85c591c39255f1081992,Havelock St / Dewson St,12,1
+Toronto-CV9k53rN,2024-07-25T05:54:20.604000Z,StClairWestSubwayStation-HeathEntrance--flORlYl7,2024-07-25,Thursday,00:03,Toronto,e28bec2cacb249601ba4e3da8ce10aa3,St Clair West Subway Station - Heath Entrance,1,21
+Toronto-jgvUt9mx,2024-07-25T05:54:18.923000Z,QueenStW/ShawSt--qCijt1g0,2024-07-25,Thursday,00:03,Toronto,e15764d43dae2febba437044f0b41c0d,Queen St W / Shaw St,7,15
+Toronto-pH0Hrm8K,2024-07-25T05:54:17.032000Z,YorkUniversityStation(North)--b2VdNYN3,2024-07-25,Thursday,00:03,Toronto,02d90c8ede19da66083e0d0e14d17258,York University Station (North),0,15
+Toronto-CrVdrgYc,2024-07-25T05:54:22.799000Z,SpadinaRd/St.ClairAveWest--875RplXy,2024-07-25,Thursday,00:03,Toronto,70f4c2f125f887140a39865c643b83e1,Spadina Rd / St.Clair Ave West,1,14
+Toronto-prgfRXvO,2024-07-25T05:54:16.732000Z,SpadinaAve/AdelaideStW--R9aavn1Y,2024-07-25,Thursday,00:03,Toronto,a73d255f1af70c61f91b4bbf216054ec,Spadina Ave / Adelaide St W,5,10
+Toronto-4UGcjwJN,2024-07-25T05:54:20.762000Z,CherrySt/MillSt--6hV9MS4O,2024-07-25,Thursday,00:03,Toronto,d6bc7298aa11006015119e2e237ce83d,Cherry St / Mill St,13,1
+Toronto-tBTQ8oeX,2024-07-25T05:54:17.727000Z,JarvisSt/MaitlandPl--Dvra3QcC,2024-07-25,Thursday,00:03,Toronto,a385b32a5f6b3de23ce3def7f59ecbc1,Jarvis St / Maitland Pl,9,8
+Toronto-djq5e6df,2024-07-25T05:54:18.460000Z,RandolphAve/PerthAve--sKTwDIMZ,2024-07-25,Thursday,00:03,Toronto,89a0071a8f7f69a70263dd5c0d9d64f5,Randolph Ave / Perth Ave,1,18
+Toronto-BrDiZcqj,2024-07-25T05:54:18.755000Z,WolseleySt/AugustaAve--L4V4SaSK,2024-07-25,Thursday,00:03,Toronto,0ec6c1acd2e8975a5a2d5ddfe6028115,Wolseley St / Augusta Ave,15,11
+Toronto-Qv6GMmoI,2024-07-25T05:54:18.924000Z,LumsdenAve/CedarvaleAve--RxxDGkMD,2024-07-25,Thursday,00:03,Toronto,a3246dc710b72e282aabc15520392d98,Lumsden Ave / Cedarvale Ave,5,5
+Toronto-GTTFg80j,2024-07-25T05:54:18.926000Z,NiagaraSt/PortlandSt--kB7aXMEf,2024-07-25,Thursday,00:03,Toronto,e8fa9e1f75a6a3e6795f420149665538,Niagara St / Portland St,5,4
+Toronto-GpqScIBJ,2024-07-25T05:54:20.060000Z,WidmerSt/KingStW--J1yoktlR,2024-07-25,Thursday,00:03,Toronto,eec8016afd7a2c9574726724fc5bbab9,Widmer St / King St W,7,3
+Toronto-Eqrl7oUN,2024-07-25T05:54:20.066000Z,WellesleyStE/ParliamentSt--BoetTUet,2024-07-25,Thursday,00:03,Toronto,f01e7413a6af4607ca80257160d89ae6,Wellesley St E / Parliament St,13,0
+Toronto-6HkwzHnL,2024-07-25T05:54:20.080000Z,YongeSt/MacphersonAve--NqLv5MMQ,2024-07-25,Thursday,00:03,Toronto,90fadd5570633a9503c556d49fcd59b8,Yonge St / Macpherson Ave,1,11
+Toronto-6S8RbyLH,2024-07-25T05:54:23.358000Z,DavenportRd/BedfordRd--8LDk2RJX,2024-07-25,Thursday,00:03,Toronto,2e3ac17daffcf4eac85216832f31a3b5,Davenport Rd / Bedford Rd,3,12
+Toronto-yxJl8W58,2024-07-25T05:54:17.153000Z,St.JosephSt/BaySt-SMART--RGXWQjQZ,2024-07-25,Thursday,00:03,Toronto,15b272ca422dbbafeb002f3a84d15436,St. Joseph St / Bay St - SMART,2,15
+Toronto-EvQrkDVg,2024-07-25T05:54:22.317000Z,VictoriaParkAve/KingstonRd--w1MMawZa,2024-07-25,Thursday,00:03,Toronto,9144e4fe1b004cd29d1f4a056a3542fc,Victoria Park Ave / Kingston Rd,5,10
+Toronto-9wvdlVr6,2024-07-25T05:54:21.478000Z,OntarioSt/AdelaideStE-SMART--8EA4Cd4H,2024-07-25,Thursday,00:03,Toronto,328543a3291fd54d24971108f96bb053,Ontario St / Adelaide St E -SMART,18,0
+Toronto-G3gtrJJu,2024-07-25T05:54:22.286000Z,HighviewAve/KennedyRd--iqPaZec4,2024-07-25,Thursday,00:03,Toronto,6140f3635573c8910f854df84e633837,Highview Ave / Kennedy Rd,1,11
+Toronto-VP8SY69a,2024-07-25T05:54:22.304000Z,KingstonRd/WardenAve--eFaNflp8,2024-07-25,Thursday,00:03,Toronto,8e671c6621816f2d0003b23c0bda5e08,Kingston Rd / Warden Ave,5,7
+Toronto-nBYlr0ai,2024-07-25T05:54:22.349000Z,BirchcliffAve/KingstonRd--8ZACrfEI,2024-07-25,Thursday,00:03,Toronto,88ede41a08aa08dfee94f811a9834e1b,Birchcliff Ave / Kingston Rd,7,6
+Toronto-giz8JVP8,2024-07-25T05:54:22.332000Z,KingstonRd/GlenEverestRd--CwKzHsnh,2024-07-25,Thursday,00:03,Toronto,3db3e716f02f4035f98fc1f07a0fecd9,Kingston Rd / Glen Everest Rd,7,7
+Toronto-36xOk8hI,2024-07-25T05:54:22.338000Z,BirchmountRd/KingstonRd--OxS1RUqN,2024-07-25,Thursday,00:03,Toronto,a4e9775f52cd109d87faa6d5de6a395a,Birchmount Rd / Kingston Rd,5,9
+Toronto-hyAjJoXW,2024-07-25T05:54:22.297000Z,PharmacyAve/DanforthAve--0hDRnoiw,2024-07-25,Thursday,00:03,Toronto,bfa44ca6c3c167b3a804a93fc1f0ce36,Pharmacy Ave / Danforth Ave,6,9
+Toronto-h2wpIrtz,2024-07-25T05:54:22.355000Z,DanforthAve/WardenAve--kdrgxKc5,2024-07-25,Thursday,00:03,Toronto,719e676d739529c8d5da8bb89c5c8678,Danforth Ave / Warden Ave,6,9
+Toronto-sG0ACmeF,2024-07-25T05:54:23.862000Z,EglintonAveW/GilbertAve--2Zns995D,2024-07-25,Thursday,00:03,Toronto,4458cd04d9fb8c770ac4bae9d9db2d63,Eglinton Ave W / Gilbert Ave,1,17
+Toronto-6Y6WpuZk,2024-07-25T05:54:23.445000Z,SharpeSt/ParkSt(SandownPark)--PO9ZSPn4,2024-07-25,Thursday,00:03,Toronto,f01ce5efb5e67f30b96994096ac1d300,Sharpe St / Park St (Sandown Park),6,9
+Toronto-DIXPI4TA,2024-07-25T05:54:23.860000Z,EglintonAveW/ProspectCemetery--IQTmBCG3,2024-07-25,Thursday,00:03,Toronto,237e73b6b68d9b4f9ce8dded10a8863b,Eglinton Ave W / Prospect Cemetery,0,18
+Toronto-Njjzwszj,2024-07-25T05:54:23.873000Z,MarleeAve/YorkBeltlineTrail--NDdZpBBK,2024-07-25,Thursday,00:03,Toronto,5d50213748a35f8c70977b69abac0ef3,Marlee Ave / York Beltline Trail,3,15
+Toronto-5jakBXcT,2024-07-25T05:54:23.890000Z,BertRobinsonPark--MadB7Jxk,2024-07-25,Thursday,00:03,Toronto,6e21dd07c568ac71711f1358b58c7f3c,Bert Robinson Park,5,9
+Toronto-bK6lTqsg,2024-07-25T05:54:23.883000Z,RogersRd/ProspectCemetery--DtfmziQN,2024-07-25,Thursday,00:03,Toronto,e59ebca743500b50891c5d639a6ef349,Rogers Rd / Prospect Cemetery,0,22
+Toronto-1HwUwEpb,2024-07-25T05:54:23.876000Z,EglintonAveW/EnnerdaleRd--Jn2DG2tH,2024-07-25,Thursday,00:03,Toronto,3098e8839fd687446744220b13c1744e,Eglinton Ave W / Ennerdale Rd,1,12
+Toronto-sZYFiz82,2024-07-25T05:54:23.544000Z,BloorStW/OldMillTrl--HiczoKG7,2024-07-25,Thursday,00:03,Toronto,8078f553106f543301e06cb4942063c0,Bloor St W / Old Mill Trl,3,15
+Toronto-sInYvSIM,2024-07-25T05:54:23.605000Z,WendoverRd/BloorStW(GreenP)--6LOoFs46,2024-07-25,Thursday,00:03,Toronto,1b853c3b515bbb20d04729c8059f08ee,Wendover Rd / Bloor St W (Green P),0,15
+Toronto-q4SqAAZ1,2024-07-25T05:54:21.197000Z,LuttrellAve/DanforthAve--bqIb9Evf,2024-07-25,Thursday,00:03,Toronto,b97fe36c9f29990955a8b64d6be5f602,Luttrell Ave / Danforth Ave,3,11
+Toronto-sg3DSErk,2024-07-25T05:54:17.977000Z,1926LakeShoreBlvdW--ZzCfg5FZ,2024-07-25,Thursday,00:03,Toronto,e7b2879f63e9d4253fe62838b99f9b4f,1926 Lake Shore Blvd W,22,0
+Toronto-ja1M6FFm,2024-07-25T05:54:17.953000Z,36ParkLawnRd--jSUJS49z,2024-07-25,Thursday,00:03,Toronto,ab463b4b4fbf00bbfbe972989481ed7d,36 Park Lawn Rd,14,0
+Toronto-Vr99IOBm,2024-07-25T05:54:23.448000Z,HowardParkAve/ParksideDr--s7dO6qfW,2024-07-25,Thursday,00:03,Toronto,ad95eee599a96b92c9849bfa5044bba0,Howard Park Ave / Parkside Dr,5,8
+Toronto-I0pIENjk,2024-07-25T05:54:20.425000Z,TedRogersWay/BloorStE--PhPMVaVe,2024-07-25,Thursday,00:03,Toronto,501cea9e754b07ac8713b850ea9b13f2,Ted Rogers Way / Bloor St E,11,11
+Toronto-TP0kEzpP,2024-07-25T05:54:17.842000Z,WalterSaundersPark--EBnOpPbf,2024-07-25,Thursday,00:03,Toronto,b1ab2925abdc520ac548b7e700077bb9,Walter Saunders Park,1,12
+Toronto-VuKq3JiZ,2024-07-25T05:54:17.826000Z,ParkLawnRd/BerryRd--T2Fphrcj,2024-07-25,Thursday,00:03,Toronto,7c454a73ac552534dbda2c7e18d700f2,Park Lawn Rd / Berry Rd,14,1
+Toronto-dJcsq5e5,2024-07-25T05:54:17.883000Z,TobermoryDr/FinchCorridorTrail--rPDGRxix,2024-07-25,Thursday,00:03,Toronto,d98ed5a52cd490b3cc4aa57f11510ecb,Tobermory Dr / Finch Corridor Trail,2,17
+Toronto-y4kf1GyF,2024-07-25T05:54:20.788000Z,DriftwoodAve/FinchCorridorTrail--UslcEtf4,2024-07-25,Thursday,00:03,Toronto,d18724327840a287a10b260d5b3e0b3a,Driftwood Ave / Finch Corridor Trail,2,17
+Toronto-agG8Rh3y,2024-07-25T05:54:21.596000Z,GrandAvenuePark--hOhneLKx,2024-07-25,Thursday,00:03,Toronto,7ef4283f9ce9f067e7127e5431d45f81,Grand Avenue Park,20,1
+Toronto-40MKJUPT,2024-07-25T05:54:17.780000Z,ThePondRd/ShorehamDr--2YrHwSrS,2024-07-25,Thursday,00:03,Toronto,1c756a37352a017e82b4f3d678d00590,The Pond Rd / Shoreham Dr,2,12
+Toronto-z8gozzno,2024-07-25T05:54:21.492000Z,BerkeleySt/AdelaideStE-SMART--3P3FUoGT,2024-07-25,Thursday,00:03,Toronto,cc1432c52b1e87a738180d369ed1136b,Berkeley St / Adelaide St E - SMART,12,0
+Toronto-7L72iJt9,2024-07-25T05:54:22.280000Z,KingstonRd/RidgemoorAve--6FS9Yyo7,2024-07-25,Thursday,00:03,Toronto,a558e5fb7b283d40286ff45d4f2d1d9f,Kingston Rd / Ridgemoor Ave,5,5
+Toronto-XcNbZXLH,2024-07-25T05:54:19.264000Z,MossPark--VhdPPEC0,2024-07-25,Thursday,00:03,Toronto,7598cfd1da04463554587807fee08a3d,Moss Park,9,6
+Toronto-LZPPezlg,2024-07-25T05:54:19.877000Z,YorkSt/LakeShoreBlvdW--DN2FEtXj,2024-07-25,Thursday,00:03,Toronto,354bb1fec6b6bcc47b0f2632de2f270e,York St / Lake Shore Blvd W,0,17
+Toronto-Vot805uM,2024-07-25T05:54:19.277000Z,CollegeSt/HenrySt--wi7eMHKG,2024-07-25,Thursday,00:03,Toronto,9951452d4d7b06a7090aad89d539aee1,College St / Henry St ,0,11
+Toronto-A5o0kG0j,2024-07-25T05:54:22.174000Z,SherbourneSt/IsabellaSt--PFfCJ5ID,2024-07-25,Thursday,00:03,Toronto,99585d4f6ec47a797c42027b8c246d25,Sherbourne St / Isabella St,9,8
+Toronto-N1SBN0G2,2024-07-25T05:54:17.770000Z,VictoriaParkAve/DawesRd--1ndGmyBF,2024-07-25,Thursday,00:03,Toronto,8227765aa9d7a960abddcabec4194956,Victoria Park Ave / Dawes Rd,7,11
+Toronto-chq4O3N4,2024-07-25T05:54:16.520000Z,RoncesvallesAve/FermanaghAve--2pzrlxU6,2024-07-25,Thursday,00:03,Toronto,c6970dbdfda7b8de482a4f593ed5e4f8,Roncesvalles Ave / Fermanagh Ave,13,5
+Toronto-e4nQOlIS,2024-07-25T05:54:18.974000Z,TommyThompsonPark(LeslieStreetSpit)--eR50TzMk,2024-07-25,Thursday,00:03,Toronto,9239e6ede8fefff4cde18784c4dd82b0,Tommy Thompson Park (Leslie Street Spit),23,7
+Toronto-fVP6Djpe,2024-07-25T05:54:19.208000Z,St.John'sRd/DundasStW--511UmqkH,2024-07-25,Thursday,00:03,Toronto,42fd6840fd4d296944709870c6b07d83,St. John's Rd / Dundas St W,3,12
+Toronto-2BHbvbG7,2024-07-25T05:54:19.224000Z,AlbanyAve/BloorStW--oeWOb2Eu,2024-07-25,Thursday,00:03,Toronto,d0d1e35af38818e4f0d4ce2e983ddb67,Albany Ave / Bloor St W,10,5
+Toronto-sZWALrTS,2024-07-25T05:54:19.235000Z,PioneerVillageSubwayStation--bIy9iGRX,2024-07-25,Thursday,00:03,Toronto,8f1ec0b715c806c73e96db74922ca163,Pioneer Village Subway Station,0,11
+Toronto-leDrgIfk,2024-07-25T05:54:19.329000Z,ArmourySt/ChestnutSt--dUFbnYQ7,2024-07-25,Thursday,00:03,Toronto,9c273cbe285ff5d1a12e3736a77fa9df,Armoury St / Chestnut St,4,8
+Toronto-YnT4UntU,2024-07-25T05:54:20.033000Z,25BoothAve--bMN7zuOi,2024-07-25,Thursday,00:03,Toronto,59c65f9b8ad030535168838f871d5895,25 Booth Ave,9,15
+Toronto-pAs0aU2M,2024-07-25T05:54:21.321000Z,St.ClairAveW/OslerSt--0eBYiMsz,2024-07-25,Thursday,00:03,Toronto,5497bba2b352b75075542bf5a290dd8a,St. Clair Ave W / Osler St,9,2
+Toronto-mN5Ma8Bb,2024-07-25T05:54:21.309000Z,SimcoeSt/KingStW--zGx9ZtJl,2024-07-25,Thursday,00:03,Toronto,9fd381407b51a700753caec17607a127,Simcoe St / King St W,0,15
+Toronto-Otp8GjlN,2024-07-25T05:54:21.304000Z,GrenobleDr/GatewayBlvd--yhsiWJXY,2024-07-25,Thursday,00:03,Toronto,af7fe7debf2e8521bcdd991c1bd0b6be,Grenoble Dr / Gateway Blvd,2,12
+Toronto-jcbwKQsO,2024-07-25T05:54:21.297000Z,GrenobleDr/DeauvilleLn--PJ91hwQy,2024-07-25,Thursday,00:03,Toronto,427a1106d58263dd1af25b459ea419b1,Grenoble Dr / Deauville Ln,0,15
+Toronto-avdLJ7BD,2024-07-25T05:54:21.288000Z,GrenobleDr/VendomePl--QESoK5fw,2024-07-25,Thursday,00:03,Toronto,5ef85e20443d6510beb1604c56a32dab,Grenoble Dr / Vendome Pl,0,11
+Toronto-hpcgywBo,2024-07-25T05:54:18.777000Z,ThorncliffeParkDr/LeasideParkTrail--qHai1Ufo,2024-07-25,Thursday,00:03,Toronto,5a0b70488e83a9220011c89551d6a7de,Thorncliffe Park Dr / Leaside Park Trail,6,8
+Toronto-MsSKrn4J,2024-07-25T05:54:18.949000Z,FerrandDr/RochefortDr--5llTYDK4,2024-07-25,Thursday,00:03,Toronto,b621c72d79bc4d5df4258a78fa83412d,Ferrand Dr / Rochefort Dr,1,18
+Toronto-Y0QDcWE7,2024-07-25T05:54:17.759000Z,75ThorncliffeParkDr--BatKmbtl,2024-07-25,Thursday,00:03,Toronto,7cf109e173e4734690f71b81a35ac57d,75 Thorncliffe Park Dr,0,8
+Toronto-oi8ERMCl,2024-07-25T05:54:18.722000Z,MountPleasantRd/DavisvilleAve-SMART--QaVUB2Ac,2024-07-25,Thursday,00:03,Toronto,c1a843f198dd5b944533f5b53672a120,Mount Pleasant Rd / Davisville Ave - SMART,13,2
+Toronto-9dLYm3XW,2024-07-25T05:54:18.725000Z,StClairAveW/AvenueRd--WfawZHxh,2024-07-25,Thursday,00:03,Toronto,f4d33af4f0cfe71c2bc31fa004030b47,St Clair Ave W / Avenue Rd ,14,1
+Toronto-LqYpuLlL,2024-07-25T05:54:17.044000Z,HTOPark(QueensQuayW)--IsSiF4kF,2024-07-25,Thursday,00:03,Toronto,5e41d051a93e4087fc80e372089dbd6c,HTO Park (Queens Quay W),8,18
+Toronto-4JMgFEJg,2024-07-25T05:54:22.568000Z,NassauSt/BellevueAve--NkkrQIDA,2024-07-25,Thursday,00:03,Toronto,dd65003e27abc37a3a1e5b524eb00203,Nassau St / Bellevue Ave,7,8
+Toronto-KmBUdrNi,2024-07-25T05:54:21.790000Z,HuronSt/HarbordSt--L887XI7T,2024-07-25,Thursday,00:03,Toronto,8facbe8d87dc7f1fd7ea00321ba78b50,Huron St / Harbord St,0,39
+Toronto-ggMQlAQe,2024-07-25T05:54:23.463000Z,WardSt/WallaceAve--L8ubWWT3,2024-07-25,Thursday,00:03,Toronto,eb524dc294d5460d6f1d4cdf90b6351f,Ward St / Wallace Ave,3,11
+Toronto-iWgFtNJA,2024-07-25T05:54:17.857000Z,TheWell--WSOzKEE0,2024-07-25,Thursday,00:03,Toronto,7a666ee6c60a7f8ffec9334924d36c6a,The Well,4,8
+Toronto-mHxMy1A7,2024-07-25T05:54:18.720000Z,60CarlHallRd-SMART--Vw6wjFW8,2024-07-25,Thursday,00:03,Toronto,5335413d6fb1eedf5db4e61589946795,60 Carl Hall Rd - SMART,4,16
+Toronto-V3OaqFeS,2024-07-25T05:54:18.652000Z,HTOParkWest--X02N2w40,2024-07-25,Thursday,00:03,Toronto,3c09457be4ce775b0cd37e8b073f4ee8,HTO Park West,11,19
+Toronto-Sz92qfsl,2024-07-25T05:54:18.668000Z,DownsviewParkBlvd/KeeleSt-SMART--jwDnzynZ,2024-07-25,Thursday,00:03,Toronto,c0cb4d9e138defbdefd1f862cf2bd095,Downsview Park Blvd / Keele St  - SMART,5,9
+Toronto-qQxZr1su,2024-07-25T05:54:16.872000Z,DownsviewParkSubwayStation-SMART--LkDzTr2h,2024-07-25,Thursday,00:03,Toronto,9e69637f78eb0df524d0ac37abb4c431,Downsview Park Subway Station - SMART,0,20
+Toronto-DDy5h5Tv,2024-07-25T05:54:18.692000Z,KeeleSt/DovehouseAve-SMART--7xtjlSlQ,2024-07-25,Thursday,00:03,Toronto,7b645bb451744c620f391544a625888d,Keele St / Dovehouse Ave - SMART,5,11
+Toronto-Xviuvxsv,2024-07-25T05:54:17.354000Z,ExhibitionGO(AtlanticAve)--garrBUgb,2024-07-25,Thursday,00:03,Toronto,a79d5810f694370a821fd385145cb109,Exhibition GO (Atlantic Ave),9,5
+Toronto-ukjNdWlc,2024-07-25T05:54:16.568000Z,QueensQuayE/LowerJarvisSt--Jeh4Neu3,2024-07-25,Thursday,00:03,Toronto,3dbd618c6fba43406cf1b8cf9165647b,Queens Quay E / Lower Jarvis St ,9,9
+Toronto-9xdmjJRd,2024-07-25T05:54:20.404000Z,PhoebeSt/SpadinaAve--aEqUPEx7,2024-07-25,Thursday,00:03,Toronto,2ccced1dbd563c3842d265b565098de1,Phoebe St / Spadina Ave,25,3
+Toronto-6RDQZNNi,2024-07-25T05:54:21.934000Z,LynnWilliamsSt/PirandelloSt--DOywMxhT,2024-07-25,Thursday,00:03,Toronto,b1378d745af2e60fe542370cb6374226,Lynn Williams St / Pirandello St ,17,0
+Toronto-pMiTggMd,2024-07-25T05:54:22.651000Z,BaySt/QueensQuayW(FerryTerminal)--ljMHrBHw,2024-07-25,Thursday,00:03,Toronto,c845b03b2ffaa03ebba13b5c61da3af2,Bay St / Queens Quay W (Ferry Terminal),11,24
+Toronto-idYeNaW4,2024-07-25T05:54:16.945000Z,CollegeSt/HuronSt--2G1MWNHv,2024-07-25,Thursday,00:03,Toronto,f8bbce635f366ade23994d02cb6fcc75,College St / Huron St,9,7
+Toronto-OLd39E7T,2024-07-25T05:54:22.499000Z,NorthernDancerBlvd/LakeShoreBlvdE--FwY5sPzF,2024-07-25,Thursday,00:03,Toronto,be39936af5ab6b60d98a2d6756387909,Northern Dancer Blvd / Lake Shore Blvd E,8,17
+Toronto-7QeLg8zG,2024-07-25T05:54:18.247000Z,SpadinaRd/AustinTerrace--5QE2JyDU,2024-07-25,Thursday,00:03,Toronto,146c961dd6b178771287133da0629eba,Spadina Rd / Austin Terrace,7,9
+Toronto-KOE7JlpX,2024-07-25T05:54:17.204000Z,YorkSt/QueensQuayW--jGjIsLFm,2024-07-25,Thursday,00:03,Toronto,38d3408bfdf5a321a15ae61358af4aac,York St / Queens Quay W,4,49
+Toronto-bGAr3xh4,2024-07-25T05:54:19.386000Z,FrontStW/UniversityAve(1)--AzozYzj0,2024-07-25,Thursday,00:03,Toronto,cc38e99861bed2afea72ec6211fecdbf,Front St W / University Ave (1),0,18
+Toronto-jkpzVyrM,2024-07-25T05:54:21.195000Z,WillingdonBlvd/BloorStW(GreenP)--f4AQnw8q,2024-07-25,Thursday,00:03,Toronto,ae77752fa855081311919ad282b18482,Willingdon Blvd / Bloor St W (Green P),1,13
+Toronto-NK1j7NbE,2024-07-25T05:54:16.692000Z,WallaceAve/SymingtonAve-SMART--IRA2cf8c,2024-07-25,Thursday,00:03,Toronto,dbf9d3fb9932d05d7ddda51acd4d26b0,Wallace Ave / Symington Ave - SMART,2,10
+Toronto-KVLWCmuf,2024-07-25T05:54:16.906000Z,WellesleyStationGreenP--XZIpnx8w,2024-07-25,Thursday,00:03,Toronto,c89b262c82b9b2107a954987d36ad4a3,Wellesley Station Green P,7,4
+Toronto-tLdpfOqs,2024-07-25T05:54:20.662000Z,YorkSt/HarbourSt(LovePark)--SeuNrx8O,2024-07-25,Thursday,00:03,Toronto,813af609ddd87595d5352942579a73a9,York St / Harbour St (Love Park),3,10
+Toronto-MjNIBv9c,2024-07-25T05:54:22.666000Z,SherbourneSt/CarltonSt(AllanGardens)--S0IgtGFy,2024-07-25,Thursday,00:03,Toronto,7fac6bfdffa0a7b4ff8a3f1ebd78da81,Sherbourne St / Carlton St (Allan Gardens),15,1
+Toronto-rtyVsHHm,2024-07-25T05:54:17.107000Z,OntarioPlaceBlvd/LakeShoreBlvdW--oGAUmp8k,2024-07-25,Thursday,00:03,Toronto,f91f2493c8cca75e7c70987c8d0a516c,Ontario Place Blvd / Lake Shore Blvd W,0,27
+Toronto-9ZR4YhBw,2024-07-25T05:54:22.436000Z,SimcoeSt/DundasStW-SMART--YyYhwcDF,2024-07-25,Thursday,00:03,Toronto,40e171b076eee2cc9b8405f394f0ace7,Simcoe St / Dundas St W - SMART,5,7
+Toronto-7Xy3RhJR,2024-07-25T05:54:19.769000Z,CollegeSt/MarkhamSt--QGxLuF6m,2024-07-25,Thursday,00:03,Toronto,8362e07e9e4d9c67eb283cae15684c8e,College St / Markham St,9,6
+Toronto-TQ1cb4R2,2024-07-25T05:54:17.468000Z,Sunnyside-GusRyderPool--saDtmgCv,2024-07-25,Thursday,00:03,Toronto,71ecba080a7e19ebfb8dcde4964a5277,Sunnyside - Gus Ryder Pool,2,19
+Toronto-d0cEYEVY,2024-07-25T05:54:17.521000Z,BloorStW/HighParkAve(HighPark)--mJEyvojk,2024-07-25,Thursday,00:03,Toronto,ba4fc8dd224feedb2762d341bf58916f,Bloor St W / High Park Ave (High Park),14,9
+Toronto-z48qplCC,2024-07-25T05:54:19.546000Z,FrontStE/CherrySt--BRmOakJm,2024-07-25,Thursday,00:03,Toronto,15e76731635f7e3ac4484228bc8f60ad,Front St E / Cherry St,14,0
+Toronto-8VHn7WKh,2024-07-25T05:54:20.668000Z,DundasStE/RiverSt--ayB6Talq,2024-07-25,Thursday,00:03,Toronto,092cb5f641f627d7b43e321542ccc066,Dundas St E / River St,18,1
+Toronto-fTpvAVVC,2024-07-25T05:54:20.621000Z,ShuterSt/RiverSt--GyNi2hAw,2024-07-25,Thursday,00:03,Toronto,daf29ca6d17e9b4b4921ebfb3fa749c4,Shuter St/River St,15,0
+Toronto-cCQ5me7P,2024-07-25T05:54:16.920000Z,MadisonAve/BloorStW--fdD4ln7i,2024-07-25,Thursday,00:03,Toronto,83af92756a52874ce9bade85f065f4d1,Madison Ave / Bloor St W,8,5
+Toronto-NY4FCDew,2024-07-25T05:54:21.941000Z,DanforthAve/DanforthRd--0POobpX0,2024-07-25,Thursday,00:03,Toronto,59ebd8c24f539c66f2fa4f178e75eb0a,Danforth Ave / Danforth Rd,2,12
+Toronto-5l4LavNj,2024-07-25T05:54:21.860000Z,BrimleyRd/McCowanDistrictPark--K8TsE5j3,2024-07-25,Thursday,00:03,Toronto,aa44f34bf848cea7d5570c51697d8ac4,Brimley Rd / McCowan District Park,7,11
+Toronto-0Uhpenru,2024-07-25T05:54:21.873000Z,KingStW/JamesonAve-SMART--WapS1eBQ,2024-07-25,Thursday,00:03,Toronto,1829fb7bd0a98ee2fc523f35ea417baf,King St W / Jameson Ave - SMART,10,1
+Toronto-fTXd2RHj,2024-07-25T05:54:21.848000Z,ParkcrestDr/KingstonRd--PpqrS6Wo,2024-07-25,Thursday,00:03,Toronto,8799c470baa28d22cc44e4efd611aef5,Parkcrest Dr / Kingston Rd,4,10
+Toronto-0MFnGEXN,2024-07-25T05:54:21.869000Z,ScarboroughSoccerCentre--vmsFtia7,2024-07-25,Thursday,00:03,Toronto,7f760f7680dae3ad47ef0821337c8366,Scarborough Soccer Centre,4,15
+Toronto-yVo1lSIg,2024-07-25T05:54:21.891000Z,LansdowneAve/SeaforthAve--ZokgIHPM,2024-07-25,Thursday,00:03,Toronto,6f7157a5846ff850e7e5b9f6b8b450c4,Lansdowne Ave / Seaforth Ave ,11,2
+Toronto-UAddKXMB,2024-07-25T05:54:21.907000Z,DanforthRd/BirchmountRd--OO8fD0Ug,2024-07-25,Thursday,00:03,Toronto,cc5bd0485cb1b99156098277af99641f,Danforth Rd / Birchmount Rd ,5,10
+Toronto-kYtmwiEj,2024-07-25T05:54:21.880000Z,PharmacyAve/TeesdalePl--INgkeilr,2024-07-25,Thursday,00:03,Toronto,362434f77c0efeb50a5deb4ca9ce8969,Pharmacy Ave / Teesdale Pl,11,8
+Toronto-huBy96UC,2024-07-25T05:54:17.149000Z,YongeSt/MontgomeryAve-SMART--YoUdwxun,2024-07-25,Thursday,00:03,Toronto,ec83cf5759b66963ff5ea75bee4b9f1d,Yonge St / Montgomery Ave - SMART,2,10
+Toronto-1afYjuGZ,2024-07-25T05:54:21.895000Z,552BirchmountRd--GztU2b9O,2024-07-25,Thursday,00:03,Toronto,8fc44e8a98df79c9c41e04c531551a25,552 Birchmount Rd,3,12
+Toronto-hMKlmaOI,2024-07-25T05:54:21.198000Z,HighfieldRd/GerrardStE--2dLN5uOe,2024-07-25,Thursday,00:03,Toronto,519ee649fcd1ad28beade12953db3732,Highfield Rd / Gerrard St E,2,17
+Toronto-pl6wPYND,2024-07-25T05:54:21.925000Z,EastgateCres/PharmacyAve--4vJzW8Ky,2024-07-25,Thursday,00:03,Toronto,44d245c021bcfb69fed5e4b088d60dd5,Eastgate Cres / Pharmacy Ave ,0,15
+Toronto-rKGFK7DT,2024-07-25T05:54:21.911000Z,FirvalleyCt/WardenAve--P4KG8SDz,2024-07-25,Thursday,00:03,Toronto,84e8e3827807916c9c3ac9b60404346d,Firvalley Ct / Warden Ave,1,18
+Toronto-r46o795I,2024-07-25T05:54:19.649000Z,MidlandAve/KingstonRd--toYneZIt,2024-07-25,Thursday,00:03,Toronto,84dc7d9185e88915466d12f23fe07753,Midland Ave / Kingston Rd,5,11
+Toronto-tU8xzO9Z,2024-07-25T05:54:19.624000Z,BellamyRdS/KingstonRd--sDtBf6wE,2024-07-25,Thursday,00:03,Toronto,6228f42d28032bf18c0a7f9411df5fa0,Bellamy Rd S / Kingston Rd,3,16
+Toronto-lQOzIcsj,2024-07-25T05:54:19.633000Z,AvenueRd/CumberlandSt--FzlcQrX4,2024-07-25,Thursday,00:03,Toronto,ec3b9fd9e808fc3e1819e802f02ea442,Avenue Rd / Cumberland St ,2,10
+Toronto-SPL8Wp5r,2024-07-25T05:54:19.609000Z,FenwoodHt/KingstonRd--uYTXnUgJ,2024-07-25,Thursday,00:03,Toronto,07bf4729ad15e9e2d17d072dfb67e6b0,Fenwood Ht / Kingston Rd,1,14
+Toronto-Xk25pUwW,2024-07-25T05:54:19.619000Z,AvenueRd/MacphersonAve--andk3Fdy,2024-07-25,Thursday,00:03,Toronto,df05fe5ca5c71ce120962deaac85c1fa,Avenue Rd / Macpherson Ave ,1,13
+Toronto-G9iQbeKL,2024-07-25T05:54:19.789000Z,DufferinSt/QueenStW--AiS6vdU2,2024-07-25,Thursday,00:03,Toronto,455237ee758de316844bd61287671f23,Dufferin St / Queen St W,14,0
+Toronto-fvnVve6Z,2024-07-25T05:54:19.608000Z,ShawSt/KingStW--d0A4XXGf,2024-07-25,Thursday,00:03,Toronto,1993b48e5142184f347f9d517f120d03,Shaw St / King St W,7,8
+Toronto-UOncmerK,2024-07-25T05:54:16.052000Z,PortlandSt/QueenStW--g6J5mXve,2024-07-25,Thursday,00:03,Toronto,6eaaf36cd079d08d973fdf24e217aa3d,Portland St / Queen St W,11,3
+Toronto-i7q1rRDe,2024-07-25T05:54:19.628000Z,YongeSt/MertonSt--TwPz0upG,2024-07-25,Thursday,00:03,Toronto,f2bce10cc9ea50a3431d1ed152ff4e2c,Yonge St / Merton St ,20,2
+Toronto-J5mHM1iJ,2024-07-25T05:54:19.659000Z,SoudanAve/YongeSt--M9zP6NEu,2024-07-25,Thursday,00:03,Toronto,b602b86a935450f8aae69903762d466e,Soudan Ave / Yonge St ,19,0
+Toronto-sj8vCiIo,2024-07-25T05:54:19.664000Z,AvenueRd/OxtonAve--9qG6t3D4,2024-07-25,Thursday,00:03,Toronto,1458ace78e8ffe65dd60c610007afe8e,Avenue Rd / Oxton Ave ,6,9
+Toronto-YbbWHGGI,2024-07-25T05:54:17.324000Z,1612DanforthAve--2BGe779U,2024-07-25,Thursday,00:03,Toronto,3b485775d2f902b5529790c4047dff24,1612 Danforth Ave ,7,6
+Toronto-sWpnlzP5,2024-07-25T05:54:17.311000Z,LisgarSt/QueenStW-SMART--T9eTqj0R,2024-07-25,Thursday,00:03,Toronto,b542b8a95776fceb86045c831303a7cd,Lisgar St / Queen St W - SMART,17,3
+Toronto-2sWC4qAT,2024-07-25T05:54:17.309000Z,LeslieSt/CommissionersSt--588lnVP6,2024-07-25,Thursday,00:03,Toronto,786a216c74ede38763e705b21c0284e2,Leslie St / Commissioners St  ,7,11
+Toronto-XPKFp9HX,2024-07-25T05:54:17.307000Z,GreenwoodAve/SammonAve--7lwckgo6,2024-07-25,Thursday,00:03,Toronto,3a73375ca8c3f3fc85b7b32ec080be5e,Greenwood Ave / Sammon Ave,6,4
+Toronto-u0lmBiKK,2024-07-25T05:54:17.382000Z,LansdowneSubwayStation--MOxq8cKH,2024-07-25,Thursday,00:03,Toronto,8b95bdc7ca8373821bef770b8f074c6c,Lansdowne Subway Station,9,13
+Toronto-QiQkUhIQ,2024-07-25T05:54:17.350000Z,WardenSubwayStation--8QFkPsgk,2024-07-25,Thursday,00:03,Toronto,c6bd34bb3023288b5e87df2d3cbb5f43,Warden Subway Station,4,15
+Toronto-fonBDN6r,2024-07-25T05:54:17.344000Z,KingstonRd/ScarboroughGolfClubRd--4r2wUQ7f,2024-07-25,Thursday,00:03,Toronto,0b46fa9ccc3ac1fa00d279abd7e73df2,Kingston Rd / Scarborough Golf Club Rd,4,10
+Toronto-DGmpe95n,2024-07-25T05:54:21.806000Z,WellingtonStW/BaySt--ZbkjfboF,2024-07-25,Thursday,00:03,Toronto,045a7a6b973238dc76bc058e4f33f143,Wellington St W / Bay St,0,55
+Toronto-6ApBWqyY,2024-07-25T05:54:17.331000Z,GreenwoodAve/GerrardStE--a8bcNoaQ,2024-07-25,Thursday,00:03,Toronto,58d6f7db09c9e2f543e26eca10ea7cb6,Greenwood Ave / Gerrard St E,7,7
+Toronto-mdu42wq4,2024-07-25T05:54:21.828000Z,SimcoeSt/WellingtonStWSouth--hwETwadn,2024-07-25,Thursday,00:03,Toronto,dcbcf9c681fbd3e77dfbea6df0e070bc,Simcoe St / Wellington St W South,0,25
+Toronto-eRQYAKTN,2024-07-25T05:54:22.438000Z,GeorgeSt/KingStE--5nUdt6iZ,2024-07-25,Thursday,00:03,Toronto,f622ddb7efda3e9074e12ac16bc7fdd7,George St / King St E,12,1
+Toronto-Cz37yOC1,2024-07-25T05:54:21.238000Z,DundasStW/CrawfordSt--N2coZg43,2024-07-25,Thursday,00:03,Toronto,9d62413fcaba8ee2d11737b28e8651be,Dundas St W / Crawford St,13,33
+Toronto-17NGRSP4,2024-07-25T05:54:22.183000Z,OssingtonAve/BruceSt--s0Xfr3Ij,2024-07-25,Thursday,00:03,Toronto,5539f3700e4ce9e5701353a667924538,Ossington Ave / Bruce St,9,6
+Toronto-zdCYPU81,2024-07-25T05:54:22.401000Z,BloorStW/BalmutoSt--noFwruFN,2024-07-25,Thursday,00:03,Toronto,5dc890e084bc63659659eb43adf210f5,Bloor St W / Balmuto St,0,11
+Toronto-xh9Uw5I6,2024-07-25T05:54:21.636000Z,ParliamentSt/AberdeenAve--ikarlc7q,2024-07-25,Thursday,00:03,Toronto,d16798795a3beff0c7f297cee88deb70,Parliament St / Aberdeen Ave,11,3
+Toronto-ehv4Iukx,2024-07-25T05:54:17.326000Z,ChathamAve/ByronAve--Aq9YBKX2,2024-07-25,Thursday,00:03,Toronto,e8761ce9af6e4ae2a1eaaaf420b2cd71,Chatham Ave / Byron Ave,2,12
+Toronto-eVeizYPY,2024-07-25T05:54:18.758000Z,WakundaPl/O'ConnorDr--LIsi32pt,2024-07-25,Thursday,00:03,Toronto,77d773b9a22a3e2a912a636d4ab89a54,Wakunda Pl / O'Connor Dr,4,6
+Toronto-SDd4OUrA,2024-07-25T05:54:17.281000Z,TiagoAve/WestviewBlvd--yBfJ4AL8,2024-07-25,Thursday,00:03,Toronto,eaabca685376f1b1229969e68c26a1b9,Tiago Ave / Westview Blvd,1,13
+Toronto-NjiIltAe,2024-07-25T05:54:23.371000Z,PlaxtonDr/StClairAveE--8csuQ0vx,2024-07-25,Thursday,00:03,Toronto,086ae84908444d2c0d0faf35deb1704f,Plaxton Dr / St Clair Ave E,1,14
+Toronto-7nmD3LHs,2024-07-25T05:54:23.381000Z,VictoriaParkAve/EdgeParkAve--M3nuItd1,2024-07-25,Thursday,00:03,Toronto,81449d406b64d7d94f71f69d5bac9ff2,Victoria Park Ave / Edge Park Ave,1,17
+Toronto-0WI4Qbiz,2024-07-25T05:54:18.987000Z,GalbraithRd/King'sCollegeRd--BKEq4fDe,2024-07-25,Thursday,00:03,Toronto,8517a9c8716fe48386963ae0a6524f5a,Galbraith Rd / King's College Rd,0,16
+Toronto-VybYzV0q,2024-07-25T05:54:20.176000Z,ExhibitionGOStation--XKgAv7OL,2024-07-25,Thursday,00:03,Toronto,778b6d674fa920334fdf2f007088aa3f,Exhibition GO Station,7,5
+Toronto-AzGPV1u6,2024-07-25T05:54:23.392000Z,FinchSubwayStation--7djTccwr,2024-07-25,Thursday,00:03,Toronto,c27d6b38deaf954439fb6fb0f7542045,Finch Subway Station ,1,17
+Toronto-l1mvNZXE,2024-07-25T05:54:23.397000Z,GlencairnSubwayStation--KBZH7Aew,2024-07-25,Thursday,00:03,Toronto,769a6cb25850b809d38c7a2620731b1e,Glencairn Subway Station,0,15
+Toronto-Nqj9Qih0,2024-07-25T05:54:23.400000Z,GlenLongCommunityCentre--xEDAU4PL,2024-07-25,Thursday,00:03,Toronto,216ff915cee84c00ebe3636ee1bc40bc,Glen Long Community Centre,2,12
+Toronto-PMz2KGmH,2024-07-25T05:54:23.404000Z,CaledoniaRd/LothertonPathway--3MzYD0rI,2024-07-25,Thursday,00:03,Toronto,f0da3c366706de4cbcc2bba104331023,Caledonia Rd / Lotherton Pathway,8,8
+Toronto-QvAT2QFF,2024-07-25T05:54:23.409000Z,HarvieAve/RogersRd--GxzIsy1e,2024-07-25,Thursday,00:03,Toronto,f17b2cacee03b81324030881d439f7a9,Harvie Ave / Rogers Rd,1,17
+Toronto-APxKFcf2,2024-07-25T05:54:23.414000Z,LingRd/MorningsideAve--Tq6y57Et,2024-07-25,Thursday,00:03,Toronto,843602f3de2dc3c06cfacd5bf0a1a0fe,Ling Rd / Morningside Ave,14,4
+Toronto-LTa52ola,2024-07-25T05:54:23.281000Z,LakeShoreBlvdW/LegionRd--SCqkAxIC,2024-07-25,Thursday,00:03,Toronto,73a39d0e39f18c0201caac2def38140f,Lake Shore Blvd W / Legion Rd,15,0
+Toronto-Z7VfakvF,2024-07-25T05:54:21.194000Z,LakeShoreBlvdW/SeventeenthSt--In2Oi8GK,2024-07-25,Thursday,00:03,Toronto,a6e98c52c1541c26efb19ef524a95247,Lake Shore Blvd W / Seventeenth St,6,4
+Toronto-5VqrUMO7,2024-07-25T05:54:15.816000Z,MabellePark--E2knnunj,2024-07-25,Thursday,00:03,Toronto,a61c1c53028dc937958291979ad82de8,Mabelle Park,0,13
+Toronto-xhSnshgW,2024-07-25T05:54:15.806000Z,IslingtonSubwayStation(AberfoyleCres)--lBUBxydf,2024-07-25,Thursday,00:03,Toronto,558270f5714fec81ad57e09729ffb761,Islington Subway Station (Aberfoyle Cres),1,14
+Toronto-gBAijo84,2024-07-25T05:54:21.192000Z,LakeShoreBlvdW/LongBranchAve--brxmg9ri,2024-07-25,Thursday,00:03,Toronto,b8ce9f7014a12acd13872c96630dc107,Lake Shore Blvd W / Long Branch Ave,9,2
+Toronto-xUYJsriG,2024-07-25T05:54:20.988000Z,SecondSt/LakeShoreBlvdW--DGcQfgax,2024-07-25,Thursday,00:03,Toronto,7e1ef79ac24de4ac7eded230e7caeff4,Second St / Lake Shore Blvd W,14,0
+Toronto-kGwYHAD7,2024-07-25T05:54:21.005000Z,BloorStW/DundasStW(2)--OFbfOHyU,2024-07-25,Thursday,00:03,Toronto,71cf95ad04d0a455045bcc030c7dd282,Bloor St W / Dundas St W (2),7,8
+Toronto-C0r4eHtd,2024-07-25T05:54:20.942000Z,ViewmountPark--WRJynXGp,2024-07-25,Thursday,00:03,Toronto,323fcb6c6ca04b1cc1ca2b361adb3217,Viewmount Park,0,15
+Toronto-VdFfUNtP,2024-07-25T05:54:20.965000Z,SixthSt/LakeShoreBlvdW--pmuYnqg4,2024-07-25,Thursday,00:03,Toronto,452b30fbf0fc84eedbd3a7723bdafea0,Sixth St / Lake Shore Blvd W,12,1
+Toronto-JQKgXQRJ,2024-07-25T05:54:22.562000Z,QueenStW/JohnSt--WiqG3BiA,2024-07-25,Thursday,00:03,Toronto,14971ec1c8aa07165b67710a2afb84c2,Queen St W / John St,4,15
+Toronto-T5fCDDew,2024-07-25T05:54:18.774000Z,MaudSt/AdelaideStW--LuroIxKX,2024-07-25,Thursday,00:03,Toronto,2383fa5f5c21140fe68f8b6dda91a1b1,Maud St / Adelaide St W,5,10
+Toronto-vBwejJfA,2024-07-25T05:54:18.768000Z,YorkRecreationCentre--PaMKC9s9,2024-07-25,Thursday,00:03,Toronto,d926a243600989278d9df1e9156a8ac5,York Recreation Centre,2,20
+Toronto-DBMF8MX7,2024-07-25T05:54:18.772000Z,TretheweyDr/BlackCreekDr--8BKJUTBo,2024-07-25,Thursday,00:03,Toronto,25beb3f096bca69d14c865774e03b0e8,Trethewey Dr / Black Creek Dr,2,13
+Toronto-yuBnqql3,2024-07-25T05:54:22.836000Z,KeeleSt/IngramDr--smuMuR3C,2024-07-25,Thursday,00:03,Toronto,5fc306e019cf6a10e5f8096acfc2c910,Keele St / Ingram Dr,0,11
+Toronto-acQUEobw,2024-07-25T05:54:18.785000Z,JaneSt/HaneyAve--wreHD7Ib,2024-07-25,Thursday,00:03,Toronto,a12d9002aaf2ad0f0f14c3952bd5e0ef,Jane St / Haney Ave,4,15
+Toronto-gQmvlY3z,2024-07-25T05:54:18.788000Z,ScarlettRd/EileenAve--80ZXX49Z,2024-07-25,Thursday,00:03,Toronto,ba8491c919d03c2df6ecfdd2f49bf386,Scarlett Rd / Eileen Ave,3,12
+Toronto-oPV5cX2p,2024-07-25T05:54:18.780000Z,ScarlettRd/OldScarlettRd--mBNwv06E,2024-07-25,Thursday,00:03,Toronto,487f2f445a917af1d4fecb653ab5323a,Scarlett Rd / Old Scarlett Rd ,7,8
+Toronto-hRcB2ksh,2024-07-25T05:54:18.782000Z,EglintonAveW/VennCres--lf8VaKPv,2024-07-25,Thursday,00:03,Toronto,709a2d134b022632c50a0a7601762715,Eglinton Ave W / Venn Cres,5,14
+Toronto-Ci3IwMEk,2024-07-25T05:54:18.828000Z,RogersRd/BicknellAve--rrypAqli,2024-07-25,Thursday,00:03,Toronto,b5ad1157fda3b700cc6d0ffcd32295bc,Rogers Rd / Bicknell Ave,1,21
+Toronto-C1LRNEUr,2024-07-25T05:54:16.388000Z,CruickshankPark--rXYZl1lf,2024-07-25,Thursday,00:03,Toronto,8e7a7ed4aca59d5a9bd6606d2b3b5d08,Cruickshank Park,0,10
+Toronto-QlWzRyLv,2024-07-25T05:54:18.844000Z,MallabyPark--ryaHmihe,2024-07-25,Thursday,00:03,Toronto,3787fcc5d521f5f5a12d7c15d8ce4d51,Mallaby Park ,1,11
+Toronto-AChIO7Oq,2024-07-25T05:54:16.380000Z,EmmettAve--AkT39cun,2024-07-25,Thursday,00:03,Toronto,d310230182f10034968c97f0c799ee0b,Emmett Ave,1,17
+Toronto-6drRvFAD,2024-07-25T05:54:16.372000Z,JaneSt/WestonRd--1I8dzTnE,2024-07-25,Thursday,00:03,Toronto,4bb6616d228bef48cacf56e55952d22c,Jane St / Weston Rd,2,13
+Toronto-Hsogejzl,2024-07-25T05:54:16.360000Z,JaneSt/QueensDr--nEYcFGDW,2024-07-25,Thursday,00:03,Toronto,b9968838980358b9b14c03e5894fd3e9,Jane St / Queens Dr,0,15
+Toronto-ayUEwcHl,2024-07-25T05:54:16.336000Z,2700EglintonAveW--LeTXZNdb,2024-07-25,Thursday,00:03,Toronto,1acb494034578036df5811294b853b12,2700 Eglinton Ave W,33,2
+Toronto-TC4IbS1i,2024-07-25T05:54:16.562000Z,265ArmadaleAve--WI3MEvFB,2024-07-25,Thursday,00:03,Toronto,df51480ffd94a7b3412a6d3cc7706585,265 Armadale Ave,29,8
+Toronto-Wm9psIyK,2024-07-25T05:54:16.436000Z,SentinelRd/SheppardAveW--5JvLpAuj,2024-07-25,Thursday,00:03,Toronto,e5f9b21c3995c434d0978634faed2a08,Sentinel Rd / Sheppard Ave W,5,10
+Toronto-gByZ8Xka,2024-07-25T05:54:19.968000Z,HighPark-WestRd--q58u2C7J,2024-07-25,Thursday,00:03,Toronto,2488c941ca12639d2852ad9cbba92626,High Park - West Rd,5,17
+Toronto-qrZiQRAe,2024-07-25T05:54:23.904000Z,HighParkAmphitheatre--1Nj1swiF,2024-07-25,Thursday,00:03,Toronto,1e9a239336b30d755305f5041c582f05,High Park Amphitheatre,3,20
+Toronto-sRc66xxc,2024-07-25T05:54:23.912000Z,HighParkOutdoorPool--PnOR4FFK,2024-07-25,Thursday,00:03,Toronto,0f6db2aa8f96b5a7e102eb705b9ccc11,High Park Outdoor Pool,1,25
+Toronto-6Ib7LMSf,2024-07-25T05:54:22.205000Z,HumberRiverHospital--5vtyzbMy,2024-07-25,Thursday,00:03,Toronto,d44a49765bc28c4e8f29edd8cb694294,Humber River Hospital ,0,13
+Toronto-xjT8trGL,2024-07-25T05:54:16.448000Z,SheppardAveW/ChesswoodDr--9OcCXVbf,2024-07-25,Thursday,00:03,Toronto,122f61f32933992b90325cf6b02de9d5,Sheppard Ave W / Chesswood Dr,0,18
+Toronto-CmNYENrl,2024-07-25T05:54:22.220000Z,JaneSt/LawrenceAveW--lYnXfh7j,2024-07-25,Thursday,00:03,Toronto,543865bb3e4e09a051a0cb31322af71e,Jane St / Lawrence Ave W,0,14
+Toronto-ZbMIdbKC,2024-07-25T05:54:16.352000Z,SussexAve/StGeorgeSt--x5mnaFyX,2024-07-25,Thursday,00:03,Toronto,33ec997a2ea47262cb99a5918f15691a,Sussex Ave / St George St,0,14
+Toronto-3YbDJse6,2024-07-25T05:54:22.223000Z,KeeleSt/CatfordRd--wGQSxCMI,2024-07-25,Thursday,00:03,Toronto,3d2b767a1af0d75059d1fd78079d1216,Keele St / Catford Rd,4,10
+Toronto-DBtQhjGN,2024-07-25T05:54:23.936000Z,GerrardStE/NasmithAve--jWvB07A9,2024-07-25,Thursday,00:03,Toronto,75e99d6d359bc2d11479941e6f9279e4,Gerrard St E / Nasmith Ave ,12,10
+Toronto-MtAQ6XYA,2024-07-25T05:54:20.053000Z,KingStW/PortlandSt-SMART--9VqVaj4U,2024-07-25,Thursday,00:03,Toronto,32cbcb81d2d04a16ed2d1d2ed35220d4,King St W / Portland St - SMART,16,14
+Toronto-B5eCDLtK,2024-07-25T05:54:23.351000Z,SentinelRd/FinchAveW--Q4PN42Rj,2024-07-25,Thursday,00:03,Toronto,022818120bd4e5138186fe1ab57f791a,Sentinel Rd / Finch Ave W,2,13
+Toronto-ZStYCfym,2024-07-25T05:54:19.584000Z,OakdaleCommunityCentre--y0TECX7Z,2024-07-25,Thursday,00:03,Toronto,103d15a731b9d215637c447fea0c7209,Oakdale Community Centre,6,9
+Toronto-VMJSFz7m,2024-07-25T05:54:22.180000Z,ThePondRd/IanMacdonaldBlvd--cXM2VbFc,2024-07-25,Thursday,00:03,Toronto,fbc181887030746137034a35fb5f7cfd,The Pond Rd / Ian Macdonald Blvd,0,15
+Toronto-rUVy3VoD,2024-07-25T05:54:16.576000Z,75HollySt--VQPFvZDg,2024-07-25,Thursday,00:03,Toronto,1c0219e93091b1027eda482f4a31ded6,75 Holly St,2,18
+Toronto-P61qmmJN,2024-07-25T05:54:18.393000Z,BathurstSt/DundasStW--7IOtgW3i,2024-07-25,Thursday,00:03,Toronto,f9095ffa2741d962cd7c3c3bef2ab8a7,Bathurst St / Dundas St W,0,23
+Toronto-pJjwGGST,2024-07-25T05:54:16.324000Z,697LansdowneAve--FgbiW7pK,2024-07-25,Thursday,00:03,Toronto,86207afc6caf1d9931468449070c148e,697 Lansdowne Ave ,9,3
+Toronto-t5Ljec9z,2024-07-25T05:54:22.192000Z,JaneSt/YewtreeBlvd--IoS6WmQG,2024-07-25,Thursday,00:03,Toronto,ee019f1c082cac84d721e071f41b4e77,Jane St / Yewtree Blvd,0,15
+Toronto-NDCg1Byc,2024-07-25T05:54:22.243000Z,WestonRd/SheppardAveW--rt0r2mFo,2024-07-25,Thursday,00:03,Toronto,3586c281a5706af58a3e4d5d637e7bfc,Weston Rd / Sheppard Ave W,2,13
+Toronto-8sfDUuFb,2024-07-25T05:54:22.196000Z,JaneSt/YorkwoodsGt--78WUS7UK,2024-07-25,Thursday,00:03,Toronto,161ab27f7f32ba3232c688d388731574,Jane St / Yorkwoods Gt,2,13
+Toronto-wbbB9sL3,2024-07-25T05:54:16.240000Z,LindylouRd/LanyardRd--rd3EL9i3,2024-07-25,Thursday,00:03,Toronto,3654ed1bd8516fddd2364502084cd01b,Lindylou Rd / Lanyard Rd,0,14
+Toronto-kmXAaZQL,2024-07-25T05:54:16.262000Z,TangiersRd/FinchAveW--32E1tVpH,2024-07-25,Thursday,00:03,Toronto,3f09d8a338e4501752365339f106a1ff,Tangiers Rd / Finch Ave W,0,15
+Toronto-3YGPrpfx,2024-07-25T05:54:16.245000Z,WynfordHeightsCres/ConcordePl--XImXjCFT,2024-07-25,Thursday,00:03,Toronto,eb00d171668cedf07334d8504a1dbd79,Wynford Heights Cres / Concorde Pl,2,8
+Toronto-nFIAmC03,2024-07-25T05:54:16.284000Z,BartleyPark--ikEJSQmx,2024-07-25,Thursday,00:03,Toronto,6b344a9f4d6c85f7a5f4dbd25dbb2cc3,Bartley Park ,0,15
+Toronto-4XjAgmAt,2024-07-25T05:54:16.272000Z,BrooklawnAve/KingstonRd--XZxoAfEX,2024-07-25,Thursday,00:03,Toronto,57b827c6b26680677f9210d912f842ee,Brooklawn Ave / Kingston Rd,5,5
+Toronto-YsaGeOLE,2024-07-25T05:54:21.388000Z,GerrardSquareMall(1010GerrardStE)--bcV0UFnH,2024-07-25,Thursday,00:03,Toronto,a0a11d15c4bd8231d739f71d85a8f29c,Gerrard Square Mall (1010 Gerrard St E),16,6
+Toronto-btjg5xPR,2024-07-25T05:54:18.133000Z,JohnSt/MercerSt-SMART--1WJsxJJy,2024-07-25,Thursday,00:03,Toronto,ccb82af3c137b126999a511eaead0f38,John St  / Mercer St - SMART,2,9
+Toronto-C1VVRRPJ,2024-07-25T05:54:22.098000Z,UniversityAve/GerrardStW-SMART(South)--5vSU93Vp,2024-07-25,Thursday,00:03,Toronto,f3f1657964f64d6b4355e42b0261c789,University Ave / Gerrard St W - SMART(South),0,14
+Toronto-OzmU3kZo,2024-07-25T05:54:16.296000Z,JaneSt/FinchAveW--jjZ4IHwE,2024-07-25,Thursday,00:03,Toronto,9052dabe138fde46f56ee3a693b040cf,Jane St / Finch Ave W,0,15
+Toronto-SACyS7el,2024-07-25T05:54:21.160000Z,UnoDr/TheQueensway--dd4Ht8en,2024-07-25,Thursday,00:03,Toronto,100594f0c1240ddcfb94c20a7fc54492,Uno Dr / The Queensway,13,2
+Toronto-kcEtkxPx,2024-07-25T05:54:16.400000Z,SimcoeSt/ElmSt--iQxhv6pN,2024-07-25,Thursday,00:03,Toronto,301eed3e90079c5aacccf8f091da64b3,Simcoe St / Elm St,1,10
+Toronto-cTdTWLcX,2024-07-25T05:54:22.259000Z,OverleaBlvd/ThorncliffeParkDr--WSBLIF4n,2024-07-25,Thursday,00:03,Toronto,0ed2c0bb820523fc4d79b053e79fab5e,Overlea Blvd / Thorncliffe Park Dr,0,18
+Toronto-9UZm0Qtc,2024-07-25T05:54:16.220000Z,TheKingsway/AshleyRd--BSm8pYK2,2024-07-25,Thursday,00:03,Toronto,be2b9ca08b33ec742028063154706378,The Kingsway / Ashley Rd,2,11
+Toronto-DYVAwaXo,2024-07-25T05:54:16.204000Z,DundasStW/PrinceEdwardDrN--ii0QB315,2024-07-25,Thursday,00:03,Toronto,9c009c161f6266165386889055afdbd6,Dundas St W / Prince Edward Dr N,3,13
+Toronto-96taD8bp,2024-07-25T05:54:22.162000Z,60BroadwayAve--e3EtK929,2024-07-25,Thursday,00:03,Toronto,4ce279295f87f42bab37bb1e47448630,60 Broadway Ave,0,13
+Toronto-Yk4UG8KH,2024-07-25T05:54:22.373000Z,Opposite1103LeslieSt--vc134DNd,2024-07-25,Thursday,00:03,Toronto,9522f94ed6253c90336abf00346620aa,Opposite 1103 Leslie St,9,10
+Toronto-OWYotaJV,2024-07-25T05:54:22.661000Z,WidmerSt/AdelaideStW-SMART--j9teeCLf,2024-07-25,Thursday,00:03,Toronto,7217236fd8a18e75df0b026ba219f2ac,Widmer St / Adelaide St W - SMART,5,6
+Toronto-9kYeboE8,2024-07-25T05:54:16.288000Z,800FleetSt(North)--EF9ww7ej,2024-07-25,Thursday,00:03,Toronto,cd1365da833091487f8bb6167af3b51c,800 Fleet St (North),7,5
+Toronto-tymC9GkD,2024-07-25T05:54:22.324000Z,800FleetSt(South)--FUvrweoM,2024-07-25,Thursday,00:03,Toronto,0f773cf33d1731bf05d678ebb945021e,800 Fleet St (South),7,26
+Toronto-ZsnyT5DS,2024-07-25T05:54:22.424000Z,Queen'sParkCresE/GrosvenorSt-SMART--FJdB6KRD,2024-07-25,Thursday,00:03,Toronto,8402cda81d70fbc893e5337366df8d58,Queen's Park Cres E / Grosvenor St - SMART,0,15
+Toronto-y0xilxqJ,2024-07-25T05:54:22.142000Z,ErskineAve/RedpathAve--KPCoe5gI,2024-07-25,Thursday,00:03,Toronto,6af8017ad238ae1d069be67118ce5fc5,Erskine Ave / Redpath Ave,14,0
+Toronto-PXW8kfgm,2024-07-25T05:54:22.128000Z,ArlingtonParkette--iNo7rzer,2024-07-25,Thursday,00:03,Toronto,d7068d4e8b75b5de3cacc529691f159a,Arlington Parkette,1,14
+Toronto-Q0UpbYar,2024-07-25T05:54:22.136000Z,KeeleSt/LloydAve--NVbHmtDZ,2024-07-25,Thursday,00:03,Toronto,316d458068c46859ff35dd87578ac14d,Keele St / Lloyd Ave,1,13
+Toronto-wFTVqWmO,2024-07-25T05:54:16.412000Z,GunnsRd/LavenderCreekTrail--z9DvJmd5,2024-07-25,Thursday,00:03,Toronto,581459af76a94b051df1437a2c641d05,Gunns Rd / Lavender Creek Trail,3,12
+Toronto-lnFmWt3l,2024-07-25T05:54:17.700000Z,20CharlesStE--Mb6LenrQ,2024-07-25,Thursday,00:03,Toronto,d9b63bdad84959af04feaa873f9c0eaf,20 Charles St E,6,16
+Toronto-ZeAmrl51,2024-07-25T05:54:16.406000Z,BloorStW/KingsmillRd--ArG5Juni,2024-07-25,Thursday,00:03,Toronto,caae67595976983dc8c383dc592180dc,Bloor St W / Kingsmill Rd,1,10
+Toronto-2ainfgnJ,2024-07-25T05:54:16.424000Z,StClairAveW/SymesRd--3UP6Yxq6,2024-07-25,Thursday,00:03,Toronto,0a28cd61ad950b8ebc49d08f1b3936ee,St Clair Ave W / Symes Rd,6,6
+Toronto-pX49pCEk,2024-07-25T05:54:16.432000Z,PalmerstonBlvd/LennoxSt--1wzovoNW,2024-07-25,Thursday,00:03,Toronto,f09065f8c579326456b4b30837f0e96f,Palmerston Blvd / Lennox St,8,2
+Toronto-sbbI971f,2024-07-25T05:54:20.684000Z,14ArundelAve--waPCXpGw,2024-07-25,Thursday,00:03,Toronto,5f06c49f182da959fa0f03e746fc2e4a,14 Arundel Ave,7,17
+Toronto-2wGGm6re,2024-07-25T05:54:22.708000Z,ScottSt/TheEsplanade--14s0lz13,2024-07-25,Thursday,00:03,Toronto,bfe199383cd6a1bb69ec0a92a4900918,Scott St / The Esplanade,6,11
+Toronto-HZv6uhHf,2024-07-25T05:54:15.844000Z,HumberBayShoresPark/MarineParadeDr--oniDKwwI,2024-07-25,Thursday,00:03,Toronto,b24ec0083f9a6261ba6212d69cd28f2c,Humber Bay Shores Park / Marine Parade Dr,55,4
+Toronto-U4o9I7w3,2024-07-25T05:54:20.782000Z,365LippincottSt--bD8wyWbu,2024-07-25,Thursday,00:03,Toronto,e23bf5a5ce76983f962ad8f9524e00ab,365 Lippincott St,12,5
+Toronto-gDOBR30P,2024-07-25T05:54:20.468000Z,E.TSetonPark-South--zyRb2h47,2024-07-25,Thursday,00:03,Toronto,fb7be9c97f75af521151fda98e85d7f4,E.T Seton Park - South ,1,21
+Toronto-Gu2WCgR9,2024-07-25T05:54:18.467000Z,EglintonAveE/BrentcliffeRd--QxjvxfjX,2024-07-25,Thursday,00:03,Toronto,7b4755b8ea7caf158967d13b0ea2a32d,Eglinton Ave E / Brentcliffe Rd,3,11
+Toronto-KMo54ZvY,2024-07-25T05:54:18.456000Z,KingStW/YorkSt(2)--3yROi6Y3,2024-07-25,Thursday,00:03,Toronto,97b424e77042aeb9a491f1e6bb11c14b,King St W / York St (2),0,19
+Toronto-YXRXo7mm,2024-07-25T05:54:18.984000Z,KingStE/BerkeleySt--thlB3GBO,2024-07-25,Thursday,00:03,Toronto,1d35b8fd44d73aabbb39f6e142ee3e7e,King St E / Berkeley St,6,23
+Toronto-wGT9DrY2,2024-07-25T05:54:20.776000Z,PrincessSt/FrontStE--9oGpe6mi,2024-07-25,Thursday,00:03,Toronto,bf5d4d14e7619f5ff51e264e4095cc4b,Princess St / Front St E,13,0
+Toronto-yOrVAXKp,2024-07-25T05:54:18.791000Z,St.GeorgeSt/WillcocksSt--mRaOod9A,2024-07-25,Thursday,00:03,Toronto,c53d12128be1f1022c4b78518cca7675,St. George St / Willcocks St,6,16
+Toronto-pws19SXx,2024-07-25T05:54:18.521000Z,YorkSt/WellingtonStW(2)--YU2m2vRn,2024-07-25,Thursday,00:03,Toronto,d0f019574616cb2bce86924059a4c0f8,York St / Wellington St W (2),0,26
+Toronto-u0PgIhuc,2024-07-25T05:54:20.089000Z,HighParkBlvd/ParksideDr--mSwbIHCC,2024-07-25,Thursday,00:03,Toronto,479d21ebdac47eb8e30a209268e0bebe,High Park Blvd / Parkside Dr,10,5
+Toronto-9forqmeK,2024-07-25T05:54:16.901000Z,YongeSt/AlexanderSt-SMART--gHTc9mOe,2024-07-25,Thursday,00:03,Toronto,9a5a9a00b6f0cb77047f37e70887d891,Yonge St / Alexander St - SMART,1,15
+Toronto-rPIdTyTs,2024-07-25T05:54:18.904000Z,RogersRd/WattAve--ipPiNbQ0,2024-07-25,Thursday,00:03,Toronto,12ff7c783a2e93510819802cd0d2c365,Rogers Rd / Watt Ave,5,9
+Toronto-PrmRZ00L,2024-07-25T05:54:21.724000Z,BloorStE/ParliamentSt--zHpCTxHx,2024-07-25,Thursday,00:03,Toronto,531aa6a10312c51ffdf8a58608a29c5a,Bloor St E / Parliament St,7,9
+Toronto-HBLeQl6E,2024-07-25T05:54:18.891000Z,UniversityAve/PearlSt--LHRUjXLT,2024-07-25,Thursday,00:03,Toronto,509c1014d04a16c25fa22822b85318fd,University Ave / Pearl St ,0,16
+Toronto-PYtZt6pB,2024-07-25T05:54:18.869000Z,KingStW/UniversityAve--fHBZaHBO,2024-07-25,Thursday,00:03,Toronto,6fd025b50c54cb8b8f23e861b54e5938,King St W / University Ave,0,18
+Toronto-acLH34K1,2024-07-25T05:54:18.804000Z,JoeShusterWay/KingStW--thoaws3C,2024-07-25,Thursday,00:03,Toronto,2889401ba82ea091cd0d1ecff6ab5c56,Joe Shuster Way / King St W ,19,0
+Toronto-auvdOD34,2024-07-25T05:54:22.368000Z,AlbionRd/ArcotBlvd--hT6u0e6K,2024-07-25,Thursday,00:03,Toronto,88160dbfae368327ec39ecb0df145055,Albion Rd/ Arcot Blvd,8,4
+Toronto-WM642FbP,2024-07-25T05:54:15.860000Z,ArmelCt/AlbionRd--N9lQFBAf,2024-07-25,Thursday,00:03,Toronto,680a0b51862cb1e5a1cd965a824d0dd9,Armel Ct / Albion Rd,0,18
+Toronto-DqnxFws7,2024-07-25T05:54:23.421000Z,75TandridgeCres--qL9fZWA5,2024-07-25,Thursday,00:03,Toronto,97416e3d0063fa4952e8e667f7a6de08,75 Tandridge Cres,12,2
+Toronto-oFOJZmkA,2024-07-25T05:54:23.426000Z,IslingtonAve/FinchAveW--UiNc5y28,2024-07-25,Thursday,00:03,Toronto,2bd06fb77a7734b960080c30c16fb190,Islington Ave / Finch Ave W,3,12
+Toronto-YvTsOCq8,2024-07-25T05:54:20.845000Z,TretheweyDr/JaneSt--eMxHekkN,2024-07-25,Thursday,00:03,Toronto,58dfa00434a5fb645fdd0107c68a2302,Trethewey Dr / Jane St,1,17
+Toronto-C6LeMvZd,2024-07-25T05:54:15.980000Z,NiagaraSt/RichmondStW--gd9lpgQc,2024-07-25,Thursday,00:03,Toronto,aec7195bb028b992ab8536f51c7d37f8,Niagara St / Richmond St W,23,18
+Toronto-9t1Gpf2K,2024-07-25T05:54:23.255000Z,DuncanSt/AdelaideStW-SMART--cOdcBnBv,2024-07-25,Thursday,00:03,Toronto,0fbdefeb0bfefe959be202d06ac88ed8,Duncan St / Adelaide St W - SMART,0,12
+Toronto-g7iat1GI,2024-07-25T05:54:20.829000Z,NiagaraSt/KingStW-SMART--p8QiRyaA,2024-07-25,Thursday,00:03,Toronto,ab2fdf22270be8d0f0e1d7bf22b08e7a,Niagara St / King St W - SMART,4,18
+Toronto-iALGEQpG,2024-07-25T05:54:20.837000Z,35ErindaleAve--liYLKUNR,2024-07-25,Thursday,00:03,Toronto,bc86932eec20796276a7f8f4171eac2d,35 Erindale Ave,3,19
+Toronto-tliZov14,2024-07-25T05:54:19.969000Z,BroadviewSubwayStation--1RL954Ll,2024-07-25,Thursday,00:03,Toronto,b1bb117ee97b3fef3ac3b57ae12329f8,Broadview Subway Station,3,11
+Toronto-b6wVtt67,2024-07-25T05:54:21.458000Z,LoganAve/BainAve--Bim98NbQ,2024-07-25,Thursday,00:03,Toronto,fbf3bb78beefa587d54c8b24e2533469,Logan Ave / Bain Ave,17,1
+Toronto-R8pik7GN,2024-07-25T05:54:16.232000Z,QueensQuayE/Merchants'Wharf--itHX3a1P,2024-07-25,Thursday,00:03,Toronto,e441f2c2eb1ee656c751ae89b5f28ba9,Queens Quay E / Merchants' Wharf,8,19
+Toronto-mNN6Gxfc,2024-07-25T05:54:17.458000Z,ParksideDr/BloorStW-SMART--Vw2cWRo8,2024-07-25,Thursday,00:03,Toronto,196146f920152f5d70175a14f0e88184,Parkside Dr / Bloor St W - SMART,3,7
+Toronto-lZiqmXrK,2024-07-25T05:54:22.393000Z,ChurchSt/DundasStE-SMART--kN1pm60I,2024-07-25,Thursday,00:03,Toronto,d70594ad9c923bbbae6602d2dff4d154,Church St / Dundas St E - SMART,11,9
+Toronto-dI3PdQgs,2024-07-25T05:54:20.802000Z,McRaeDr/LairdDr-SMART--2JOCvLLj,2024-07-25,Thursday,00:03,Toronto,9780f1af94b192d3fd4a7791b1272653,McRae Dr / Laird Dr - SMART,1,21
+Toronto-4b4FCoRQ,2024-07-25T05:54:22.249000Z,WestonRd/LanyardRd--VDD11H7o,2024-07-25,Thursday,00:03,Toronto,6bd88200486000a93cc1ca5b78bc5ba9,Weston Rd / Lanyard Rd,1,9
+Toronto-2Qr9cP3G,2024-07-25T05:54:22.130000Z,50OverleaBlvd--ezyPZ4DW,2024-07-25,Thursday,00:03,Toronto,4cb41f3ebdb86acc404a0c2683aa1920,50 Overlea Blvd,0,13
+Toronto-dKXangmv,2024-07-25T05:54:22.812000Z,UniversityAve/RichmondStW--MZ2XblJ7,2024-07-25,Thursday,00:03,Toronto,804d33486cc649ec8fa4f1ef762caf0a,University Ave / Richmond St W,0,13
+Toronto-DGTymfhd,2024-07-25T05:54:19.321000Z,UniversityAve/QueenStW--7bFLzVOV,2024-07-25,Thursday,00:03,Toronto,dc08a348402ae50b98dcbec122c0ab84,University Ave / Queen St W,0,18
+Toronto-YlHTQmek,2024-07-25T05:54:19.909000Z,LonsdaleRd/SpadinaRd--m1cTzZzO,2024-07-25,Thursday,00:03,Toronto,c627928483ecb6ae00b50fee53d608d0,Lonsdale Rd / Spadina Rd,0,0
+Toronto-fm3l26Wh,2024-07-25T05:54:18Z,StrachanAve/EastLibertySt-SMART--ORsawsQM,2024-07-25,Thursday,00:03,Toronto,92291585d153499d1b34f2471d8ecf9f,Strachan Ave / East Liberty St - SMART,18,2
+Toronto-8uX8owp0,2024-07-25T05:54:20.888000Z,SimcoeSt/PullanPl--8XJAwGVT,2024-07-25,Thursday,00:03,Toronto,aed73d18bad350cbb28c6f04cfb4cd2a,Simcoe St / Pullan Pl,1,29
+Toronto-45B2NNb1,2024-07-25T05:54:20.892000Z,SpadinaAve/BulwerSt-SMART--EUCu0VMZ,2024-07-25,Thursday,00:03,Toronto,63bd4b8df49c2c98f24ccdc469487ae8,Spadina Ave / Bulwer St- SMART ,5,7
+Toronto-43EGuBI8,2024-07-25T05:54:18.938000Z,CherrySt/LakeShoreBlvdE--vCa3GrJt,2024-07-25,Thursday,00:03,Toronto,7a991edc2d9d2d07b57ce906af4e0c1d,Cherry St / Lake Shore Blvd E,6,8
+Toronto-BQ1xIseo,2024-07-25T05:54:20.546000Z,DunnAve/QueenStW--9ld83euO,2024-07-25,Thursday,00:03,Toronto,cc7e6e95bcbf7963105e167439b37f4f,Dunn Ave / Queen St W,15,0
+Toronto-7fbRRpea,2024-07-25T05:54:16.320000Z,15PriceSt--QYNzIVgU,2024-07-25,Thursday,00:03,Toronto,2a68f05a1657d2a5537dac257cc1d734,15 Price St ,4,3
+Toronto-fQzUNB97,2024-07-25T05:54:22.120000Z,QueensParkCres/CollegeSt--gXeUxVBP,2024-07-25,Thursday,00:03,Toronto,e3a75a102dcca872bdeebd03b6182728,Queens Park Cres / College St ,0,21
+Toronto-kS4lnrxL,2024-07-25T05:54:18.936000Z,ChurchSt/TheEsplanade--pJj099Pc,2024-07-25,Thursday,00:03,Toronto,4c9eb7bf1d6f6464b60956afb4cb7bc6,Church St / The Esplanade,4,14
+Toronto-nimFVbMP,2024-07-25T05:54:19.426000Z,LisgarSt/DundasStW-SMART--lt0XNUwc,2024-07-25,Thursday,00:03,Toronto,97db697b7ef7a4de9ca17b9bd037e80f,Lisgar St / Dundas St W - SMART,3,2
+Toronto-oUesz7AU,2024-07-25T05:54:17.147000Z,YongeSt/WoburnAve-SMART--OiGrM17s,2024-07-25,Thursday,00:03,Toronto,9e3c071c1a1b47ea05a20fa713416614,Yonge St / Woburn Ave - SMART,3,8
+Toronto-UtcS7XFM,2024-07-25T05:54:19.589000Z,BaySt/DundasStW--IGC7ExZm,2024-07-25,Thursday,00:03,Toronto,ffeaa2aaedeb18fc11f708bcd8323149,Bay St / Dundas St W,13,39
+Toronto-vgMbrWXb,2024-07-25T05:54:20.396000Z,BaySt/AlbertSt--sbjDmchk,2024-07-25,Thursday,00:03,Toronto,0f4f8c9f5e6417a981fe793e43984158,Bay St / Albert St,23,37
+Toronto-ECkg4pAN,2024-07-25T05:54:20.504000Z,SymesRd/GlenScarlettRd-SMART--GuAM7S9j,2024-07-25,Thursday,00:03,Toronto,9c6584773f4f7697e589824f5c44c6aa,Symes Rd / Glen Scarlett Rd - SMART,6,10
+Toronto-l2Z5IYGM,2024-07-25T05:54:20.622000Z,BostonAve/QueenStE-SMART--Qk40ik92,2024-07-25,Thursday,00:03,Toronto,d7f5003913919e1bbf6fab87fb02a163,Boston Ave / Queen St E- SMART,10,2
+Toronto-4oKb6QmY,2024-07-25T05:54:19.248000Z,IsabellaSt/ChurchSt--pmdTt1wr,2024-07-25,Thursday,00:03,Toronto,26edc0f88e4e012ab0d9930c725d5fba,Isabella St / Church St,11,15
+Toronto-qaIqfM4e,2024-07-25T05:54:23.564000Z,BloorStW/ManningAve-SMART--8RI0Bu74,2024-07-25,Thursday,00:03,Toronto,c1375239981cfc9b3934e691cb9013bb,Bloor St W / Manning Ave - SMART,6,36
+Toronto-DcDByUAD,2024-07-25T05:54:16.604000Z,CherryBeachSportsFields(55UnwinAve)--4RhEOYfJ,2024-07-25,Thursday,00:03,Toronto,fca601c1041c34a9c42af38d71e7403a,Cherry Beach Sports Fields (55 Unwin Ave),20,9
+Toronto-DLTFeVnM,2024-07-25T05:54:20.001000Z,ChurchSt/WoodSt--FjBqDS8C,2024-07-25,Thursday,00:03,Toronto,524590c5d3e31674dbdbda29cf6a13c6,Church St  / Wood St,15,11
+Toronto-P9ylhxVy,2024-07-25T05:54:22.014000Z,O'ConnorDr/CurityAve-Smart--wIukYQ9h,2024-07-25,Thursday,00:03,Toronto,4e05be8f079a2d69eab3123bd5009561,O'Connor Dr / Curity Ave - Smart,3,8
+Toronto-36KuuTme,2024-07-25T05:54:20.145000Z,YongeSt/BloorSt--XqcB3LpE,2024-07-25,Thursday,00:03,Toronto,97a0a3eefa88468c8389efa6bbbd2f50,Yonge St / Bloor St,3,16
+Toronto-lJUjUUUj,2024-07-25T05:54:20.580000Z,ElizabethSt/ElmSt--GmH7nDtX,2024-07-25,Thursday,00:03,Toronto,7d618ea2f2211a41fac619c2c9bb261f,Elizabeth St / Elm St,0,21
+Toronto-oZnKtYUv,2024-07-25T05:54:20.489000Z,LakeShoreBlvdW/BrowDr--Hokfkvfj,2024-07-25,Thursday,00:03,Toronto,e211f140df2f544c2510493e0c05b570,Lake Shore Blvd W / Brow Dr,12,3
+Toronto-Auf76w0F,2024-07-25T05:54:22.132000Z,MillwoodRd/SouthvaleDr--F8qaBWSk,2024-07-25,Thursday,00:03,Toronto,4334c988ef1798a678b8c1f7278cbc63,Millwood Rd / Southvale Dr,0,15
+Toronto-OVPFEvLs,2024-07-25T05:54:15.802000Z,19GlendoraAve--GfYTe22r,2024-07-25,Thursday,00:03,Toronto,dbf21479ba65c85662203d868172f9d6,19 Glendora Ave,8,2
+Toronto-zLQn5J88,2024-07-25T05:54:19.779000Z,QueenStW/CowanAve--ycH6XrZ0,2024-07-25,Thursday,00:03,Toronto,faff1725fda5d7e4856db9169a7fe130,Queen St W / Cowan Ave,17,1
+Toronto-gDmBFoF2,2024-07-25T05:54:18.761000Z,St.Andrew'sPlaygroundPark--YwHEUxN2,2024-07-25,Thursday,00:03,Toronto,44e60e088e0130eb438a3c64cd6074e8,St. Andrew's Playground Park,3,7
+Toronto-AjBatDoE,2024-07-25T05:54:19.565000Z,51ParliamentSt--sNG7Ejus,2024-07-25,Thursday,00:03,Toronto,d2f0ec399af3589a8fafad2b8e3b3f05,51 Parliament St,16,3
+Toronto-QbW9KI7Q,2024-07-25T05:54:22.648000Z,TemperanceStStation--FYQeOkFO,2024-07-25,Thursday,00:03,Toronto,74c5097816c80c01188e97b00e93a4b6,Temperance St Station,8,45
+Toronto-R0RuL3WR,2024-07-25T05:54:20.278000Z,91ViaItalia--y4x1Q0lK,2024-07-25,Thursday,00:03,Toronto,f00a7293c22a11405ed12cee565f4129,91 Via Italia,2,30
+Toronto-ZYZGSzlP,2024-07-25T05:54:15.896000Z,RamsdenPark--wg54E3Sd,2024-07-25,Thursday,00:03,Toronto,ad9a0a7d4c0962118233d4a59d480c06,Ramsden Park,0,15
+Toronto-iBt5YFCp,2024-07-25T05:54:16.957000Z,BaySt/CollegeSt(EastSide)--WyRIuECd,2024-07-25,Thursday,00:03,Toronto,1630e350724cc062ba0e77e103728eac,Bay St / College St (East Side),4,24
+Toronto-qnsUmgTp,2024-07-25T05:54:23.489000Z,BaySt/CollegeSt(WestSide)-SMART--ZNCoBqHi,2024-07-25,Thursday,00:03,Toronto,d54842ca6cc3a96c8ebbd4101c620e66,Bay St / College St (West Side) - SMART,3,11
+Toronto-FjwmPY4A,2024-07-25T05:54:17.142000Z,DundasStW/EdnaAve--CUoP0Pnf,2024-07-25,Thursday,00:03,Toronto,43e5df21054d20adc56c6aa3544b5980,Dundas St W / Edna Ave,4,11
+Toronto-UNKiHFs4,2024-07-25T05:54:20.320000Z,FrederickSt/KingStE--EwOyWKfo,2024-07-25,Thursday,00:03,Toronto,db9bcdbd258af5174a3e6d725807957e,Frederick St / King St E,27,15
+Toronto-QIHoODhQ,2024-07-25T05:54:21.325000Z,SpadinaAve/SullivanSt--RtsUhrN4,2024-07-25,Thursday,00:03,Toronto,36e4390d0f95acd44b5c85f49217d360,Spadina Ave / Sullivan St,5,15
+Toronto-0qtGVX1B,2024-07-25T05:54:16.104000Z,AdelaideStW/BaySt(South)--K4JO9Cwl,2024-07-25,Thursday,00:03,Toronto,3fb25e1f9d316b89f4ff0ff777fd3a53,Adelaide St W / Bay St ( South ),0,14
+Toronto-wyoA2MCm,2024-07-25T05:54:16.088000Z,AdelaideStW/YongeSt--0CcVwnDK,2024-07-25,Thursday,00:03,Toronto,1c83c4053d34442fe21bd7a52bdd012e,Adelaide St W / Yonge St,0,18
+Toronto-4XNnX732,2024-07-25T05:54:17.412000Z,StClarensAve/CollegeSt--THq6kx6g,2024-07-25,Thursday,00:03,Toronto,90ec8d1df4740c1de95c087a11617c47,St Clarens Ave / College St,13,1
+Toronto-ECzYbUbt,2024-07-25T05:54:18.239000Z,LisgarPark--z1E4Gjhv,2024-07-25,Thursday,00:03,Toronto,b8cb26c3827d563e60826e8d8ddb8865,Lisgar Park,33,1
+Toronto-bsQP217u,2024-07-25T05:54:17.767000Z,420WellingtonStW--4Ui6vX5I,2024-07-25,Thursday,00:03,Toronto,01caf8b12874b091f2fccc3818e3c72e,420 Wellington St W,3,10
+Toronto-TPe85EW0,2024-07-25T05:54:22.988000Z,AdelaideStW/BaySt--LvgK334G,2024-07-25,Thursday,00:03,Toronto,25ed68a12f51be0066d864c77e780c82,Adelaide St W / Bay St,0,21
+Toronto-orFp3Vcy,2024-07-25T05:54:18.605000Z,EglintonAveE/RedpathAve--1UX2OoxM,2024-07-25,Thursday,00:03,Toronto,78a43fc13829a61f8db0c57c96572266,Eglinton Ave E / Redpath Ave,28,2
+Toronto-CVqSGVPn,2024-07-25T05:54:21.760000Z,HowardSt/SherbourneSt--tnA3IafF,2024-07-25,Thursday,00:03,Toronto,908d3c912d6d67c7a5e2bb94d1ae7df3,Howard St / Sherbourne St,14,15
+Toronto-oJjgg9L7,2024-07-25T05:54:19.181000Z,SohoSt/QueenStW--slUBgFgp,2024-07-25,Thursday,00:03,Toronto,f379a344cec55e6a00db6f95769d9a46,Soho St / Queen St W,1,13
+Toronto-diJgyJBT,2024-07-25T05:54:16.304000Z,165McRaeDr--F8I2MnBd,2024-07-25,Thursday,00:03,Toronto,a7094de32ada64b8fdd296f2ae3960d0,165 McRae Dr,1,14
+Toronto-wQNVd7Yh,2024-07-25T05:54:23.200000Z,PortlandSt/WellingtonStW--P6hB04WF,2024-07-25,Thursday,00:03,Toronto,8618a0bee94ec84f5c5bbe1e6b16b02e,Portland St / Wellington St W,10,5
+Toronto-mViMf1t1,2024-07-25T05:54:23.181000Z,Princes'Gates--o4MgaIV2,2024-07-25,Thursday,00:03,Toronto,6dcfe452d8f993c37296c024dcebf398,Princes' Gates,4,13
+Toronto-LQduYiY1,2024-07-25T05:54:18.765000Z,LillianSt/SoudanAve--cL0CT8hz,2024-07-25,Thursday,00:03,Toronto,b9577c38f2c7d4f54016f5a46d48a333,Lillian St / Soudan Ave ,19,13
+Toronto-FSHQYkkh,2024-07-25T05:54:18.952000Z,HannaAve/SnookerSt--BBGYpiuT,2024-07-25,Thursday,00:03,Toronto,147a0f1ac692ec386cfdbadbde2179a1,Hanna Ave / Snooker St,14,0
+Toronto-CVGwP5j3,2024-07-25T05:54:22.622000Z,RiverdaleParkSouth(BroadviewAve)--gTy0g5MH,2024-07-25,Thursday,00:03,Toronto,8fa4c8b1ddf121e11c9745205bc18c01,Riverdale Park South (Broadview Ave),14,1
+Toronto-E1xsFrAB,2024-07-25T05:54:16.468000Z,CoronationPark(MartinGoodmanTrail)--SR1Nltlb,2024-07-25,Thursday,00:03,Toronto,b1555f2b6ec614b9b7337a3670717f14,Coronation Park (Martin Goodman Trail),12,5
+Toronto-bltSSbrx,2024-07-25T05:54:22.610000Z,HillsdaleAveE/MountPleasantRd--N2yTUFqZ,2024-07-25,Thursday,00:03,Toronto,caaae4774b6109797d93ebd6994de203,Hillsdale Ave E / Mount Pleasant Rd,7,7
+Toronto-EKNiDWWD,2024-07-25T05:54:18.474000Z,HarbordSt/GraceSt(BickfordPark)--QeMG2Fr6,2024-07-25,Thursday,00:03,Toronto,0b5802ed91d7f19be521c0ea071c0f71,Harbord St / Grace St (Bickford Park),4,18
+Toronto-g3Rnq8BQ,2024-07-25T05:54:22.614000Z,OCADUniversity--wGazywN2,2024-07-25,Thursday,00:03,Toronto,8504eb2e3b8e6dd069ad9568894fa9ad,OCAD University,11,11
+Toronto-CbT2tiaQ,2024-07-25T05:54:18.541000Z,FrontStW/SpadinaAve--klOwKs4J,2024-07-25,Thursday,00:03,Toronto,6b2b4eddafec569d19118f473bda9718,Front St W / Spadina Ave,18,0
+Toronto-Jzb18pG8,2024-07-25T05:54:22.272000Z,GladstoneAve/QueenStW--BeQrMJ6k,2024-07-25,Thursday,00:03,Toronto,dfa3077e49380a6a7accded4a826fa06,Gladstone Ave / Queen St W,10,1
+Toronto-bytcKwJz,2024-07-25T05:54:16.668000Z,TorontoEatonCentre(YongeSt)-SMART--UKzRmjnN,2024-07-25,Thursday,00:03,Toronto,32f618847043b8011f80333b5e7ea8b3,Toronto Eaton Centre (Yonge St) - SMART,0,18
+Toronto-YosNiMji,2024-07-25T05:54:18.728000Z,RichmondStW/BathurstSt--wc5OqoxY,2024-07-25,Thursday,00:03,Toronto,b1961f256424a862f9c62845085fa584,Richmond St W / Bathurst St,10,4
+Toronto-67JyCN4O,2024-07-25T05:54:19.728000Z,StarsprayBlvd/LawrenceAveE--Kk4fGrN7,2024-07-25,Thursday,00:03,Toronto,1c3fe7eb55ecb4519e422313552760f9,Starspray Blvd / Lawrence Ave E,14,1
+Toronto-RKLSww6i,2024-07-25T05:54:16.581000Z,LoganAve/GerrardStE--VaSm7TP3,2024-07-25,Thursday,00:03,Toronto,784016bbba7f7be920647e7f8ec00251,Logan Ave / Gerrard St E,23,0
+Toronto-TFCVobwl,2024-07-25T05:54:22.748000Z,ThompsonSt/CarrollSt--wsS7dGiv,2024-07-25,Thursday,00:03,Toronto,ca51ba7bcedca409fb2d0425ea483922,Thompson St / Carroll St,18,1
+Toronto-zZGwsrxG,2024-07-25T05:54:20.096000Z,FortYorkBlvd/GrandMagazineSt--LsOyWx7l,2024-07-25,Thursday,00:03,Toronto,c1fb66a9602a3fa29bf039765f7e4a4e,Fort York Blvd / Grand Magazine St,18,1
+Toronto-oeXAuNEr,2024-07-25T05:54:20.105000Z,CrawfordSt/LobbAve--ytWXdIcr,2024-07-25,Thursday,00:03,Toronto,6523971b87b918d7d1d2a16e4b78ce3a,Crawford St / Lobb Ave,23,0
+Toronto-4Yc84it5,2024-07-25T05:54:18.453000Z,HannaAve/LibertySt--tzOj29Gb,2024-07-25,Thursday,00:03,Toronto,b056610271f25cd1743a9702ef699451,Hanna Ave / Liberty St,8,8
+Toronto-WuHZd2Zu,2024-07-25T05:54:23.534000Z,BathurstSt/HouseySt--UFkPy9P7,2024-07-25,Thursday,00:03,Toronto,dee47db4f9132cf52b6b7b07db032e75,Bathurst St / Housey St,15,6
+Toronto-3dMZriww,2024-07-25T05:54:18.763000Z,NiagaraSt/QueenStW--5AAVH9Ls,2024-07-25,Thursday,00:03,Toronto,403e402f8bb6453c515cfa5f3e8de676,Niagara St / Queen St W ,7,3
+Toronto-Jlz00KPR,2024-07-25T05:54:20.192000Z,519ChurchSt--OKiQLpdJ,2024-07-25,Thursday,00:03,Toronto,54e891116c53e9cd15e6433fe530b43f,519 Church St,2,9
+Toronto-q4Kzw2uK,2024-07-25T05:54:16.312000Z,AdelaideStW/YorkSt--t45LkOx8,2024-07-25,Thursday,00:03,Toronto,0e2fafe5a7b1683b6fd9b33654eec20f,Adelaide St W / York St ,0,19
+Toronto-3hTcsYBR,2024-07-25T05:54:16.188000Z,ChurchSt/ShuterSt--hAXJT2BT,2024-07-25,Thursday,00:03,Toronto,63503c4a279da64285452d1e676c6c37,Church St / Shuter St,14,0
+Toronto-RUy5c9Yd,2024-07-25T05:54:16.098000Z,AdelaideStE/ParliamentSt--QyJLhg4E,2024-07-25,Thursday,00:03,Toronto,f3a3e4be39f05e9b3d9fa4aa863b6d5a,Adelaide St E / Parliament St,20,1
+Toronto-LfSwVsje,2024-07-25T05:54:18.213000Z,EmersonAve/BloorStW--V71YefWD,2024-07-25,Thursday,00:03,Toronto,6149c879e83069dd940e71f9f790d336,Emerson Ave / Bloor St W,0,21
+Toronto-nGsnO1W6,2024-07-25T05:54:16.072000Z,WellesleyStE/JarvisSt--pubo2fhK,2024-07-25,Thursday,00:03,Toronto,ad7565976931b367a241a27523e47830,Wellesley St E / Jarvis St,7,16
+Toronto-sjlQRUA5,2024-07-25T05:54:15.852000Z,BrimleyRd/LawrenceAveE--4Gfkdl9V,2024-07-25,Thursday,00:03,Toronto,fd7c0cadeb907434f002aadc42a88554,Brimley Rd / Lawrence Ave E ,14,22
+Toronto-NIfLXsHk,2024-07-25T05:54:21.332000Z,2300LakeshoreBlvdW--20tAbx3J,2024-07-25,Thursday,00:03,Toronto,ad299c229e85bba5b84af14933cfac77,2300 Lakeshore Blvd W,15,0
+Toronto-YRt7ghBG,2024-07-25T05:54:20.902000Z,BlythwoodRd/YongeSt-SMART--vUSHgLfv,2024-07-25,Thursday,00:03,Toronto,4898d236bceda7c4cb9430c896669537,Blythwood Rd / Yonge St - SMART,5,11
+Toronto-rTgWr0Ps,2024-07-25T05:54:18.922000Z,TemperanceSt/BaySt--qOsPHWEj,2024-07-25,Thursday,00:03,Toronto,d21421de2283d1ef48895cf1810b0200,Temperance St / Bay St,0,20
+Toronto-k2JI2yuK,2024-07-25T05:54:16.542000Z,BenshireDr/TheMeadoway--Wm1cYEGu,2024-07-25,Thursday,00:03,Toronto,90e1949054880d582ccee0b0ae9ce5d5,Benshire Dr / The Meadoway,5,6
+Toronto-irUm1Vqu,2024-07-25T05:54:16.112000Z,BellamyRdN/TheMeadoway--lFT3f7lb,2024-07-25,Thursday,00:03,Toronto,46fbf9a39e05b9dc59aa953a0b867ab2,Bellamy Rd N / The Meadoway,0,15
+Toronto-IQD7w87a,2024-07-25T05:54:19.883000Z,MarkhamRd/TheMeadoway--lICF6kJa,2024-07-25,Thursday,00:03,Toronto,81d6569b78463553d6b5594e8af1b0dc,Markham Rd / The Meadoway ,0,19

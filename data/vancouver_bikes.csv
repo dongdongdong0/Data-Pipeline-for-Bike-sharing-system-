@@ -1,0 +1,509 @@
+request_id,timestamp,_id,date,day_name,hour,city,station_id,station_name,free_bikes,empty_slots
+Vancouver-oySI3NWB,2024-07-25T05:55:01.940000Z,10th&Cambie--YsmMVyCX,2024-07-25,Thursday,00:01,Vancouver,7a19c49f486d7c0c02b3685d7b240448,10th & Cambie,2,31
+Vancouver-pfox78vF,2024-07-25T05:55:01.909000Z,Yaletown-RoundhouseStation--KcsN49BB,2024-07-25,Thursday,00:01,Vancouver,32603a87cfca71d0f7dfa3513bad69d5,Yaletown-Roundhouse Station,4,12
+Vancouver-S4CHubxS,2024-07-25T05:55:01.917000Z,Dunsmuir&Beatty--bRKeB1tS,2024-07-25,Thursday,00:01,Vancouver,6d42fa40360f9a6b2bf641c7b8bb2862,Dunsmuir & Beatty,4,22
+Vancouver-XhIHyQQh,2024-07-25T05:55:01.930000Z,12th&Yukon(CityHall)--JJvONVkf,2024-07-25,Thursday,00:01,Vancouver,66f873d641d448bd1572ab086665a458,12th & Yukon (City Hall),4,12
+Vancouver-J9a9lTre,2024-07-25T05:55:01.980000Z,8th&Ash--VhygNiA0,2024-07-25,Thursday,00:01,Vancouver,485d4d24c803cfde829ab89699fed833,8th & Ash,1,15
+Vancouver-AqBEcVKQ,2024-07-25T05:55:01.985000Z,Spyglass&Seawall--zhgeQagJ,2024-07-25,Thursday,00:01,Vancouver,b07d513f87897cff7319a0e59d7e567c,Spyglass & Seawall,1,13
+Vancouver-DM90Gw3U,2024-07-25T05:55:02.388000Z,StampsLanding--s7GIxJRx,2024-07-25,Thursday,00:01,Vancouver,d1c9556d92f329703229fb3e33899a3b,Stamps Landing,4,9
+Vancouver-Etwm0r6H,2024-07-25T05:55:02.365000Z,Ontario&Seawall--nrqtfE0N,2024-07-25,Thursday,00:01,Vancouver,95e624191c655f50e401d280cd39a9ad,Ontario & Seawall,8,11
+Vancouver-7HRgUsz9,2024-07-25T05:55:02.296000Z,CanadaPlace--DS6txRnZ,2024-07-25,Thursday,00:01,Vancouver,3e112f9fe877e0003780386359060ae6,Canada Place,0,0
+Vancouver-lXGNhLrK,2024-07-25T05:55:02.269000Z,Granville&Georgia--letTiS5k,2024-07-25,Thursday,00:01,Vancouver,6993b3dbb0758927967592ea612a2b1e,Granville & Georgia,1,18
+Vancouver-wNmkuEN4,2024-07-25T05:55:02.244000Z,Pender&Burrard--Oh7c9QrJ,2024-07-25,Thursday,00:01,Vancouver,bf8408067b0e0c963f3ff526977bcef3,Pender & Burrard,1,25
+Vancouver-EOaCha9A,2024-07-25T05:55:02.224000Z,Marinaside&Davie--Q0V7ISLw,2024-07-25,Thursday,00:01,Vancouver,d2244f1a81d317c76cabd65e81250835,Marinaside & Davie,4,18
+Vancouver-hHiwT7Sm,2024-07-25T05:55:02.500000Z,Robson&Hornby--FPrh5TbB,2024-07-25,Thursday,00:01,Vancouver,0b543fc4e694fe07a54dac48bb1b3390,Robson & Hornby,1,27
+Vancouver-qkcKtO2n,2024-07-25T05:55:02.868000Z,Hornby&Pender--CBkpCnZx,2024-07-25,Thursday,00:01,Vancouver,fbb1d30d7f30b049873f5be5688563d4,Hornby & Pender,6,16
+Vancouver-sRAckggr,2024-07-25T05:55:02.900000Z,Homer&Robson(VancouverPublicLibrary)--hdFbRfnq,2024-07-25,Thursday,00:01,Vancouver,7181df50ee1d1a05559399211382b7c8,Homer & Robson (Vancouver Public Library),2,18
+Vancouver-Pk2lV9MC,2024-07-25T05:55:02.836000Z,Beatty&Nelson--SU4vh9Pa,2024-07-25,Thursday,00:01,Vancouver,b7683a86874e6300fd89f4cc0b075f57,Beatty & Nelson,0,13
+Vancouver-CZd719uL,2024-07-25T05:55:00.099000Z,Abbott&Cordova--I29zniqG,2024-07-25,Thursday,00:01,Vancouver,3367c1e1dbf73caf7c10e4c96a92f58d,Abbott & Cordova,9,11
+Vancouver-prm2JwcD,2024-07-25T05:55:00.102000Z,Comox&Denman--qn66NEYQ,2024-07-25,Thursday,00:01,Vancouver,1d7e73b3321ebb6713774d376247d9f9,Comox & Denman,14,2
+Vancouver-LS5yLzNX,2024-07-25T05:55:00.024000Z,Cordova&Bute--S1heK7FP,2024-07-25,Thursday,00:01,Vancouver,664502c28e8147615f17b8ea355f40d0,Cordova & Bute,2,12
+Vancouver-GtQbCiNT,2024-07-25T05:55:00.052000Z,Hornby&Nelson--ObF4IDP2,2024-07-25,Thursday,00:01,Vancouver,6c24a62b5ee0a2a8014eb0dfb6d40025,Hornby & Nelson,1,16
+Vancouver-mTnFcZNl,2024-07-25T05:54:59.962000Z,Helmcken&Burrard--czzq6txU,2024-07-25,Thursday,00:01,Vancouver,fad9ebcf614dd1a72593a34072ff76f8,Helmcken & Burrard,1,14
+Vancouver-elODcIUL,2024-07-25T05:55:00.212000Z,Pacific&Richards--n0esZFRl,2024-07-25,Thursday,00:01,Vancouver,3a4131fa94946d93d3529136efd62413,Pacific & Richards,2,11
+Vancouver-pUSJeKfT,2024-07-25T05:55:00.237000Z,Chilco&Beach--h1RKTp4Q,2024-07-25,Thursday,00:01,Vancouver,25318ec3e06fae1397a3a2f645104149,Chilco & Beach,12,1
+Vancouver-xC4ipASB,2024-07-25T05:55:00.157000Z,Comox&Broughton--pljBKXE8,2024-07-25,Thursday,00:01,Vancouver,444991edc9550be0908f032da5e3c95f,Comox & Broughton,4,8
+Vancouver-Q7IFQST2,2024-07-25T05:55:00.562000Z,Bute&Comox--I03D7Swn,2024-07-25,Thursday,00:01,Vancouver,434b6f4e7fc30198f901b60fc905f609,Bute & Comox,2,17
+Vancouver-emCvwMcj,2024-07-25T05:55:00.504000Z,Cambie&Water--ejOORIYE,2024-07-25,Thursday,00:01,Vancouver,f97d5bf41f35aa181288429fb52e3488,Cambie & Water,13,19
+Vancouver-HagbxdJR,2024-07-25T05:55:00.496000Z,Keefer&Abbott--MmW8XPwc,2024-07-25,Thursday,00:01,Vancouver,fef69fb400210d861107a61db954d037,Keefer & Abbott,3,24
+Vancouver-W4bFDOIi,2024-07-25T05:55:00.628000Z,Expo&Carrall--yfDsa4Vh,2024-07-25,Thursday,00:01,Vancouver,9d3123425823420514b8ad410074f02d,Expo & Carrall,8,8
+Vancouver-MMgmDvVJ,2024-07-25T05:55:00.614000Z,Keefer&Columbia--8HXxT81A,2024-07-25,Thursday,00:01,Vancouver,f1ca711137cde59e824167a4274df888,Keefer & Columbia,7,7
+Vancouver-J8H6vCCK,2024-07-25T05:55:00.592000Z,Marinaside&Cooperage--8B4l3iIV,2024-07-25,Thursday,00:01,Vancouver,4f6ebf2026d540ffe40e29a80138ad5e,Marinaside & Cooperage,9,14
+Vancouver-VuEgEDLo,2024-07-25T05:55:01.822000Z,Bidwell&Burnaby--6V1HWqvf,2024-07-25,Thursday,00:01,Vancouver,be14efdc86dedd6a8cd338e78ab4e7c7,Bidwell & Burnaby,57,10
+Vancouver-SdA9k2Y1,2024-07-25T05:55:01.796000Z,Robson&Granville--CsEsPJk4,2024-07-25,Thursday,00:01,Vancouver,6ddeafa873279951630a00191333c45d,Robson & Granville,10,12
+Vancouver-hfjhXrCr,2024-07-25T05:55:01.770000Z,Expo&Smithe--8rybcYSI,2024-07-25,Thursday,00:01,Vancouver,c7b5bec0b2f4ab9a2d3f9d837725620c,Expo & Smithe,4,10
+Vancouver-4TW9D5LA,2024-07-25T05:55:01.786000Z,Cypress&Cornwall--sumzeAz1,2024-07-25,Thursday,00:01,Vancouver,b9fd847d53fe45658fee4c46e7f562b8,Cypress & Cornwall,5,16
+Vancouver-3WBSSrKz,2024-07-25T05:55:01.758000Z,Anderson&2nd--cRDDWE7S,2024-07-25,Thursday,00:01,Vancouver,c2be5403b1c101e8032cf6696457200e,Anderson & 2nd,7,20
+Vancouver-FDlnRnsC,2024-07-25T05:55:01.900000Z,7th&Granville--qJXA0Akn,2024-07-25,Thursday,00:01,Vancouver,71c064fa93cab5f0b7306e6c923b77c4,7th & Granville,2,12
+Vancouver-MPRKUiF8,2024-07-25T05:55:02.056000Z,10th&Granville--1aQWjft3,2024-07-25,Thursday,00:01,Vancouver,96bf713e60bc35cc2feb5fd53a4f3471,10th & Granville,1,13
+Vancouver-0oxXmUKj,2024-07-25T05:55:02.040000Z,14th&Granville--GVClH1l4,2024-07-25,Thursday,00:01,Vancouver,8dc684732a2a25bdf63ec0ecccee4e6e,14th & Granville,7,4
+Vancouver-OhT2GU0S,2024-07-25T05:55:02.064000Z,14th&Cambie--32t6Qoyl,2024-07-25,Thursday,00:01,Vancouver,686c0fdb962e26e274d81fc286c010dd,14th & Cambie,2,12
+Vancouver-30KSM5cQ,2024-07-25T05:55:02.060000Z,Ontario&5th--xjoW2tAz,2024-07-25,Thursday,00:01,Vancouver,0cf6cd1809fa7f510812f5b052f578c4,Ontario & 5th,14,6
+Vancouver-WCWvcIia,2024-07-25T05:55:02.100000Z,10th&Main--FdQjmjRs,2024-07-25,Thursday,00:01,Vancouver,93c88a18c673e2c72a6afa93d6b89f18,10th & Main,2,16
+Vancouver-yKQdtCvi,2024-07-25T05:55:02.113000Z,Cypress&4th--n101S3eV,2024-07-25,Thursday,00:01,Vancouver,8fb5ce1e34ad31de940481953aea452c,Cypress & 4th,17,2
+Vancouver-3rMlNQCb,2024-07-25T05:55:02.110000Z,VanierPark--xZfH8kXt,2024-07-25,Thursday,00:01,Vancouver,aa704bfba40286bd0661b64d1f75e778,Vanier Park,5,22
+Vancouver-SLxDSPIC,2024-07-25T05:55:02.173000Z,Nelson&Mainland--4k7eTmFk,2024-07-25,Thursday,00:01,Vancouver,8c9ea7f2132376859ef34fab981d6932,Nelson & Mainland,1,18
+Vancouver-9PUlcJpS,2024-07-25T05:55:02.140000Z,Nelson&Richards--cdDoF3wJ,2024-07-25,Thursday,00:01,Vancouver,1d4153659a0a0a2089078c739df6737d,Nelson & Richards,5,11
+Vancouver-sZparPws,2024-07-25T05:55:02.738000Z,7th&Heather--1cTJWTZq,2024-07-25,Thursday,00:01,Vancouver,fbb4c06b719596c21f91fd51ef6d4710,7th & Heather,1,15
+Vancouver-JA8Wjlyt,2024-07-25T05:55:02.723000Z,Harwood&Bute--V2UHvxmU,2024-07-25,Thursday,00:01,Vancouver,72c1049dfbbde7c24ec45c14f1a5ee85,Harwood & Bute,10,9
+Vancouver-oK4LXqT1,2024-07-25T05:55:03.262000Z,Chilco&Barclay--pEYangkM,2024-07-25,Thursday,00:01,Vancouver,00fa94ad698dc4a9e4d708d6fd32f294,Chilco & Barclay,16,2
+Vancouver-U0E0Gdg8,2024-07-25T05:55:03.256000Z,Chilco&Robson--Wh2e4bSd,2024-07-25,Thursday,00:01,Vancouver,efa947b901a2cf85b58320b3ad26a2fe,Chilco & Robson,14,1
+Vancouver-4uvYZlX5,2024-07-25T05:55:03.235000Z,Nicola&Robson--X2BzAFUE,2024-07-25,Thursday,00:01,Vancouver,66a53e9c32e4f5c724f9478240020142,Nicola & Robson,13,4
+Vancouver-DM0HwEP5,2024-07-25T05:55:03.223000Z,Carrall&Hastings--mN9jVLhN,2024-07-25,Thursday,00:01,Vancouver,97b25faf822b93fdbf72da1d594c0288,Carrall & Hastings,12,6
+Vancouver-70Md0g2S,2024-07-25T05:55:03.211000Z,šxʷƛ̓ənəqXwtl'e7énḵSquare-VancouverArtGallery--LkJJ6Oku,2024-07-25,Thursday,00:01,Vancouver,6c7fb9043e6df5a4cc50404581a947b9,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,2,25
+Vancouver-7aLNazzQ,2024-07-25T05:55:01.142000Z,StanleyPark-VancouverAquarium--T4dK2boW,2024-07-25,Thursday,00:01,Vancouver,30bf49544b1c864688b78172d42cca5e,Stanley Park - Vancouver Aquarium,12,4
+Vancouver-fPprisGF,2024-07-25T05:55:01.153000Z,StanleyPark-SecondBeachNorth--b7nhWx5Z,2024-07-25,Thursday,00:01,Vancouver,9f63cebac9073eac3e90be2b9a91b02b,Stanley Park - Second Beach North,2,13
+Vancouver-nwkGytma,2024-07-25T05:55:01.121000Z,StanleyPark-SecondBeachSouth--cRbq7Hhs,2024-07-25,Thursday,00:01,Vancouver,9aa325529164ec68b4d96c4f1c4fc7c1,Stanley Park - Second Beach South,16,2
+Vancouver-y1DRydXB,2024-07-25T05:55:01.113000Z,StanleyPark-TotemPoles--eV5eIKtL,2024-07-25,Thursday,00:01,Vancouver,e3d32ad772a5898c3b96c4d23d2cd542,Stanley Park - Totem Poles,15,4
+Vancouver-WC0I1N8x,2024-07-25T05:55:01.136000Z,Heather&14th--AFWhlL43,2024-07-25,Thursday,00:01,Vancouver,625a2ad202275c8e2be3ce868e85b105,Heather & 14th,2,16
+Vancouver-gFVLE9fp,2024-07-25T05:55:01.132000Z,8th&Ontario--Ijh8xycy,2024-07-25,Thursday,00:01,Vancouver,6c0de983fb47a3439a9e3c36a3d15804,8th & Ontario,0,14
+Vancouver-B3OD9PMw,2024-07-25T05:55:01.097000Z,1st&Chestnut--MFGZ2pgG,2024-07-25,Thursday,00:01,Vancouver,92c9e62c0b42adf4759c430009d3987a,1st & Chestnut,24,2
+Vancouver-QYuIr9Ky,2024-07-25T05:55:01.096000Z,7th&Arbutus--rDZTQwtl,2024-07-25,Thursday,00:01,Vancouver,51e4d3731aebbf9c3186f310a08de6c8,7th & Arbutus,11,4
+Vancouver-ko5QIR2Y,2024-07-25T05:55:00.416000Z,5th&Arbutus--pEQ2FP3r,2024-07-25,Thursday,00:01,Vancouver,826af7eee4ce28b6fa4b4f0211305792,5th & Arbutus,6,9
+Vancouver-3iCD2twY,2024-07-25T05:55:00.385000Z,10th&Oak--fQvvZFXB,2024-07-25,Thursday,00:01,Vancouver,4cb84c9a3743287019ae00ceef9a1cd3,10th & Oak,3,27
+Vancouver-d1zSNBDH,2024-07-25T05:55:00.395000Z,Arbutus&16th--ZnTzVZOE,2024-07-25,Thursday,00:01,Vancouver,56fef9ba0af67a4ff3e661a8e02c0b08,Arbutus & 16th,16,23
+Vancouver-62udT7CW,2024-07-25T05:55:00.481000Z,Cypress&14th--Wjznxs4w,2024-07-25,Thursday,00:01,Vancouver,c81f75a80312c51ceaef1304beac1990,Cypress & 14th,3,9
+Vancouver-8mVRKcqO,2024-07-25T05:55:00.488000Z,Cypress&16th--NJSBkPBf,2024-07-25,Thursday,00:01,Vancouver,afacb2133f2462aba7748cc21b71c788,Cypress & 16th,3,9
+Vancouver-C7IiLvPf,2024-07-25T05:55:00.177000Z,Georgia&Thurlow--LeLqPnXI,2024-07-25,Thursday,00:01,Vancouver,a9f0b06d07f89b75e92c0cf686223aea,Georgia & Thurlow,0,12
+Vancouver-gkVVUY5e,2024-07-25T05:55:00.160000Z,Thurlow&Pendrell--HatlzW8C,2024-07-25,Thursday,00:01,Vancouver,686b314a6c3348efd2297d6b3dfed1a7,Thurlow & Pendrell,1,15
+Vancouver-zxs2lqRl,2024-07-25T05:55:00.109000Z,Heather&16th--zobufapv,2024-07-25,Thursday,00:01,Vancouver,0d1b5c62f8d22e3650811df55596e25b,Heather & 16th,8,4
+Vancouver-OagwKy6B,2024-07-25T05:54:59.976000Z,14th&Ontario--uw1GMDDz,2024-07-25,Thursday,00:01,Vancouver,521c2122c791ed038168c3b8ff24061b,14th & Ontario,14,1
+Vancouver-L0benXh1,2024-07-25T05:54:59.921000Z,14th&Main--UwhMTXFb,2024-07-25,Thursday,00:01,Vancouver,838d5bb59963474ad08a6d5b156943ed,14th & Main,3,10
+Vancouver-xsgTB5Ae,2024-07-25T05:54:59.936000Z,DavidLamPark--eok5sKEY,2024-07-25,Thursday,00:01,Vancouver,b9ab6ce009eda6006ade1d7568d9db9c,David Lam Park,4,13
+Vancouver-bajm58bi,2024-07-25T05:54:59.960000Z,Beach&Seymour--necOJKxv,2024-07-25,Thursday,00:01,Vancouver,9ec4163496363b31ab475cb851b57b21,Beach & Seymour,15,3
+Vancouver-edrfzQIi,2024-07-25T05:55:03.001000Z,Richards&Helmcken--EbCQSPEZ,2024-07-25,Thursday,00:01,Vancouver,fedff7a263c182df94bda7307059cc52,Richards & Helmcken,1,16
+Vancouver-uG1iSB8q,2024-07-25T05:55:03.152000Z,Burrard&4th--x71OmRB3,2024-07-25,Thursday,00:01,Vancouver,b9baf685b7053de899bf3467f61c2781,Burrard & 4th,11,5
+Vancouver-rYpLmLh4,2024-07-25T05:55:00.111000Z,Burrard&7th--4lsvg4Uz,2024-07-25,Thursday,00:01,Vancouver,8d6f0cbf7d44d2908c8ce73ed00dbf66,Burrard & 7th,2,13
+Vancouver-Fcdd0I9N,2024-07-25T05:55:00.114000Z,CharlesonPark--a3c0tsLk,2024-07-25,Thursday,00:01,Vancouver,988f8f74c4a12d1a30ddf2f7cd6318f8,Charleson Park,7,7
+Vancouver-tsk72jfV,2024-07-25T05:55:00.127000Z,Chestnut&McNicoll--0D2CdJe9,2024-07-25,Thursday,00:01,Vancouver,2f09a64507cf6257c67ca20af27339eb,Chestnut & McNicoll,0,15
+Vancouver-UtUT6wGZ,2024-07-25T05:55:00.134000Z,CreeksideParkNorth--dUyJHG0r,2024-07-25,Thursday,00:01,Vancouver,73f388336d879bedc962cd412eb0296e,Creekside Park North,7,11
+Vancouver-TzZvGz2s,2024-07-25T05:55:02.692000Z,Alexander&Main--dtuq9gII,2024-07-25,Thursday,00:01,Vancouver,cb6fddfdac7d350d25be475c7ab9e05a,Alexander & Main,12,6
+Vancouver-Y2nSKpl2,2024-07-25T05:55:03.189000Z,ArbutusGreenway&14th--cCU7EY4p,2024-07-25,Thursday,00:01,Vancouver,cadc004f0903ef45e898032143c0832f,Arbutus Greenway & 14th,5,14
+Vancouver-ksa4FtNz,2024-07-25T05:55:03.195000Z,ArbutusGreenway&Fir--L3xV4wCy,2024-07-25,Thursday,00:01,Vancouver,57e928d8c30fab0ebffb3ede850f89d6,Arbutus Greenway & Fir,1,14
+Vancouver-JYzsWKDf,2024-07-25T05:55:03.176000Z,KitsilanoBeachPark--jkioNvmS,2024-07-25,Thursday,00:01,Vancouver,6526a2eb3832f9ba0224d237e901ea5b,Kitsilano Beach Park,25,10
+Vancouver-6tR7BzHC,2024-07-25T05:55:03.184000Z,Arbutus&McNicoll--oloRipx1,2024-07-25,Thursday,00:01,Vancouver,e44c2235dd603dbee54fe08f7543e85a,Arbutus & McNicoll,8,22
+Vancouver-r3XXQlQa,2024-07-25T05:55:03.285000Z,Vine&4th--Ku8gFYA9,2024-07-25,Thursday,00:01,Vancouver,3596b4831ee2ea7812de753b32306835,Vine & 4th,3,13
+Vancouver-uqjKUylS,2024-07-25T05:55:01.972000Z,Alexander&Dunlevy--aduWOFSy,2024-07-25,Thursday,00:01,Vancouver,c448b73d92f7f8e1daafb3b9c5fbe6a6,Alexander & Dunlevy,5,9
+Vancouver-7KShT0q6,2024-07-25T05:55:03.019000Z,Alder&11th--826vKLj2,2024-07-25,Thursday,00:01,Vancouver,5fc29e0ac42c11abb45bf12aaeb925bd,Alder & 11th,2,12
+Vancouver-p1MxpKdd,2024-07-25T05:55:01.608000Z,10th&Columbia--BX0edCet,2024-07-25,Thursday,00:01,Vancouver,61901a235d4cfceb7f8f2c3888b98617,10th & Columbia,5,9
+Vancouver-aJBR4ENO,2024-07-25T05:55:01.633000Z,1st&Manitoba--mOCr87wV,2024-07-25,Thursday,00:01,Vancouver,175a074bf65455d1633639511dc129c8,1st & Manitoba,4,22
+Vancouver-18cmNnuM,2024-07-25T05:55:01.660000Z,10th&Ontario--ocwCNUFR,2024-07-25,Thursday,00:01,Vancouver,35eb539fb9298bb7e4f6759ca0256505,10th & Ontario,3,16
+Vancouver-0jTlQbzN,2024-07-25T05:55:01.668000Z,Quebec&1st--69HPNPGJ,2024-07-25,Thursday,00:01,Vancouver,7b8dfa12900bcb02b47a14e4e5010ba3,Quebec & 1st,6,11
+Vancouver-AzFPRT8v,2024-07-25T05:55:01.708000Z,Columbia&14th--hajtQhfw,2024-07-25,Thursday,00:01,Vancouver,b30ed0719dd281867a4d39779c78b58a,Columbia & 14th,8,6
+Vancouver-HaIFkrn8,2024-07-25T05:55:01.460000Z,7th&Laurel--08t7atJC,2024-07-25,Thursday,00:01,Vancouver,ace20c241ee38643c9060f290b215b9d,7th & Laurel,6,7
+Vancouver-3owZYr00,2024-07-25T05:55:01.451000Z,7th&Alder--4SLzMeac,2024-07-25,Thursday,00:01,Vancouver,3aed670ccdcd94b966c0f505f8b028c7,7th &  Alder,0,16
+Vancouver-L8yvZU7u,2024-07-25T05:55:01.452000Z,ScienceWorld--GMwrwPVj,2024-07-25,Thursday,00:01,Vancouver,ae69aeab748d02e5a7d89da28a1a8511,Science World,7,8
+Vancouver-IZxMC9fd,2024-07-25T05:55:01.477000Z,1st&Scotia--4r5tTTVF,2024-07-25,Thursday,00:01,Vancouver,0c9ad3e3703e5869b82619ecdf54f43e,1st & Scotia,17,2
+Vancouver-Oy9b9Q5w,2024-07-25T05:55:00.987000Z,RogersTower--zmi4sUhV,2024-07-25,Thursday,00:01,Vancouver,f3708906ec71348f5a42579fede36a0d,Rogers Tower,3,15
+Vancouver-USwaQZ9p,2024-07-25T05:55:00.911000Z,York&Yew--P7DREnSs,2024-07-25,Thursday,00:01,Vancouver,9449a6a83fbf88452e384350e5ac95b7,York & Yew,18,2
+Vancouver-zuC9gGUl,2024-07-25T05:55:00.928000Z,Pine&10th--rGpTzw3a,2024-07-25,Thursday,00:01,Vancouver,365da33e9ce06ea53db1173a0f8eae71,Pine & 10th,11,8
+Vancouver-i570X8Rs,2024-07-25T05:55:00.860000Z,8th&Scotia--AUe2gcyo,2024-07-25,Thursday,00:01,Vancouver,707c1c54e0278fbae5d0ae3c42a25b71,8th & Scotia,1,10
+Vancouver-o2racK3U,2024-07-25T05:55:00.888000Z,Alberni&Jervis--tvPTYB4D,2024-07-25,Thursday,00:01,Vancouver,5105df3dd0daf4c26980f4134f61e5cc,Alberni & Jervis,1,19
+Vancouver-LdhG1oUq,2024-07-25T05:55:01.088000Z,StanleyPark-InformationBooth--ZB8tpazR,2024-07-25,Thursday,00:01,Vancouver,82c794442f54fabf9db6e392ca1fac0f,Stanley Park - Information Booth,18,1
+Vancouver-I68i0IMl,2024-07-25T05:55:01.428000Z,14th&Alder--evVnixae,2024-07-25,Thursday,00:01,Vancouver,2ca388bba54706770900ca2a9d7aa5be,14th & Alder,3,10
+Vancouver-xi4RYpUk,2024-07-25T05:55:02.712000Z,Pender&Gore--Tn0tf83r,2024-07-25,Thursday,00:01,Vancouver,e7bf01431a6982f032996ad50a9e5bd7,Pender & Gore,0,13
+Vancouver-ldJI8tyR,2024-07-25T05:55:03.056000Z,Carrall&Seawall--gCfybGKr,2024-07-25,Thursday,00:01,Vancouver,1648ead5ea617d2cea115869d9516f5e,Carrall & Seawall,4,12
+Vancouver-13oy4dZs,2024-07-25T05:55:02.924000Z,Glen&Union--yIKK6HvY,2024-07-25,Thursday,00:01,Vancouver,91035fe1d70b65c9cb8ec4a007af7c7f,Glen & Union,2,10
+Vancouver-i3zIbhXl,2024-07-25T05:55:01.073000Z,Adanac&McLean--nFOVb0o4,2024-07-25,Thursday,00:01,Vancouver,d3aaff4414a8c3fd5480c470f77ff68a,Adanac & McLean,17,3
+Vancouver-7VqELwYS,2024-07-25T05:55:02.952000Z,Commercial&Adanac--c7HrsWRs,2024-07-25,Thursday,00:01,Vancouver,b307709b305dd04328fbbf2c6db86419,Commercial & Adanac,13,3
+Vancouver-c8HcprUg,2024-07-25T05:55:02.976000Z,Pender&Commercial--nZN3fqiK,2024-07-25,Thursday,00:01,Vancouver,e9c4bd1fffbb1e5b058b8ea15f7307f6,Pender & Commercial,9,7
+Vancouver-gSzZUdZF,2024-07-25T05:55:02.780000Z,Keefer&Princess--jjOKQfKy,2024-07-25,Thursday,00:01,Vancouver,bb0847559ce71c93d8215c0997ea2811,Keefer & Princess,4,10
+Vancouver-MmVaRLtZ,2024-07-25T05:55:01.093000Z,Alexander&Railway--ijywo3Cm,2024-07-25,Thursday,00:01,Vancouver,1ef5c4ff3f0b09422bb1597fd9d7568b,Alexander & Railway,1,19
+Vancouver-4r2JgmPz,2024-07-25T05:55:00.150000Z,Napier&Commercial--9GhxEQrA,2024-07-25,Thursday,00:01,Vancouver,ac3b8198f03754a0afb8b6ed6d220cdd,Napier & Commercial,0,14
+Vancouver-i5qYYJP8,2024-07-25T05:55:00.131000Z,BritanniaParkingLot--sET9C9LT,2024-07-25,Thursday,00:01,Vancouver,029a505bd4422a1afd127987757f71a6,Britannia Parking Lot,11,3
+Vancouver-XJqW8BbD,2024-07-25T05:55:00.285000Z,Thornton&National--oR3Vhxpx,2024-07-25,Thursday,00:01,Vancouver,0459b7e93703980b853cd65a9dc60596,Thornton & National,11,3
+Vancouver-CxE8gUvQ,2024-07-25T05:55:02.025000Z,Keith&6th--EafJoanQ,2024-07-25,Thursday,00:01,Vancouver,a21f40838346e300063bdda3c5c04105,Keith & 6th,22,6
+Vancouver-P4gR5R1d,2024-07-25T05:55:02.718000Z,Grant&Commercial--gqMOVJaj,2024-07-25,Thursday,00:01,Vancouver,6b1622540fe5c85d365754dd8c20bf0c,Grant & Commercial,2,11
+Vancouver-d5YqOufC,2024-07-25T05:55:03.100000Z,2nd&Commercial--PdeoitBD,2024-07-25,Thursday,00:01,Vancouver,ebc551adb0fc1a684f4080e4954a9ba4,2nd & Commercial,0,20
+Vancouver-3spg36RB,2024-07-25T05:55:02.546000Z,4th&Commercial--sRivKE0j,2024-07-25,Thursday,00:01,Vancouver,6eaa02e5bcf78db5386683d38fa2dabd,4th & Commercial,2,12
+Vancouver-dDGVdFbS,2024-07-25T05:55:01.048000Z,8th&Commercial--WHF1JMhL,2024-07-25,Thursday,00:01,Vancouver,983e58671adcc67af94457d7887dbb15,8th & Commercial,1,18
+Vancouver-sce7ZBeY,2024-07-25T05:55:02.672000Z,10th&Commercial--4ITIg64s,2024-07-25,Thursday,00:01,Vancouver,797ff1725f8d2b18337de51e240ff60d,10th & Commercial,22,4
+Vancouver-q8wlOxwu,2024-07-25T05:55:01.949000Z,Woodland&10th--P9rfvfAG,2024-07-25,Thursday,00:01,Vancouver,277b4b4881bdb7dac73012672179def8,Woodland & 10th,9,5
+Vancouver-giPMQ07L,2024-07-25T05:55:01.934000Z,Glen&Broadway--HLm3AgRw,2024-07-25,Thursday,00:01,Vancouver,e1ff428dadc7c32141b9d89a7b56728a,Glen & Broadway,10,8
+Vancouver-ua0SMHGO,2024-07-25T05:55:00.644000Z,StGeorge&Broadway--Wu3gvZU8,2024-07-25,Thursday,00:01,Vancouver,012d3e06901cc222b1c2cf0a2ace3a29,St George & Broadway,7,5
+Vancouver-gCXbY1iP,2024-07-25T05:55:01.974000Z,7th&Woodland--uuNeDbDq,2024-07-25,Thursday,00:01,Vancouver,a6455af6b689bcbad07ae2c8a3419b50,7th & Woodland,5,6
+Vancouver-0UR3eSdn,2024-07-25T05:55:01.994000Z,Woodland&4th--LPZkqU2D,2024-07-25,Thursday,00:01,Vancouver,475627e149c1a6ba73caac8d8d2fa617,Woodland & 4th,3,9
+Vancouver-YU5fYeQn,2024-07-25T05:55:02.520000Z,Woodland&Graveley--XXyvt6NM,2024-07-25,Thursday,00:01,Vancouver,f387ec226c432c5c054e3d3616d90501,Woodland & Graveley,2,10
+Vancouver-NEDqJslT,2024-07-25T05:55:02.014000Z,Charles&Woodland--EjgN8WsA,2024-07-25,Thursday,00:01,Vancouver,1675a77b9af656faf527b4e6de53e63b,Charles & Woodland,4,10
+Vancouver-LBMcUrkp,2024-07-25T05:55:02.408000Z,18th&Main--xpaJQmDs,2024-07-25,Thursday,00:01,Vancouver,1bca0e944a4faf170db82793414b03ab,18th & Main,9,7
+Vancouver-qP8UlWmz,2024-07-25T05:55:02.468000Z,PrinceEdward&16th--jiXfVB9U,2024-07-25,Thursday,00:01,Vancouver,d0782213f003ce9eb276fbceff44f1f4,Prince Edward & 16th,4,10
+Vancouver-pL0sgOLi,2024-07-25T05:55:02.448000Z,PrinceEdward&14th--9RZ6pLrE,2024-07-25,Thursday,00:01,Vancouver,1ef01f2f89621d51afbabaa6296e55be,Prince Edward & 14th,7,7
+Vancouver-PE0E9bJS,2024-07-25T05:55:01.684000Z,13th&StGeorge--aPSuSByb,2024-07-25,Thursday,00:01,Vancouver,c47a1f62ea461ce1c9f3e2478c657df6,13th & St George,6,10
+Vancouver-YP06YSX8,2024-07-25T05:55:00.676000Z,10th&Fraser--uNkwCyMQ,2024-07-25,Thursday,00:01,Vancouver,0cee06d7d10f7d3162cea03d22b7beed,10th & Fraser,0,14
+Vancouver-3JWkfthN,2024-07-25T05:55:00.699000Z,8th&Fraser--t7Axv1OA,2024-07-25,Thursday,00:01,Vancouver,f62bc2bfe9a0a563d5b6745ce6d962ba,8th & Fraser,4,12
+Vancouver-bsnxO6ee,2024-07-25T05:55:01.094000Z,StCatherines&10th--W4I0oFED,2024-07-25,Thursday,00:01,Vancouver,1c8f7fd6535db12cc45cfc59aa9da058,St Catherines & 10th,3,8
+Vancouver-IXOWpnUi,2024-07-25T05:55:01.095000Z,StCatherines&7th--BDb46br4,2024-07-25,Thursday,00:01,Vancouver,17a3320a52bcc62161908967f8a06613,St Catherines & 7th,2,18
+Vancouver-MgJbEJTM,2024-07-25T05:55:01.580000Z,Pender&Victoria--8OJY3w12,2024-07-25,Thursday,00:01,Vancouver,aed214941445e0345aa3254805a9e8b8,Pender & Victoria,1,15
+Vancouver-JpGktLck,2024-07-25T05:55:01.564000Z,Victoria&4th--fpZEWpqz,2024-07-25,Thursday,00:01,Vancouver,d67640af1b3b3b3ce47169dbc9182470,Victoria & 4th,8,8
+Vancouver-3a84HUdw,2024-07-25T05:55:01.540000Z,Victoria&10th--gsmVrioM,2024-07-25,Thursday,00:01,Vancouver,b2c6aaf2b4fa8937bfe3941c038683aa,Victoria & 10th,0,12
+Vancouver-5IItAeZa,2024-07-25T05:55:00.248000Z,15th&Victoria(TroutLake)--I5dyQrgX,2024-07-25,Thursday,00:01,Vancouver,0a43242bee10cd33f539af2c1bf5ecbf,15th & Victoria (Trout Lake),8,10
+Vancouver-SsYBE9VC,2024-07-25T05:55:00.820000Z,Triumph&Victoria--AyzGnaaJ,2024-07-25,Thursday,00:01,Vancouver,198810b9b0af5d229d1b6fa12c620e06,Triumph & Victoria,12,6
+Vancouver-Ycwpx1wb,2024-07-25T05:55:00.840000Z,Windsor&14th--ayM0MA9Y,2024-07-25,Thursday,00:01,Vancouver,d02e2eaafda91425eddd24d8acd328ab,Windsor & 14th,11,3
+Vancouver-aAQCci1S,2024-07-25T05:55:00.785000Z,14th&Fraser--lmvQ6nRa,2024-07-25,Thursday,00:01,Vancouver,08c7a90bf297fde8c1f1156db13987d4,14th & Fraser,5,11
+Vancouver-CAw3r7vr,2024-07-25T05:55:00.808000Z,15th&Knight--VEyPr5VK,2024-07-25,Thursday,00:01,Vancouver,97005696a3dff3366a8410b817388990,15th & Knight,7,7
+Vancouver-qfmjbFwG,2024-07-25T05:55:00.771000Z,Commercial&Pandora--hd3Z2Mm9,2024-07-25,Thursday,00:01,Vancouver,c52e51e3288a00993bdf892fdc2c2c2c,Commercial & Pandora,14,2
+Vancouver-KrY9mhlA,2024-07-25T05:55:00.760000Z,Carolina&GreatNorthernWay--DWEX18fk,2024-07-25,Thursday,00:01,Vancouver,7d231a181d21056e4ba80c4d9939fe92,Carolina & Great Northern Way,1,15
+Vancouver-ENzGQFU8,2024-07-25T05:55:01.356000Z,6th&PrinceEdward--uGbrJ5fl,2024-07-25,Thursday,00:01,Vancouver,dcf3d5c9f1b3a46f0ef2eb2247931f89,6th & Prince Edward,1,15
+Vancouver-pdMJLJLd,2024-07-25T05:55:01.236000Z,6th&Carolina--9ELLD3s6,2024-07-25,Thursday,00:01,Vancouver,9bee3167f10c884044cea0d36afcd1ef,6th & Carolina,6,9
+Vancouver-an1gKoEo,2024-07-25T05:55:01.148000Z,StanleyPark-ThirdBeachParkingLot--243vlKrc,2024-07-25,Thursday,00:01,Vancouver,45a4c865db23e1cad0209afa5a799de0,Stanley Park - Third Beach Parking Lot,28,8
+Vancouver-v7y4VPYr,2024-07-25T05:55:02.721000Z,Union&Dunlevy--Cy3RCBgn,2024-07-25,Thursday,00:01,Vancouver,fe0c57d04d6e682d284d501446095fc9,Union & Dunlevy,5,10
+Vancouver-OJ4S8ulY,2024-07-25T05:55:02.774000Z,Keefer&Hawks--yQjWBWDk,2024-07-25,Thursday,00:01,Vancouver,b10d422b045805f1c350c47c983381e8,Keefer & Hawks,9,7
+Vancouver-BhJGNmp6,2024-07-25T05:55:03.040000Z,Hawks&Union--A019BmNn,2024-07-25,Thursday,00:01,Vancouver,4e8fdc99e77ba1b70d90e124a704d0c1,Hawks & Union,3,12
+Vancouver-Eyem8W1V,2024-07-25T05:55:00.100000Z,Charles&Commercial--GVydRcyy,2024-07-25,Thursday,00:01,Vancouver,b562f08327af465e4531e20226789489,Charles & Commercial,4,18
+Vancouver-NVFhtmzJ,2024-07-25T05:55:01.699000Z,10th&Kingsway--aDm0Djwp,2024-07-25,Thursday,00:01,Vancouver,4ac99b928a91d8ccb785c9d0b805adb6,10th & Kingsway,0,19
+Vancouver-9AdhIohn,2024-07-25T05:55:00.215000Z,Beach&Hornby--wQeHqrY8,2024-07-25,Thursday,00:01,Vancouver,99c81f71db35911c79a86a1c5edc5604,Beach & Hornby,0,20
+Vancouver-G75zLqKu,2024-07-25T05:55:01.946000Z,BurrardStation(Melville&Dunsmuir)--tZDmeIE7,2024-07-25,Thursday,00:01,Vancouver,e12234b6f1299d178f34bffaca92f043,Burrard Station (Melville & Dunsmuir),1,25
+Vancouver-ZbpD1o44,2024-07-25T05:55:00.154000Z,Bute&Barclay--7oLtWdQl,2024-07-25,Thursday,00:01,Vancouver,5a34495280727a5b50b9aa41e14e9a16,Bute & Barclay,9,18
+Vancouver-ln9s9YYY,2024-07-25T05:55:01.600000Z,8th&Yukon--92XtVh6r,2024-07-25,Thursday,00:01,Vancouver,9130f9aa3bb037a04c17e6f2630327e5,8th & Yukon,3,20
+Vancouver-21xtlK0y,2024-07-25T05:55:01.449000Z,Princess&Union--H8xDR3CI,2024-07-25,Thursday,00:01,Vancouver,9a48ca226f82f52d02707b054ebc7e9e,Princess & Union,6,6
+Vancouver-TZ0QeDTy,2024-07-25T05:55:02.340000Z,Dunsmuir&Richards--dCT4MMDb,2024-07-25,Thursday,00:01,Vancouver,b3bb9f58d3530d33a1a09b6be9e973e0,Dunsmuir & Richards,0,20
+Vancouver-8OoOBXJe,2024-07-25T05:55:01.446000Z,5th&Main--yFSO83fA,2024-07-25,Thursday,00:01,Vancouver,c2f4e05c01ea0d27934ac7dbc50cbd0c,5th & Main,10,9
+Vancouver-sV89E992,2024-07-25T05:55:01.166000Z,3rd&Quebec--V3tml8JI,2024-07-25,Thursday,00:01,Vancouver,9a5478470b56379c31cf4e671584d5cc,3rd & Quebec,7,13
+Vancouver-pO2xiuSH,2024-07-25T05:55:00.169000Z,Richards&Cordova--m9TXbvP7,2024-07-25,Thursday,00:01,Vancouver,257715b845828e027ff35dd0f11c971e,Richards & Cordova,8,8
+Vancouver-VbPQPth6,2024-07-25T05:55:00.223000Z,Richards&Robson--fd4MPR7F,2024-07-25,Thursday,00:01,Vancouver,910027847876403b57f1013c16504688,Richards & Robson,3,16
+Vancouver-1GxXmb7m,2024-07-25T05:55:01.926000Z,OlympicVillageStation--yKsp2fri,2024-07-25,Thursday,00:01,Vancouver,06487275cd19694152824c7c3088e8ff,Olympic Village Station,4,21
+Vancouver-u81RKFFm,2024-07-25T05:55:01.176000Z,Campbell&Hastings--A5jhwske,2024-07-25,Thursday,00:01,Vancouver,b428c0e64d9b9fdb3bf8e85c95ffdf6b,Campbell & Hastings,4,10
+Vancouver-Izi97OzO,2024-07-25T05:55:00.186000Z,Cardero&Davie--xf9EyLWl,2024-07-25,Thursday,00:01,Vancouver,d085c6749a32517e1fb0d070e4128402,Cardero & Davie,12,5
+Vancouver-PW0Jgn9Q,2024-07-25T05:55:02.768000Z,AquaticCentre--vkMJ7BER,2024-07-25,Thursday,00:01,Vancouver,a6aec7b8c25da4c02829cd7839b8933d,Aquatic Centre,15,24
+Vancouver-4rSWsx0c,2024-07-25T05:55:02.727000Z,Beach&Broughton--nnomWBY4,2024-07-25,Thursday,00:01,Vancouver,c924f6a41b130fad49cfae47271314bc,Beach & Broughton,10,11
+Vancouver-sVFscV31,2024-07-25T05:55:00.125000Z,Beach&Cardero--7YgGVWgH,2024-07-25,Thursday,00:01,Vancouver,8e93d0da1ee6caadf21ed9575b5fa9da,Beach & Cardero,8,14
+Vancouver-xzKbbVLD,2024-07-25T05:55:00.138000Z,Georgia&Homer--CcBWO4PB,2024-07-25,Thursday,00:01,Vancouver,9413725a5d3bb5ce2ad0682b07a3ffab,Georgia & Homer,2,16
+Vancouver-j56VqFe6,2024-07-25T05:55:01.992000Z,Columbia&5th--y6uTRoLt,2024-07-25,Thursday,00:01,Vancouver,7ed043a19e6a4ece742fe747b663bdbf,Columbia & 5th,10,8
+Vancouver-GQmPKBH4,2024-07-25T05:55:00.182000Z,Haro&Denman--grFUVuMI,2024-07-25,Thursday,00:01,Vancouver,ce5dccf5a0f190bb4567a2fd93e7971e,Haro & Denman,14,6
+Vancouver-J0Im7Qve,2024-07-25T05:55:02.066000Z,Arbutus&10th--hckhJgsw,2024-07-25,Thursday,00:01,Vancouver,1d442ad1a71774c82688a45954e47bfd,Arbutus & 10th,1,17
+Vancouver-JOe2sw48,2024-07-25T05:54:59.989000Z,Ontario&16th--qnxUD6qj,2024-07-25,Thursday,00:01,Vancouver,2781435bde344e1b64f1bebac6bc9008,Ontario & 16th,5,9
+Vancouver-7VqxpQuD,2024-07-25T05:55:02.751000Z,Richards&Davie--YTXTE1ex,2024-07-25,Thursday,00:01,Vancouver,e9b37f2d9b7b2e2e3ade73f13acb69b2,Richards & Davie,2,12
+Vancouver-Q210W4Qe,2024-07-25T05:55:01.112000Z,8th&PrinceEdward--j2by1NDE,2024-07-25,Thursday,00:01,Vancouver,fffd87607aaae16fbb1f71615cbe7d17,8th & Prince Edward,6,10
+Vancouver-l1gQSC7N,2024-07-25T05:55:03.128000Z,Jervis&Robson--72ERR2Hr,2024-07-25,Thursday,00:01,Vancouver,da8b6e94f90ad41a3f8de10596992372,Jervis & Robson,4,15
+Vancouver-UH3yNlHE,2024-07-25T05:55:01.450000Z,Smithe&Burrard--UJarzXyk,2024-07-25,Thursday,00:01,Vancouver,32f70f7ae14ba87523c6286a6c4d5c37,Smithe & Burrard,3,15
+Vancouver-0DqCcbCC,2024-07-25T05:55:02.732000Z,Broughton&Davie--jjIYdXSX,2024-07-25,Thursday,00:01,Vancouver,df5ab349a7a85d4b10da4cc3ec65c607,Broughton & Davie,13,7
+Vancouver-fvsiKCGL,2024-07-25T05:55:01.885000Z,Cypress&10th--rlUxEgL9,2024-07-25,Thursday,00:01,Vancouver,e0318460138ffbf4692005d5b5a9f900,Cypress & 10th,9,5
+Vancouver-pqhZFE0h,2024-07-25T05:55:01.726000Z,GranvilleIsland--nUw4L8SB,2024-07-25,Thursday,00:01,Vancouver,db51c556fe50ec1deefbc9697c70cb51,Granville Island,11,20
+Vancouver-hcP6gCzZ,2024-07-25T05:55:02.992000Z,McLean&Pender--hUoepfTc,2024-07-25,Thursday,00:01,Vancouver,58a026f0c506caec20697a4f90538450,McLean & Pender,4,11
+Vancouver-2M0DTHG6,2024-07-25T05:55:00.460000Z,Richards&Smithe--JBYqleE6,2024-07-25,Thursday,00:01,Vancouver,0e0aef6fabaa808b3a3cef24657257a4,Richards & Smithe,4,13
+Vancouver-4MP8mfxI,2024-07-25T05:55:00.091000Z,Bute&Robson--eMNSMdWS,2024-07-25,Thursday,00:01,Vancouver,90c746df94ce1a12f1f617acfe4a8ce3,Bute & Robson,0,0
+Vancouver-r96m2zBU,2024-07-25T05:55:01.829000Z,Trafalgar&Cornwall--clsIC8oh,2024-07-25,Thursday,00:01,Vancouver,80b5c12ef21fd47275d37b2c9935249c,Trafalgar & Cornwall,13,6
+Vancouver-Hs7XneE1,2024-07-25T05:55:03.084000Z,Alma&PointGrey--kP2SJsUP,2024-07-25,Thursday,00:01,Vancouver,899f59a9994302e8e1e4be01117ef707,Alma & Point Grey,16,7
+Vancouver-AlqxpQkc,2024-07-25T05:55:01.069000Z,PointGrey&Blenheim--DTU2hqxB,2024-07-25,Thursday,00:01,Vancouver,8d2d5bb3b9142f781f2a7f441e6bad7a,Point Grey & Blenheim,9,4
+Vancouver-xKCYox2t,2024-07-25T05:54:59.991000Z,Hastings&Broughton--uAwdjWri,2024-07-25,Thursday,00:01,Vancouver,5de0fe55497681d4cc9dd25509cf51ab,Hastings & Broughton,4,19
+Vancouver-b6mpr88W,2024-07-25T05:55:03.072000Z,Yew&Broadway--pGPRwbKs,2024-07-25,Thursday,00:01,Vancouver,2681455ba2d97283998a806b14d3e95c,Yew & Broadway,3,15
+Vancouver-r6R8n7xU,2024-07-25T05:55:01.160000Z,8th&Macdonald--vrSbSES9,2024-07-25,Thursday,00:01,Vancouver,064a7b39b1dbc4bfc4cf8f454e360c57,8th & Macdonald,9,10
+Vancouver-Z36ZJc8Q,2024-07-25T05:55:01.016000Z,Balaclava&Broadway--FRqbSMqV,2024-07-25,Thursday,00:01,Vancouver,9c1397c06e07bf74fc049f1a0872eea0,Balaclava & Broadway,8,8
+Vancouver-czz4NWRR,2024-07-25T05:55:02.030000Z,Dunbar&Broadway--LwHTXtxs,2024-07-25,Thursday,00:01,Vancouver,9763838317308a4766b83696986a157b,Dunbar & Broadway,5,20
+Vancouver-WQoskOuv,2024-07-25T05:55:02.429000Z,Grandview&Commercial--7OXQRE4O,2024-07-25,Thursday,00:01,Vancouver,c64ee19c62a363019ddbaedf71df2882,Grandview & Commercial,3,13
+Vancouver-6dF3h5GO,2024-07-25T05:55:00.953000Z,14th&Oak--tPkhKQY7,2024-07-25,Thursday,00:01,Vancouver,421516af381a11f54d07fc79be68d3d3,14th & Oak,1,12
+Vancouver-yVvPyUEr,2024-07-25T05:55:02.616000Z,Wallace&4th--YQhYhTNM,2024-07-25,Thursday,00:01,Vancouver,38f045e3f43f86eae42ca4c60257ade0,Wallace & 4th,8,10
+Vancouver-jXSecplZ,2024-07-25T05:55:00.257000Z,Balsam&Cornwall--fS6eQJ2u,2024-07-25,Thursday,00:01,Vancouver,5ba6e9725b1b0ee8cd25df976e47726b,Balsam & Cornwall,16,4
+Vancouver-3osiOLrX,2024-07-25T05:55:00.365000Z,Balaclava&6th--jnLORWT9,2024-07-25,Thursday,00:01,Vancouver,f90ed7ad754ec04b7852941a480a4c77,Balaclava & 6th,15,0
+Vancouver-w1Q7Con5,2024-07-25T05:54:59.965000Z,Trafalgar&Broadway--JpU5YIus,2024-07-25,Thursday,00:01,Vancouver,abfaf72456a4828a22f5bf60d3a80777,Trafalgar & Broadway,7,9
+Vancouver-nOsqhHPd,2024-07-25T05:55:03.111000Z,Dunbar&6th--jpBKH9sU,2024-07-25,Thursday,00:01,Vancouver,2ff7eb4230654603592ab1b0780ec5e1,Dunbar & 6th,9,6
+Vancouver-nBgrQ2IJ,2024-07-25T05:55:00.272000Z,18th&Cambie--FyrgXNb3,2024-07-25,Thursday,00:01,Vancouver,ea9485fcdce0611243474d000e4ad248,18th & Cambie,8,15
+Vancouver-AbcMUw5a,2024-07-25T05:55:00.289000Z,Blenheim&4th--G55kfeKT,2024-07-25,Thursday,00:01,Vancouver,671ce9e4a92063620f772d2c57f0f3ab,Blenheim & 4th,8,15
+Vancouver-MtjWiQ2y,2024-07-25T05:55:01.388000Z,Heather&18th--QbwXZcgr,2024-07-25,Thursday,00:01,Vancouver,41a55a7e2908fbbd65175b794d26bc8d,Heather & 18th,5,11
+Vancouver-ILSR7Yv1,2024-07-25T05:55:01.505000Z,PointGrey&Bayswater--vVjfZOfJ,2024-07-25,Thursday,00:01,Vancouver,a59924f0ff3fb481a7bd8a5e9c36858f,Point Grey & Bayswater,16,0
+Vancouver-Djy9DB2s,2024-07-25T05:55:00.341000Z,20th&Main--vMA9KLMW,2024-07-25,Thursday,00:01,Vancouver,89a0b49a66e54a7639ad960962148a3e,20th & Main,4,12
+Vancouver-NFfG7Z6s,2024-07-25T05:55:01.308000Z,Station&Terminal--phfp2fga,2024-07-25,Thursday,00:01,Vancouver,44fc3d58831a9f2b919c7a3a1838b74a,Station & Terminal,7,11
+Vancouver-G1nw3hLj,2024-07-25T05:55:02.725000Z,Burrard&Drake--5W3uj7a6,2024-07-25,Thursday,00:01,Vancouver,4990fe5772f3b73eebeec125b41e478e,Burrard & Drake,2,21
+Vancouver-gzgj8rnc,2024-07-25T05:55:01.620000Z,Columbia&1st--RKovfF5b,2024-07-25,Thursday,00:01,Vancouver,bf96df77771ef0ed710d8e0e67917f45,Columbia & 1st,6,17
+Vancouver-wtPYMauz,2024-07-25T05:55:02.941000Z,Davie&Beach--TY2eO7gU,2024-07-25,Thursday,00:01,Vancouver,e75e83499d3fa2e174dc2a8ffd238119,Davie & Beach,0,0
+Vancouver-qfGhVAbd,2024-07-25T05:55:00.098000Z,Morton&Denman--WbxemrpN,2024-07-25,Thursday,00:01,Vancouver,0438114d2e6b96118de69bc9775bb21e,Morton & Denman,0,0
+Vancouver-bXlMM8X2,2024-07-25T05:55:03.172000Z,13th&Cambie--ARFJEooY,2024-07-25,Thursday,00:01,Vancouver,07b13214cb69f2ec007d888450f3d6bc,13th & Cambie,4,10
+Vancouver-kIEZ6ybK,2024-07-25T05:55:03.248000Z,Nelson&Denman--e8wlf5Xw,2024-07-25,Thursday,00:01,Vancouver,f5e8fa1fc4252bda2f93dd27ed2d603f,Nelson & Denman,12,6
+Vancouver-h9LSbjRV,2024-07-25T05:55:01.456000Z,Melville&Bute--56miDiJN,2024-07-25,Thursday,00:01,Vancouver,c2a9c5d0e4578b928554c86f3d2c1162,Melville & Bute,4,9
+Vancouver-EJuu2Yoa,2024-07-25T05:55:01.340000Z,Seymour&Cordova--YllGMSTo,2024-07-25,Thursday,00:01,Vancouver,5f45325fdd6334a4c0d3b62853b19fa6,Seymour & Cordova,9,10
+Vancouver-0KFgd8fO,2024-07-25T05:55:01.961000Z,Arbutus&Nanton--llH4YPwN,2024-07-25,Thursday,00:01,Vancouver,085a0e120a08a80a58c0ae0ff9da565a,Arbutus & Nanton,1,16
+Vancouver-cDd7jrUH,2024-07-25T05:55:01.602000Z,Yukon&6th--Wg2mXlc7,2024-07-25,Thursday,00:01,Vancouver,8d5f47f01d7ad668419dfe9b7fe69c9a,Yukon & 6th,0,17
+Vancouver-1mouo3nB,2024-07-25T05:55:01.534000Z,11th&Kingsway--FfT2rA8F,2024-07-25,Thursday,00:01,Vancouver,bede4b24dae115d4cd43d2e6cc9812cb,11th & Kingsway,2,13
+Vancouver-amJtjikt,2024-07-25T05:55:00.126000Z,Wylie&2nd--cUTdstS5,2024-07-25,Thursday,00:01,Vancouver,680b1ddfd50c4397b365c9c00f09b0d1,Wylie & 2nd,6,12
+Vancouver-BrD6MA88,2024-07-25T05:55:00.720000Z,29th&Cambie--yvmSKO2V,2024-07-25,Thursday,00:01,Vancouver,b26f83e904f3a778466ebcd763b7316a,29th & Cambie,14,6
+Vancouver-xSLmOPKg,2024-07-25T05:55:03.228000Z,Rolston&Granville--20S6O89M,2024-07-25,Thursday,00:01,Vancouver,6620c54bd6b3a79800b2b67e999b24d0,Rolston & Granville,9,4
+Vancouver-I3YUEqC5,2024-07-25T05:55:02.197000Z,EastBlvd&37th--ZwHhoJoB,2024-07-25,Thursday,00:01,Vancouver,7f091b50fbbd892bf9fb869a64c47120,East Blvd & 37th,9,11
+Vancouver-kj2ijZUu,2024-07-25T05:55:00.143000Z,28th&Willow--FlaX98C4,2024-07-25,Thursday,00:01,Vancouver,57d39a680c9407cda0fb4de6d9c55138,28th & Willow,1,19
+Vancouver-CffkpZGI,2024-07-25T05:55:03.275000Z,Ontario&23rd--uHaBUL1c,2024-07-25,Thursday,00:01,Vancouver,97388f4e4ea102a30345524bda465f4e,Ontario & 23rd,7,4
+Vancouver-z4LaZWhi,2024-07-25T05:55:02.568000Z,30th&Ontario--e2WI54gQ,2024-07-25,Thursday,00:01,Vancouver,066ecc3584913fa035ec1417323beb80,30th & Ontario,15,7
+Vancouver-BN7FXu59,2024-07-25T05:55:02.028000Z,Franklin&Nanaimo--cQoHilKz,2024-07-25,Thursday,00:01,Vancouver,b530d04d393d71cffb8b8b07f4a82380,Franklin & Nanaimo,3,17
+Vancouver-lRSDrsNr,2024-07-25T05:55:01.841000Z,Lakewood&Triumph--uLCfVuQg,2024-07-25,Thursday,00:01,Vancouver,06bdc4d55f34b2a491305534fd5defda,Lakewood & Triumph,11,4
+Vancouver-pE6AgJYA,2024-07-25T05:55:00.304000Z,Wall&Eton--TOJKEXJA,2024-07-25,Thursday,00:01,Vancouver,8e44a17d2fa446ca220b90c7063b42ca,Wall & Eton,7,10
+Vancouver-CCg7AvJl,2024-07-25T05:55:01.217000Z,Lakewood&Oxford--Gn5dMJqo,2024-07-25,Thursday,00:01,Vancouver,7c17f51469f1a7145455f65ef6afbd87,Lakewood & Oxford,3,14
+Vancouver-SaRQercC,2024-07-25T05:55:00.278000Z,22nd&Cambie--hpic3eDW,2024-07-25,Thursday,00:01,Vancouver,e1432b72df561a1df34290679ec9c773,22nd & Cambie,6,8
+Vancouver-mHamVvHD,2024-07-25T05:55:00.740000Z,KingEdward&Cambie--BiLAJTLD,2024-07-25,Thursday,00:01,Vancouver,549f00f6039e8bb702a00dcca08a8ed0,King Edward & Cambie,6,11
+Vancouver-JpjBATme,2024-07-25T05:55:01.323000Z,Heather&29th--lrLEodus,2024-07-25,Thursday,00:01,Vancouver,d8c4fe5e09b6f010fbaa85cc7302d66b,Heather & 29th,5,17
+Vancouver-Cp5xNCvq,2024-07-25T05:55:00.209000Z,Cardero&Robson--5pFfblZG,2024-07-25,Thursday,00:01,Vancouver,0c42f45e4a14957ad4a6d521d0ba8bc3,Cardero & Robson,15,11
+Vancouver-K3qk9ul0,2024-07-25T05:55:01.248000Z,Commercial&20th--DtwFhkVd,2024-07-25,Thursday,00:01,Vancouver,62a202eb98c0a4b09ba6746f5ee94ab3,Commercial & 20th,4,16
+Vancouver-XOfxsfdb,2024-07-25T05:55:01.445000Z,Burrard&14th--D0FHFDnm,2024-07-25,Thursday,00:01,Vancouver,04f64fde5ba1ebde8ad78c74914adb34,Burrard & 14th,1,16
+Vancouver-xEVacydZ,2024-07-25T05:55:01.470000Z,Hornby&Drake--hZOKz2oi,2024-07-25,Thursday,00:01,Vancouver,cc2084e365f6f230fe26bae0b6867775,Hornby & Drake,4,20
+Vancouver-VpkfimFJ,2024-07-25T05:55:00.972000Z,Cardero&Bayshore--iWop7FYx,2024-07-25,Thursday,00:01,Vancouver,f38bac9712f3beee2149ba2a97048878,Cardero & Bayshore,19,2
+Vancouver-17qFFFOk,2024-07-25T05:55:02.728000Z,27th&Main--VQvAvYYj,2024-07-25,Thursday,00:01,Vancouver,9ee3bc9e836768e3e04e4f3328dae03b,27th & Main,2,20
+Vancouver-5mcbn2cs,2024-07-25T05:55:02.783000Z,Cordova&Granville--TB5UYfHU,2024-07-25,Thursday,00:01,Vancouver,aa1cbf97abc3cd50515bc54633a9bb2a,Cordova & Granville,8,9
+Vancouver-SB7BYUW5,2024-07-25T05:55:02.733000Z,22nd&Main--Q2nTsKqE,2024-07-25,Thursday,00:01,Vancouver,13021bba7bbeca1ccd8726ca17da59e6,22nd & Main,2,12
+Vancouver-jzzKUXfC,2024-07-25T05:55:00.325000Z,1st&Fir--apcl1yrt,2024-07-25,Thursday,00:01,Vancouver,5699b40126e10c2f68eefc3eb18ff3a1,1st & Fir,10,10
+Vancouver-jFxQ62TK,2024-07-25T05:55:00.103000Z,Sasamat&10th--9m4lDzZN,2024-07-25,Thursday,00:01,Vancouver,34fd37d12eb989b49518ef53941ee3ff,Sasamat & 10th,11,11
+Vancouver-UZsKSIZ8,2024-07-25T05:55:00.317000Z,Trimble&8th--o6sBjXge,2024-07-25,Thursday,00:01,Vancouver,b7dd37a7dd668d6d10024b7f18acc438,Trimble & 8th,0,20
+Vancouver-GT9OktdU,2024-07-25T05:55:02.637000Z,Highbury&8th--cQqJemol,2024-07-25,Thursday,00:01,Vancouver,cc25ae4f093b33ba0afd1dbc0dd20324,Highbury & 8th,15,4
+Vancouver-fYIlLvMN,2024-07-25T05:55:02.652000Z,IKBarberLearningCentre--84rWWa8J,2024-07-25,Thursday,00:01,Vancouver,db1e56a71a3279f51301d732ee5a055b,IK Barber Learning Centre,2,17
+Vancouver-vm0lRlBx,2024-07-25T05:55:00.330000Z,WarMemorialGym--wouDU87Q,2024-07-25,Thursday,00:01,Vancouver,5726de7c5646b82f7aaeafba50aee03e,War Memorial Gym,1,27
+Vancouver-Y4gjbDjE,2024-07-25T05:55:01.755000Z,PharmaceuticalSciences--cFJNyIAr,2024-07-25,Thursday,00:01,Vancouver,cde61c70e5556ee2fe3ceb9d958b6482,Pharmaceutical Sciences,5,19
+Vancouver-QjvA2ghm,2024-07-25T05:55:01.447000Z,Georgia&Main--CPh1oZG7,2024-07-25,Thursday,00:01,Vancouver,852212d6d52b5f00544fad01d21c7db2,Georgia & Main,8,11
+Vancouver-05INnDkT,2024-07-25T05:55:02.816000Z,Robson&Beatty--H4Y7udD3,2024-07-25,Thursday,00:01,Vancouver,10acadd77bc21f26a7f09d8c74d4af2d,Robson & Beatty,6,14
+Vancouver-v20SVkiL,2024-07-25T05:55:01.874000Z,WestMallSwingSpaceBuilding--b3Fwf60I,2024-07-25,Thursday,00:01,Vancouver,58345bb719f4e570ed4edc9dfa6a68a2,West Mall Swing Space Building,7,13
+Vancouver-tQheo4vf,2024-07-25T05:55:01.292000Z,OrchardCommons--kYfG2brJ,2024-07-25,Thursday,00:01,Vancouver,261efc67071963969b3f848c66454d97,Orchard Commons,0,26
+Vancouver-VCxr9Icn,2024-07-25T05:55:00.372000Z,WesbrookVillage-Berton&Shrum--CIRLsW1p,2024-07-25,Thursday,00:01,Vancouver,ee620d77724c8993b0d366e7ec655b64,Wesbrook Village - Berton & Shrum,8,20
+Vancouver-LPhk5mUc,2024-07-25T05:55:00.251000Z,Adanac&Lakewood--vzuIELEV,2024-07-25,Thursday,00:01,Vancouver,e02dd224b0177c65418bcb3f72d2f77d,Adanac & Lakewood,4,15
+Vancouver-SHDgLYeM,2024-07-25T05:55:02.316000Z,MapleTreeSquare--IVlwmrgx,2024-07-25,Thursday,00:01,Vancouver,12dd264419c06f596d1a883ed36efd9c,Maple Tree Square,8,16
+Vancouver-U6X0bzDG,2024-07-25T05:55:02.601000Z,JerichoBeach--xQwa0a45,2024-07-25,Thursday,00:01,Vancouver,a25947c94149b3aeb93f6e970d63fffc,Jericho Beach,14,10
+Vancouver-Q7mPYnTG,2024-07-25T05:55:02.482000Z,Cambie&Cordova--fxro2UC8,2024-07-25,Thursday,00:01,Vancouver,16e885a2eea476d406cd849140898043,Cambie & Cordova,7,11
+Vancouver-IritbIyx,2024-07-25T05:55:01.690000Z,Bute&Davie--UHmiEnyz,2024-07-25,Thursday,00:01,Vancouver,ed1ccbfbaabba798a18d8c4ff3507b1a,Bute & Davie,4,14
+Vancouver-RjoiHqke,2024-07-25T05:55:01.940000Z,10th&Cambie--AUATH5t5,2024-07-25,Thursday,00:03,Vancouver,7a19c49f486d7c0c02b3685d7b240448,10th & Cambie,2,31
+Vancouver-OXizxnvb,2024-07-25T05:55:01.909000Z,Yaletown-RoundhouseStation--IuOb5HGK,2024-07-25,Thursday,00:03,Vancouver,32603a87cfca71d0f7dfa3513bad69d5,Yaletown-Roundhouse Station,4,12
+Vancouver-7nvvPwNw,2024-07-25T05:55:01.917000Z,Dunsmuir&Beatty--xPXq3KRu,2024-07-25,Thursday,00:03,Vancouver,6d42fa40360f9a6b2bf641c7b8bb2862,Dunsmuir & Beatty,4,22
+Vancouver-9FVvTuyX,2024-07-25T05:55:01.930000Z,12th&Yukon(CityHall)--rS5vXDlO,2024-07-25,Thursday,00:03,Vancouver,66f873d641d448bd1572ab086665a458,12th & Yukon (City Hall),4,12
+Vancouver-TaH2n9we,2024-07-25T05:55:01.980000Z,8th&Ash--cFHq7Dni,2024-07-25,Thursday,00:03,Vancouver,485d4d24c803cfde829ab89699fed833,8th & Ash,1,15
+Vancouver-fGZl7nhC,2024-07-25T05:55:01.985000Z,Spyglass&Seawall--dG7vuHt1,2024-07-25,Thursday,00:03,Vancouver,b07d513f87897cff7319a0e59d7e567c,Spyglass & Seawall,1,13
+Vancouver-LNdjTFKo,2024-07-25T05:55:02.388000Z,StampsLanding--XXMOPaDa,2024-07-25,Thursday,00:03,Vancouver,d1c9556d92f329703229fb3e33899a3b,Stamps Landing,4,9
+Vancouver-4iOrCIJl,2024-07-25T05:55:02.365000Z,Ontario&Seawall--a62jQ2nm,2024-07-25,Thursday,00:03,Vancouver,95e624191c655f50e401d280cd39a9ad,Ontario & Seawall,8,11
+Vancouver-tAQWn76Y,2024-07-25T05:55:02.296000Z,CanadaPlace--XJA1tEKD,2024-07-25,Thursday,00:03,Vancouver,3e112f9fe877e0003780386359060ae6,Canada Place,0,0
+Vancouver-1uSQgiR9,2024-07-25T05:55:02.269000Z,Granville&Georgia--IR07ZAYV,2024-07-25,Thursday,00:03,Vancouver,6993b3dbb0758927967592ea612a2b1e,Granville & Georgia,1,18
+Vancouver-f7veeytG,2024-07-25T05:55:02.244000Z,Pender&Burrard--wbdLphdc,2024-07-25,Thursday,00:03,Vancouver,bf8408067b0e0c963f3ff526977bcef3,Pender & Burrard,1,25
+Vancouver-j9pfSdaj,2024-07-25T05:55:02.224000Z,Marinaside&Davie--utvsnSX8,2024-07-25,Thursday,00:03,Vancouver,d2244f1a81d317c76cabd65e81250835,Marinaside & Davie,4,18
+Vancouver-k7LNq0VT,2024-07-25T05:55:02.500000Z,Robson&Hornby--Msq8iSBr,2024-07-25,Thursday,00:03,Vancouver,0b543fc4e694fe07a54dac48bb1b3390,Robson & Hornby,1,27
+Vancouver-ha1JJC0A,2024-07-25T05:55:02.868000Z,Hornby&Pender--7mH34lw2,2024-07-25,Thursday,00:03,Vancouver,fbb1d30d7f30b049873f5be5688563d4,Hornby & Pender,6,16
+Vancouver-9H7RxHjG,2024-07-25T05:55:02.900000Z,Homer&Robson(VancouverPublicLibrary)--bOIcNZmU,2024-07-25,Thursday,00:03,Vancouver,7181df50ee1d1a05559399211382b7c8,Homer & Robson (Vancouver Public Library),2,18
+Vancouver-P7f1h2xt,2024-07-25T05:55:02.836000Z,Beatty&Nelson--aVYA8HW8,2024-07-25,Thursday,00:03,Vancouver,b7683a86874e6300fd89f4cc0b075f57,Beatty & Nelson,0,13
+Vancouver-gf239IEd,2024-07-25T05:55:00.099000Z,Abbott&Cordova--3VsrKkYg,2024-07-25,Thursday,00:03,Vancouver,3367c1e1dbf73caf7c10e4c96a92f58d,Abbott & Cordova,9,11
+Vancouver-xUWFU8Xw,2024-07-25T05:55:00.102000Z,Comox&Denman--qnrYGWR9,2024-07-25,Thursday,00:03,Vancouver,1d7e73b3321ebb6713774d376247d9f9,Comox & Denman,14,2
+Vancouver-h4nQtvjT,2024-07-25T05:55:00.024000Z,Cordova&Bute--OsTRX1ov,2024-07-25,Thursday,00:03,Vancouver,664502c28e8147615f17b8ea355f40d0,Cordova & Bute,2,12
+Vancouver-cLdeWmKR,2024-07-25T05:55:00.052000Z,Hornby&Nelson--sn3KKaHj,2024-07-25,Thursday,00:03,Vancouver,6c24a62b5ee0a2a8014eb0dfb6d40025,Hornby & Nelson,1,16
+Vancouver-R2JsVy80,2024-07-25T05:54:59.962000Z,Helmcken&Burrard--tVBbwvwl,2024-07-25,Thursday,00:03,Vancouver,fad9ebcf614dd1a72593a34072ff76f8,Helmcken & Burrard,1,14
+Vancouver-loFHofZg,2024-07-25T05:55:00.212000Z,Pacific&Richards--ZLFQQkdJ,2024-07-25,Thursday,00:03,Vancouver,3a4131fa94946d93d3529136efd62413,Pacific & Richards,2,11
+Vancouver-JR6FMawV,2024-07-25T05:55:00.237000Z,Chilco&Beach--165zCfO1,2024-07-25,Thursday,00:03,Vancouver,25318ec3e06fae1397a3a2f645104149,Chilco & Beach,12,1
+Vancouver-uodrLr3a,2024-07-25T05:55:00.157000Z,Comox&Broughton--WXg3F4fG,2024-07-25,Thursday,00:03,Vancouver,444991edc9550be0908f032da5e3c95f,Comox & Broughton,4,8
+Vancouver-bYeom3AT,2024-07-25T05:55:00.562000Z,Bute&Comox--rz3JNbcZ,2024-07-25,Thursday,00:03,Vancouver,434b6f4e7fc30198f901b60fc905f609,Bute & Comox,2,17
+Vancouver-Vwn6TDQp,2024-07-25T05:55:00.504000Z,Cambie&Water--Q9RmDCFP,2024-07-25,Thursday,00:03,Vancouver,f97d5bf41f35aa181288429fb52e3488,Cambie & Water,13,19
+Vancouver-mPGxAkU7,2024-07-25T05:55:00.496000Z,Keefer&Abbott--AKH35eVU,2024-07-25,Thursday,00:03,Vancouver,fef69fb400210d861107a61db954d037,Keefer & Abbott,3,24
+Vancouver-uT8NnhUz,2024-07-25T05:55:00.628000Z,Expo&Carrall--uNpDKwMk,2024-07-25,Thursday,00:03,Vancouver,9d3123425823420514b8ad410074f02d,Expo & Carrall,8,8
+Vancouver-1HudjzG9,2024-07-25T05:55:00.614000Z,Keefer&Columbia--xItMeWyw,2024-07-25,Thursday,00:03,Vancouver,f1ca711137cde59e824167a4274df888,Keefer & Columbia,7,7
+Vancouver-wTJMcQ05,2024-07-25T05:55:00.592000Z,Marinaside&Cooperage--yPOhttxs,2024-07-25,Thursday,00:03,Vancouver,4f6ebf2026d540ffe40e29a80138ad5e,Marinaside & Cooperage,9,14
+Vancouver-qO30enba,2024-07-25T05:55:01.822000Z,Bidwell&Burnaby--nTPQcjOb,2024-07-25,Thursday,00:03,Vancouver,be14efdc86dedd6a8cd338e78ab4e7c7,Bidwell & Burnaby,57,10
+Vancouver-3Au0ot3s,2024-07-25T05:55:01.796000Z,Robson&Granville--YQYrV8BX,2024-07-25,Thursday,00:03,Vancouver,6ddeafa873279951630a00191333c45d,Robson & Granville,10,12
+Vancouver-l5mK56Oc,2024-07-25T05:55:01.770000Z,Expo&Smithe--nNmRE4WO,2024-07-25,Thursday,00:03,Vancouver,c7b5bec0b2f4ab9a2d3f9d837725620c,Expo & Smithe,4,10
+Vancouver-Sk6KKS4y,2024-07-25T05:55:01.786000Z,Cypress&Cornwall--IXX30553,2024-07-25,Thursday,00:03,Vancouver,b9fd847d53fe45658fee4c46e7f562b8,Cypress & Cornwall,5,16
+Vancouver-eEmDGpIc,2024-07-25T05:55:01.758000Z,Anderson&2nd--7AH0WZnD,2024-07-25,Thursday,00:03,Vancouver,c2be5403b1c101e8032cf6696457200e,Anderson & 2nd,7,20
+Vancouver-PZROxGml,2024-07-25T05:55:01.900000Z,7th&Granville--w1HOXXtO,2024-07-25,Thursday,00:03,Vancouver,71c064fa93cab5f0b7306e6c923b77c4,7th & Granville,2,12
+Vancouver-Yf9Ss7Mq,2024-07-25T05:55:02.056000Z,10th&Granville--w90xkNC4,2024-07-25,Thursday,00:03,Vancouver,96bf713e60bc35cc2feb5fd53a4f3471,10th & Granville,1,13
+Vancouver-fBBNhiXl,2024-07-25T05:55:02.040000Z,14th&Granville--ljLXlVdr,2024-07-25,Thursday,00:03,Vancouver,8dc684732a2a25bdf63ec0ecccee4e6e,14th & Granville,7,4
+Vancouver-Ta1lKjVX,2024-07-25T05:55:02.064000Z,14th&Cambie--g9EsRPrE,2024-07-25,Thursday,00:03,Vancouver,686c0fdb962e26e274d81fc286c010dd,14th & Cambie,2,12
+Vancouver-CTDAKCWX,2024-07-25T05:55:02.060000Z,Ontario&5th--Yk5hb3e0,2024-07-25,Thursday,00:03,Vancouver,0cf6cd1809fa7f510812f5b052f578c4,Ontario & 5th,14,6
+Vancouver-DjRT2MMk,2024-07-25T05:55:02.100000Z,10th&Main--t19JJLsh,2024-07-25,Thursday,00:03,Vancouver,93c88a18c673e2c72a6afa93d6b89f18,10th & Main,2,16
+Vancouver-ABUnS9j9,2024-07-25T05:55:02.113000Z,Cypress&4th--UDBrOIPm,2024-07-25,Thursday,00:03,Vancouver,8fb5ce1e34ad31de940481953aea452c,Cypress & 4th,17,2
+Vancouver-HM2lvVKU,2024-07-25T05:55:02.110000Z,VanierPark--5OfIphNK,2024-07-25,Thursday,00:03,Vancouver,aa704bfba40286bd0661b64d1f75e778,Vanier Park,5,22
+Vancouver-CUpA7zkt,2024-07-25T05:55:02.173000Z,Nelson&Mainland--77YYpFiS,2024-07-25,Thursday,00:03,Vancouver,8c9ea7f2132376859ef34fab981d6932,Nelson & Mainland,1,18
+Vancouver-tyEoq3Iq,2024-07-25T05:55:02.140000Z,Nelson&Richards--TtM4BGUs,2024-07-25,Thursday,00:03,Vancouver,1d4153659a0a0a2089078c739df6737d,Nelson & Richards,5,11
+Vancouver-Pkh2Zy0I,2024-07-25T05:55:02.738000Z,7th&Heather--xc4m8ArY,2024-07-25,Thursday,00:03,Vancouver,fbb4c06b719596c21f91fd51ef6d4710,7th & Heather,1,15
+Vancouver-XnwhnFWL,2024-07-25T05:55:02.723000Z,Harwood&Bute--tYCHxJ5H,2024-07-25,Thursday,00:03,Vancouver,72c1049dfbbde7c24ec45c14f1a5ee85,Harwood & Bute,10,9
+Vancouver-IKKkxp4c,2024-07-25T05:55:03.262000Z,Chilco&Barclay--hwqBa3bi,2024-07-25,Thursday,00:03,Vancouver,00fa94ad698dc4a9e4d708d6fd32f294,Chilco & Barclay,16,2
+Vancouver-rGtXkVOn,2024-07-25T05:55:03.256000Z,Chilco&Robson--qkV8gZHZ,2024-07-25,Thursday,00:03,Vancouver,efa947b901a2cf85b58320b3ad26a2fe,Chilco & Robson,14,1
+Vancouver-q6fJtKBo,2024-07-25T05:55:03.235000Z,Nicola&Robson--KvpNQrbx,2024-07-25,Thursday,00:03,Vancouver,66a53e9c32e4f5c724f9478240020142,Nicola & Robson,13,4
+Vancouver-6hZgvYMo,2024-07-25T05:55:03.223000Z,Carrall&Hastings--13Ux1UBm,2024-07-25,Thursday,00:03,Vancouver,97b25faf822b93fdbf72da1d594c0288,Carrall & Hastings,12,6
+Vancouver-XG9lT3YO,2024-07-25T05:55:03.211000Z,šxʷƛ̓ənəqXwtl'e7énḵSquare-VancouverArtGallery--dnLoqvms,2024-07-25,Thursday,00:03,Vancouver,6c7fb9043e6df5a4cc50404581a947b9,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,2,25
+Vancouver-36qnAMX0,2024-07-25T05:55:01.142000Z,StanleyPark-VancouverAquarium--JaAtow7x,2024-07-25,Thursday,00:03,Vancouver,30bf49544b1c864688b78172d42cca5e,Stanley Park - Vancouver Aquarium,12,4
+Vancouver-2uLdhJKn,2024-07-25T05:55:01.153000Z,StanleyPark-SecondBeachNorth--KzK0bxqe,2024-07-25,Thursday,00:03,Vancouver,9f63cebac9073eac3e90be2b9a91b02b,Stanley Park - Second Beach North,2,13
+Vancouver-HCGNPxeI,2024-07-25T05:55:01.121000Z,StanleyPark-SecondBeachSouth--n8p37pSk,2024-07-25,Thursday,00:03,Vancouver,9aa325529164ec68b4d96c4f1c4fc7c1,Stanley Park - Second Beach South,16,2
+Vancouver-JgeYXaFW,2024-07-25T05:55:01.113000Z,StanleyPark-TotemPoles--SsBbzAA5,2024-07-25,Thursday,00:03,Vancouver,e3d32ad772a5898c3b96c4d23d2cd542,Stanley Park - Totem Poles,15,4
+Vancouver-aUZ1HbGe,2024-07-25T05:55:01.136000Z,Heather&14th--puJbbqQx,2024-07-25,Thursday,00:03,Vancouver,625a2ad202275c8e2be3ce868e85b105,Heather & 14th,2,16
+Vancouver-29cTWH67,2024-07-25T05:55:01.132000Z,8th&Ontario--KKIMRvY9,2024-07-25,Thursday,00:03,Vancouver,6c0de983fb47a3439a9e3c36a3d15804,8th & Ontario,0,14
+Vancouver-Ny4lTAYt,2024-07-25T05:55:01.097000Z,1st&Chestnut--aL8F6Wu2,2024-07-25,Thursday,00:03,Vancouver,92c9e62c0b42adf4759c430009d3987a,1st & Chestnut,24,2
+Vancouver-PjxzK0gG,2024-07-25T05:55:01.096000Z,7th&Arbutus--0ssZvtFD,2024-07-25,Thursday,00:03,Vancouver,51e4d3731aebbf9c3186f310a08de6c8,7th & Arbutus,11,4
+Vancouver-TAqLItFE,2024-07-25T05:55:00.416000Z,5th&Arbutus--QNpVMjlD,2024-07-25,Thursday,00:03,Vancouver,826af7eee4ce28b6fa4b4f0211305792,5th & Arbutus,6,9
+Vancouver-5jGbcwfw,2024-07-25T05:55:00.385000Z,10th&Oak--Z4YujrFM,2024-07-25,Thursday,00:03,Vancouver,4cb84c9a3743287019ae00ceef9a1cd3,10th & Oak,3,27
+Vancouver-447vYaOo,2024-07-25T05:55:00.395000Z,Arbutus&16th--HlDasZW2,2024-07-25,Thursday,00:03,Vancouver,56fef9ba0af67a4ff3e661a8e02c0b08,Arbutus & 16th,16,23
+Vancouver-p16qpWJx,2024-07-25T05:55:00.481000Z,Cypress&14th--dWewNneX,2024-07-25,Thursday,00:03,Vancouver,c81f75a80312c51ceaef1304beac1990,Cypress & 14th,3,9
+Vancouver-tgYW6b3P,2024-07-25T05:55:00.488000Z,Cypress&16th--BNcxEzjl,2024-07-25,Thursday,00:03,Vancouver,afacb2133f2462aba7748cc21b71c788,Cypress & 16th,3,9
+Vancouver-NzlBxiMs,2024-07-25T05:55:00.177000Z,Georgia&Thurlow--hhy2uMbI,2024-07-25,Thursday,00:03,Vancouver,a9f0b06d07f89b75e92c0cf686223aea,Georgia & Thurlow,0,12
+Vancouver-NNseaWwH,2024-07-25T05:55:00.160000Z,Thurlow&Pendrell--WAMiKx0A,2024-07-25,Thursday,00:03,Vancouver,686b314a6c3348efd2297d6b3dfed1a7,Thurlow & Pendrell,1,15
+Vancouver-VkVdFPas,2024-07-25T05:55:00.109000Z,Heather&16th--6vRVGwPb,2024-07-25,Thursday,00:03,Vancouver,0d1b5c62f8d22e3650811df55596e25b,Heather & 16th,8,4
+Vancouver-AUR8VNr8,2024-07-25T05:54:59.976000Z,14th&Ontario--L9udQCWG,2024-07-25,Thursday,00:03,Vancouver,521c2122c791ed038168c3b8ff24061b,14th & Ontario,14,1
+Vancouver-E0XaHBMC,2024-07-25T05:54:59.921000Z,14th&Main--gAJyhhao,2024-07-25,Thursday,00:03,Vancouver,838d5bb59963474ad08a6d5b156943ed,14th & Main,3,10
+Vancouver-roheWRtl,2024-07-25T05:54:59.936000Z,DavidLamPark--B8RrJVvx,2024-07-25,Thursday,00:03,Vancouver,b9ab6ce009eda6006ade1d7568d9db9c,David Lam Park,4,13
+Vancouver-O7e46H4n,2024-07-25T05:54:59.960000Z,Beach&Seymour--KClJP0WI,2024-07-25,Thursday,00:03,Vancouver,9ec4163496363b31ab475cb851b57b21,Beach & Seymour,15,3
+Vancouver-eOwHtgDg,2024-07-25T05:55:03.001000Z,Richards&Helmcken--20dcjThb,2024-07-25,Thursday,00:03,Vancouver,fedff7a263c182df94bda7307059cc52,Richards & Helmcken,1,16
+Vancouver-79YvE90t,2024-07-25T05:55:03.152000Z,Burrard&4th--lG078pbc,2024-07-25,Thursday,00:03,Vancouver,b9baf685b7053de899bf3467f61c2781,Burrard & 4th,11,5
+Vancouver-6CHTRnLX,2024-07-25T05:55:00.111000Z,Burrard&7th--4kmTtyJj,2024-07-25,Thursday,00:03,Vancouver,8d6f0cbf7d44d2908c8ce73ed00dbf66,Burrard & 7th,2,13
+Vancouver-JwRvKWB6,2024-07-25T05:55:00.114000Z,CharlesonPark--AHQ25Fqq,2024-07-25,Thursday,00:03,Vancouver,988f8f74c4a12d1a30ddf2f7cd6318f8,Charleson Park,7,7
+Vancouver-J1MnPmgK,2024-07-25T05:55:00.127000Z,Chestnut&McNicoll--yyYRhwH5,2024-07-25,Thursday,00:03,Vancouver,2f09a64507cf6257c67ca20af27339eb,Chestnut & McNicoll,0,15
+Vancouver-39CJYyGj,2024-07-25T05:55:00.134000Z,CreeksideParkNorth--Bbq1xBGC,2024-07-25,Thursday,00:03,Vancouver,73f388336d879bedc962cd412eb0296e,Creekside Park North,7,11
+Vancouver-CWckXfXN,2024-07-25T05:55:02.692000Z,Alexander&Main--6qCU4Owp,2024-07-25,Thursday,00:03,Vancouver,cb6fddfdac7d350d25be475c7ab9e05a,Alexander & Main,12,6
+Vancouver-qnn4pk6Z,2024-07-25T05:55:03.189000Z,ArbutusGreenway&14th--hJ5OjwGz,2024-07-25,Thursday,00:03,Vancouver,cadc004f0903ef45e898032143c0832f,Arbutus Greenway & 14th,5,14
+Vancouver-Xa6gsqSQ,2024-07-25T05:55:03.195000Z,ArbutusGreenway&Fir--DHOOgGpr,2024-07-25,Thursday,00:03,Vancouver,57e928d8c30fab0ebffb3ede850f89d6,Arbutus Greenway & Fir,1,14
+Vancouver-vjWK1Lj6,2024-07-25T05:55:03.176000Z,KitsilanoBeachPark--ddmJlRLO,2024-07-25,Thursday,00:03,Vancouver,6526a2eb3832f9ba0224d237e901ea5b,Kitsilano Beach Park,25,10
+Vancouver-uFuAapUp,2024-07-25T05:55:03.184000Z,Arbutus&McNicoll--wc7hv8Bv,2024-07-25,Thursday,00:03,Vancouver,e44c2235dd603dbee54fe08f7543e85a,Arbutus & McNicoll,8,22
+Vancouver-b1MLV9IO,2024-07-25T05:55:03.285000Z,Vine&4th--QqGdud4M,2024-07-25,Thursday,00:03,Vancouver,3596b4831ee2ea7812de753b32306835,Vine & 4th,3,13
+Vancouver-PZ5mj8t3,2024-07-25T05:55:01.972000Z,Alexander&Dunlevy--YAlZZvUs,2024-07-25,Thursday,00:03,Vancouver,c448b73d92f7f8e1daafb3b9c5fbe6a6,Alexander & Dunlevy,5,9
+Vancouver-x9jtzyMj,2024-07-25T05:55:03.019000Z,Alder&11th--1MefIHqU,2024-07-25,Thursday,00:03,Vancouver,5fc29e0ac42c11abb45bf12aaeb925bd,Alder & 11th,2,12
+Vancouver-VtUYXSia,2024-07-25T05:55:01.608000Z,10th&Columbia--7JEDCqUJ,2024-07-25,Thursday,00:03,Vancouver,61901a235d4cfceb7f8f2c3888b98617,10th & Columbia,5,9
+Vancouver-7Sq17D1X,2024-07-25T05:55:01.633000Z,1st&Manitoba--KnKk3c9N,2024-07-25,Thursday,00:03,Vancouver,175a074bf65455d1633639511dc129c8,1st & Manitoba,4,22
+Vancouver-s441WQid,2024-07-25T05:55:01.660000Z,10th&Ontario--3oBPc3Ym,2024-07-25,Thursday,00:03,Vancouver,35eb539fb9298bb7e4f6759ca0256505,10th & Ontario,3,16
+Vancouver-JkmJZ5IG,2024-07-25T05:55:01.668000Z,Quebec&1st--HeQAqfm6,2024-07-25,Thursday,00:03,Vancouver,7b8dfa12900bcb02b47a14e4e5010ba3,Quebec & 1st,6,11
+Vancouver-VYhibHyK,2024-07-25T05:55:01.708000Z,Columbia&14th--H3mlbklm,2024-07-25,Thursday,00:03,Vancouver,b30ed0719dd281867a4d39779c78b58a,Columbia & 14th,8,6
+Vancouver-OIJuf54S,2024-07-25T05:55:01.460000Z,7th&Laurel--oVellClp,2024-07-25,Thursday,00:03,Vancouver,ace20c241ee38643c9060f290b215b9d,7th & Laurel,6,7
+Vancouver-L20ql7Jl,2024-07-25T05:55:01.451000Z,7th&Alder--pMVaN7iH,2024-07-25,Thursday,00:03,Vancouver,3aed670ccdcd94b966c0f505f8b028c7,7th &  Alder,0,16
+Vancouver-OSH1y68K,2024-07-25T05:55:01.452000Z,ScienceWorld--3tuam9G6,2024-07-25,Thursday,00:03,Vancouver,ae69aeab748d02e5a7d89da28a1a8511,Science World,7,8
+Vancouver-5uN8Bw1f,2024-07-25T05:55:01.477000Z,1st&Scotia--QNx2p2D1,2024-07-25,Thursday,00:03,Vancouver,0c9ad3e3703e5869b82619ecdf54f43e,1st & Scotia,17,2
+Vancouver-u9CRCy1q,2024-07-25T05:55:00.987000Z,RogersTower--BMUfQZcM,2024-07-25,Thursday,00:03,Vancouver,f3708906ec71348f5a42579fede36a0d,Rogers Tower,3,15
+Vancouver-7xQaetYd,2024-07-25T05:55:00.911000Z,York&Yew--hqa5VS5U,2024-07-25,Thursday,00:03,Vancouver,9449a6a83fbf88452e384350e5ac95b7,York & Yew,18,2
+Vancouver-Kh563toO,2024-07-25T05:55:00.928000Z,Pine&10th--Kc5TBOpV,2024-07-25,Thursday,00:03,Vancouver,365da33e9ce06ea53db1173a0f8eae71,Pine & 10th,11,8
+Vancouver-haLnchky,2024-07-25T05:55:00.860000Z,8th&Scotia--DvD2jtML,2024-07-25,Thursday,00:03,Vancouver,707c1c54e0278fbae5d0ae3c42a25b71,8th & Scotia,1,10
+Vancouver-ju6ehL6X,2024-07-25T05:55:00.888000Z,Alberni&Jervis--uhkdu5B1,2024-07-25,Thursday,00:03,Vancouver,5105df3dd0daf4c26980f4134f61e5cc,Alberni & Jervis,1,19
+Vancouver-cXjq0eQA,2024-07-25T05:55:01.088000Z,StanleyPark-InformationBooth--xQVTY1Va,2024-07-25,Thursday,00:03,Vancouver,82c794442f54fabf9db6e392ca1fac0f,Stanley Park - Information Booth,18,1
+Vancouver-KG5D8fXH,2024-07-25T05:55:01.428000Z,14th&Alder--jWHJNKLr,2024-07-25,Thursday,00:03,Vancouver,2ca388bba54706770900ca2a9d7aa5be,14th & Alder,3,10
+Vancouver-y4Wgtlk7,2024-07-25T05:55:02.712000Z,Pender&Gore--ZCCFilze,2024-07-25,Thursday,00:03,Vancouver,e7bf01431a6982f032996ad50a9e5bd7,Pender & Gore,0,13
+Vancouver-nLdLdMGy,2024-07-25T05:55:03.056000Z,Carrall&Seawall--X2QyB5ci,2024-07-25,Thursday,00:03,Vancouver,1648ead5ea617d2cea115869d9516f5e,Carrall & Seawall,4,12
+Vancouver-nD1jIrEw,2024-07-25T05:55:02.924000Z,Glen&Union--Zbq4pTUE,2024-07-25,Thursday,00:03,Vancouver,91035fe1d70b65c9cb8ec4a007af7c7f,Glen & Union,2,10
+Vancouver-baNaAJ28,2024-07-25T05:55:01.073000Z,Adanac&McLean--HFrWboGV,2024-07-25,Thursday,00:03,Vancouver,d3aaff4414a8c3fd5480c470f77ff68a,Adanac & McLean,17,3
+Vancouver-wfUdi8yd,2024-07-25T05:55:02.952000Z,Commercial&Adanac--c717Auej,2024-07-25,Thursday,00:03,Vancouver,b307709b305dd04328fbbf2c6db86419,Commercial & Adanac,13,3
+Vancouver-WvffRwDH,2024-07-25T05:55:02.976000Z,Pender&Commercial--7Gnb9lS6,2024-07-25,Thursday,00:03,Vancouver,e9c4bd1fffbb1e5b058b8ea15f7307f6,Pender & Commercial,9,7
+Vancouver-7f2L5PFg,2024-07-25T05:55:02.780000Z,Keefer&Princess--iemyIUZP,2024-07-25,Thursday,00:03,Vancouver,bb0847559ce71c93d8215c0997ea2811,Keefer & Princess,4,10
+Vancouver-XJGq7i5C,2024-07-25T05:55:01.093000Z,Alexander&Railway--RRax5iCT,2024-07-25,Thursday,00:03,Vancouver,1ef5c4ff3f0b09422bb1597fd9d7568b,Alexander & Railway,1,19
+Vancouver-3rTNbrGX,2024-07-25T05:55:00.150000Z,Napier&Commercial--Q9pccxh6,2024-07-25,Thursday,00:03,Vancouver,ac3b8198f03754a0afb8b6ed6d220cdd,Napier & Commercial,0,14
+Vancouver-o5PKVfiw,2024-07-25T05:55:00.131000Z,BritanniaParkingLot--4FjxDZ0R,2024-07-25,Thursday,00:03,Vancouver,029a505bd4422a1afd127987757f71a6,Britannia Parking Lot,11,3
+Vancouver-7u666YAO,2024-07-25T05:55:00.285000Z,Thornton&National--DvNAJ8Kq,2024-07-25,Thursday,00:03,Vancouver,0459b7e93703980b853cd65a9dc60596,Thornton & National,11,3
+Vancouver-nGaOtmC7,2024-07-25T05:55:02.025000Z,Keith&6th--DklfZhkJ,2024-07-25,Thursday,00:03,Vancouver,a21f40838346e300063bdda3c5c04105,Keith & 6th,22,6
+Vancouver-87MFtwgj,2024-07-25T05:55:02.718000Z,Grant&Commercial--Wj174FwD,2024-07-25,Thursday,00:03,Vancouver,6b1622540fe5c85d365754dd8c20bf0c,Grant & Commercial,2,11
+Vancouver-bwqwq0QV,2024-07-25T05:55:03.100000Z,2nd&Commercial--BJrZj16w,2024-07-25,Thursday,00:03,Vancouver,ebc551adb0fc1a684f4080e4954a9ba4,2nd & Commercial,0,20
+Vancouver-Vwh9d1pl,2024-07-25T05:55:02.546000Z,4th&Commercial--U8QcpLX0,2024-07-25,Thursday,00:03,Vancouver,6eaa02e5bcf78db5386683d38fa2dabd,4th & Commercial,2,12
+Vancouver-zVOkEdlP,2024-07-25T05:55:01.048000Z,8th&Commercial--ib94v2HX,2024-07-25,Thursday,00:03,Vancouver,983e58671adcc67af94457d7887dbb15,8th & Commercial,1,18
+Vancouver-bHOB1V15,2024-07-25T05:55:02.672000Z,10th&Commercial--kF289Ltk,2024-07-25,Thursday,00:03,Vancouver,797ff1725f8d2b18337de51e240ff60d,10th & Commercial,22,4
+Vancouver-j2ekfQzY,2024-07-25T05:55:01.949000Z,Woodland&10th--qnyR4l2L,2024-07-25,Thursday,00:03,Vancouver,277b4b4881bdb7dac73012672179def8,Woodland & 10th,9,5
+Vancouver-QuT6tXRs,2024-07-25T05:55:01.934000Z,Glen&Broadway--h2fMG1Zs,2024-07-25,Thursday,00:03,Vancouver,e1ff428dadc7c32141b9d89a7b56728a,Glen & Broadway,10,8
+Vancouver-wTpHQZ6V,2024-07-25T05:55:00.644000Z,StGeorge&Broadway--1oyO3zGt,2024-07-25,Thursday,00:03,Vancouver,012d3e06901cc222b1c2cf0a2ace3a29,St George & Broadway,7,5
+Vancouver-XlxVwoPy,2024-07-25T05:55:01.974000Z,7th&Woodland--sBWDjgO6,2024-07-25,Thursday,00:03,Vancouver,a6455af6b689bcbad07ae2c8a3419b50,7th & Woodland,5,6
+Vancouver-PnLbVEAy,2024-07-25T05:55:01.994000Z,Woodland&4th--EraV1oR1,2024-07-25,Thursday,00:03,Vancouver,475627e149c1a6ba73caac8d8d2fa617,Woodland & 4th,3,9
+Vancouver-GWs12CfL,2024-07-25T05:55:02.520000Z,Woodland&Graveley--lYcmHJpR,2024-07-25,Thursday,00:03,Vancouver,f387ec226c432c5c054e3d3616d90501,Woodland & Graveley,2,10
+Vancouver-ixhtQf3d,2024-07-25T05:55:02.014000Z,Charles&Woodland--dTIVQLjM,2024-07-25,Thursday,00:03,Vancouver,1675a77b9af656faf527b4e6de53e63b,Charles & Woodland,4,10
+Vancouver-0YyZ1tnR,2024-07-25T05:55:02.408000Z,18th&Main--jIj606hx,2024-07-25,Thursday,00:03,Vancouver,1bca0e944a4faf170db82793414b03ab,18th & Main,9,7
+Vancouver-8GL3hX3T,2024-07-25T05:55:02.468000Z,PrinceEdward&16th--w1k4e4TM,2024-07-25,Thursday,00:03,Vancouver,d0782213f003ce9eb276fbceff44f1f4,Prince Edward & 16th,4,10
+Vancouver-rRGe9Zyj,2024-07-25T05:55:02.448000Z,PrinceEdward&14th--sblsKEaA,2024-07-25,Thursday,00:03,Vancouver,1ef01f2f89621d51afbabaa6296e55be,Prince Edward & 14th,7,7
+Vancouver-SZvBCr93,2024-07-25T05:55:01.684000Z,13th&StGeorge--SlXTqQY1,2024-07-25,Thursday,00:03,Vancouver,c47a1f62ea461ce1c9f3e2478c657df6,13th & St George,6,10
+Vancouver-QymQDNVM,2024-07-25T05:55:00.676000Z,10th&Fraser--vo8xRPi7,2024-07-25,Thursday,00:03,Vancouver,0cee06d7d10f7d3162cea03d22b7beed,10th & Fraser,0,14
+Vancouver-iAkWosSF,2024-07-25T05:55:00.699000Z,8th&Fraser--pQTgP7Lz,2024-07-25,Thursday,00:03,Vancouver,f62bc2bfe9a0a563d5b6745ce6d962ba,8th & Fraser,4,12
+Vancouver-SKcVrtc1,2024-07-25T05:55:01.094000Z,StCatherines&10th--rxXpIqgo,2024-07-25,Thursday,00:03,Vancouver,1c8f7fd6535db12cc45cfc59aa9da058,St Catherines & 10th,3,8
+Vancouver-wBuFcWEY,2024-07-25T05:55:01.095000Z,StCatherines&7th--X8Je5xsJ,2024-07-25,Thursday,00:03,Vancouver,17a3320a52bcc62161908967f8a06613,St Catherines & 7th,2,18
+Vancouver-fepU9LL5,2024-07-25T05:55:01.580000Z,Pender&Victoria--m2PJTDCc,2024-07-25,Thursday,00:03,Vancouver,aed214941445e0345aa3254805a9e8b8,Pender & Victoria,1,15
+Vancouver-Rs77B0eF,2024-07-25T05:55:01.564000Z,Victoria&4th--sUAo3tiY,2024-07-25,Thursday,00:03,Vancouver,d67640af1b3b3b3ce47169dbc9182470,Victoria & 4th,8,8
+Vancouver-Z5Io2mfu,2024-07-25T05:55:01.540000Z,Victoria&10th--lSbLrMw3,2024-07-25,Thursday,00:03,Vancouver,b2c6aaf2b4fa8937bfe3941c038683aa,Victoria & 10th,0,12
+Vancouver-nF4Eyjkv,2024-07-25T05:55:00.248000Z,15th&Victoria(TroutLake)--JvxqiXBB,2024-07-25,Thursday,00:03,Vancouver,0a43242bee10cd33f539af2c1bf5ecbf,15th & Victoria (Trout Lake),8,10
+Vancouver-1Ac2Y2Vx,2024-07-25T05:55:00.820000Z,Triumph&Victoria--39ZERiHT,2024-07-25,Thursday,00:03,Vancouver,198810b9b0af5d229d1b6fa12c620e06,Triumph & Victoria,12,6
+Vancouver-7hwlXGqN,2024-07-25T05:55:00.840000Z,Windsor&14th--vQ79JjOm,2024-07-25,Thursday,00:03,Vancouver,d02e2eaafda91425eddd24d8acd328ab,Windsor & 14th,11,3
+Vancouver-VKMXPPiA,2024-07-25T05:55:00.785000Z,14th&Fraser--CMpgamWZ,2024-07-25,Thursday,00:03,Vancouver,08c7a90bf297fde8c1f1156db13987d4,14th & Fraser,5,11
+Vancouver-3lVs7WWQ,2024-07-25T05:55:00.808000Z,15th&Knight--69oDTX4v,2024-07-25,Thursday,00:03,Vancouver,97005696a3dff3366a8410b817388990,15th & Knight,7,7
+Vancouver-ZVrBgSi7,2024-07-25T05:55:00.771000Z,Commercial&Pandora--yD9uPjkP,2024-07-25,Thursday,00:03,Vancouver,c52e51e3288a00993bdf892fdc2c2c2c,Commercial & Pandora,14,2
+Vancouver-oUzK5WeP,2024-07-25T05:55:00.760000Z,Carolina&GreatNorthernWay--r8EVwUoQ,2024-07-25,Thursday,00:03,Vancouver,7d231a181d21056e4ba80c4d9939fe92,Carolina & Great Northern Way,1,15
+Vancouver-u3nJbpys,2024-07-25T05:55:01.356000Z,6th&PrinceEdward--HnQpe0Wv,2024-07-25,Thursday,00:03,Vancouver,dcf3d5c9f1b3a46f0ef2eb2247931f89,6th & Prince Edward,1,15
+Vancouver-KlyKcqqy,2024-07-25T05:55:01.236000Z,6th&Carolina--SV3ud30u,2024-07-25,Thursday,00:03,Vancouver,9bee3167f10c884044cea0d36afcd1ef,6th & Carolina,6,9
+Vancouver-BYdOCab6,2024-07-25T05:55:01.148000Z,StanleyPark-ThirdBeachParkingLot--Bh7xD16N,2024-07-25,Thursday,00:03,Vancouver,45a4c865db23e1cad0209afa5a799de0,Stanley Park - Third Beach Parking Lot,28,8
+Vancouver-5SfrZAZb,2024-07-25T05:55:02.721000Z,Union&Dunlevy--WG467ESE,2024-07-25,Thursday,00:03,Vancouver,fe0c57d04d6e682d284d501446095fc9,Union & Dunlevy,5,10
+Vancouver-ikTSr0zB,2024-07-25T05:55:02.774000Z,Keefer&Hawks--0Kkpzmp6,2024-07-25,Thursday,00:03,Vancouver,b10d422b045805f1c350c47c983381e8,Keefer & Hawks,9,7
+Vancouver-56AP9x1i,2024-07-25T05:55:03.040000Z,Hawks&Union--vXyf5UIc,2024-07-25,Thursday,00:03,Vancouver,4e8fdc99e77ba1b70d90e124a704d0c1,Hawks & Union,3,12
+Vancouver-EAMQOUkt,2024-07-25T05:55:00.100000Z,Charles&Commercial--lVbmwaZi,2024-07-25,Thursday,00:03,Vancouver,b562f08327af465e4531e20226789489,Charles & Commercial,4,18
+Vancouver-spEX8XBD,2024-07-25T05:55:01.699000Z,10th&Kingsway--OcWzJby9,2024-07-25,Thursday,00:03,Vancouver,4ac99b928a91d8ccb785c9d0b805adb6,10th & Kingsway,0,19
+Vancouver-8foFPwxH,2024-07-25T05:55:00.215000Z,Beach&Hornby--CpCAWhMz,2024-07-25,Thursday,00:03,Vancouver,99c81f71db35911c79a86a1c5edc5604,Beach & Hornby,0,20
+Vancouver-9OxUfXbU,2024-07-25T05:55:01.946000Z,BurrardStation(Melville&Dunsmuir)--Kx1Jju9Q,2024-07-25,Thursday,00:03,Vancouver,e12234b6f1299d178f34bffaca92f043,Burrard Station (Melville & Dunsmuir),1,25
+Vancouver-ziRNLFoR,2024-07-25T05:55:00.154000Z,Bute&Barclay--zbolnAsp,2024-07-25,Thursday,00:03,Vancouver,5a34495280727a5b50b9aa41e14e9a16,Bute & Barclay,9,18
+Vancouver-tHQgQQnA,2024-07-25T05:55:01.600000Z,8th&Yukon--BXkoEonv,2024-07-25,Thursday,00:03,Vancouver,9130f9aa3bb037a04c17e6f2630327e5,8th & Yukon,3,20
+Vancouver-TQoQSxHq,2024-07-25T05:55:01.449000Z,Princess&Union--e6WcHvyf,2024-07-25,Thursday,00:03,Vancouver,9a48ca226f82f52d02707b054ebc7e9e,Princess & Union,6,6
+Vancouver-NSaCBQb4,2024-07-25T05:55:02.340000Z,Dunsmuir&Richards--DWQTFkVD,2024-07-25,Thursday,00:03,Vancouver,b3bb9f58d3530d33a1a09b6be9e973e0,Dunsmuir & Richards,0,20
+Vancouver-Qele1Vni,2024-07-25T05:55:01.446000Z,5th&Main--K6TTWAdV,2024-07-25,Thursday,00:03,Vancouver,c2f4e05c01ea0d27934ac7dbc50cbd0c,5th & Main,10,9
+Vancouver-Om2LpXD8,2024-07-25T05:55:01.166000Z,3rd&Quebec--Bus6gX0C,2024-07-25,Thursday,00:03,Vancouver,9a5478470b56379c31cf4e671584d5cc,3rd & Quebec,7,13
+Vancouver-7YdvWFdr,2024-07-25T05:55:00.169000Z,Richards&Cordova--wJYf9RxX,2024-07-25,Thursday,00:03,Vancouver,257715b845828e027ff35dd0f11c971e,Richards & Cordova,8,8
+Vancouver-nBvcMDK5,2024-07-25T05:55:00.223000Z,Richards&Robson--CsEfRj47,2024-07-25,Thursday,00:03,Vancouver,910027847876403b57f1013c16504688,Richards & Robson,3,16
+Vancouver-hsm5r2ye,2024-07-25T05:55:01.926000Z,OlympicVillageStation--bdZIVwGh,2024-07-25,Thursday,00:03,Vancouver,06487275cd19694152824c7c3088e8ff,Olympic Village Station,4,21
+Vancouver-8FT7a4mq,2024-07-25T05:55:01.176000Z,Campbell&Hastings--SbiEpP75,2024-07-25,Thursday,00:03,Vancouver,b428c0e64d9b9fdb3bf8e85c95ffdf6b,Campbell & Hastings,4,10
+Vancouver-3NXAkreA,2024-07-25T05:55:00.186000Z,Cardero&Davie--Dz6T664x,2024-07-25,Thursday,00:03,Vancouver,d085c6749a32517e1fb0d070e4128402,Cardero & Davie,12,5
+Vancouver-lfCz0QSJ,2024-07-25T05:55:02.768000Z,AquaticCentre--YktEQOaj,2024-07-25,Thursday,00:03,Vancouver,a6aec7b8c25da4c02829cd7839b8933d,Aquatic Centre,15,24
+Vancouver-IEacbauC,2024-07-25T05:55:02.727000Z,Beach&Broughton--QbKKQfMk,2024-07-25,Thursday,00:03,Vancouver,c924f6a41b130fad49cfae47271314bc,Beach & Broughton,10,11
+Vancouver-Mh42vpdq,2024-07-25T05:55:00.125000Z,Beach&Cardero--NXdEfb4O,2024-07-25,Thursday,00:03,Vancouver,8e93d0da1ee6caadf21ed9575b5fa9da,Beach & Cardero,8,14
+Vancouver-TZMlFAKy,2024-07-25T05:55:00.138000Z,Georgia&Homer--08ieUXDv,2024-07-25,Thursday,00:03,Vancouver,9413725a5d3bb5ce2ad0682b07a3ffab,Georgia & Homer,2,16
+Vancouver-StvLpdj5,2024-07-25T05:55:01.992000Z,Columbia&5th--qxM3HVTG,2024-07-25,Thursday,00:03,Vancouver,7ed043a19e6a4ece742fe747b663bdbf,Columbia & 5th,10,8
+Vancouver-2LW6t0L5,2024-07-25T05:55:00.182000Z,Haro&Denman--ys4ndBKA,2024-07-25,Thursday,00:03,Vancouver,ce5dccf5a0f190bb4567a2fd93e7971e,Haro & Denman,14,6
+Vancouver-PBxOeGvq,2024-07-25T05:55:02.066000Z,Arbutus&10th--KFYn0cdo,2024-07-25,Thursday,00:03,Vancouver,1d442ad1a71774c82688a45954e47bfd,Arbutus & 10th,1,17
+Vancouver-BKuTHQbs,2024-07-25T05:54:59.989000Z,Ontario&16th--3NTKdI3o,2024-07-25,Thursday,00:03,Vancouver,2781435bde344e1b64f1bebac6bc9008,Ontario & 16th,5,9
+Vancouver-e81E4Isp,2024-07-25T05:55:02.751000Z,Richards&Davie--SF6bZCYV,2024-07-25,Thursday,00:03,Vancouver,e9b37f2d9b7b2e2e3ade73f13acb69b2,Richards & Davie,2,12
+Vancouver-5LcC3V2U,2024-07-25T05:55:01.112000Z,8th&PrinceEdward--oFs0AIpy,2024-07-25,Thursday,00:03,Vancouver,fffd87607aaae16fbb1f71615cbe7d17,8th & Prince Edward,6,10
+Vancouver-Brn2WOqt,2024-07-25T05:55:03.128000Z,Jervis&Robson--JajGFTJV,2024-07-25,Thursday,00:03,Vancouver,da8b6e94f90ad41a3f8de10596992372,Jervis & Robson,4,15
+Vancouver-vAxN0zn2,2024-07-25T05:55:01.450000Z,Smithe&Burrard--TSUMSkLq,2024-07-25,Thursday,00:03,Vancouver,32f70f7ae14ba87523c6286a6c4d5c37,Smithe & Burrard,3,15
+Vancouver-7rZDhyjc,2024-07-25T05:55:02.732000Z,Broughton&Davie--42NaD3Bv,2024-07-25,Thursday,00:03,Vancouver,df5ab349a7a85d4b10da4cc3ec65c607,Broughton & Davie,13,7
+Vancouver-ONJaap51,2024-07-25T05:55:01.885000Z,Cypress&10th--34QzhOBV,2024-07-25,Thursday,00:03,Vancouver,e0318460138ffbf4692005d5b5a9f900,Cypress & 10th,9,5
+Vancouver-J2982liu,2024-07-25T05:55:01.726000Z,GranvilleIsland--lp47qt8B,2024-07-25,Thursday,00:03,Vancouver,db51c556fe50ec1deefbc9697c70cb51,Granville Island,11,20
+Vancouver-y0yg6nNz,2024-07-25T05:55:02.992000Z,McLean&Pender--2yv76w5P,2024-07-25,Thursday,00:03,Vancouver,58a026f0c506caec20697a4f90538450,McLean & Pender,4,11
+Vancouver-SIyIFLxN,2024-07-25T05:55:00.460000Z,Richards&Smithe--RplavTZb,2024-07-25,Thursday,00:03,Vancouver,0e0aef6fabaa808b3a3cef24657257a4,Richards & Smithe,4,13
+Vancouver-Ce48xFyo,2024-07-25T05:55:00.091000Z,Bute&Robson--4wc2EqLO,2024-07-25,Thursday,00:03,Vancouver,90c746df94ce1a12f1f617acfe4a8ce3,Bute & Robson,0,0
+Vancouver-vVIfOD22,2024-07-25T05:55:01.829000Z,Trafalgar&Cornwall--S0zlGNmj,2024-07-25,Thursday,00:03,Vancouver,80b5c12ef21fd47275d37b2c9935249c,Trafalgar & Cornwall,13,6
+Vancouver-jYQyDCVH,2024-07-25T05:55:03.084000Z,Alma&PointGrey--rziYapXy,2024-07-25,Thursday,00:03,Vancouver,899f59a9994302e8e1e4be01117ef707,Alma & Point Grey,16,7
+Vancouver-eQKL54o4,2024-07-25T05:55:01.069000Z,PointGrey&Blenheim--WzJboDWK,2024-07-25,Thursday,00:03,Vancouver,8d2d5bb3b9142f781f2a7f441e6bad7a,Point Grey & Blenheim,9,4
+Vancouver-PPHvvGT9,2024-07-25T05:54:59.991000Z,Hastings&Broughton--3kre8TpJ,2024-07-25,Thursday,00:03,Vancouver,5de0fe55497681d4cc9dd25509cf51ab,Hastings & Broughton,4,19
+Vancouver-q6JZbV0d,2024-07-25T05:55:03.072000Z,Yew&Broadway--rj4a3oPo,2024-07-25,Thursday,00:03,Vancouver,2681455ba2d97283998a806b14d3e95c,Yew & Broadway,3,15
+Vancouver-LKVXkOAx,2024-07-25T05:55:01.160000Z,8th&Macdonald--eUCE5sov,2024-07-25,Thursday,00:03,Vancouver,064a7b39b1dbc4bfc4cf8f454e360c57,8th & Macdonald,9,10
+Vancouver-KzYwCzOT,2024-07-25T05:55:01.016000Z,Balaclava&Broadway--3PHWCG9n,2024-07-25,Thursday,00:03,Vancouver,9c1397c06e07bf74fc049f1a0872eea0,Balaclava & Broadway,8,8
+Vancouver-qSuFxoqO,2024-07-25T05:55:02.030000Z,Dunbar&Broadway--FTd6kaqR,2024-07-25,Thursday,00:03,Vancouver,9763838317308a4766b83696986a157b,Dunbar & Broadway,5,20
+Vancouver-aK8GEmq4,2024-07-25T05:55:02.429000Z,Grandview&Commercial--PdOD2UJC,2024-07-25,Thursday,00:03,Vancouver,c64ee19c62a363019ddbaedf71df2882,Grandview & Commercial,3,13
+Vancouver-B8aBJjPc,2024-07-25T05:55:00.953000Z,14th&Oak--c8Febbn4,2024-07-25,Thursday,00:03,Vancouver,421516af381a11f54d07fc79be68d3d3,14th & Oak,1,12
+Vancouver-myCbo9Jk,2024-07-25T05:55:02.616000Z,Wallace&4th--maL6ybZ2,2024-07-25,Thursday,00:03,Vancouver,38f045e3f43f86eae42ca4c60257ade0,Wallace & 4th,8,10
+Vancouver-ZJiB4K0Z,2024-07-25T05:55:00.257000Z,Balsam&Cornwall--LyomO4t6,2024-07-25,Thursday,00:03,Vancouver,5ba6e9725b1b0ee8cd25df976e47726b,Balsam & Cornwall,16,4
+Vancouver-0yyS6hOh,2024-07-25T05:55:00.365000Z,Balaclava&6th--ZRi7NrAn,2024-07-25,Thursday,00:03,Vancouver,f90ed7ad754ec04b7852941a480a4c77,Balaclava & 6th,15,0
+Vancouver-SaeZQEDd,2024-07-25T05:54:59.965000Z,Trafalgar&Broadway--MWr7OKPr,2024-07-25,Thursday,00:03,Vancouver,abfaf72456a4828a22f5bf60d3a80777,Trafalgar & Broadway,7,9
+Vancouver-DV2auZ50,2024-07-25T05:55:03.111000Z,Dunbar&6th--NOUf9G9o,2024-07-25,Thursday,00:03,Vancouver,2ff7eb4230654603592ab1b0780ec5e1,Dunbar & 6th,9,6
+Vancouver-RSdIBzBI,2024-07-25T05:55:00.272000Z,18th&Cambie--si8tH6Tn,2024-07-25,Thursday,00:03,Vancouver,ea9485fcdce0611243474d000e4ad248,18th & Cambie,8,15
+Vancouver-uQmeA2xp,2024-07-25T05:55:00.289000Z,Blenheim&4th--ZDJb5Hh9,2024-07-25,Thursday,00:03,Vancouver,671ce9e4a92063620f772d2c57f0f3ab,Blenheim & 4th,8,15
+Vancouver-YZ9M2gji,2024-07-25T05:55:01.388000Z,Heather&18th--945ngV9J,2024-07-25,Thursday,00:03,Vancouver,41a55a7e2908fbbd65175b794d26bc8d,Heather & 18th,5,11
+Vancouver-ytDwQYmQ,2024-07-25T05:55:01.505000Z,PointGrey&Bayswater--mY9w37VW,2024-07-25,Thursday,00:03,Vancouver,a59924f0ff3fb481a7bd8a5e9c36858f,Point Grey & Bayswater,16,0
+Vancouver-5to05NAi,2024-07-25T05:55:00.341000Z,20th&Main--0Ck9fJeH,2024-07-25,Thursday,00:03,Vancouver,89a0b49a66e54a7639ad960962148a3e,20th & Main,4,12
+Vancouver-488p85Os,2024-07-25T05:55:01.308000Z,Station&Terminal--ENUlYQ85,2024-07-25,Thursday,00:03,Vancouver,44fc3d58831a9f2b919c7a3a1838b74a,Station & Terminal,7,11
+Vancouver-Lix3eWgJ,2024-07-25T05:55:02.725000Z,Burrard&Drake--78lfG8o8,2024-07-25,Thursday,00:03,Vancouver,4990fe5772f3b73eebeec125b41e478e,Burrard & Drake,2,21
+Vancouver-AOe1fAhH,2024-07-25T05:55:01.620000Z,Columbia&1st--NTK9BmJz,2024-07-25,Thursday,00:03,Vancouver,bf96df77771ef0ed710d8e0e67917f45,Columbia & 1st,6,17
+Vancouver-rXhXmY8d,2024-07-25T05:55:02.941000Z,Davie&Beach--DSbQbnLZ,2024-07-25,Thursday,00:03,Vancouver,e75e83499d3fa2e174dc2a8ffd238119,Davie & Beach,0,0
+Vancouver-2b4zSmK6,2024-07-25T05:55:00.098000Z,Morton&Denman--pDPbu1oS,2024-07-25,Thursday,00:03,Vancouver,0438114d2e6b96118de69bc9775bb21e,Morton & Denman,0,0
+Vancouver-ZRDho3wL,2024-07-25T05:55:03.172000Z,13th&Cambie--Ay6hGsqY,2024-07-25,Thursday,00:03,Vancouver,07b13214cb69f2ec007d888450f3d6bc,13th & Cambie,4,10
+Vancouver-1QwRzSd8,2024-07-25T05:55:03.248000Z,Nelson&Denman--pCRKxnml,2024-07-25,Thursday,00:03,Vancouver,f5e8fa1fc4252bda2f93dd27ed2d603f,Nelson & Denman,12,6
+Vancouver-NXvgI3gF,2024-07-25T05:55:01.456000Z,Melville&Bute--uPqmMaPd,2024-07-25,Thursday,00:03,Vancouver,c2a9c5d0e4578b928554c86f3d2c1162,Melville & Bute,4,9
+Vancouver-92WvdI4s,2024-07-25T05:55:01.340000Z,Seymour&Cordova--k8lagR4l,2024-07-25,Thursday,00:03,Vancouver,5f45325fdd6334a4c0d3b62853b19fa6,Seymour & Cordova,9,10
+Vancouver-k0fkCEUF,2024-07-25T05:55:01.961000Z,Arbutus&Nanton--WpHdgdPI,2024-07-25,Thursday,00:03,Vancouver,085a0e120a08a80a58c0ae0ff9da565a,Arbutus & Nanton,1,16
+Vancouver-anXWYIrj,2024-07-25T05:55:01.602000Z,Yukon&6th--KnjTmnZz,2024-07-25,Thursday,00:03,Vancouver,8d5f47f01d7ad668419dfe9b7fe69c9a,Yukon & 6th,0,17
+Vancouver-xQAds5hy,2024-07-25T05:55:01.534000Z,11th&Kingsway--PTBFmYOH,2024-07-25,Thursday,00:03,Vancouver,bede4b24dae115d4cd43d2e6cc9812cb,11th & Kingsway,2,13
+Vancouver-CVc6pVdf,2024-07-25T05:55:00.126000Z,Wylie&2nd--ZVrfIYcF,2024-07-25,Thursday,00:03,Vancouver,680b1ddfd50c4397b365c9c00f09b0d1,Wylie & 2nd,6,12
+Vancouver-GCB757EM,2024-07-25T05:55:00.720000Z,29th&Cambie--a8EtkuUr,2024-07-25,Thursday,00:03,Vancouver,b26f83e904f3a778466ebcd763b7316a,29th & Cambie,14,6
+Vancouver-JL0BW97N,2024-07-25T05:55:03.228000Z,Rolston&Granville--h7nlHmAn,2024-07-25,Thursday,00:03,Vancouver,6620c54bd6b3a79800b2b67e999b24d0,Rolston & Granville,9,4
+Vancouver-o5t0Tjru,2024-07-25T05:55:02.197000Z,EastBlvd&37th--DSIMMWli,2024-07-25,Thursday,00:03,Vancouver,7f091b50fbbd892bf9fb869a64c47120,East Blvd & 37th,9,11
+Vancouver-DyYiqYpY,2024-07-25T05:55:00.143000Z,28th&Willow--UdzVlJjK,2024-07-25,Thursday,00:03,Vancouver,57d39a680c9407cda0fb4de6d9c55138,28th & Willow,1,19
+Vancouver-VhzS9Sky,2024-07-25T05:55:03.275000Z,Ontario&23rd--zjdfzqBD,2024-07-25,Thursday,00:03,Vancouver,97388f4e4ea102a30345524bda465f4e,Ontario & 23rd,7,4
+Vancouver-XN9jtlu4,2024-07-25T05:55:02.568000Z,30th&Ontario--9FeKqHxD,2024-07-25,Thursday,00:03,Vancouver,066ecc3584913fa035ec1417323beb80,30th & Ontario,15,7
+Vancouver-zSL6nl7f,2024-07-25T05:55:02.028000Z,Franklin&Nanaimo--G9LMDRGE,2024-07-25,Thursday,00:03,Vancouver,b530d04d393d71cffb8b8b07f4a82380,Franklin & Nanaimo,3,17
+Vancouver-LydPI8C0,2024-07-25T05:55:01.841000Z,Lakewood&Triumph--brhHfQX1,2024-07-25,Thursday,00:03,Vancouver,06bdc4d55f34b2a491305534fd5defda,Lakewood & Triumph,11,4
+Vancouver-6HzX60Fx,2024-07-25T05:55:00.304000Z,Wall&Eton--LifTk1IO,2024-07-25,Thursday,00:03,Vancouver,8e44a17d2fa446ca220b90c7063b42ca,Wall & Eton,7,10
+Vancouver-q1g3WXDL,2024-07-25T05:55:01.217000Z,Lakewood&Oxford--kfOoaG86,2024-07-25,Thursday,00:03,Vancouver,7c17f51469f1a7145455f65ef6afbd87,Lakewood & Oxford,3,14
+Vancouver-1YeyHIuE,2024-07-25T05:55:00.278000Z,22nd&Cambie--UPZVVydo,2024-07-25,Thursday,00:03,Vancouver,e1432b72df561a1df34290679ec9c773,22nd & Cambie,6,8
+Vancouver-P3WqPeAf,2024-07-25T05:55:00.740000Z,KingEdward&Cambie--MUmIYPY2,2024-07-25,Thursday,00:03,Vancouver,549f00f6039e8bb702a00dcca08a8ed0,King Edward & Cambie,6,11
+Vancouver-BmSt5lex,2024-07-25T05:55:01.323000Z,Heather&29th--eMVWbdnt,2024-07-25,Thursday,00:03,Vancouver,d8c4fe5e09b6f010fbaa85cc7302d66b,Heather & 29th,5,17
+Vancouver-mPUI0DUg,2024-07-25T05:55:00.209000Z,Cardero&Robson--UYFwKGMd,2024-07-25,Thursday,00:03,Vancouver,0c42f45e4a14957ad4a6d521d0ba8bc3,Cardero & Robson,15,11
+Vancouver-qZ8ELscO,2024-07-25T05:55:01.248000Z,Commercial&20th--zowSC3Re,2024-07-25,Thursday,00:03,Vancouver,62a202eb98c0a4b09ba6746f5ee94ab3,Commercial & 20th,4,16
+Vancouver-BNJ7e9LM,2024-07-25T05:55:01.445000Z,Burrard&14th--TaHgofd3,2024-07-25,Thursday,00:03,Vancouver,04f64fde5ba1ebde8ad78c74914adb34,Burrard & 14th,1,16
+Vancouver-grfwgKzG,2024-07-25T05:55:01.470000Z,Hornby&Drake--qSOmJkAb,2024-07-25,Thursday,00:03,Vancouver,cc2084e365f6f230fe26bae0b6867775,Hornby & Drake,4,20
+Vancouver-u6DXstpe,2024-07-25T05:55:00.972000Z,Cardero&Bayshore--ebvU4PMA,2024-07-25,Thursday,00:03,Vancouver,f38bac9712f3beee2149ba2a97048878,Cardero & Bayshore,19,2
+Vancouver-oNxhBN1k,2024-07-25T05:55:02.728000Z,27th&Main--JiEPB4vU,2024-07-25,Thursday,00:03,Vancouver,9ee3bc9e836768e3e04e4f3328dae03b,27th & Main,2,20
+Vancouver-Vkw797gb,2024-07-25T05:55:02.783000Z,Cordova&Granville--wmyg0Ps8,2024-07-25,Thursday,00:03,Vancouver,aa1cbf97abc3cd50515bc54633a9bb2a,Cordova & Granville,8,9
+Vancouver-xVzLf2LL,2024-07-25T05:55:02.733000Z,22nd&Main--5uEsIHer,2024-07-25,Thursday,00:03,Vancouver,13021bba7bbeca1ccd8726ca17da59e6,22nd & Main,2,12
+Vancouver-loSh2cE2,2024-07-25T05:55:00.325000Z,1st&Fir--TUsPQnZH,2024-07-25,Thursday,00:03,Vancouver,5699b40126e10c2f68eefc3eb18ff3a1,1st & Fir,10,10
+Vancouver-OMMf1MhY,2024-07-25T05:55:00.103000Z,Sasamat&10th--EqtoSvlI,2024-07-25,Thursday,00:03,Vancouver,34fd37d12eb989b49518ef53941ee3ff,Sasamat & 10th,11,11
+Vancouver-XtPXwclC,2024-07-25T05:55:00.317000Z,Trimble&8th--Pm4V8O6T,2024-07-25,Thursday,00:03,Vancouver,b7dd37a7dd668d6d10024b7f18acc438,Trimble & 8th,0,20
+Vancouver-IE7p840j,2024-07-25T05:55:02.637000Z,Highbury&8th--nBqUdUEo,2024-07-25,Thursday,00:03,Vancouver,cc25ae4f093b33ba0afd1dbc0dd20324,Highbury & 8th,15,4
+Vancouver-kQwT9JfW,2024-07-25T05:55:02.652000Z,IKBarberLearningCentre--CSLIpCzI,2024-07-25,Thursday,00:03,Vancouver,db1e56a71a3279f51301d732ee5a055b,IK Barber Learning Centre,2,17
+Vancouver-94KxmmAM,2024-07-25T05:55:00.330000Z,WarMemorialGym--Ytx0P1FF,2024-07-25,Thursday,00:03,Vancouver,5726de7c5646b82f7aaeafba50aee03e,War Memorial Gym,1,27
+Vancouver-MmXmtgiO,2024-07-25T05:55:01.755000Z,PharmaceuticalSciences--aMSzYUxV,2024-07-25,Thursday,00:03,Vancouver,cde61c70e5556ee2fe3ceb9d958b6482,Pharmaceutical Sciences,5,19
+Vancouver-2XNhqXVc,2024-07-25T05:55:01.447000Z,Georgia&Main--srsBfGsJ,2024-07-25,Thursday,00:03,Vancouver,852212d6d52b5f00544fad01d21c7db2,Georgia & Main,8,11
+Vancouver-9KbjViL8,2024-07-25T05:55:02.816000Z,Robson&Beatty--0ecfsOaS,2024-07-25,Thursday,00:03,Vancouver,10acadd77bc21f26a7f09d8c74d4af2d,Robson & Beatty,6,14
+Vancouver-WRSISkdB,2024-07-25T05:55:01.874000Z,WestMallSwingSpaceBuilding--f4OESkyO,2024-07-25,Thursday,00:03,Vancouver,58345bb719f4e570ed4edc9dfa6a68a2,West Mall Swing Space Building,7,13
+Vancouver-tiaSoVYZ,2024-07-25T05:55:01.292000Z,OrchardCommons--DHMLbikr,2024-07-25,Thursday,00:03,Vancouver,261efc67071963969b3f848c66454d97,Orchard Commons,0,26
+Vancouver-TJQMVxaT,2024-07-25T05:55:00.372000Z,WesbrookVillage-Berton&Shrum--ghNdMO1C,2024-07-25,Thursday,00:03,Vancouver,ee620d77724c8993b0d366e7ec655b64,Wesbrook Village - Berton & Shrum,8,20
+Vancouver-iTZH4LSH,2024-07-25T05:55:00.251000Z,Adanac&Lakewood--lYuiq5w1,2024-07-25,Thursday,00:03,Vancouver,e02dd224b0177c65418bcb3f72d2f77d,Adanac & Lakewood,4,15
+Vancouver-13mv4qCx,2024-07-25T05:55:02.316000Z,MapleTreeSquare--IRDsXtx3,2024-07-25,Thursday,00:03,Vancouver,12dd264419c06f596d1a883ed36efd9c,Maple Tree Square,8,16
+Vancouver-4B59OGuT,2024-07-25T05:55:02.601000Z,JerichoBeach--tzfxmHkB,2024-07-25,Thursday,00:03,Vancouver,a25947c94149b3aeb93f6e970d63fffc,Jericho Beach,14,10
+Vancouver-IzSwrQq3,2024-07-25T05:55:02.482000Z,Cambie&Cordova--BjklYgsp,2024-07-25,Thursday,00:03,Vancouver,16e885a2eea476d406cd849140898043,Cambie & Cordova,7,11
+Vancouver-YZRkMoEt,2024-07-25T05:55:01.690000Z,Bute&Davie--51UefEfj,2024-07-25,Thursday,00:03,Vancouver,ed1ccbfbaabba798a18d8c4ff3507b1a,Bute & Davie,4,14

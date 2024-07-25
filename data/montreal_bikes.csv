@@ -1,0 +1,864 @@
+request_id,timestamp,_id,date,day_name,hour,city,station_id,station_name,free_bikes,empty_slots
+Montreal-cr6aeAT8,2024-07-25T06:03:08.128000Z,Gared'autocarsdeMontréal(Berri/Ontario)--KTwTzm65,2024-07-25,Thursday,00:03,Montreal,36c6491aa1b52e5ef7005f984738de27,Gare d'autocars de Montréal (Berri / Ontario),6,7
+Montreal-ecc071hO,2024-07-25T06:03:07.856000Z,MarchéMaisonneuve--jQkovllH,2024-07-25,Thursday,00:03,Montreal,65f5707d61306518123222b4680bc282,Marché Maisonneuve,16,4
+Montreal-Gz8TUcdp,2024-07-25T06:03:09.742000Z,Bibliothèqued'Ahuntsic(Lajeunesse/Fleury)--NrTFDcpI,2024-07-25,Thursday,00:03,Montreal,eeda0f4010f34ca2199f3585a76fef66,Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),11,1
+Montreal-Ua43I8uV,2024-07-25T05:54:31.477000Z,Omer-Lavallée/duMidway--k12vG8aV,2024-07-25,Thursday,00:03,Montreal,e287c24d95d9f0e3767d167d83ecebcd,Omer-Lavallée / du Midway,3,15
+Montreal-qsvN7e3T,2024-07-25T05:54:33.830000Z,CHSLDSt-Michel(8eavenue/Jarry)--GTFuTF0g,2024-07-25,Thursday,00:03,Montreal,bfc27d829d7ce8c0f9e55b1cab901cbb,CHSLD St-Michel (8e avenue / Jarry),5,9
+Montreal-eqhXTea0,2024-07-25T06:03:08.788000Z,Chabanel/duParc--FIYYXlmB,2024-07-25,Thursday,00:03,Montreal,1ff33fd73e2add3c30fcd821850dccd3,Chabanel / du Parc,0,27
+Montreal-VBE3vAfm,2024-07-25T06:03:09.003000Z,MétroHenri-Bourassa(Henri-Bourassa/Millen)--hjdDKLME,2024-07-25,Thursday,00:03,Montreal,41f8b2e49339317de23ae563e66fe4a6,Métro Henri-Bourassa (Henri-Bourassa / Millen),11,5
+Montreal-xyaf4bv7,2024-07-25T05:54:34.215000Z,St-Hubert/deMaisonneuve(sud)--4m9GxtIN,2024-07-25,Thursday,00:03,Montreal,f332a5c6e3f7fc73096885d6efc0f829,St-Hubert / de Maisonneuve (sud),0,18
+Montreal-8hGFeO1X,2024-07-25T06:03:09.281000Z,CHSLDJoseph-François-Perrault(St-Michel/Everett)--v4RZEUYI,2024-07-25,Thursday,00:03,Montreal,0243c740e1d4fe272e0c414cdd900c7d,CHSLD Joseph-François-Perrault (St-Michel / Everett),4,14
+Montreal-7zaLHw9l,2024-07-25T05:54:31.300000Z,ParcNicolas-Tillemont(desÉrables/Villeray)--WoiukaaD,2024-07-25,Thursday,00:03,Montreal,278e51e3bb2d95cf556a62edff8f95ec,Parc Nicolas-Tillemont (des Érables / Villeray),13,2
+Montreal-rsMkPSLX,2024-07-25T06:03:07.997000Z,Préfontaine/Marcel-Pépin--5ENCwIDO,2024-07-25,Thursday,00:03,Montreal,82cc3be4d76f16ca475536a6e07461c5,Préfontaine / Marcel-Pépin,6,11
+Montreal-CgLgb1OV,2024-07-25T05:54:31.274000Z,BAnQ(Berri)--UF6XIkAs,2024-07-25,Thursday,00:03,Montreal,91a138f95bde5c11382cfd13a0592bb2,BAnQ (Berri),1,10
+Montreal-YCWsSd5M,2024-07-25T06:03:10.932000Z,Messier/St-Joseph--N0ARviNo,2024-07-25,Thursday,00:03,Montreal,e335f2f5ad674c200bb9795ee863749c,Messier / St-Joseph,15,1
+Montreal-RykAcK6d,2024-07-25T05:54:31.320000Z,SquareViger(Berri/Viger)--rE7O55cJ,2024-07-25,Thursday,00:03,Montreal,30efd061ab22a0caa3dc67f5e027154e,Square Viger (Berri / Viger),6,23
+Montreal-9bTaOuD1,2024-07-25T06:03:07.245000Z,Dorion/Ontario--I6aChbUQ,2024-07-25,Thursday,00:03,Montreal,76d6ac391db2e789d1696e32fccf92f6,Dorion / Ontario,25,10
+Montreal-xVR0LUEA,2024-07-25T06:03:10.940000Z,MétroPeel(deMaisonneuve/Stanley)--A0x7Kbje,2024-07-25,Thursday,00:03,Montreal,69f583a85e1a83b443c203b781bfc0c9,Métro Peel (de Maisonneuve / Stanley),2,47
+Montreal-kAi6G4Xy,2024-07-25T06:03:07.498000Z,MétroPlace-d'Armes(Viger/St-Urbain)--pOFlkvJm,2024-07-25,Thursday,00:03,Montreal,7efdfc0229daac74cfa58a8a39d13ac2,Métro Place-d'Armes (Viger / St-Urbain),4,29
+Montreal-V5pUXiXv,2024-07-25T05:54:33.545000Z,MétroLaurier(Berri/St-Joseph)--quHeaIRL,2024-07-25,Thursday,00:03,Montreal,1013ec013026d8e51b4e126c5c72c5c8,Métro Laurier (Berri / St-Joseph),10,10
+Montreal-3RMzYBBh,2024-07-25T06:03:07.256000Z,MétroFrontenac(Ontario/duHavre)--VVIqlNcG,2024-07-25,Thursday,00:03,Montreal,04f6eaaa0d7993020973687c13f41663,Métro Frontenac (Ontario / du Havre),17,5
+Montreal-dea9xrUW,2024-07-25T05:54:33.081000Z,duMont-Royal/Clark--IBhtu1Sl,2024-07-25,Thursday,00:03,Montreal,706aa9cbfdd3690017049a4f1239f340,du Mont-Royal / Clark,24,13
+Montreal-Nk6sfxC6,2024-07-25T06:03:09.581000Z,Gary-Carter/St-Laurent--sIU7DiVe,2024-07-25,Thursday,00:03,Montreal,f9d30314d14794ea0c378ba2c1ee0c5d,Gary-Carter / St-Laurent,27,10
+Montreal-iHtYy3aY,2024-07-25T06:03:09.226000Z,MétroParc(Hutchison/Ogilvy)--xHAuUsVY,2024-07-25,Thursday,00:03,Montreal,9836aac1ee4659e9103ab4a3ac10c9e0,Métro Parc  (Hutchison / Ogilvy),5,27
+Montreal-j8wzfOrn,2024-07-25T06:03:09.022000Z,6eavenue/Villeray--X9k0ygaN,2024-07-25,Thursday,00:03,Montreal,251c1026721c2b86f0c7b68be5992fdf,6e avenue / Villeray,8,7
+Montreal-pwTpVFDA,2024-07-25T06:03:06.799000Z,desBassins/duSéminaire--W27J4HIf,2024-07-25,Thursday,00:03,Montreal,ede6b6e636d0057c3569441aad58f64c,des Bassins / du Séminaire,21,13
+Montreal-rFGyo5e5,2024-07-25T05:54:34.036000Z,St-Jacques/Vinet--1QWiOmGI,2024-07-25,Thursday,00:03,Montreal,444448176f019fa75930cba6037f6ed8,St-Jacques / Vinet,0,15
+Montreal-w3DIWlQj,2024-07-25T06:03:09.872000Z,MétroLionel-Groulx(St-Jacques/Atwater)--Mp52zZ10,2024-07-25,Thursday,00:03,Montreal,f9cff3cd7959287708ec2346fdc9f24c,Métro Lionel-Groulx (St-Jacques / Atwater),0,33
+Montreal-xH8KXT4h,2024-07-25T05:54:31.496000Z,MétroPie-IX(Pierre-de-Coubertin/Desjardins)--qnopSsFm,2024-07-25,Thursday,00:03,Montreal,b70ce7493bae1388aa38f66e6e8434f1,Métro Pie-IX (Pierre-de-Coubertin / Desjardins),26,23
+Montreal-DH5xWipb,2024-07-25T06:03:10.461000Z,duParc-Lafontaine/Rachel--mt9UXtTr,2024-07-25,Thursday,00:03,Montreal,0c9cd68aa1bd69a080463ce7f302337c,du Parc-Lafontaine / Rachel,7,10
+Montreal-RCKguP9B,2024-07-25T05:54:31.827000Z,Ste-Catherine/St-Clément--QdyzLzaX,2024-07-25,Thursday,00:03,Montreal,b2ff5e1c2db5294d113db231f95c8bb9,Ste-Catherine / St-Clément,6,9
+Montreal-qUoweb0H,2024-07-25T05:54:33.981000Z,del'Hôtel-de-Ville/Rachel--d7HVCGWb,2024-07-25,Thursday,00:03,Montreal,c6315ed8be3d1b1db4e1743fd8cf702d,de l'Hôtel-de-Ville / Rachel,12,2
+Montreal-e8jIroeJ,2024-07-25T05:54:34.070000Z,Workman/Vinet--MdWlTXme,2024-07-25,Thursday,00:03,Montreal,ce541d236b1fb3391edee931485e6ad7,Workman / Vinet,6,17
+Montreal-Ov1KD007,2024-07-25T05:54:32.125000Z,MétroAcadie(del'Acadie/Beaumont)--LLAGGVjA,2024-07-25,Thursday,00:03,Montreal,9fce8c378d9e1fc9d96999ff50a71f6a,Métro Acadie (de l'Acadie / Beaumont),10,2
+Montreal-x6vTMvoE,2024-07-25T05:54:33.963000Z,MétroCrémazie(Crémazie/Lajeunesse)--49EAC0Y5,2024-07-25,Thursday,00:03,Montreal,3da178370890fe8edbd73af1c48b6fa7,Métro Crémazie (Crémazie / Lajeunesse),1,13
+Montreal-GNlMk7XF,2024-07-25T05:54:35.081000Z,Lajeunesse/Villeray--CsQDM62e,2024-07-25,Thursday,00:03,Montreal,8ae2d0c3c6bfb29c5614921e85221107,Lajeunesse / Villeray,5,9
+Montreal-dELLcIgQ,2024-07-25T05:54:30.791000Z,Berri/Rachel--9fQboG2s,2024-07-25,Thursday,00:03,Montreal,c56841567707d1812755ec56f2ad2895,Berri / Rachel,17,2
+Montreal-Bp2BESlR,2024-07-25T06:03:11.404000Z,MétroSauvé(Berri/Sauvé)--1DM9wMU5,2024-07-25,Thursday,00:03,Montreal,1f7793b1b7e1c83f11792bddb10e297a,Métro Sauvé (Berri / Sauvé),1,24
+Montreal-RXGSy1MJ,2024-07-25T06:03:10.226000Z,Tolhurst/Fleury--N2NgyhNK,2024-07-25,Thursday,00:03,Montreal,73eda86efde149b545d1e7646de05cd6,Tolhurst / Fleury,17,0
+Montreal-NiRCKbYi,2024-07-25T06:03:10.793000Z,MétroSherbrooke(deRigaud/Berri)--O3TgMnOv,2024-07-25,Thursday,00:03,Montreal,4752f08cc123b7e93771ee25c318efee,Métro Sherbrooke (de Rigaud / Berri),22,4
+Montreal-TCgoftcn,2024-07-25T05:54:34.059000Z,MarchéAtwater--Tur6ftti,2024-07-25,Thursday,00:03,Montreal,4c87345d7a652a966f526460dfa264c5,Marché Atwater,7,25
+Montreal-U2jeOhJl,2024-07-25T05:54:31.289000Z,MétroSt-Laurent(deMaisonneuve/St-Laurent)--EwoW9IYW,2024-07-25,Thursday,00:03,Montreal,eb0fd4c2ab7be34b815978bb8ebfbe65,Métro St-Laurent (de Maisonneuve / St-Laurent),4,19
+Montreal-gWsIDC57,2024-07-25T05:54:32.754000Z,Pierre-de-Coubertin/Aird--815rJ6Q0,2024-07-25,Thursday,00:03,Montreal,0cc110260f90b08675fba8b904866c5c,Pierre-de-Coubertin / Aird,13,14
+Montreal-KrybFpIi,2024-07-25T06:03:08.003000Z,Frontenac/Ste-Catherine--mwujrSIe,2024-07-25,Thursday,00:03,Montreal,75029d868bd65133941f05b6d4fa2daf,Frontenac / Ste-Catherine,18,0
+Montreal-V9hArChD,2024-07-25T06:03:06.941000Z,Lanaudière/Jean-Talon--NauVDZU3,2024-07-25,Thursday,00:03,Montreal,5e32fab9110f792cab5784b893f3a1af,Lanaudière / Jean-Talon,1,22
+Montreal-fzGnRLcv,2024-07-25T05:54:33.892000Z,deMaisonneuve/Mansfield(sud-est)--latzan5p,2024-07-25,Thursday,00:03,Montreal,3cbb64215b647b4779187f72b150a036,de Maisonneuve / Mansfield (sud-est),1,22
+Montreal-Q1YcYaX9,2024-07-25T05:54:34.369000Z,Clark/del'Arcade--AynxVpsF,2024-07-25,Thursday,00:03,Montreal,462e77d533503e90f53675acf2f9ddcc,Clark / de l'Arcade,7,12
+Montreal-xp7zF2hz,2024-07-25T06:03:10.416000Z,Sherbrooke/Jeanne-d'Arc--yTH9y1in,2024-07-25,Thursday,00:03,Montreal,5a1a7b87aa778fdd439fe21cc643e051,Sherbrooke / Jeanne-d'Arc,11,14
+Montreal-fyj0RLzW,2024-07-25T06:03:07.273000Z,MétroPapineau(Dorion/DeMaisonneuve)--D5LhOl51,2024-07-25,Thursday,00:03,Montreal,5678ed90f0af2bf60b25261bf16f6c70,Métro Papineau (Dorion / De Maisonneuve),8,24
+Montreal-9F6kmz2l,2024-07-25T06:03:11.501000Z,Duke/Nazareth--5wKLHJfI,2024-07-25,Thursday,00:03,Montreal,81835dccb50d8900b00cc0a3ea1b480f,Duke / Nazareth,6,13
+Montreal-M8C0qOzz,2024-07-25T05:54:30.592000Z,ParcMolson(d'Iberville/Beaubien)--L6v4mq0O,2024-07-25,Thursday,00:03,Montreal,2b9e2e02951cbf0f3386b55b303d7105,Parc Molson (d'Iberville / Beaubien),13,6
+Montreal-8jJTKhFU,2024-07-25T05:54:34.102000Z,deBellechasse/deLanaudière--ZafNLE2p,2024-07-25,Thursday,00:03,Montreal,07151bf35f8c11187f1e4e0c0311b250,de Bellechasse / de Lanaudière,5,14
+Montreal-TQf9hEuq,2024-07-25T05:54:34.004000Z,Notre-Dame/St-Martin--OqldGGCj,2024-07-25,Thursday,00:03,Montreal,16fb65f48b8435b23e10d3e232fd5f0c,Notre-Dame / St-Martin,1,18
+Montreal-1retyX3J,2024-07-25T06:03:08.445000Z,desÉrables/Rachel--EjVaUmgC,2024-07-25,Thursday,00:03,Montreal,26aa0933324c9525e24f3b802787f507,des Érables / Rachel,18,1
+Montreal-AZ8IEXJd,2024-07-25T05:54:32.113000Z,Jean-Talon/del'Épée--eggbW6na,2024-07-25,Thursday,00:03,Montreal,7fb17e275b3e5006964621b39f5decbd,Jean-Talon / de l'Épée,8,6
+Montreal-R6NsbxDZ,2024-07-25T06:03:09.246000Z,St-Rémi/Ste-Émilie--iBQoTvqc,2024-07-25,Thursday,00:03,Montreal,d63041391198f1496b84b02d71a3ed90,St-Rémi / Ste-Émilie,4,23
+Montreal-ueQK5R2A,2024-07-25T06:03:06.505000Z,MétroSt-Michel(Shaughnessy/St-Michel)--Z9xZRcBk,2024-07-25,Thursday,00:03,Montreal,352d6c6589d10485af73efe4b2df8660,Métro St-Michel (Shaughnessy / St-Michel),4,10
+Montreal-y0ReqJeM,2024-07-25T05:54:30.778000Z,Cartier/Marie-Anne--zekvqnE9,2024-07-25,Thursday,00:03,Montreal,f07d83b19d7555633ed07b8705e1439c,Cartier / Marie-Anne,25,2
+Montreal-PI7gjuhC,2024-07-25T05:54:32.359000Z,St-Grégoire/Christophe-Colomb--FnB9AWmJ,2024-07-25,Thursday,00:03,Montreal,8569736c023d7713fa1054b1dc71a704,St-Grégoire / Christophe-Colomb,31,7
+Montreal-icSEoYHb,2024-07-25T05:54:33.443000Z,6eAvenue/Bélanger--0K4SUfhZ,2024-07-25,Thursday,00:03,Montreal,9af471a77a41e1bdde69ab0533d721ec,6e Avenue / Bélanger,5,14
+Montreal-1tnSziKk,2024-07-25T06:03:07.713000Z,St-Urbain/Laurier--He2OFu6X,2024-07-25,Thursday,00:03,Montreal,1e35b33de4e369aeedcdd6de0f62c2cb,St-Urbain / Laurier,11,8
+Montreal-sarSS2HJ,2024-07-25T05:54:31.585000Z,Masson/Molson--MhDCGUlu,2024-07-25,Thursday,00:03,Montreal,c7c82cf193fdc50ec1a106c90cb51544,Masson / Molson,17,1
+Montreal-KBsRGyoj,2024-07-25T05:54:31.026000Z,Atwater/Sherbrooke--ah1jgiWX,2024-07-25,Thursday,00:03,Montreal,4249917b3ff262f4cd831f8ea34cf74e,Atwater / Sherbrooke,19,4
+Montreal-cQcyzN2B,2024-07-25T06:03:09.713000Z,Ste-Catherine/Bishop--AtrWN2td,2024-07-25,Thursday,00:03,Montreal,7b28024fd4c90ded38fc0447771d1ca4,Ste-Catherine / Bishop,2,17
+Montreal-EQo7D4C4,2024-07-25T06:03:11.608000Z,MétroLucien-L'Allier(Lucienl'Allier/Argyle)--GIUSlt52,2024-07-25,Thursday,00:03,Montreal,7c116c44d814279d54202eeec81ddddb,Métro Lucien-L'Allier (Lucien l'Allier / Argyle),15,2
+Montreal-KTfJN7iQ,2024-07-25T06:03:09.707000Z,Ste-Catherine/Towers--rEd6mO3X,2024-07-25,Thursday,00:03,Montreal,f05dc5b7b3635787d9fe3fd8565bee7a,Ste-Catherine / Towers,22,0
+Montreal-taJJz4Sy,2024-07-25T06:03:07.554000Z,Viger/Chenneville--0nmDIUal,2024-07-25,Thursday,00:03,Montreal,3e138c9acff07bff5f9e684c01bc564f,Viger / Chenneville,4,29
+Montreal-puaAp3Y3,2024-07-25T05:54:33.484000Z,Stanley/René-Lévesque--y7p6Vy2Z,2024-07-25,Thursday,00:03,Montreal,420d9c027c261cae251568f7f8d5a9cc,Stanley / René-Lévesque,5,34
+Montreal-QBOb0Qhj,2024-07-25T05:54:31.821000Z,deMaisonneuve/Aylmer(ouest)--vPVe3goL,2024-07-25,Thursday,00:03,Montreal,014e10dba2d92bd20c826b88864dc6b6,de Maisonneuve / Aylmer (ouest),0,36
+Montreal-Qdgtu9cu,2024-07-25T06:03:07.307000Z,deMaisonneuve/Aylmer(est)--CHFqNYdi,2024-07-25,Thursday,00:03,Montreal,8ae106c7b71f9c4a8f753c79cbe1603f,de Maisonneuve / Aylmer (est),0,21
+Montreal-SOLyZAIG,2024-07-25T06:03:11.041000Z,MétroJoliette(Hochelaga/Joliette)--qx9GCtjF,2024-07-25,Thursday,00:03,Montreal,353cde491172cf1f6f0e038c29f9ca2b,Métro Joliette  (Hochelaga / Joliette),2,27
+Montreal-kQwiefIs,2024-07-25T05:54:31.452000Z,Ottawa/duSéminaire--QiWsKhFu,2024-07-25,Thursday,00:03,Montreal,f7b1f88c4f4e3231537dd0a5a7397287,Ottawa / du Séminaire,9,14
+Montreal-dzBhISxM,2024-07-25T05:54:33.970000Z,ParcSt-Henri(Laporte/Guay)--u8EnWHZY,2024-07-25,Thursday,00:03,Montreal,c0bf44a23aa9fdfd893bd437866dbf2a,Parc St-Henri (Laporte / Guay),5,9
+Montreal-scBFyjmR,2024-07-25T06:03:08.193000Z,deMaisonneuve/Mansfield(nord)--XdqWMpOq,2024-07-25,Thursday,00:03,Montreal,508a89286045d9bc7e8188522a328f63,de Maisonneuve / Mansfield (nord),2,17
+Montreal-5Wv1DdzM,2024-07-25T06:03:09.040000Z,deMaisonneuve/Mansfield(sud)--GCiFpzqg,2024-07-25,Thursday,00:03,Montreal,24d6cf55dd9c36caa1aac57ea06d80d7,de Maisonneuve / Mansfield (sud),4,22
+Montreal-bwNexQvy,2024-07-25T05:54:34.740000Z,McTavish/Sherbrooke--miKVt9fA,2024-07-25,Thursday,00:03,Montreal,4dfba1c78f4c98769c58749cb8f10472,McTavish / Sherbrooke,3,43
+Montreal-zuqVjxc6,2024-07-25T05:54:32.312000Z,deBleury/deMaisonneuve--cg0mojcv,2024-07-25,Thursday,00:03,Montreal,21a2faa2030e136896fc22dcbb613e52,de Bleury / de Maisonneuve,0,21
+Montreal-DS7lgtDP,2024-07-25T05:54:31.773000Z,Ste-Catherine/Drummond--nTN3eciG,2024-07-25,Thursday,00:03,Montreal,4aead5b6002007d40c34c9a53ffecbdf,Ste-Catherine / Drummond,1,18
+Montreal-WwxlaAmi,2024-07-25T06:03:06.833000Z,delaMontagne/Notre-Dame--sHCfgehC,2024-07-25,Thursday,00:03,Montreal,326615f796f68a086a7460d4f41ae806,de la Montagne / Notre-Dame,8,15
+Montreal-xlgvNice,2024-07-25T06:03:09.944000Z,Jeanne-Mance/René-Lévesque--BMbGL6bk,2024-07-25,Thursday,00:03,Montreal,a8dca6a7c9f8451b38af2eee446736df,Jeanne-Mance / René-Lévesque,2,56
+Montreal-4pLrtCp6,2024-07-25T05:54:33.465000Z,Cathcart/McGillCollege--K3akLIhS,2024-07-25,Thursday,00:03,Montreal,cb1d736547a9e93d8e3427b1f232a0f9,Cathcart / McGill College,5,22
+Montreal-5tDEj2nC,2024-07-25T05:54:34.350000Z,delaCôteSt-Paul/St-Ambroise--cW3IutFg,2024-07-25,Thursday,00:03,Montreal,dfaab1117322af6f88c48893144bcf6f,de la Côte St-Paul / St-Ambroise,11,16
+Montreal-AfyKmXbQ,2024-07-25T06:03:09.014000Z,Jacques-Casault/Christophe-Colomb--vzo9e9ey,2024-07-25,Thursday,00:03,Montreal,e1d27e3bb1414d200aac4dbc156450d7,Jacques-Casault / Christophe-Colomb,4,14
+Montreal-aRfaa4b4,2024-07-25T05:54:34.912000Z,Garnier/Beaubien--MflpxhEl,2024-07-25,Thursday,00:03,Montreal,f0aeadde961c7d845b9a1b6aeab78eb8,Garnier / Beaubien,6,7
+Montreal-aji8kqMQ,2024-07-25T06:03:08.092000Z,deMaisonneuve/Fullum--fHXGP51n,2024-07-25,Thursday,00:03,Montreal,63c25a074954b752156b8c981b4e1f99,de Maisonneuve / Fullum,3,14
+Montreal-MSJlOT7t,2024-07-25T05:54:35.177000Z,Hamel/Sauriol--cKN9PbCk,2024-07-25,Thursday,00:03,Montreal,7eaaf829040807e1e2c7091f2866f62e,Hamel / Sauriol,10,5
+Montreal-uujWXpXA,2024-07-25T05:54:33.261000Z,ParcHenri-Julien(Legendre/Henri-Julien)--oNFMImGA,2024-07-25,Thursday,00:03,Montreal,796a9f355c39aaf2fcedeae95260306f,Parc Henri-Julien (Legendre / Henri-Julien),2,14
+Montreal-kiWfzRal,2024-07-25T05:54:35.245000Z,Ontario/Ville-Marie--ZM5GyBKI,2024-07-25,Thursday,00:03,Montreal,49a34fd07d2a10bef806a1abcc921a87,Ontario / Ville-Marie,11,6
+Montreal-W4aq0NrH,2024-07-25T06:03:10.236000Z,Ball/Bloomfield--qVxytAlR,2024-07-25,Thursday,00:03,Montreal,286671379fa925e68543ac801281068b,Ball / Bloomfield,9,1
+Montreal-C0XLP8n4,2024-07-25T06:03:06.466000Z,ParcVilleray(Christophe-Colomb/Jarry)--EP833ET3,2024-07-25,Thursday,00:03,Montreal,aa4100b71e77eb483a5d173547e56ab6,Parc Villeray (Christophe-Colomb / Jarry),8,6
+Montreal-R1p19Hjb,2024-07-25T06:03:09.036000Z,Notre-Dame/St-Gabriel--UFj1ycjw,2024-07-25,Thursday,00:03,Montreal,3cc8af25d891cb13e3301e4a612d0383,Notre-Dame / St-Gabriel,0,15
+Montreal-DxBICFXp,2024-07-25T06:03:06.667000Z,St-Hubert/deMaisonneuve(nord)--fobFFDag,2024-07-25,Thursday,00:03,Montreal,b9d14281ceeaf9913a820adab2e125c6,St-Hubert / de Maisonneuve (nord),0,22
+Montreal-L9F8bch2,2024-07-25T05:54:34.865000Z,Robert-Bourassa/St-Maurice--SoS0XwEN,2024-07-25,Thursday,00:03,Montreal,1469c136bd5b7cecb99703bfdeaeda8b,Robert-Bourassa / St-Maurice,2,20
+Montreal-GtbSarlU,2024-07-25T06:03:10.238000Z,ComplexesportifClaude-Robillard(Émile-Journault)--ni0OECb9,2024-07-25,Thursday,00:03,Montreal,76fdf335f45f4dc6aa762acab6a94e41,Complexe sportif Claude-Robillard (Émile-Journault),14,7
+Montreal-t69w2wwi,2024-07-25T06:03:09.250000Z,15eavenue/Laurier--jLJqIH8G,2024-07-25,Thursday,00:03,Montreal,cfc09f1f86e151cf8778b662a3d3650b,15e avenue / Laurier,12,12
+Montreal-u76v5AXb,2024-07-25T06:03:09.056000Z,delaCommune/Berri--0jYUiu2L,2024-07-25,Thursday,00:03,Montreal,3f155bd80f721e2f372821f3a7b08512,de la Commune / Berri,33,37
+Montreal-Q7RgadM8,2024-07-25T06:03:07.545000Z,delaCommune/St-Sulpice--FssPYIWC,2024-07-25,Thursday,00:03,Montreal,d5193bc68b01855a79fd8c694ef2e2f9,de la Commune / St-Sulpice,1,45
+Montreal-b1vJfqwS,2024-07-25T05:54:31.312000Z,CHSLDRobertCliche(deBellechasse/16eavenue)--rxTY94Ie,2024-07-25,Thursday,00:03,Montreal,5628b95a789420240f43c4f870c685de,CHSLD Robert Cliche (de Bellechasse / 16e avenue),6,9
+Montreal-T2Z2wDRb,2024-07-25T06:03:11.697000Z,St-Jacques/desSeigneurs--JcI519vs,2024-07-25,Thursday,00:03,Montreal,ff85c138d884da9a4540f32b12086338,St-Jacques / des Seigneurs,20,3
+Montreal-7SSG8JSQ,2024-07-25T06:03:09.965000Z,Richmond/desBassins--I5VNjrUK,2024-07-25,Thursday,00:03,Montreal,ac728f271b196e19899f2323fb8d7795,Richmond / des Bassins,5,25
+Montreal-KWIze2r4,2024-07-25T06:03:09.038000Z,delaCommune/PlaceJacques-Cartier--lTVmqqBN,2024-07-25,Thursday,00:03,Montreal,0a3aa715457ea0c777ddd396228eafd1,de la Commune / Place Jacques-Cartier,0,81
+Montreal-QY2TqZgv,2024-07-25T05:54:34.048000Z,St-Antoine/delaMontagne--eutAfhQ2,2024-07-25,Thursday,00:03,Montreal,f6f620ef83bbb9c0e42133ca15de895b,St-Antoine / de la Montagne,17,0
+Montreal-2Mz2efni,2024-07-25T06:03:06.435000Z,MétroMont-Royal(Utilitéspubliques/Rivard)--psGPvmVx,2024-07-25,Thursday,00:03,Montreal,85f495db4bcf79e15029dcc21da9b2a7,Métro Mont-Royal (Utilités publiques / Rivard),26,16
+Montreal-Y2e0U4kF,2024-07-25T06:03:11.477000Z,Peel/Notre-Dame--UXjnnqVO,2024-07-25,Thursday,00:03,Montreal,8c3e8bbf15685f205ba044dbeac4960a,Peel / Notre-Dame,3,40
+Montreal-EjJiF8RP,2024-07-25T05:54:30.908000Z,Atwater/Greene--EkIQfwKM,2024-07-25,Thursday,00:03,Montreal,567cbde732fdd0fb13d545dd1b5e963c,Atwater / Greene,2,23
+Montreal-XC4V6HlH,2024-07-25T05:54:33.509000Z,delaCommune/King--dXR6Iqce,2024-07-25,Thursday,00:03,Montreal,918f32736e8c298b4c7a5a58f6e46da5,de la Commune / King,2,84
+Montreal-C7WeOXRJ,2024-07-25T06:03:07.561000Z,Smith/Peel--3SYLOf3h,2024-07-25,Thursday,00:03,Montreal,7214c61eb7f8d875d6db8db935ad16ea,Smith / Peel,12,7
+Montreal-chtmsdn2,2024-07-25T05:54:31.759000Z,William/Robert-Bourassa--dT8PSrmx,2024-07-25,Thursday,00:03,Montreal,5782e71fd4ba8263a67de59b093dc320,William / Robert-Bourassa,7,14
+Montreal-UXXqYxRh,2024-07-25T06:03:11.385000Z,desPins/St-Laurent--1uOrG1sY,2024-07-25,Thursday,00:03,Montreal,5b7a4c0ffaa2aeb1b8583498e113e81d,des Pins / St-Laurent,23,4
+Montreal-FdKjk356,2024-07-25T06:03:08.573000Z,Émile-Duployé/Sherbrooke--IeIkU1yr,2024-07-25,Thursday,00:03,Montreal,15f3a0b338dba26f99a8df6fab3fdbc7,Émile-Duployé / Sherbrooke,16,5
+Montreal-s3z9y5RX,2024-07-25T06:03:09.627000Z,MétroAtwater(Atwater/Ste-Catherine)--h0vTQ8SR,2024-07-25,Thursday,00:03,Montreal,aa392581e19d48cf19a168a0dfa88f4b,Métro Atwater (Atwater / Ste-Catherine),32,9
+Montreal-OdtAKSEJ,2024-07-25T06:03:10.954000Z,ComplexeDesjardins(St-Urbain/René-Lévesque)--njJAHlou,2024-07-25,Thursday,00:03,Montreal,afb936a3ae54566d7c227dc5b6ee94f3,Complexe Desjardins (St-Urbain / René-Lévesque),5,33
+Montreal-HyaYtcUV,2024-07-25T05:54:31.946000Z,BIXIK5--ibciE3lD,2024-07-25,Thursday,00:03,Montreal,f542176bf7e4e0f28f80cb1d57e323ec,BIXI K5,6,12
+Montreal-hIPqDwgk,2024-07-25T05:54:33.975000Z,Ste-Catherine/Union--wPjRyqTU,2024-07-25,Thursday,00:03,Montreal,862dcb9c957597a18cfec10729b53a88,Ste-Catherine / Union,1,32
+Montreal-2FHLLvsu,2024-07-25T05:54:33.473000Z,PlaceduCanada(Peel/desCanadiens-de-Montréal)--9zgCOTuB,2024-07-25,Thursday,00:03,Montreal,ee43e83128a1380f7aa33378bd66c56e,Place du Canada (Peel / des Canadiens-de-Montréal),1,25
+Montreal-Bgr8QkfC,2024-07-25T06:03:11.177000Z,Aylwin/Ontario--DWHeUhlN,2024-07-25,Thursday,00:03,Montreal,3abdc1b0a911538a256467510b0dcc50,Aylwin / Ontario,16,8
+Montreal-7KBWlGdf,2024-07-25T06:03:10.633000Z,Molson/William-Tremblay--LXdEnuz5,2024-07-25,Thursday,00:03,Montreal,531dfca0ea4152da1c5e60b7fa74ba1c,Molson / William-Tremblay,5,23
+Montreal-Muj82Ias,2024-07-25T05:54:33.336000Z,St-Jacques/Richmond--qCxPBops,2024-07-25,Thursday,00:03,Montreal,bd65f469d3bd0db96ca1b27b13dd0602,St-Jacques / Richmond,20,1
+Montreal-UZVFflRa,2024-07-25T06:03:09.769000Z,MarchéJean-Talon(Casgrain/Shamrock)--72PYA9Ww,2024-07-25,Thursday,00:03,Montreal,00c210cb99cf9d1b923c1548938aee56,Marché Jean-Talon (Casgrain / Shamrock),15,9
+Montreal-LZG2cKyn,2024-07-25T05:54:32.900000Z,Fabrik8(Waverly/Jean-Talon)--FeYvWOGa,2024-07-25,Thursday,00:03,Montreal,f9bb106633ce38eeec6728faed3155ad,Fabrik8 (Waverly / Jean-Talon),8,12
+Montreal-GZKxXLRd,2024-07-25T05:54:34.313000Z,Ottawa/William--pGZw0gz9,2024-07-25,Thursday,00:03,Montreal,31c3024050ee6f3e44c85eceae251db1,Ottawa / William,13,2
+Montreal-wbngp88C,2024-07-25T05:54:34.208000Z,CÉGEPduVieux-Montréal(Ontario/del'Hôtel-de-Ville)--nw5Q0xde,2024-07-25,Thursday,00:03,Montreal,12d398be5955fed8787b107d04ba8cab,CÉGEP du Vieux-Montréal (Ontario / de l'Hôtel-de-Ville),13,1
+Montreal-gt2rWddM,2024-07-25T06:03:11.865000Z,deGaspé/Marmier--M1FiNece,2024-07-25,Thursday,00:03,Montreal,c8aba35f90d2eeada8a20ea7915c943a,de Gaspé / Marmier,12,9
+Montreal-azskXMo4,2024-07-25T06:03:06.993000Z,Boyer/Rosemont--dLffO8B7,2024-07-25,Thursday,00:03,Montreal,0804af1a0607c5aff81fae6d4bab8fc7,Boyer / Rosemont,27,3
+Montreal-ankEK6JT,2024-07-25T06:03:08.378000Z,Laurier/deBordeaux--Rw559J6Y,2024-07-25,Thursday,00:03,Montreal,9ae44308b0fc72776b463bce99473ace,Laurier / de Bordeaux,20,2
+Montreal-B4YdFo2U,2024-07-25T06:03:06.991000Z,MétroRosemont(deSt-Vallier/Rosemont)--NDREsUFd,2024-07-25,Thursday,00:03,Montreal,662e5de818ea47b2da5296790a8093cc,Métro Rosemont (de St-Vallier / Rosemont),8,15
+Montreal-ik3cmS6M,2024-07-25T05:54:33.128000Z,Boyer/Beaubien--NZNzh5b9,2024-07-25,Thursday,00:03,Montreal,745e24e22f492961cb96d949cd8747e3,Boyer / Beaubien,18,8
+Montreal-7kk6RoaS,2024-07-25T05:54:31.227000Z,deLanaudière/Marie-Anne--EFd5PDIE,2024-07-25,Thursday,00:03,Montreal,45f58d2bbe9530b531b4d156490598a5,de Lanaudière / Marie-Anne,10,8
+Montreal-BImIrj5X,2024-07-25T05:54:31.834000Z,Boyer/Bélanger--E2cQD0Ln,2024-07-25,Thursday,00:03,Montreal,03306a21cafcf901fa4a45504a834c72,Boyer / Bélanger,1,26
+Montreal-sOwIA6Zq,2024-07-25T05:54:31.713000Z,deLanaudière/Bélanger--pPGjWyZ4,2024-07-25,Thursday,00:03,Montreal,e3bc8082b32ea4f2d9185551c9e96782,de Lanaudière / Bélanger,17,3
+Montreal-SKRvTVHB,2024-07-25T05:54:35.002000Z,delaGauchetière/Robert-Bourassa--AE1SJu77,2024-07-25,Thursday,00:03,Montreal,882a16842469a73f4c033de3f0a99d40,de la Gauchetière / Robert-Bourassa,1,25
+Montreal-nEqWcJHN,2024-07-25T05:54:32.264000Z,Mozart/Waverly--aRlAkmkq,2024-07-25,Thursday,00:03,Montreal,57c201651dba51666c7f98afb887cb07,Mozart / Waverly,11,4
+Montreal-log1VDH8,2024-07-25T06:03:11.516000Z,Aylmer/Ste-Catherine--n0pLbkdG,2024-07-25,Thursday,00:03,Montreal,e14b6c2c9409f80090a2cabc3ebe4a42,Aylmer / Ste-Catherine,0,27
+Montreal-Jpw4JKF5,2024-07-25T05:54:31.961000Z,Hutchison/Beaubien--wTiByEEc,2024-07-25,Thursday,00:03,Montreal,97a7209d05565c0dd383256371451ed2,Hutchison / Beaubien,1,24
+Montreal-apv5ETHw,2024-07-25T06:03:06.931000Z,Christophe-Colomb/St-Joseph--rBLvUkzc,2024-07-25,Thursday,00:03,Montreal,f841f00a51ce7d08ecd1ec2f960bfd83,Christophe-Colomb / St-Joseph,20,3
+Montreal-E5zhFtEx,2024-07-25T06:03:08.834000Z,MétroFabre(Fabre/Jean-Talon)--qHZfybUy,2024-07-25,Thursday,00:03,Montreal,3927bde7b8a85d0f3f18369211619cc2,Métro Fabre (Fabre / Jean-Talon),3,12
+Montreal-2JUyIOcZ,2024-07-25T05:54:34.402000Z,Jeanne-Mance/Laurier--hDGVS3ZL,2024-07-25,Thursday,00:03,Montreal,8680c2c22674be06c18897967d07274d,Jeanne-Mance / Laurier,14,8
+Montreal-hX7oreHr,2024-07-25T06:03:06.885000Z,deGaspé/Fairmount--pNgZ4A70,2024-07-25,Thursday,00:03,Montreal,0daffa0f2290fcf3a58b579d914c16cc,de Gaspé / Fairmount,2,20
+Montreal-i9laIHlU,2024-07-25T06:03:11.616000Z,Henri-Julien/duCarmel--QhVFPJrm,2024-07-25,Thursday,00:03,Montreal,4c6ee625de158c398332f0bce7a5ee9f,Henri-Julien / du Carmel,6,17
+Montreal-P7OlaWqu,2024-07-25T06:03:11.256000Z,del'Hôtel-de-Ville/Villeneuve--XypBiSZK,2024-07-25,Thursday,00:03,Montreal,510a14e4eb76249f0477e2256b4eedd7,de l'Hôtel-de-Ville / Villeneuve,23,0
+Montreal-Y8WxeEHC,2024-07-25T06:03:06.872000Z,Hélène-Baillargeon/St-Denis--sFCaeoif,2024-07-25,Thursday,00:03,Montreal,4de7379430623fca6d843562d1ce43e6,Hélène-Baillargeon / St-Denis,6,12
+Montreal-UC8e8813,2024-07-25T05:54:32.967000Z,Vallières/St-Laurent--2syYNHnb,2024-07-25,Thursday,00:03,Montreal,8e960ee01aeaabf154ed0de7706cba84,Vallières / St-Laurent,17,5
+Montreal-Hyt4R4Sf,2024-07-25T05:54:33.222000Z,Hutchison/VanHorne--Fb5fFiEl,2024-07-25,Thursday,00:03,Montreal,99bb7462f129883fb6a5e88e688a7377,Hutchison / Van Horne,1,18
+Montreal-DeoVz4cY,2024-07-25T06:03:06.926000Z,Waverly/Bernard--pajQA5oH,2024-07-25,Thursday,00:03,Montreal,a7f948d13af46099ebb555d4d25d4567,Waverly / Bernard,13,8
+Montreal-FvUqZ8b8,2024-07-25T06:03:10.501000Z,deSt-Vallier/St-Zotique--9f8528Yc,2024-07-25,Thursday,00:03,Montreal,c88102464b88e2dae390420e94d969a9,de St-Vallier / St-Zotique,4,14
+Montreal-WZqJmvhH,2024-07-25T06:03:11.145000Z,desPins/Hutchison--ng42Dq5x,2024-07-25,Thursday,00:03,Montreal,09d8a78e2a08d9f1f4ab81c09198acf3,des Pins / Hutchison,15,6
+Montreal-KsrzMhxQ,2024-07-25T06:03:08.389000Z,Chambord/Gilford--7qEKqZS3,2024-07-25,Thursday,00:03,Montreal,210bb64df496d2f79181a4c8be41419d,Chambord / Gilford,17,1
+Montreal-uzi0Xti5,2024-07-25T06:03:11.266000Z,Maguire/St-Laurent--KtqiB36J,2024-07-25,Thursday,00:03,Montreal,16a02da5dfbb9169ba09818f80797447,Maguire / St-Laurent,1,22
+Montreal-K7eqrKHE,2024-07-25T06:03:11.757000Z,Gilford/desÉrables--aN5DgSp8,2024-07-25,Thursday,00:03,Montreal,7d10cc3be562e52b9c9787752b1991f8,Gilford / des Érables,17,0
+Montreal-9BMasHD5,2024-07-25T05:54:34.821000Z,deBordeaux/Rachel--kX6IEDLm,2024-07-25,Thursday,00:03,Montreal,09cef143d6e60e226015fbdf71c2d345,de Bordeaux / Rachel,17,4
+Montreal-CIRxXwoY,2024-07-25T05:54:34.657000Z,Marquette/duMont-Royal--D4v7xvAy,2024-07-25,Thursday,00:03,Montreal,c752d8b62e9fb1db8cab2c9b414c8ddf,Marquette / du Mont-Royal,19,3
+Montreal-VjjUG7uw,2024-07-25T05:54:32.400000Z,Marquette/Laurier--o6zuQh9t,2024-07-25,Thursday,00:03,Montreal,548d982f0a3ef288c42eb4e689272c61,Marquette / Laurier,25,1
+Montreal-UnchjiFp,2024-07-25T05:54:34.716000Z,Gilford/deBrébeuf--UrAnYGO8,2024-07-25,Thursday,00:03,Montreal,cc88d8f8a364b686cdd744b1eafedeff,Gilford / de Brébeuf,20,3
+Montreal-H6rx8sRC,2024-07-25T06:03:08.469000Z,Marquette/Rachel--vjpQU33c,2024-07-25,Thursday,00:03,Montreal,a2c46273aac398c46a03e72aac69153b,Marquette / Rachel,15,0
+Montreal-HR0YJMEO,2024-07-25T06:03:10.464000Z,St-André/Cherrier--1EBYSBPx,2024-07-25,Thursday,00:03,Montreal,115474ece7fe0aa5e0a79e56b11b3c8c,St-André / Cherrier,24,3
+Montreal-ci8NK1Sp,2024-07-25T05:54:34.593000Z,Messier/duMont-Royal--fxRYgH4n,2024-07-25,Thursday,00:03,Montreal,7ade71dc0f1e89d5e60fa41449efd516,Messier / du Mont-Royal,32,2
+Montreal-3YyWGx7l,2024-07-25T06:03:08.396000Z,St-Dominique/Napoléon--DGwXoAdC,2024-07-25,Thursday,00:03,Montreal,38a5272f540008af3bbca0d281fa3f9c,St-Dominique / Napoléon,17,3
+Montreal-YRXJpiOE,2024-07-25T05:54:34.431000Z,del'Esplanade/Villeneuve--tDFqGGEl,2024-07-25,Thursday,00:03,Montreal,4d1355baaff5d1f22441110f464bde78,de l'Esplanade / Villeneuve,16,3
+Montreal-7UNRyq6r,2024-07-25T06:03:06.528000Z,Jeanne-d'Arc/Ontario--HrsCP1zH,2024-07-25,Thursday,00:03,Montreal,9dbc225970bc3623c91fd503d77751ef,Jeanne-d'Arc / Ontario,15,8
+Montreal-ICyqvkyF,2024-07-25T05:54:33.760000Z,Poupart/Ontario--OT5vuC9f,2024-07-25,Thursday,00:03,Montreal,03ded6d6c0277b031f18feae9c518a75,Poupart / Ontario,10,9
+Montreal-bF04yrcU,2024-07-25T06:03:09.887000Z,Logan/deChamplain--TGDgBiOe,2024-07-25,Thursday,00:03,Montreal,485d66968361b44b2fbfa4a1384d87f1,Logan / de Champlain,19,0
+Montreal-5jEh2YkW,2024-07-25T05:54:33.804000Z,ParcBaldwin(Chapleau/Sherbrooke)--2NzndJOr,2024-07-25,Thursday,00:03,Montreal,ebdddf885baaef4c41adb972137a7012,Parc Baldwin (Chapleau / Sherbrooke),38,0
+Montreal-NmvezC5c,2024-07-25T06:03:06.843000Z,JeanLanglois/Fullum--RwV1xzIA,2024-07-25,Thursday,00:03,Montreal,5aaf47dc0e0960e251b829e0aa574ed7,Jean Langlois / Fullum,19,11
+Montreal-0arjgVAH,2024-07-25T05:54:30.740000Z,Fullum/Marie-Anne--pv6Wlhwt,2024-07-25,Thursday,00:03,Montreal,6b566fd6a50d2693ee4c6a56bbf20b13,Fullum / Marie-Anne,24,3
+Montreal-E3DmjEh1,2024-07-25T06:03:09.046000Z,Montcalm/Ontario--AxZBsybZ,2024-07-25,Thursday,00:03,Montreal,a39ecc2edf78db413094a4f6e7c898e8,Montcalm / Ontario,27,0
+Montreal-QVa2p73l,2024-07-25T06:03:10.647000Z,deMentana/Marie-Anne--LBNUrtVF,2024-07-25,Thursday,00:03,Montreal,b3595b16fa264069717263de34d8abab,de Mentana / Marie-Anne,22,5
+Montreal-BPmcAe0K,2024-07-25T05:54:34.255000Z,Durocher/Beaumont--ltXWCkw2,2024-07-25,Thursday,00:03,Montreal,b15109d9282a8fb0f2bf73265d357c8d,Durocher / Beaumont,6,13
+Montreal-2lTONpkz,2024-07-25T06:03:07.014000Z,MétroBeaudry(Beaudry/Ste-Catherine)--Xf0CBGex,2024-07-25,Thursday,00:03,Montreal,3907c9dd03e1eb2b87e60ee8e44cc076,Métro Beaudry (Beaudry / Ste-Catherine),9,14
+Montreal-RZuOl4Dx,2024-07-25T05:54:31.975000Z,ParcJoseph-Robin(18eavenue/Everett)--dSXnlokO,2024-07-25,Thursday,00:03,Montreal,32062cce0f8aa927527eeca915fd3afd,Parc Joseph-Robin (18e avenue / Everett),9,9
+Montreal-RTnDJ0fI,2024-07-25T06:03:09.044000Z,del'Hotel-de-Ville/Ontario--BMnnu9Pr,2024-07-25,Thursday,00:03,Montreal,068b8514c4f15a3d822da22705e1906c,de l'Hotel-de-Ville / Ontario,3,23
+Montreal-DlcY3cQx,2024-07-25T06:03:09.940000Z,Beaudry/Sherbrooke--nbqzqQUp,2024-07-25,Thursday,00:03,Montreal,f06063d509814af631ff3637dd0ad8bc,Beaudry / Sherbrooke,26,1
+Montreal-p36hwB9p,2024-07-25T05:54:35.143000Z,St-André/Ste-Catherine--EluTyhVO,2024-07-25,Thursday,00:03,Montreal,be81ff208d6924d4baa6817fb7771d35,St-André / Ste-Catherine,5,21
+Montreal-ftPpHB6m,2024-07-25T06:03:09.132000Z,del'Hôtel-de-Ville/Sherbrooke--M4GR4C6e,2024-07-25,Thursday,00:03,Montreal,77be8b3e222ca95757ab876157bb30dc,de l'Hôtel-de-Ville / Sherbrooke,9,18
+Montreal-NiAjQKAL,2024-07-25T05:54:33.165000Z,Marie-Anne/St-Hubert--fw6xttIb,2024-07-25,Thursday,00:03,Montreal,636183b074c59d10b7ef068230b11fb9,Marie-Anne / St-Hubert,18,5
+Montreal-WLkxcy4t,2024-07-25T06:03:08.438000Z,duParc-LaFontaine/Duluth--f43n0eJ4,2024-07-25,Thursday,00:03,Montreal,d3a51b0b1043d0371d4803848c5489aa,du Parc-La Fontaine / Duluth,17,5
+Montreal-UulhjkeB,2024-07-25T06:03:09.854000Z,del'Hôtel-de-Ville/Ste-Catherine--TuRdS3je,2024-07-25,Thursday,00:03,Montreal,6716d6af871575e44ca751b5224df1ef,de l'Hôtel-de-Ville / Ste-Catherine,4,27
+Montreal-hslO2wsR,2024-07-25T06:03:10.458000Z,St-Hubert/Duluth--Gzl9fzca,2024-07-25,Thursday,00:03,Montreal,ac4e6691d6abacc0db1730d36a2f3bca,St-Hubert / Duluth,16,6
+Montreal-7TyfgU0A,2024-07-25T06:03:07.420000Z,desRécollets/McGill--oLIykazj,2024-07-25,Thursday,00:03,Montreal,9b1fefd8f850f3343e75c549459840df,des Récollets / McGill,1,22
+Montreal-3ixga1Tg,2024-07-25T05:54:34.509000Z,ParcHilda-Ramacière(deBullion/Prince-Arthur)--xYTddAQK,2024-07-25,Thursday,00:03,Montreal,bad24d2594ee98a4efaff5132822ee7a,Parc Hilda-Ramacière (de Bullion / Prince-Arthur),16,3
+Montreal-ucVl3sgu,2024-07-25T05:54:33.162000Z,duChamp-de-Mars/Gosford--02epKOdu,2024-07-25,Thursday,00:03,Montreal,50ee08de38ded52019cad64b2be46375,du Champ-de-Mars / Gosford,1,22
+Montreal-UePDIaVz,2024-07-25T06:03:10.770000Z,St-Denis/Ste-Catherine--CtrDKlwJ,2024-07-25,Thursday,00:03,Montreal,cefc5afe09efc11756e70a7d5f0b7c39,St-Denis / Ste-Catherine,0,41
+Montreal-EJoALVZA,2024-07-25T06:03:11.570000Z,St-Alexandre/Ste-Catherine--7V3ulrB1,2024-07-25,Thursday,00:03,Montreal,7c1b0523756e972a564a67a123642ce4,St-Alexandre / Ste-Catherine,3,23
+Montreal-AhAYHmFf,2024-07-25T05:54:33.457000Z,Basile-Routhier/Chabanel--aGjXuYCL,2024-07-25,Thursday,00:03,Montreal,f2ceabcf431e79ae367e832282b28e0d,Basile-Routhier / Chabanel,9,9
+Montreal-80qAcy16,2024-07-25T05:54:30.729000Z,Maguire/Henri-Julien--zC6PCHsO,2024-07-25,Thursday,00:03,Montreal,d57940b77a62f7a447df3d64a43c6792,Maguire / Henri-Julien,2,17
+Montreal-rNmPmna5,2024-07-25T06:03:07.742000Z,Clark/Prince-Arthur--eafhLiMx,2024-07-25,Thursday,00:03,Montreal,6830d20837ee0a702a0d46d406d28adc,Clark / Prince-Arthur,21,10
+Montreal-aZxMgakd,2024-07-25T06:03:08.553000Z,deSt-Firmin/Fleury--UzHSoHGc,2024-07-25,Thursday,00:03,Montreal,5c11d3959c0abea9f83d3f82a8b9f28f,de St-Firmin / Fleury,17,2
+Montreal-NWvq9JUu,2024-07-25T05:54:35.201000Z,Francis/Fleury--rBgXNHKl,2024-07-25,Thursday,00:03,Montreal,1fefddadf6dab1b29ac4d1759d4ea7a5,Francis / Fleury,6,10
+Montreal-sbeHRthl,2024-07-25T06:03:06.590000Z,deChateaubriand/Jarry--cZoDmUaB,2024-07-25,Thursday,00:03,Montreal,388667308b5ef2108146c41196454cf2,de Chateaubriand / Jarry,8,7
+Montreal-DUa6Vwrj,2024-07-25T06:03:09.380000Z,ParcChampdoré(Champdoré/deLille)--I97F7UcJ,2024-07-25,Thursday,00:03,Montreal,1f5a5fee591fc04c2bd579240b619b80,Parc Champdoré (Champdoré / de Lille),13,2
+Montreal-k0v29NpJ,2024-07-25T06:03:08.330000Z,duMont-Royal/Augustin-Frigon--lYAooAel,2024-07-25,Thursday,00:03,Montreal,fec442e5bd4a6d1999980029e905394e,du Mont-Royal / Augustin-Frigon,11,12
+Montreal-x4CmtSd3,2024-07-25T06:03:08.298000Z,Ernest-Gendreau/duMont-Royal--z2N2dYOX,2024-07-25,Thursday,00:03,Montreal,17b6900c27a6d394bf754e410e736806,Ernest-Gendreau / du Mont-Royal,13,9
+Montreal-AdwWgpav,2024-07-25T06:03:07.074000Z,Everett/Garnier--hCY75OIq,2024-07-25,Thursday,00:03,Montreal,09fe2c61fe35c26c42e876ca291f8984,Everett / Garnier,7,15
+Montreal-h58hRC2v,2024-07-25T05:54:33.661000Z,8eavenue/Dandurand--EnyrmOex,2024-07-25,Thursday,00:03,Montreal,c57dd75c9c28e325882f666e1fe30c7a,8e avenue / Dandurand,14,5
+Montreal-41JnL7v3,2024-07-25T06:03:10.472000Z,Berri/Cherrier--nS0yj4k4,2024-07-25,Thursday,00:03,Montreal,f579de6a5a33991af59a9ac22eee6f95,Berri / Cherrier,15,24
+Montreal-VffC5Dzq,2024-07-25T06:03:11.197000Z,ParcLalancette(deRouen/Valois)--exXKksXF,2024-07-25,Thursday,00:03,Montreal,a0dafca2160e6e43d700ba63c07a7af2,Parc Lalancette (de Rouen / Valois),15,7
+Montreal-GSc9VOtA,2024-07-25T05:54:33.040000Z,Rousselot/Jarry--pJSd92rd,2024-07-25,Thursday,00:03,Montreal,6194bc5aa55d462f6e7cbe7c657858ed,Rousselot / Jarry,6,8
+Montreal-FAKyfkXA,2024-07-25T05:54:33.731000Z,Henri-Julien/deCastelnau--KbIa5qEa,2024-07-25,Thursday,00:03,Montreal,85531326f9e29994cf18c81558db9fe5,Henri-Julien / de Castelnau,12,10
+Montreal-q21Pc6z5,2024-07-25T05:54:31.392000Z,1èreavenue/St-Zotique--hQy8ejNF,2024-07-25,Thursday,00:03,Montreal,fb827e1f22e7180918b8311814ad5b5b,1ère  avenue / St-Zotique,11,3
+Montreal-KzSbvlOr,2024-07-25T06:03:10.433000Z,Duluth/St-Denis--STLqBNRT,2024-07-25,Thursday,00:03,Montreal,052eb3e7422cdd1cdc5d555cf8d05c98,Duluth  / St-Denis,5,9
+Montreal-BfLqyEi2,2024-07-25T06:03:07.526000Z,St-Nicolas/Placed'Youville--WgAnHuX8,2024-07-25,Thursday,00:03,Montreal,dd90b8d66fbadef744f51cb9403d0fc6,St-Nicolas / Place d'Youville,2,21
+Montreal-c0FHujIZ,2024-07-25T05:54:31.421000Z,12eavenue/St-Zotique--QizVqx0O,2024-07-25,Thursday,00:03,Montreal,4a0edadcaf1f36efd17948fdf1407120,12e avenue / St-Zotique,11,11
+Montreal-mX9JafTj,2024-07-25T05:54:33.613000Z,Valois/Ste-Catherine--60JGPMSt,2024-07-25,Thursday,00:03,Montreal,2539b5b1357e00a4c59b263b929bfd86,Valois / Ste-Catherine,16,6
+Montreal-WRV5xYjI,2024-07-25T06:03:10.205000Z,Clark/Fleury--jGHZ1SQ2,2024-07-25,Thursday,00:03,Montreal,6e3570378de8c1eab67ca40818e30a41,Clark / Fleury,5,11
+Montreal-8QfwOjBV,2024-07-25T05:54:32.946000Z,del'Hôtel-de-Ville/Roy--3Zr2CqeM,2024-07-25,Thursday,00:03,Montreal,fbce0c9761735863a0a102042faea923,de l'Hôtel-de-Ville / Roy,11,8
+Montreal-Fpw4nuuc,2024-07-25T06:03:10.245000Z,19eavenue/St-Zotique--m5WL1YSN,2024-07-25,Thursday,00:03,Montreal,edde889fae7031ef9951452b3d46c13c,19e avenue / St-Zotique,21,2
+Montreal-HHfmTZzw,2024-07-25T06:03:11.644000Z,Ste-Catherine/Dézéry--QcaNzc5c,2024-07-25,Thursday,00:03,Montreal,0dc51758d1fa3f735ae6aceec2ebbccd,Ste-Catherine / Dézéry,20,5
+Montreal-qZ2TzMvg,2024-07-25T06:03:11.897000Z,deLéry/Sherbrooke--TDA9jygb,2024-07-25,Thursday,00:03,Montreal,e2b99409a7260b74d305e1a5fd4fd0ab,de Léry / Sherbrooke,8,19
+Montreal-h0dWELFu,2024-07-25T06:03:09.361000Z,ParcduPélican(1ereAve/Masson)--XkxAgpEd,2024-07-25,Thursday,00:03,Montreal,6d0a3c1b3a79bb42f1125970e00cd5b1,Parc du Pélican (1ere Ave / Masson),37,2
+Montreal-zSaW9fgv,2024-07-25T05:54:30.988000Z,André-Laurendeau/Rachel--FWQJo3i3,2024-07-25,Thursday,00:03,Montreal,2d1688ea5fe9eda664f3bbb9ac5be483,André-Laurendeau / Rachel,20,3
+Montreal-yOaFQ4Nx,2024-07-25T06:03:10.644000Z,Rosemont/Viau--bSEH98x4,2024-07-25,Thursday,00:03,Montreal,1461a02f003268b78a89d6ad0ac551dd,Rosemont / Viau,15,6
+Montreal-SF84Dux0,2024-07-25T06:03:09.437000Z,ParcdesHirondelles(Fleury/André-Jobin)--FAmY7EvZ,2024-07-25,Thursday,00:03,Montreal,c6cd5e121b21b2b73e1280b474b330b0,Parc des Hirondelles (Fleury / André-Jobin),19,0
+Montreal-YiXCj59W,2024-07-25T06:03:08.408000Z,duParc-LaFontaine/Roy--9EgafUeU,2024-07-25,Thursday,00:03,Montreal,4ddafa381fe8b555fe22b7fd44790eac,du Parc-La Fontaine / Roy,16,3
+Montreal-eZJPbk6D,2024-07-25T06:03:10.254000Z,AlfredLaliberté/dePoutrincourt--sLMg4a6D,2024-07-25,Thursday,00:03,Montreal,465cd2e49c7225463b4e34c0c019930c,Alfred Laliberté / de Poutrincourt,10,3
+Montreal-hpETS76M,2024-07-25T06:03:09.955000Z,CityCouncillors/duPresident-Kennedy--ElzvWhme,2024-07-25,Thursday,00:03,Montreal,6a842356c5017c283342c979fe0cdc92,City Councillors / du President-Kennedy,2,29
+Montreal-NfSJHzwQ,2024-07-25T05:54:33.649000Z,St-Dominique/Bernard--R4BC5jJr,2024-07-25,Thursday,00:03,Montreal,fc76ef32a2323d60d759e2229379418c,St-Dominique / Bernard,3,15
+Montreal-6VHrJIqF,2024-07-25T06:03:09.327000Z,10eavenue/Masson--vO03raLE,2024-07-25,Thursday,00:03,Montreal,ab4b146737660d93b736cd75010e84a5,10e avenue / Masson,24,2
+Montreal-q3uwQQEV,2024-07-25T06:03:11.333000Z,Prince-Arthur/duParc--MLFAmXFl,2024-07-25,Thursday,00:03,Montreal,5dd6f59bec1281b10376e79f7f4277b4,Prince-Arthur / du Parc,24,9
+Montreal-hCJyNhfa,2024-07-25T06:03:11.281000Z,Milton/duParc--TlLvWFbh,2024-07-25,Thursday,00:03,Montreal,ed38025541fc9ef1a0a96c118bd9628b,Milton / du Parc,14,16
+Montreal-rFKT7Wvc,2024-07-25T05:54:33.530000Z,MétroPlace-des-Arts(duPrésident-Kennedy/Jeanne-Mance)--WOcwRZlZ,2024-07-25,Thursday,00:03,Montreal,416cf5d02e2213626d5df87e159af93a,Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),6,21
+Montreal-yFLiOjCP,2024-07-25T06:03:08.545000Z,PlacedesFestivals(duPrésident-Kennedy/deBleury)--ErY11wsP,2024-07-25,Thursday,00:03,Montreal,b575803863daa30f30a36d475b72895f,Place des Festivals (du Président-Kennedy / de Bleury),11,16
+Montreal-Fh60YU6j,2024-07-25T05:54:35.232000Z,26eavenue/Beaubien--uB2fpPLA,2024-07-25,Thursday,00:03,Montreal,2c57dc3c587c73e643e570106ee6c6b2,26e avenue / Beaubien,9,6
+Montreal-E0lCjxyx,2024-07-25T06:03:10.279000Z,Union/Ste-Catherine--6FBReRMd,2024-07-25,Thursday,00:03,Montreal,42d228ac4871096ae20cb29c7448d2b9,Union / Ste-Catherine,1,45
+Montreal-PC4aIKFU,2024-07-25T05:54:34.242000Z,ParcdelaLouisiane(31eavenue/deBellechasse)--Mrgjq3K8,2024-07-25,Thursday,00:03,Montreal,924dd6324e287ed19cdcc5d511e06b66,Parc de la Louisiane (31e avenue / de Bellechasse),9,10
+Montreal-EewxNVd4,2024-07-25T06:03:09.518000Z,Ste-Catherine/St-Laurent--YtLmlyzm,2024-07-25,Thursday,00:03,Montreal,17be2f8f5808ea2980f56a1a19273084,Ste-Catherine / St-Laurent,2,29
+Montreal-9OXpiygu,2024-07-25T06:03:10.532000Z,Clark/Rachel--c8NSsl5F,2024-07-25,Thursday,00:03,Montreal,deb13451bd5ea6dc7edc042c646cdee8,Clark / Rachel,21,1
+Montreal-OPYxHbrO,2024-07-25T05:54:31.398000Z,St-Laurent/Pl.duMarché--oLRZgL8p,2024-07-25,Thursday,00:03,Montreal,34bfe048772e22905ada401f52cc5c1f,St-Laurent / Pl. du Marché,6,21
+Montreal-8LC5digZ,2024-07-25T05:54:31.709000Z,St-Urbain/delaGauchetière--3hDhO0TJ,2024-07-25,Thursday,00:03,Montreal,267b809394e2dd9fdd7924b7cceda261,St-Urbain / de la Gauchetière,1,42
+Montreal-HJdGaOXw,2024-07-25T06:03:10.361000Z,Stanley/Sherbrooke--ZM9QDBoP,2024-07-25,Thursday,00:03,Montreal,dffd7ae90953dd62b4787c3c9e57bbe9,Stanley / Sherbrooke,4,27
+Montreal-6537PYpa,2024-07-25T05:54:30.977000Z,University/Prince-Arthur--77VAswtA,2024-07-25,Thursday,00:03,Montreal,0366a94e06c77055841607882a40a484,University / Prince-Arthur,13,33
+Montreal-3SLcBaw5,2024-07-25T06:03:06.840000Z,Joseph-Manseau/René-Levesque--5Q2GfUKx,2024-07-25,Thursday,00:03,Montreal,c91fa33a4fe66a418c93d36c60b34f64,Joseph-Manseau / René-Levesque,19,0
+Montreal-8cYeP4c0,2024-07-25T05:54:30.752000Z,Henri-Julien/Laurier--4vS4JZFD,2024-07-25,Thursday,00:03,Montreal,8dfcd2d833a194d09c77461eb0546343,Henri-Julien / Laurier,14,5
+Montreal-CxIw856c,2024-07-25T05:54:33.236000Z,Waverly/VanHorne--uJALfsrw,2024-07-25,Thursday,00:03,Montreal,2d115175567a8c88d4f82138687cda9e,Waverly / Van Horne,12,3
+Montreal-pTL88LhI,2024-07-25T06:03:08.108000Z,Ste-Catherine/St-Mathieu--qeYNP8c8,2024-07-25,Thursday,00:03,Montreal,802c2ec80bcafd464dd2c20569192bac,Ste-Catherine / St-Mathieu,31,0
+Montreal-4FnlPhut,2024-07-25T06:03:08.164000Z,Gilford/St-Denis--YzBNqOyH,2024-07-25,Thursday,00:03,Montreal,9e9b183acee751ed5cfa1d04cd97ec8e,Gilford / St-Denis,34,5
+Montreal-mMoJnYnQ,2024-07-25T05:54:34.640000Z,Chabot/duMont-Royal--Pbq9Raye,2024-07-25,Thursday,00:03,Montreal,f287b99d3b1011f3ce2a2db77e0feee9,Chabot / du Mont-Royal,20,3
+Montreal-3h4XSqzI,2024-07-25T05:54:32.341000Z,Boyer/duMont-Royal--hbtHJetC,2024-07-25,Thursday,00:03,Montreal,f4ecabed1cc5d24dc4d5641aba401496,Boyer / du Mont-Royal,15,12
+Montreal-VKWOuHfU,2024-07-25T06:03:11.544000Z,Mackay/Ste-Catherine--LASWRtVP,2024-07-25,Thursday,00:03,Montreal,6c956ee33047a4618e258500a6d71629,Mackay / Ste-Catherine,19,8
+Montreal-Fchi2AUk,2024-07-25T06:03:10.549000Z,St-Hubert/Laurier--bkkTZFp3,2024-07-25,Thursday,00:03,Montreal,374dc4fabb37db40b8c3d8751fe4d033,St-Hubert / Laurier,14,4
+Montreal-THuTJ43Q,2024-07-25T05:54:32.995000Z,Coloniale/Duluth--qCI9YuDb,2024-07-25,Thursday,00:03,Montreal,532c02142d78a5864381ff420e87c1c4,Coloniale / Duluth,18,3
+Montreal-Gxpf7Ew5,2024-07-25T05:54:33.094000Z,del'Esplanade/duMont-Royal--ksHLwKoG,2024-07-25,Thursday,00:03,Montreal,5cfd60046a752b4509984dd7a4809b97,de l'Esplanade / du Mont-Royal,20,3
+Montreal-VikquUZy,2024-07-25T06:03:06.756000Z,St-Dominique/Laurier--pM0czgt6,2024-07-25,Thursday,00:03,Montreal,61913f1d35736d6e9931720b2da53fcd,St-Dominique / Laurier,18,5
+Montreal-Is25IBV6,2024-07-25T05:54:30.985000Z,Hutchison/Prince-Arthur--vSjdO0kx,2024-07-25,Thursday,00:03,Montreal,f8a0ae729a9fb295579ee66a3a5c7066,Hutchison / Prince-Arthur,14,7
+Montreal-NgZrpvDe,2024-07-25T06:03:10.985000Z,Plessis/Ontario--5YFDGwqG,2024-07-25,Thursday,00:03,Montreal,b0d05e909fdee92a5a247fd7d5f60023,Plessis / Ontario,17,2
+Montreal-AaGwkxdK,2024-07-25T05:54:32.326000Z,Sherbrooke/Frontenac--kDN5Jddz,2024-07-25,Thursday,00:03,Montreal,8a5ece7901703661f4245e63fcbc43a0,Sherbrooke / Frontenac,3,12
+Montreal-iDwXtOJ2,2024-07-25T05:54:35.094000Z,27eavenue/Rosemont--WmfJfH8N,2024-07-25,Thursday,00:03,Montreal,e2922721127dd2164c595a61feb86504,27e avenue / Rosemont,5,13
+Montreal-83PYfIUG,2024-07-25T05:54:33.589000Z,St-Germain/Hochelaga--RAzhfPx1,2024-07-25,Thursday,00:03,Montreal,d6ff1c4cb864d2d50b5d9ed8097dfb17,St-Germain / Hochelaga,7,12
+Montreal-gzGlI1Ui,2024-07-25T06:03:07.988000Z,Fullum/deRouen--J5Kzec0q,2024-07-25,Thursday,00:03,Montreal,53ed994603563480cf89037f5e16fb63,Fullum / de Rouen,14,13
+Montreal-4YzI8SZC,2024-07-25T05:54:32.276000Z,29eavenue/St-Zotique--6Zrrnmhr,2024-07-25,Thursday,00:03,Montreal,69d16a3ba682305cb780815926ca26bb,29e avenue / St-Zotique,14,1
+Montreal-ghmFLIL9,2024-07-25T06:03:09.201000Z,Wolfe/Robin--QsRZHJsp,2024-07-25,Thursday,00:03,Montreal,0e3b6af52859bc94cc7117506bfd08c7,Wolfe / Robin,10,13
+Montreal-CkHFcbxG,2024-07-25T06:03:09.724000Z,Chomedey/deMaisonneuve--Hi0Ok43O,2024-07-25,Thursday,00:03,Montreal,83a66bd66da62b3668815713aad56886,Chomedey / de Maisonneuve,26,1
+Montreal-05hEIxP8,2024-07-25T06:03:10.322000Z,Letourneux/Ste-Catherine--Itnhuh4W,2024-07-25,Thursday,00:03,Montreal,cc211dcba4ef94c4a141a37ef87da2aa,Letourneux / Ste-Catherine,3,15
+Montreal-z0GO9YVH,2024-07-25T05:54:32.952000Z,Rachel/deBrébeuf--LkZ8dNiq,2024-07-25,Thursday,00:03,Montreal,8a24a55a96155cb2e3f2786b53b23ce5,Rachel / de Brébeuf,29,0
+Montreal-Xz0sMdBc,2024-07-25T06:03:10.744000Z,Mansfield/Ste-Catherine--HRvJEwZc,2024-07-25,Thursday,00:03,Montreal,0935ec87605094d4db1be8d4cfc4f73f,Mansfield / Ste-Catherine,3,40
+Montreal-rGTXtVY4,2024-07-25T05:54:32.813000Z,Poupart/Logan--oQQbCWZC,2024-07-25,Thursday,00:03,Montreal,b9847a1de2b4262657af0eb5a457baba,Poupart / Logan,15,6
+Montreal-CLor4f0P,2024-07-25T06:03:10.297000Z,ParcLudger-Duvernay(St-André/St-Hubert)--YfNQShyA,2024-07-25,Thursday,00:03,Montreal,a3a7c5013570835afae29db254bcf8a9,Parc Ludger-Duvernay (St-André / St-Hubert),18,1
+Montreal-HhzKPFGh,2024-07-25T05:54:31.747000Z,LucienL'Allier/St-Jacques--5DFl2CHI,2024-07-25,Thursday,00:03,Montreal,9e58c0e020f84f039538f831c62589ba,Lucien L'Allier / St-Jacques,6,17
+Montreal-IY2IkrYS,2024-07-25T05:54:31.815000Z,Milton/University--TW6Iwtpw,2024-07-25,Thursday,00:03,Montreal,9c775529696c6b915012a33012974f53,Milton / University,3,36
+Montreal-xDMhsKBw,2024-07-25T05:54:34.956000Z,MétroBonaventure(delaGauchetière/delaCathédrale)--53QZ1Icw,2024-07-25,Thursday,00:03,Montreal,7f06a7dd290f87014f37b09606f82501,Métro Bonaventure (de la Gauchetière / de la Cathédrale),4,23
+Montreal-sti3pGyL,2024-07-25T05:54:31.182000Z,Clark/Laurier--PLULwWwM,2024-07-25,Thursday,00:03,Montreal,3e9578b17608be128b6600c721bbcf80,Clark / Laurier,4,12
+Montreal-4mua9LMf,2024-07-25T06:03:08.318000Z,Labadie/duParc--J84zVzJ3,2024-07-25,Thursday,00:03,Montreal,202f7da35f952703f25808c13ef16abe,Labadie / du Parc,7,11
+Montreal-bEx269KT,2024-07-25T06:03:06.910000Z,St-Zotique/Clark--BX70pmCY,2024-07-25,Thursday,00:03,Montreal,325edfe3c45a789a37855388fb453463,St-Zotique / Clark,0,14
+Montreal-OuGwPwuU,2024-07-25T06:03:10.016000Z,Bélanger/St-Denis--Asv791mo,2024-07-25,Thursday,00:03,Montreal,af546a8f7b1b7fb5f30b8913d91132bf,Bélanger / St-Denis,5,13
+Montreal-eve5XDin,2024-07-25T05:54:32.858000Z,Tupper/duFort--i5td2XiT,2024-07-25,Thursday,00:03,Montreal,d6c6e63d2c2821556619377f1518eac6,Tupper / du Fort,13,2
+Montreal-65JTkNml,2024-07-25T05:54:31.124000Z,Cartier/Rosemont--nivlnszO,2024-07-25,Thursday,00:03,Montreal,469ae7d7a28665f3f945c3a1aa53cc0d,Cartier / Rosemont,6,12
+Montreal-h1wR77Sr,2024-07-25T05:54:34.267000Z,1ereavenue/Jean-Talon--Iceu8dYY,2024-07-25,Thursday,00:03,Montreal,62a29075527f21702be0eb6acec62701,1ere avenue / Jean-Talon,11,3
+Montreal-lITksOK2,2024-07-25T05:54:34.248000Z,deBordeaux/St-Zotique--KsS5mHza,2024-07-25,Thursday,00:03,Montreal,7a656eb406afce1faa73c89dd333cb9a,de Bordeaux / St-Zotique,10,13
+Montreal-wfUoSlty,2024-07-25T05:54:31.765000Z,deCastelnau/Lajeunesse--oZGa7Ree,2024-07-25,Thursday,00:03,Montreal,fafae7f39486cd7ee5583dc014cf3fc3,de Castelnau / Lajeunesse,13,9
+Montreal-LMrSWUxE,2024-07-25T06:03:08.028000Z,Wolfe/delaGauchetière--RmrCWpf1,2024-07-25,Thursday,00:03,Montreal,644b526864832172e7ee3bf91f2e81ca,Wolfe / de la Gauchetière,12,14
+Montreal-1NxGs9ge,2024-07-25T06:03:10.120000Z,MarchéJean-Talon(Henri-Julien/Jean-Talon)--M3MP2orV,2024-07-25,Thursday,00:03,Montreal,30b3972ded9afdaa750cbbeef330fe74,Marché Jean-Talon (Henri-Julien / Jean-Talon),7,16
+Montreal-7wDP4oAC,2024-07-25T06:03:08.350000Z,Bloomfield/Bernard--8PQw7kis,2024-07-25,Thursday,00:03,Montreal,207a35d9de6603a273b94a33cc5e6fe0,Bloomfield / Bernard,3,21
+Montreal-89z2tcDF,2024-07-25T06:03:10.190000Z,St-Cyril/Wiseman--nfrhhoAF,2024-07-25,Thursday,00:03,Montreal,25ff9160f5e83d4e9c15806e5f503df3,St-Cyril / Wiseman,17,6
+Montreal-LcTM594w,2024-07-25T06:03:10.192000Z,MétroJean-Talon(Berri/Jean-Talon)--HADpRm6P,2024-07-25,Thursday,00:03,Montreal,9be4ba581c634c13710aea276bade56b,Métro Jean-Talon (Berri / Jean-Talon),2,17
+Montreal-fsiD7ZyB,2024-07-25T06:03:10.697000Z,Dollard/Bernard--mi4i9uhV,2024-07-25,Thursday,00:03,Montreal,658bb3c7434993bc7278b948e197aded,Dollard / Bernard,16,6
+Montreal-OazeJZnw,2024-07-25T05:54:33.864000Z,Dollard/VanHorne--v7CU3vbg,2024-07-25,Thursday,00:03,Montreal,5457af150071eaabeeaae9a5bfd12fe5,Dollard / Van Horne,15,3
+Montreal-zxBIADUg,2024-07-25T05:54:31.704000Z,Graham/Brookfield--69GQ6G7D,2024-07-25,Thursday,00:03,Montreal,638db20afe40bf00a77633fca8ebfee9,Graham / Brookfield,8,15
+Montreal-FvyujDMf,2024-07-25T06:03:06.411000Z,Regina/deVerdun--2wfVQMcL,2024-07-25,Thursday,00:03,Montreal,853715acead028932c2c08ad1a02a20f,Regina / de Verdun,7,12
+Montreal-5wdvy3pb,2024-07-25T06:03:07.193000Z,VictoriaHall--q6nA6hwr,2024-07-25,Thursday,00:03,Montreal,0960bf3c2e9be92bd03fd80c49bf720f,Victoria Hall,7,8
+Montreal-EHga9ZJu,2024-07-25T06:03:07.200000Z,Victoria/deMaisonneuve--9CCUdWPz,2024-07-25,Thursday,00:03,Montreal,6e94d95dad598b7c8fd380e55b289caf,Victoria / de Maisonneuve,13,1
+Montreal-cSiLm2Vx,2024-07-25T06:03:07.236000Z,PlaceLongueuil--6SlvEsRs,2024-07-25,Thursday,00:03,Montreal,2a20aa1c87cc30a2968fe04fe4e5b0df,Place Longueuil,6,9
+Montreal-Ikrc1vkL,2024-07-25T06:03:07.352000Z,ParcBenny(Benny/deMonkland)--CKYOsore,2024-07-25,Thursday,00:03,Montreal,517a5c37755499a8e454d67bcf6b1834,Parc Benny (Benny / de Monkland),21,1
+Montreal-VxnZosHd,2024-07-25T06:03:07.454000Z,Querbes/Laurier--4cGDokU3,2024-07-25,Thursday,00:03,Montreal,c6a91ac9d7ded0182772e4f8ca92f2ef,Querbes / Laurier,6,8
+Montreal-Z811RuBD,2024-07-25T06:03:07.750000Z,Berlioz/del'ÎledesSoeurs--gEFegQSm,2024-07-25,Thursday,00:03,Montreal,c3e33911cfd4f366ea6d4284fd5eb057,Berlioz / de l'Île des Soeurs,17,5
+Montreal-n15Ur6q4,2024-07-25T06:03:07.760000Z,MétroLasalle(deRushbrooke/Caisse)--I919Y4Uq,2024-07-25,Thursday,00:03,Montreal,bf1b9dadf6f48f60249162012d29a06b,Métro Lasalle (de Rushbrooke / Caisse),6,17
+Montreal-1ycwfZHU,2024-07-25T06:03:07.769000Z,PlaceduCommerce--FMpnIjMQ,2024-07-25,Thursday,00:03,Montreal,734e36f9bfc759c9c5b1b9b44a85966e,Place du Commerce,8,25
+Montreal-hZHlxxHX,2024-07-25T06:03:09.065000Z,desOrmeaux/Notre-Dame--O2BDDeFJ,2024-07-25,Thursday,00:03,Montreal,2ac881e707deb129d22c277981b83221,des Ormeaux / Notre-Dame,9,11
+Montreal-hBfNPx8i,2024-07-25T06:03:09.222000Z,LaRonde--HoCgWW54,2024-07-25,Thursday,00:03,Montreal,4c422c0fa82a3c9954a411ba87f52901,La Ronde,4,19
+Montreal-TGxCsEfo,2024-07-25T06:03:09.299000Z,Wilderton/VanHorne--UeRTrr2w,2024-07-25,Thursday,00:03,Montreal,31535dd5ca8ee557209a804807032aff,Wilderton  / Van Horne,20,7
+Montreal-ObSifERl,2024-07-25T06:03:09.313000Z,U.Concordia-CampusLoyola(Sherbrooke/WestBroadway)--RL4wLeYr,2024-07-25,Thursday,00:03,Montreal,dbe6f3be853e1100918aa06b6418eb86,U. Concordia - Campus Loyola (Sherbrooke / West Broadway),14,12
+Montreal-bxw6OSPt,2024-07-25T06:03:11.553000Z,MétroVendôme(deMarlowe/deMaisonneuve)--lyD2X8Jp,2024-07-25,Thursday,00:03,Montreal,bf0edad2c41a84e491bfeaa7cedb3392,Métro Vendôme (de Marlowe / de Maisonneuve),16,13
+Montreal-ckAW6XjC,2024-07-25T05:54:31.093000Z,Paré/MountainSights--OisIaAAG,2024-07-25,Thursday,00:03,Montreal,370c80563082368ae1464ee995801961,Paré / Mountain Sights,8,3
+Montreal-mdEomJ1V,2024-07-25T05:54:31.188000Z,MétroCôte-Ste-Catherine(Beaucourt/delaCôte-Ste-Catherine)--s1dV3SEp,2024-07-25,Thursday,00:03,Montreal,6f14a073d6fabe8288b7861b4c2dde4d,Métro Côte-Ste-Catherine (Beaucourt / de la Côte-Ste-Catherine),11,12
+Montreal-plGcP8eX,2024-07-25T05:54:31.362000Z,delaCôteSt-Antoine/Royal--QqiE160K,2024-07-25,Thursday,00:03,Montreal,39752185bee108a7c529c25dbf2b1ae7,de la Côte St-Antoine / Royal,8,9
+Montreal-devhFgji,2024-07-25T05:54:31.409000Z,deMonkland/Girouard--5c2LcKE9,2024-07-25,Thursday,00:03,Montreal,c48a16100836e81076eece8b635c8828,de Monkland / Girouard,20,5
+Montreal-MZtkzoNE,2024-07-25T05:54:31.800000Z,Quaidelanavettefluviale--JzRHAMzC,2024-07-25,Thursday,00:03,Montreal,d8bf2d80c73cf09dbfd6b7f76d063424,Quai de la navette fluviale,17,2
+Montreal-RYZqQQqb,2024-07-25T05:54:32.878000Z,deLaprairie/Centre--N0TKdhj4,2024-07-25,Thursday,00:03,Montreal,e39b2990521714e01d4fb710f8d264d8,de Laprairie / Centre,10,5
+Montreal-ojsKfuRS,2024-07-25T05:54:32.912000Z,CCIOutremont(Dollard/Ducharme)--JqhjiBUZ,2024-07-25,Thursday,00:03,Montreal,36062f17a7454e3f40f96283ff611cf5,CCI Outremont (Dollard / Ducharme),3,12
+Montreal-fc1uqhAA,2024-07-25T05:54:32.920000Z,ParcBeaubienOutremont(Stuart/St-Viateur)--ECm25noI,2024-07-25,Thursday,00:03,Montreal,8fb4901e0373b487626367a6769c39c8,Parc Beaubien Outremont (Stuart / St-Viateur),9,6
+Montreal-JBtuXyZs,2024-07-25T05:54:33.567000Z,Durocher/Bernard--Zla8qF9b,2024-07-25,Thursday,00:03,Montreal,fccd62f25a7dcb4f43bf9a6a18e805be,Durocher / Bernard,8,7
+Montreal-QMZUlU2v,2024-07-25T05:54:33.843000Z,MétroVerdun(Willibrord/deVerdun)--CARbOuLl,2024-07-25,Thursday,00:03,Montreal,95bece3ee8f3f93d2a2c3fc1b555f5a7,Métro Verdun (Willibrord / de Verdun),1,26
+Montreal-1fO5O3ep,2024-07-25T05:54:33.850000Z,Métrodel'Église(Ross/del'Église)--CMgVa4AZ,2024-07-25,Thursday,00:03,Montreal,e6df3fa7dd1c07040cbfbff79a395015,Métro de l'Église (Ross / de l'Église),2,17
+Montreal-9NwiMdT1,2024-07-25T06:03:06.640000Z,Graham/Wicksteed--aHkBWlbq,2024-07-25,Thursday,00:03,Montreal,85c717da7306440022c12ccb771b0bde,Graham / Wicksteed,12,7
+Montreal-RO1rzMSd,2024-07-25T06:03:07.050000Z,MétroUniversitédeMontréal(Édouard-Montpetit/Louis-Collin)--5BguQtbI,2024-07-25,Thursday,00:03,Montreal,c42929dcdbfe4a38f068a2fdd3da946e,Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),8,16
+Montreal-Zo2qF5yy,2024-07-25T06:03:07.063000Z,Kirkfield/deChambois--UrHdL6hD,2024-07-25,Thursday,00:03,Montreal,1ffa6ec805ef0a7803b86fa6bef5c1af,Kirkfield / de Chambois,17,7
+Montreal-lReK4tVq,2024-07-25T06:03:07.162000Z,MétroLangelier(Langelier/Sherbrooke)--yriklSD8,2024-07-25,Thursday,00:03,Montreal,48358d12d83653f998be0408f938da97,Métro Langelier (Langelier / Sherbrooke),4,14
+Montreal-DTUlMKc7,2024-07-25T06:03:07.605000Z,MétroRadisson(Sherbrooke/desGroseilliers)--69dJWtEF,2024-07-25,Thursday,00:03,Montreal,0c2a4ecc9f51dd227f050651ae2dd6fe,Métro Radisson (Sherbrooke / des Groseilliers),12,7
+Montreal-p5IuutT2,2024-07-25T06:03:08.263000Z,GrandBoulevard/deTerrebonne--9wlRmuJU,2024-07-25,Thursday,00:03,Montreal,7c32f3b5366899daa12d5a2315c5eb5e,Grand Boulevard / de Terrebonne,17,1
+Montreal-gEmj94L1,2024-07-25T06:03:08.496000Z,ArénaRodrigue-Gilbert(duTricentenaire/deMontigny)--ozmztKBY,2024-07-25,Thursday,00:03,Montreal,5f87ab3bfe9c4289033da69a74957d0e,Aréna Rodrigue-Gilbert (du Tricentenaire / de Montigny),6,9
+Montreal-KLRuHqkx,2024-07-25T06:03:08.937000Z,Pierre-de-Coubertin/Langelier--rZUkyDhi,2024-07-25,Thursday,00:03,Montreal,c9e9fe27274a30074192edf2943a819d,Pierre-de-Coubertin / Langelier,5,10
+Montreal-MVGKfJy1,2024-07-25T06:03:09.210000Z,Graham/Kindersley--AZGGbhqn,2024-07-25,Thursday,00:03,Montreal,6ecaf7d11d573ebfe1e6d00703d11552,Graham / Kindersley,3,16
+Montreal-kSHQPl79,2024-07-25T06:03:09.953000Z,Bourgeoys/Favard--xnuuzdMa,2024-07-25,Thursday,00:03,Montreal,df284d02a5abe2ca93e5885f5718f0f0,Bourgeoys / Favard,21,4
+Montreal-0GhxzveK,2024-07-25T06:03:09.969000Z,Michelet/Jean-Talon--MqwuO7OX,2024-07-25,Thursday,00:03,Montreal,a4587d02411ea6ab69af7d1d5f8fa987,Michelet / Jean-Talon,4,18
+Montreal-eEoZazAu,2024-07-25T06:03:10.218000Z,CentreÉPIC(St-Zotique/40eavenue)--X93lasal,2024-07-25,Thursday,00:03,Montreal,1f96d87b02f5ddf8831c2d5f2473b0a8,Centre ÉPIC (St-Zotique / 40e avenue),12,10
+Montreal-lT1yrXgX,2024-07-25T06:03:10.285000Z,Grey/Sherbrooke--C3Ny773V,2024-07-25,Thursday,00:03,Montreal,523850c4d0985de08981251a3b2fd36a,Grey / Sherbrooke,9,3
+Montreal-nBtZIVIv,2024-07-25T06:03:10.288000Z,Bélanger/desGaleriesd'Anjou--CzD9gCWu,2024-07-25,Thursday,00:03,Montreal,9575da078eee4b025a4c319fc2347b0d,Bélanger / des Galeries d'Anjou,10,8
+Montreal-dTLln5o6,2024-07-25T06:03:10.384000Z,MétroAssomption(Chauveau/del'Assomption)--cW7dbX0t,2024-07-25,Thursday,00:03,Montreal,2032711148d8591691b99033ef8cb1c8,Métro Assomption (Chauveau / de l'Assomption),12,9
+Montreal-xrMULx0J,2024-07-25T05:54:31.725000Z,del'Église/deVerdun--wZ3W82Ux,2024-07-25,Thursday,00:03,Montreal,a5ee89a51582e9fef1d0598a74d5401d,de l'Église / de Verdun,8,11
+Montreal-HBgUAh3m,2024-07-25T05:54:31.728000Z,Argyle/deVerdun--0kLwNIAg,2024-07-25,Thursday,00:03,Montreal,83002097940dd96fa20d8df45c2835fc,Argyle / de Verdun,18,4
+Montreal-GDSz3UBW,2024-07-25T05:54:32.155000Z,St-Joseph/8eavenueLachine--gLsKQB2I,2024-07-25,Thursday,00:03,Montreal,9f499059b795e09782c2fca675a5e382,St-Joseph / 8e avenue Lachine,15,12
+Montreal-Y4CTdX47,2024-07-25T05:54:32.161000Z,8eavenue/Notre-DameLachine--ePucn6Fg,2024-07-25,Thursday,00:03,Montreal,8a258ed78afb57f3980301e5f4272f4e,8e avenue / Notre-Dame Lachine,7,12
+Montreal-gO4LpoBV,2024-07-25T05:54:32.180000Z,ParcSt-Louis(St-Joseph/34eavenue)--6gN8AFLE,2024-07-25,Thursday,00:03,Montreal,efd89dd6cc7db7e7ea67a4ccb75372a1,Parc St-Louis (St-Joseph / 34e avenue),16,7
+Montreal-qfo9JxL2,2024-07-25T05:54:32.196000Z,Victoria/18eavenueLachine--sTGZajRT,2024-07-25,Thursday,00:03,Montreal,4e1cd6aa776d6e4078886c39f454b29f,Victoria / 18e avenue Lachine,5,8
+Montreal-C5AvYUlf,2024-07-25T05:54:34.764000Z,St-JosephLachine/21eavenue--ybEUEZ8f,2024-07-25,Thursday,00:03,Montreal,f637d93e69b10a014aa14b90626113fb,St-Joseph Lachine / 21e avenue,18,1
+Montreal-UbPKkgJM,2024-07-25T05:54:32.245000Z,delaVérendrye/75eavenue--HS3gCgs6,2024-07-25,Thursday,00:03,Montreal,95f3d2a11576645b02bba246ee638c70,de la Vérendrye / 75e avenue,7,12
+Montreal-KUiJA0BF,2024-07-25T05:54:32.253000Z,Mairied'arrondissementLaSalle(Dupras/Jeannette)--nrl0aoav,2024-07-25,Thursday,00:03,Montreal,37ce10146483055c24d0d49bddc32c5d,Mairie d'arrondissement LaSalle (Dupras / Jeannette),6,5
+Montreal-4XlXCg98,2024-07-25T05:54:32.258000Z,ParcLacharité(Latour/Forget)--tfYhRG1Y,2024-07-25,Thursday,00:03,Montreal,667794df885562752e3112b7c43ac609,Parc Lacharité (Latour / Forget),8,11
+Montreal-Bc5lWf4M,2024-07-25T05:54:35.062000Z,Newman/Senkus--3uWJXnIV,2024-07-25,Thursday,00:03,Montreal,4e0a2eec48ee705304b2799cff6fc240,Newman / Senkus,12,6
+Montreal-CuLGqdq5,2024-07-25T05:54:32.286000Z,LaSalle/Crawford--9mzcUA38,2024-07-25,Thursday,00:03,Montreal,bf77b109a6eff9c654508ba2d20ffb12,LaSalle / Crawford,6,5
+Montreal-fJlIbnUZ,2024-07-25T05:54:32.291000Z,MétroJolicoeur(deSève/Drake)--Rdw3vfq0,2024-07-25,Thursday,00:03,Montreal,d9fdeeb4d94f016bff5cd776466d6a30,Métro Jolicoeur (de Sève / Drake),2,17
+Montreal-HWP77FwI,2024-07-25T05:54:32.302000Z,Beatty/deVerdun--82N3VbQK,2024-07-25,Thursday,00:03,Montreal,c799ff1b7971723fea262952f298e8af,Beatty / de Verdun,14,7
+Montreal-12ZgH4Zv,2024-07-25T05:54:34.303000Z,ParcdeDieppe--xmovErqX,2024-07-25,Thursday,00:03,Montreal,ac023980748426fdbb7ea233b5043dc6,Parc de Dieppe,12,6
+Montreal-9hFIsYff,2024-07-25T05:54:34.323000Z,Jogues/Allard--pmuBKoD5,2024-07-25,Thursday,00:03,Montreal,1ab036620d1ba6d8e205d99b44ef1a5b,Jogues / Allard,14,5
+Montreal-EzZKC2a8,2024-07-25T05:54:34.338000Z,Ropery/Augustin-Cantin--vwB3AQsN,2024-07-25,Thursday,00:03,Montreal,d3b6f3327b6e20c1b95cef748885233c,Ropery / Augustin-Cantin,6,15
+Montreal-Dk8KfKsN,2024-07-25T05:54:34.811000Z,Gagne/LaSalle--xi1FapQQ,2024-07-25,Thursday,00:03,Montreal,8816abf99dad433ee5a7dfd43eb9e7b4,Gagne / LaSalle,5,13
+Montreal-Enmj8FB7,2024-07-25T05:54:35.024000Z,LaSalle/37eavenue--2iXShnal,2024-07-25,Thursday,00:03,Montreal,2de477065bed58974606e104a8906429,LaSalle / 37e avenue,4,15
+Montreal-VBBbCjvS,2024-07-25T05:54:35.108000Z,Fortune/Wellington--HriDobzW,2024-07-25,Thursday,00:03,Montreal,cc60da52525500f1d3b637b7b988705f,Fortune / Wellington,24,3
+Montreal-yDVfT5eZ,2024-07-25T05:54:35.219000Z,DuQuesne/deMarseille--CAn2tNEE,2024-07-25,Thursday,00:03,Montreal,2dbff1ebbfc94016ae35ddfeb6133850,Du Quesne / de Marseille,6,16
+Montreal-plfqMnFO,2024-07-25T05:54:35.257000Z,MétroCadillac(Cadillac/Sherbrooke)--t7AhLKoj,2024-07-25,Thursday,00:03,Montreal,392420a4d81c444ab82f2c51172413a5,Métro Cadillac (Cadillac / Sherbrooke),6,13
+Montreal-G2QfXnPk,2024-07-25T06:03:06.600000Z,ParcLoyola(Doherty/Somerled)--73ai12to,2024-07-25,Thursday,00:03,Montreal,06e8e2c218b3554dddcbe40d6646b472,Parc Loyola (Doherty / Somerled),10,9
+Montreal-sgpHa98f,2024-07-25T06:03:07.587000Z,MétroHonoré-Beaugrand(Sherbrooke/Honoré-Beaugrand)--xM4JGetC,2024-07-25,Thursday,00:03,Montreal,82f49b8988992baa16b26be90036cc48,Métro Honoré-Beaugrand (Sherbrooke / Honoré-Beaugrand),10,12
+Montreal-qD9SUN8P,2024-07-25T06:03:07.633000Z,Ste-Claire/Pierre-Tétreault--iUI3W0Pa,2024-07-25,Thursday,00:03,Montreal,1082604365572209e09718f6690249b1,Ste-Claire / Pierre-Tétreault,5,10
+Montreal-SRhtrtsa,2024-07-25T06:03:07.658000Z,ParcFélix-Leclerc(François-Boivin/St-Zotique)--Hbe84B3O,2024-07-25,Thursday,00:03,Montreal,27664eb30b56774476616bd5f1ddc0de,Parc Félix-Leclerc (François-Boivin / St-Zotique),4,8
+Montreal-9ZIMO3br,2024-07-25T05:54:32.823000Z,Duchesneau/deMarseille--hozcVxWX,2024-07-25,Thursday,00:03,Montreal,ab865ab695ca69089498736e6bac9a16,Duchesneau / de Marseille,6,10
+Montreal-66SikdOq,2024-07-25T06:03:09.414000Z,ParcMacDonald(Clanranald/Isabella)--iFk6nMA1,2024-07-25,Thursday,00:03,Montreal,99225e1b15b81b48a3eab08fd447ecca,Parc MacDonald (Clanranald / Isabella),12,2
+Montreal-fE9zThK5,2024-07-25T06:03:09.425000Z,Parcnaturedel'Île-de-la-Visitation(Gouin/deBruchési)--STXZ4Ntf,2024-07-25,Thursday,00:03,Montreal,114edd30245c9b7ae8dedcc2d22fc398,Parc nature de l'Île-de-la-Visitation (Gouin / de Bruchési),14,5
+Montreal-CObJ2NR5,2024-07-25T06:03:09.459000Z,ParcGeorgesSt-Pierre(Oxford/UpperLachine)--6R4fYpGK,2024-07-25,Thursday,00:03,Montreal,cf89ce8fe2aafb11df3c7a2262e6013e,Parc Georges St-Pierre (Oxford / Upper Lachine),13,5
+Montreal-yGciquE0,2024-07-25T06:03:09.466000Z,ParcdelaConfédération(Fielding/WestHill)--q11yoiFE,2024-07-25,Thursday,00:03,Montreal,9f8b5a5097e54b755691624a27a320a0,Parc de la Confédération (Fielding / West Hill),16,5
+Montreal-tbp2Q1SW,2024-07-25T06:03:10.493000Z,MétroduCollège(Cartier/Décarie)--4DxWS62e,2024-07-25,Thursday,00:03,Montreal,88cb58243c5bb76b6a8f796ec76f7594,Métro du Collège (Cartier / Décarie),0,16
+Montreal-x3V8VeJL,2024-07-25T06:03:10.688000Z,desRécollets/Martial--N7oGnAc5,2024-07-25,Thursday,00:03,Montreal,ce07562033e4ecc1a2ed18864bc3e612,des Récollets / Martial,9,7
+Montreal-djT54Tx7,2024-07-25T06:03:10.681000Z,41eavenue/Rosemont--KJE3iofn,2024-07-25,Thursday,00:03,Montreal,d5f8970c51111a8acd3612e60a278f47,41e avenue / Rosemont,13,4
+Montreal-cgTa7o3V,2024-07-25T06:03:10.848000Z,Notre-Dame-de-Grâce/Westmount--h5r2u6Mk,2024-07-25,Thursday,00:03,Montreal,25db3ab71ecaf5dc56f934c637c1a542,Notre-Dame-de-Grâce / Westmount,13,2
+Montreal-6w8bQjS0,2024-07-25T06:03:11.660000Z,Elgar/del'Île-des-Sœurs--oQdxyz5t,2024-07-25,Thursday,00:03,Montreal,6866c654a6dbffa8186d1495a5ebea63,Elgar / de l'Île-des-Sœurs,8,4
+Montreal-I733WAUy,2024-07-25T06:03:11.713000Z,Plymouth/Chem.Eden--NegOw1TA,2024-07-25,Thursday,00:03,Montreal,cd185bcb977059337ef71026ca9f75bf,Plymouth / Chem.Eden,5,8
+Montreal-XPar1WRC,2024-07-25T06:03:11.737000Z,ParcFerland(Belleherbe/Albanel)--oYIcZdXd,2024-07-25,Thursday,00:03,Montreal,1e2c0e04e52f776287eed225a5a2382a,Parc Ferland (Belleherbe / Albanel),0,12
+Montreal-jUYlEdBd,2024-07-25T06:03:11.751000Z,deLisieux/Jean-Talon--8Bs895YP,2024-07-25,Thursday,00:03,Montreal,01f9b7e63833ad61e80a7963e2ad9b25,de Lisieux / Jean-Talon,14,3
+Montreal-hqYYExIx,2024-07-25T06:03:11.766000Z,O'Brien/Poirier--D8akTG0A,2024-07-25,Thursday,00:03,Montreal,2203b1d78848ffe20d0ed9d29d7dce2e,O'Brien / Poirier,10,10
+Montreal-3OU3yWkS,2024-07-25T06:03:11.793000Z,deMaisonneuve/Wood--fmm7uV9i,2024-07-25,Thursday,00:03,Montreal,ffb74f094efc5f559700c6b2431da637,de Maisonneuve / Wood,4,14
+Montreal-QHCCvxU9,2024-07-25T06:03:11.822000Z,Thimens/Alexis-Nihon--YvFAUNz1,2024-07-25,Thursday,00:03,Montreal,f6b224af771e55d8ded0206097c994c0,Thimens / Alexis-Nihon,4,5
+Montreal-PNPsAqlO,2024-07-25T06:03:11.876000Z,ParcVanHorne(delaPeltrie/deWestbury)--djCiSXaG,2024-07-25,Thursday,00:03,Montreal,ce9dbfc9842d2eff631cf5898df68683,Parc Van Horne (de la Peltrie / de Westbury),10,4
+Montreal-S07rfiU0,2024-07-25T06:03:11.885000Z,HôpitalSacré-Coeur(Forbes)--Ct48fLn8,2024-07-25,Thursday,00:03,Montreal,389a103b106275a594cb7caafbf34e27,Hôpital Sacré-Coeur (Forbes),2,9
+Montreal-GGeENfW5,2024-07-25T06:03:11.903000Z,ParcdeBeauséjour(Gouin/Henri-d'Arles)--OfR2y3Dp,2024-07-25,Thursday,00:03,Montreal,7bd0327716a2b7b7ea04361e80d53423,Parc de Beauséjour (Gouin / Henri-d'Arles),10,9
+Montreal-I9ftKYhl,2024-07-25T05:54:32.837000Z,Liébert/Hochelaga--QYc3PmWx,2024-07-25,Thursday,00:03,Montreal,765d7ab045b2fb1beb8a1034fb01171a,Liébert / Hochelaga,17,0
+Montreal-eviSACKH,2024-07-25T05:54:33.310000Z,LaSalle/Godin--t360nWvf,2024-07-25,Thursday,00:03,Montreal,c91d47b7a498fe1a3016800f0678f419,LaSalle / Godin,18,8
+Montreal-ZFl8AEOX,2024-07-25T05:54:33.323000Z,Argyle/Bannantyne--xYGtWx4R,2024-07-25,Thursday,00:03,Montreal,62f2158455e02b627217bff86692c592,Argyle / Bannantyne,6,9
+Montreal-USgqJrdG,2024-07-25T06:03:06.511000Z,ParcCourbertin(Valéry/Perrier)--FhffJ2Pd,2024-07-25,Thursday,00:03,Montreal,bab144d31daa205b40397f6c7b46930a,Parc Courbertin (Valéry / Perrier),13,5
+Montreal-zVWmR7Hb,2024-07-25T06:03:06.539000Z,CégepAndré-Laurendeau(Lapierre)--d3dRwqi9,2024-07-25,Thursday,00:03,Montreal,352adb5a53498de53161649383b7d10f,Cégep André-Laurendeau (Lapierre),27,2
+Montreal-RjrL8aVp,2024-07-25T06:03:06.552000Z,duMarchéCentral/Crémazie--fmEXbY25,2024-07-25,Thursday,00:03,Montreal,4863e13ad31f9c44326032df3c09519b,du Marché Central / Crémazie,2,13
+Montreal-wwN5VsSy,2024-07-25T06:03:06.560000Z,ParcMarlborough(Beauzèle/Robichaud)--EmJCCVlj,2024-07-25,Thursday,00:03,Montreal,83d02cd8a043b8305a4031063005d32e,Parc Marlborough (Beauzèle / Robichaud),11,4
+Montreal-bQe2D2lC,2024-07-25T06:03:06.578000Z,Champdoré/deLorimier--bwJfM5KK,2024-07-25,Thursday,00:03,Montreal,888e6052f1aebab8d8a527776b3499b6,Champdoré / de Lorimier,10,5
+Montreal-WBgNNckw,2024-07-25T06:03:06.619000Z,Beurling/Godin--P2rLe9y5,2024-07-25,Thursday,00:03,Montreal,f3e8bbaffc3930bc19681467b42595cf,Beurling / Godin,9,9
+Montreal-qQzDDFeA,2024-07-25T06:03:07.898000Z,Dixie/54eavenue--fIrdCleY,2024-07-25,Thursday,00:03,Montreal,f2498d8d29d546f48e46b3b783f5d07e,Dixie / 54e avenue,6,13
+Montreal-BQ1tinUc,2024-07-25T06:03:07.958000Z,StationnementincitatifdeMontarville(deMontarville)--5dir085Q,2024-07-25,Thursday,00:03,Montreal,3164e04d211736d6dfc9eedf75212e3b,Stationnement incitatif de Montarville (de Montarville),7,12
+Montreal-LIZ6MX27,2024-07-25T06:03:08.672000Z,Laird/Glencoe--jBUxUKRG,2024-07-25,Thursday,00:03,Montreal,3bd58a7f78129d50b6cb591e8c09e7ec,Laird / Glencoe,2,13
+Montreal-xwWIu6cf,2024-07-25T06:03:09.373000Z,ParcLabelle(LaSalle/Henri-Duhamel)--wrgYJOxM,2024-07-25,Thursday,00:03,Montreal,d45cc49cea4480b9116b1363dcc5355d,Parc Labelle (LaSalle / Henri-Duhamel),13,6
+Montreal-iLJ3A2UO,2024-07-25T06:03:09.385000Z,Souligny/Desmarteau--v4UGWoCD,2024-07-25,Thursday,00:03,Montreal,576e0d3e08c4c2a9ec39b3228ac9b91e,Souligny / Desmarteau,13,0
+Montreal-1j57MJmr,2024-07-25T06:03:09.398000Z,desOrmeaux/deGrosbois--WpGnGcvH,2024-07-25,Thursday,00:03,Montreal,bfbe27bd89264f5821d6d0c7f0d2e765,des Ormeaux / de Grosbois,6,9
+Montreal-9sDlEO9c,2024-07-25T06:03:09.421000Z,ParcReine-Élizabeth(Penniston/Crawford)--T4UOf2pU,2024-07-25,Thursday,00:03,Montreal,3dee6dd50b00ebe97be68a34fa0c1590,Parc Reine-Élizabeth (Penniston / Crawford),7,6
+Montreal-vvTKkqMs,2024-07-25T06:03:09.808000Z,Parcd'Antioche(Placed'Antioche/St-Zotique)--UHGccnNJ,2024-07-25,Thursday,00:03,Montreal,5e4cc24a6bea5e106ac0ca40faaa7e69,Parc d'Antioche (Place d'Antioche / St-Zotique),3,15
+Montreal-gdMQjWbx,2024-07-25T06:03:10.813000Z,Parcdel'Hôtel-de-Ville(Ste-Julie/Laurendeau)--F1V1ihGF,2024-07-25,Thursday,00:03,Montreal,b73710100fe1a3264b69eb01257177ec,Parc de l'Hôtel-de-Ville (Ste-Julie / Laurendeau),11,6
+Montreal-vT5N5S4I,2024-07-25T06:03:10.832000Z,CentrerécréatifÉdouard-Rivet(Notre-Dame/Lesage)--EojsvlVH,2024-07-25,Thursday,00:03,Montreal,1f663a5fe8a59077b3b1acef1408dbf2,Centre récréatif Édouard-Rivet (Notre-Dame / Lesage),12,3
+Montreal-BCoBvTmN,2024-07-25T06:03:10.841000Z,ParcdeMontréal-Est(Notre-Dame/David)--f9NKMK7P,2024-07-25,Thursday,00:03,Montreal,02e0f09887bab2491c3cf2e6d0b477e4,Parc de Montréal-Est (Notre-Dame / David),17,1
+Montreal-1JPLhn23,2024-07-25T06:03:10.977000Z,CHUSte-Justine(delaCôteSte-Catherine/Hudson)--fuMOlffv,2024-07-25,Thursday,00:03,Montreal,13644fc87d5bae7c6738fba71a62d02c,CHU Ste-Justine (de la Côte Ste-Catherine / Hudson),9,26
+Montreal-wZ4J1SYf,2024-07-25T06:03:11.870000Z,CégepMarie-Victorin--BoE6abmp,2024-07-25,Thursday,00:03,Montreal,72bfd647b3d2b650546f42319729757d,Cégep Marie-Victorin,8,2
+Montreal-ep5gdVg6,2024-07-25T05:54:31.243000Z,ParcdesVétérans(desVétérans/Broadway)--BofvWw45,2024-07-25,Thursday,00:03,Montreal,b403b750b260047ba702ad1b98fae6ac,Parc des Vétérans (des Vétérans / Broadway),9,0
+Montreal-CpoHZaIw,2024-07-25T05:54:31.612000Z,BibliothèqueJean-Corbeil(Goncourt/PlaceMontrichard)--L9ELYX8d,2024-07-25,Thursday,00:03,Montreal,10a32e00bc65e9fb33eef10d6e3e75e9,Bibliothèque Jean-Corbeil (Goncourt / Place Montrichard),7,3
+Montreal-FtBAjsiO,2024-07-25T05:54:31.626000Z,ArénaChaumont(Chaumont/desOrmeaux)--ZQU8ZoIs,2024-07-25,Thursday,00:03,Montreal,79817ddade43d27901df8f29feaebc39,Aréna Chaumont (Chaumont / des Ormeaux),11,8
+Montreal-Gp7QJGPW,2024-07-25T05:54:31.893000Z,deCôme/Jean-Talon--NtuzTupG,2024-07-25,Thursday,00:03,Montreal,1f75c2bd5876aa50df724147f470784c,de Côme / Jean-Talon,4,11
+Montreal-vr60BbWz,2024-07-25T05:54:31.915000Z,Lapierre/Serge--eR54NFU1,2024-07-25,Thursday,00:03,Montreal,d0fc3a82ee0af511ffda9618f1263b84,Lapierre / Serge,1,14
+Montreal-9V6UAUrp,2024-07-25T05:54:33.002000Z,Centredesloisirs(Tassé/Grenet)--LIVTVZl9,2024-07-25,Thursday,00:03,Montreal,fddada5adc997290212b3f540c017274,Centre des loisirs (Tassé / Grenet),4,9
+Montreal-BczWRMLu,2024-07-25T05:54:33.010000Z,AteliersmunicipauxdeSt-Laurent(Cavendish/Poirier)--VGUfXRgC,2024-07-25,Thursday,00:03,Montreal,8db822a266b5ccb3a1e323ddc8721d62,Ateliers municipaux de St-Laurent (Cavendish / Poirier),6,11
+Montreal-BavvpanF,2024-07-25T05:54:34.261000Z,Langelier/Marie-Victorin--dKoHHfP4,2024-07-25,Thursday,00:03,Montreal,76724952c28f4094bc271838f3de2bcf,Langelier / Marie-Victorin,8,7
+Montreal-Lrwg6qdB,2024-07-25T05:54:34.274000Z,TravauxpublicsLaSalle(Cordner/Léger)--c5Hl7ExM,2024-07-25,Thursday,00:03,Montreal,ab80e2f4c922bcac89121cb2d46a0ee4,Travaux publics LaSalle (Cordner / Léger),6,8
+Montreal-sqQh4WJn,2024-07-25T05:54:34.521000Z,St-Antoine/19eavenue--5q7Xa54R,2024-07-25,Thursday,00:03,Montreal,4bc7ec27e8646cc8b33932be911bef47,St-Antoine / 19e avenue,9,5
+Montreal-n03pelqv,2024-07-25T05:54:34.551000Z,duCanal/McLaughlin--7VpOAzjr,2024-07-25,Thursday,00:03,Montreal,f065f00d09ed459c5d9a0076383dc3e0,du Canal / McLaughlin,11,12
+Montreal-9Sf7uuvT,2024-07-25T05:54:34.560000Z,ParcSauvé(Balzac/deBayonne)--AuYDvWj8,2024-07-25,Thursday,00:03,Montreal,83d07a416ce0edf43f1cda66480ea525,Parc Sauvé (Balzac / de Bayonne),8,6
+Montreal-3CU9mC0C,2024-07-25T06:03:07.922000Z,delaCôte-Ste-Catherine/Decelles--DsusbMmW,2024-07-25,Thursday,00:03,Montreal,2ce53a590d5af666dc9c4af17eb4f1f5,de la Côte-Ste-Catherine / Decelles,14,2
+Montreal-GzcGy87Z,2024-07-25T06:03:07.941000Z,ParcErnest-Rouleau(Gouin)--7BbArBao,2024-07-25,Thursday,00:03,Montreal,e71036c3bdeb0765305e4bb03bf53127,Parc Ernest-Rouleau (Gouin),10,8
+Montreal-0vfTLqza,2024-07-25T05:54:34.190000Z,StationnementincitatifdeMortagne(Ampère)--ygIQdx3I,2024-07-25,Thursday,00:03,Montreal,7bedad3f528849a1cc130a3a0ad67f35,Stationnement incitatif de Mortagne (Ampère),10,12
+Montreal-je3xIMqd,2024-07-25T06:03:07.964000Z,QuaiYvon-Julien(Marie-Victorin/deMontarville)--XLNaotJZ,2024-07-25,Thursday,00:03,Montreal,741db2af6fcc3e2144a41caa2918f1dd,Quai Yvon-Julien (Marie-Victorin / de Montarville),0,21
+Montreal-mzJctHJu,2024-07-25T06:03:08.665000Z,ParcSt-Laurent(Salk/Thomas-Chapais)--ytxWRWXm,2024-07-25,Thursday,00:03,Montreal,23f1b244e618444f565f402a81c585d6,Parc St-Laurent (Salk / Thomas-Chapais),5,12
+Montreal-Aqg92CHI,2024-07-25T05:54:34.202000Z,ParcAimé-Léonard(Gouin/Ste-Gertrude)--G1XlzmoN,2024-07-25,Thursday,00:03,Montreal,cabbcb2310a23cb9394df1d78a9b0fc2,Parc Aimé-Léonard (Gouin / Ste-Gertrude),13,4
+Montreal-XCOzvnZF,2024-07-25T06:03:09.921000Z,St-Timothée/Robin--VM5w9MKA,2024-07-25,Thursday,00:03,Montreal,183d71b897d5f38425ccbf45247818c4,St-Timothée / Robin,16,6
+Montreal-Q2saPCok,2024-07-25T06:03:10.898000Z,CarrefourAngrignon(Angrignon/Newman)--31fSxOXI,2024-07-25,Thursday,00:03,Montreal,0bfb7384b255c89b94b68ee5f227a792,Carrefour Angrignon (Angrignon / Newman),4,12
+Montreal-8WSOHN4r,2024-07-25T06:03:10.921000Z,GareLaSalle(Highlands)--FLG1e7Bx,2024-07-25,Thursday,00:03,Montreal,4fe6b12b4792320f5835327e055c9a92,Gare LaSalle (Highlands),11,8
+Montreal-ye9rifu5,2024-07-25T05:54:31.196000Z,Mairied'arrondissementMontréal-Nord(Hébert/deCharleroi)--Ku9al3BX,2024-07-25,Thursday,00:03,Montreal,3557bec6e2c20690d2c912e713edad35,Mairie d'arrondissement Montréal-Nord (Hébert / de Charleroi),11,7
+Montreal-ACMG97wE,2024-07-25T05:54:33.787000Z,ParcBeaulac(rueÉlizabeth)--y9oplOI1,2024-07-25,Thursday,00:03,Montreal,b43e650c8729a68e3a7858fbfbe57cbf,Parc Beaulac (rue Élizabeth),1,13
+Montreal-Qmeha9Sl,2024-07-25T06:03:11.424000Z,ParcStoney-Point(St-Joseph/47eavenue)--OeVU8udW,2024-07-25,Thursday,00:03,Montreal,cebdd81cd194840f09e6c07f1f7198a4,Parc Stoney-Point (St-Joseph / 47e avenue),4,15
+Montreal-1qZgJ8ow,2024-07-25T06:03:11.445000Z,ParcLaSalle(10eavenue/Victoria)--aZ5Rvjib,2024-07-25,Thursday,00:03,Montreal,0217b73736addb107209816f03000a18,Parc LaSalle (10e avenue / Victoria),4,14
+Montreal-rRvhXjyU,2024-07-25T05:54:31.280000Z,ParcOttawa(deBelleville/Fleury)--I8j5vz2K,2024-07-25,Thursday,00:03,Montreal,d5689456bbada11a02e0a17b675f2544,Parc Ottawa (de Belleville / Fleury),8,6
+Montreal-M0dQo6on,2024-07-25T05:54:31.528000Z,ParcNoel-Nord(Toupin/Keller)--wW56XbTr,2024-07-25,Thursday,00:03,Montreal,4cb50bc7e3ed79928cef296e135b1e84,Parc Noel-Nord (Toupin / Keller),10,5
+Montreal-va1i9kdj,2024-07-25T05:54:31.535000Z,ParcduBois-Franc(del'Équateur/desAndes)--yCj1FVCx,2024-07-25,Thursday,00:03,Montreal,a44871a432bc65d33bfb1ed04dab02ca,Parc du Bois-Franc (de l'Équateur / des Andes),0,1
+Montreal-zvsqX3Ku,2024-07-25T05:54:31.552000Z,ParcGrovehill(St-Antoine/Ivan-Franko)--OzZE9AVW,2024-07-25,Thursday,00:03,Montreal,7b71605bd83572e8804e860f434f1055,Parc Grovehill (St-Antoine / Ivan-Franko),3,12
+Montreal-7uU5Kok5,2024-07-25T05:54:31.641000Z,ParcChamberland(Dorais/del'Église)--IbxY3Zaf,2024-07-25,Thursday,00:03,Montreal,a75f61cc35fc749366c8e6ef816fb8a0,Parc Chamberland (Dorais / de l'Église),9,8
+Montreal-n3WJsk3C,2024-07-25T05:54:31.681000Z,ParcSummerlea(53eavenue/St-Joseph)--TqI9pjfD,2024-07-25,Thursday,00:03,Montreal,abd3530a2acf6d587950005b613d40cb,Parc Summerlea (53e avenue / St-Joseph),2,13
+Montreal-U4dsZhz2,2024-07-25T05:54:31.686000Z,ParcKirkland(desÉrables/Boyer)--TudWzUp6,2024-07-25,Thursday,00:03,Montreal,b77888871c6837a551022c5c739042ac,Parc Kirkland (des Érables / Boyer),9,5
+Montreal-w9uuyimk,2024-07-25T05:54:32.589000Z,deMortagne/Jean-Neveu--DTONDPlr,2024-07-25,Thursday,00:03,Montreal,58bc069d3319c0c45a22b8a5c0ee3e81,de Mortagne / Jean-Neveu,3,14
+Montreal-n6Cbnk4I,2024-07-25T05:54:32.604000Z,HôpitalPierre-Boucher(Jacques-Cartier/Bourdon)--28ctqFlO,2024-07-25,Thursday,00:03,Montreal,fb88f8d82067a1df86928727c6fadfc0,Hôpital Pierre-Boucher (Jacques-Cartier / Bourdon),12,7
+Montreal-A0IUfSWL,2024-07-25T05:54:32.612000Z,deMortagne/deMontarville--hZQK20nV,2024-07-25,Thursday,00:03,Montreal,832860f26bd8716c883200eb861e3ab7,de Mortagne / de Montarville,8,11
+Montreal-ORdlwlye,2024-07-25T05:54:32.630000Z,Irwin/Allard--9DISQUaf,2024-07-25,Thursday,00:03,Montreal,92252d871abdc921fc8db0a357e3c30b,Irwin / Allard,10,5
+Montreal-HmjFZy49,2024-07-25T05:54:32.640000Z,duFortSaint-Louis/delaPerrière--GYDELl4H,2024-07-25,Thursday,00:03,Montreal,00c84f03ca5970eaa144ed6867d1e2b9,du Fort Saint-Louis / de la Perrière,13,0
+Montreal-pT0uw42R,2024-07-25T05:54:32.867000Z,ParcOlympique(Pie-IX/Sherbrooke)--iEPWW2I8,2024-07-25,Thursday,00:03,Montreal,faf37dc745f8802b34a0c53f2f55a079,Parc Olympique (Pie-IX / Sherbrooke),1,23
+Montreal-emfwXBP0,2024-07-25T05:54:32.886000Z,LaSalle/90eavenue--weHDJLhe,2024-07-25,Thursday,00:03,Montreal,da5f7ede0484d9eb36444471bdba6827,LaSalle / 90e avenue,5,10
+Montreal-BYOAi7sn,2024-07-25T05:54:32.915000Z,HEC(Decelles/Jean-Brillant)--1KQDpIY6,2024-07-25,Thursday,00:03,Montreal,d91563f1329dacd26318b07d7242afdf,HEC (Decelles / Jean-Brillant),11,9
+Montreal-q7sCKdbG,2024-07-25T05:54:33.684000Z,HôpitalSantaCabrini(dePontoise/d'Évreux)--gBzCRIJU,2024-07-25,Thursday,00:03,Montreal,20f7dc366cab76a84531b65e16252f5b,Hôpital Santa Cabrini (de Pontoise / d'Évreux),9,6
+Montreal-017NRCLn,2024-07-25T05:54:33.810000Z,ParcSt-Laurent(Dutrisac)--vfSJHkIi,2024-07-25,Thursday,00:03,Montreal,5b9ad55443ed6b09dfdee5336b56b41b,Parc St-Laurent (Dutrisac),4,10
+Montreal-17ezTpGC,2024-07-25T05:54:34.112000Z,ParcEusèbe-Ménard(Gouin/St-Vital)--aYC5gjQe,2024-07-25,Thursday,00:03,Montreal,26141dc97cf91e1003a500841cc56b6c,Parc Eusèbe-Ménard (Gouin / St-Vital),11,4
+Montreal-mS56TbFS,2024-07-25T05:54:34.140000Z,IUSMM(Georges-Villeneuve)--9RZd7SFD,2024-07-25,Thursday,00:03,Montreal,fccc47cfce1447df0ad26a52c8702dd6,IUSMM (Georges-Villeneuve),16,1
+Montreal-UiCOyj46,2024-07-25T06:03:06.516000Z,ParcGaribaldi(Liénart/Bélanger)--6QrXQFju,2024-07-25,Thursday,00:03,Montreal,a1ded48e42e6fb03da399602be3aab17,Parc Garibaldi (Liénart / Bélanger),5,7
+Montreal-GG7clAjn,2024-07-25T06:03:07.902000Z,SquareNelligan(desAppalaches/Alexis-Nihon)--NINjciRj,2024-07-25,Thursday,00:03,Montreal,8326ad85524fa7fa9e741b0cc595d098,Square Nelligan (des Appalaches / Alexis-Nihon),2,13
+Montreal-ZYLF8MvA,2024-07-25T05:54:33.997000Z,ParcHonoré-Mercier(Notre-Dame/Liébert)--lthiIGJC,2024-07-25,Thursday,00:03,Montreal,27064168fabfe462923c7d8fe7021aa6,Parc Honoré-Mercier (Notre-Dame / Liébert),7,19
+Montreal-JEUtyZDh,2024-07-25T06:03:07.933000Z,HôpitalGénéralJuif(delaCôte-Ste-Catherine/Légaré)--bKnq3XcO,2024-07-25,Thursday,00:03,Montreal,03b603c4b20174089f79116554c9c199,Hôpital Général Juif (de la Côte-Ste-Catherine / Légaré),11,13
+Montreal-xJt4n4VC,2024-07-25T06:03:07.949000Z,ParcCharleroi(Alfred/Louis-Francoeur)--qYAyqYpK,2024-07-25,Thursday,00:03,Montreal,33a2455e6803dd9aa77a4090dfae83f8,Parc Charleroi (Alfred / Louis-Francoeur),4,11
+Montreal-PnFQhZv3,2024-07-25T06:03:08.111000Z,ParcHébert(Colbert/Provencher)--zIkIv4dY,2024-07-25,Thursday,00:03,Montreal,b8d3de5b902c4b274f7fffee62009ef9,Parc Hébert (Colbert / Provencher),7,6
+Montreal-2xPwlGZg,2024-07-25T06:03:09.192000Z,MétroÉdouard-Montpetit(duMont-Royal/Vincent-d'Indy)--wNi0rUsR,2024-07-25,Thursday,00:03,Montreal,d68c60c044800e509408d2a6b712af2c,Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),9,17
+Montreal-sT35X9vO,2024-07-25T06:03:09.259000Z,Mairied'arrondissementSt-Laurent(Beaudet/Marcel-Laurin)--ylQzezs9,2024-07-25,Thursday,00:03,Montreal,19f1df34d9b117ae604c95591cf3e129,Mairie d'arrondissement St-Laurent (Beaudet / Marcel-Laurin),11,16
+Montreal-op6Alkxh,2024-07-25T05:54:34.081000Z,GareSt-Michel/Montréal-Nord(Pie-IX/56e)--oBmiIiew,2024-07-25,Thursday,00:03,Montreal,53a067639d877bfe105996a58bc1aa3a,Gare St-Michel / Montréal-Nord (Pie-IX / 56e),5,10
+Montreal-sTxfpX7V,2024-07-25T05:54:34.183000Z,ParcMaurice-Bélanger(Hébert/Denommée)--Gel8ZoJ2,2024-07-25,Thursday,00:03,Montreal,8b16cd408c6adee5f72d6e5d91bc2b9d,Parc Maurice-Bélanger (Hébert / Denommée),7,7
+Montreal-tQ9w2NTo,2024-07-25T06:03:09.776000Z,ParcduMail(BoisdeCoulonges/duMail)--iKQjQuWp,2024-07-25,Thursday,00:03,Montreal,815c7df219d6937348c91d460fd1ff44,Parc du Mail (Bois de Coulonges / du Mail),6,7
+Montreal-HCko6Zr1,2024-07-25T05:54:30.918000Z,Jean-Paul-Vincent/Adoncour--sR885Hoj,2024-07-25,Thursday,00:03,Montreal,be9c873b6a7a17a56d9b813b70e29367,Jean-Paul-Vincent / Adoncour,10,3
+Montreal-8Zyyqjfl,2024-07-25T06:03:10.822000Z,GareLachine(SirGeorgeSimpson/48eavenue)--j70yakB7,2024-07-25,Thursday,00:03,Montreal,94ad6ee5b193f8c17b3fdfaa82b5edb0,Gare Lachine (Sir George Simpson / 48e avenue),3,12
+Montreal-hNcTFiLq,2024-07-25T06:03:11.457000Z,ParcSt-Gabriel(GrandTrunk/Ropery)--yqBVbdC8,2024-07-25,Thursday,00:03,Montreal,a00db472afa6e0875cce0d13acf03632,Parc St-Gabriel (Grand Trunk / Ropery),8,11
+Montreal-bch1nEOI,2024-07-25T05:54:31.695000Z,Grenet/Poirier--tTR6UJYB,2024-07-25,Thursday,00:03,Montreal,d396617f8d34e1100febd7cd446e790a,Grenet / Poirier,11,4
+Montreal-me5NlTnf,2024-07-25T05:54:31.252000Z,BibliothèqueduVieux-St-Laurent(del'Église/Filiatrault)--8EDYhPUP,2024-07-25,Thursday,00:03,Montreal,88de0ba474d1d950ec32feacb9c50d61,Bibliothèque du Vieux-St-Laurent (de l'Église / Filiatrault),0,16
+Montreal-fayXglPf,2024-07-25T05:54:31.261000Z,GareduRuisseau(Dutrisac/Henri-Bourassa)--IUpJHX0S,2024-07-25,Thursday,00:03,Montreal,9ee74f8bb62f38529fa85da832fdfed4,Gare du Ruisseau (Dutrisac / Henri-Bourassa),10,9
+Montreal-6si6k4dC,2024-07-25T05:54:31.263000Z,Hochelaga/del'Assomption--acTS6vrJ,2024-07-25,Thursday,00:03,Montreal,6854cb59f24f653adfba864ecd063aa2,Hochelaga / de l'Assomption,8,13
+Montreal-Ur7MsN9n,2024-07-25T06:03:10.909000Z,GareMontpellier(Muir/delaCôte-Vertu)--Dse650gu,2024-07-25,Thursday,00:03,Montreal,efe7c56e36749af8000e9ef4ee4fc883,Gare Montpellier (Muir / de la Côte-Vertu),13,2
+Montreal-MHaKsyhS,2024-07-25T05:54:32.668000Z,Fernand-Lafontaine/Adoncour--KY3dG8s2,2024-07-25,Thursday,00:03,Montreal,5d9239bc34108ada8bac98a19e0b3371,Fernand-Lafontaine / Adoncour,11,0
+Montreal-qINyuVIR,2024-07-25T05:54:32.681000Z,Industriel/Louis-J.-Lafortune--BydKqHZX,2024-07-25,Thursday,00:03,Montreal,af74c93fbc64f9a6aad9b05ab410b0ac,Industriel / Louis-J.-Lafortune,7,10
+Montreal-pZScTH3B,2024-07-25T05:54:33.672000Z,ParcDelorme(Malouin/Laferté)--9Kln1PDW,2024-07-25,Thursday,00:03,Montreal,ab65f5f1207275299c5d897fa65e1347,Parc Delorme (Malouin / Laferté),6,12
+Montreal-GGTvk2au,2024-07-25T05:54:33.693000Z,ParcLuigi-Pirandello(deBretagne/Jean-Rivard)--0Ks9rcEX,2024-07-25,Thursday,00:03,Montreal,f95ae94bbf8d2dd56d009f8bbf21044a,Parc Luigi-Pirandello (de Bretagne / Jean-Rivard),6,8
+Montreal-c6GpGSdF,2024-07-25T05:54:33.820000Z,ParcWilfrid-Bastien(Lacordaire/desGalets)--r8hgq6ZZ,2024-07-25,Thursday,00:03,Montreal,ee6ad7e94cd47718c9f03d9248357f5c,Parc Wilfrid-Bastien (Lacordaire / des Galets),12,7
+Montreal-yhfBEx1X,2024-07-25T05:54:34.169000Z,ParcArmand-Bombardier(Perras/Armand-Bombardier)--AjdAYJJj,2024-07-25,Thursday,00:03,Montreal,05b2ac429b1d77afa9c0d51ebaf1e9cf,Parc Armand-Bombardier (Perras / Armand-Bombardier),14,0
+Montreal-F0Z9I1sK,2024-07-25T05:54:33.943000Z,MétroSnowdon(Circle/Queen-Mary)--KoeiXXrX,2024-07-25,Thursday,00:03,Montreal,c8a7d37a65570e41ab00b550e01ed19d,Métro Snowdon (Circle / Queen-Mary),11,11
+Montreal-887BDcRR,2024-07-25T05:54:31.224000Z,MétroCôte-des-Neiges(Jean-Brillant/delaCôte-des-Neiges)--8NtyAGzP,2024-07-25,Thursday,00:03,Montreal,ffb9a83c9965e7749a06d468a36a7e35,Métro Côte-des-Neiges (Jean-Brillant / de la Côte-des-Neiges),27,3
+Montreal-EAcmrUjR,2024-07-25T06:03:07.862000Z,Faillon/St-Denis--oXA5YrBH,2024-07-25,Thursday,00:03,Montreal,b7664c29e84839606e88152819b3ce55,Faillon / St-Denis,4,19
+Montreal-H0QbmbhY,2024-07-25T06:03:07.141000Z,ParcdesRapides(LaSalle/6eavenue)--rya3gXHb,2024-07-25,Thursday,00:03,Montreal,65fcf6251f8e1caef9d4ec19d3c37f64,Parc des Rapides (LaSalle / 6e avenue),10,12
+Montreal-ySXDnrX0,2024-07-25T06:03:07.506000Z,St-Antoine/St-François-Xavier--fypn9pUZ,2024-07-25,Thursday,00:03,Montreal,e727397bea9429cbc9b8d450c34d97d0,St-Antoine / St-François-Xavier,3,15
+Montreal-2qVuXUfq,2024-07-25T06:03:10.188000Z,St-Dominique/St-Zotique--2BDd58R6,2024-07-25,Thursday,00:03,Montreal,2c9020413f1e9874756f0d7fcc743307,St-Dominique / St-Zotique,24,7
+Montreal-7GRStG7o,2024-07-25T06:03:07.024000Z,Benny/Sherbrooke--J17JpDSR,2024-07-25,Thursday,00:03,Montreal,a10f7f46ff1cfff0a26c3f9f364d83b6,Benny / Sherbrooke,15,4
+Montreal-nte6wiUI,2024-07-25T06:03:10.272000Z,desJockeys/Décarie--8YtSSfD8,2024-07-25,Thursday,00:03,Montreal,cfa85c0d171620de658d1fffcd749528,des Jockeys / Décarie,4,15
+Montreal-JIjtzLWR,2024-07-25T05:54:32.020000Z,St-Jacques/St-Laurent--rijWOwHT,2024-07-25,Thursday,00:03,Montreal,9ded0f40cc46b3f01b00a3033246b3b9,St-Jacques / St-Laurent,0,15
+Montreal-D3XnadY3,2024-07-25T06:03:09.232000Z,MétrodelaSavane(Décarie/deSorel)--GhxNYYMV,2024-07-25,Thursday,00:03,Montreal,814ad44a52efef38cb7aafd234bd5623,Métro de la Savane (Décarie / de Sorel),4,14
+Montreal-NqFHrMP5,2024-07-25T05:54:35.188000Z,ParkRowO/Sherbrooke--PaUQlF0n,2024-07-25,Thursday,00:03,Montreal,0b43d5b25082fcf948a599c9c2f004ad,Park Row O / Sherbrooke,8,4
+Montreal-lwV4nDz2,2024-07-25T06:03:06.868000Z,Clark/St-Viateur--RS6AQrxg,2024-07-25,Thursday,00:03,Montreal,39bb125f5342525e2cea093e9229bdcb,Clark / St-Viateur,1,13
+Montreal-ZRJCeFb7,2024-07-25T06:03:10.213000Z,Marquette/Fleury--NAcle87V,2024-07-25,Thursday,00:03,Montreal,1f7deeaa21159a7e183915b23c21ac81,Marquette / Fleury,3,11
+Montreal-uIe7EMvB,2024-07-25T05:54:32.272000Z,Chambord/Fleury--uJe2YdKl,2024-07-25,Thursday,00:03,Montreal,9c62a50110d8ee96b870cb01b31ada39,Chambord / Fleury,1,7
+Montreal-HwFgHjKU,2024-07-25T06:03:09.243000Z,desRécollets/Fleury--0YZ5AhNB,2024-07-25,Thursday,00:03,Montreal,8c98afa17b727544b37cc38c9b3eb7d8,des Récollets / Fleury,7,8
+Montreal-zAA6Jwg3,2024-07-25T06:03:07.584000Z,Casgrain/Maguire--rgEe0x5r,2024-07-25,Thursday,00:03,Montreal,d81961450801e6c7a09c6bc9d4ab8eda,Casgrain / Maguire,9,14
+Montreal-l9bdzr5v,2024-07-25T06:03:08.477000Z,St-Jean-Baptiste/René-Lévesque--AvbHw02l,2024-07-25,Thursday,00:03,Montreal,1c05683a4675c3de48297fdef6870e62,St-Jean-Baptiste / René-Lévesque,6,9
+Montreal-HnMNTMiG,2024-07-25T06:03:11.685000Z,Turgeon/Notre-Dame--enc7v1Co,2024-07-25,Thursday,00:03,Montreal,61da15b80b82561752f3270693c5165c,Turgeon / Notre-Dame,2,17
+Montreal-bAOA3os1,2024-07-25T05:54:35.171000Z,Richardson/Montmorency--tsxRjYOg,2024-07-25,Thursday,00:03,Montreal,b046e8a8afb19a66afac180111d612e4,Richardson / Montmorency,9,20
+Montreal-U4LRWSc6,2024-07-25T06:03:07.826000Z,deGaspé/deLiège--W0ezQ0Cf,2024-07-25,Thursday,00:03,Montreal,b0b6c3a809801a02bced4c84f8ce3e8f,de Gaspé / de Liège,12,9
+Montreal-IfBLj8f0,2024-07-25T06:03:11.916000Z,deGaspé/St-Viateur--J29VQsMA,2024-07-25,Thursday,00:03,Montreal,427f2a0d1140f625f37362e57df8ddc8,de Gaspé / St-Viateur,0,18
+Montreal-zpMX61yN,2024-07-25T05:54:33.384000Z,PlaceduVillage(St-Jean-Baptiste/Notre-Dame)--2oknNMk8,2024-07-25,Thursday,00:03,Montreal,3565ca57a8993b9bf335ed73042cafb8,Place du Village (St-Jean-Baptiste / Notre-Dame),10,5
+Montreal-75H8mQo7,2024-07-25T06:03:08.224000Z,St-Ambroise/Louis-Cyr--o12Kcosp,2024-07-25,Thursday,00:03,Montreal,1de81a5a8e6f461e2b0ed7c9c2e6c3e8,St-Ambroise / Louis-Cyr,6,21
+Montreal-pddQRYlU,2024-07-25T05:54:35.161000Z,d'Outremont/Ogilvy--05GbPaEY,2024-07-25,Thursday,00:03,Montreal,6293616d8cd965f97d230104de1b8083,d'Outremont / Ogilvy,14,4
+Montreal-aaScMFN7,2024-07-25T06:03:10.169000Z,duTricentenaire/Prince-Albert--YiDGiQcZ,2024-07-25,Thursday,00:03,Montreal,9b279b4355888cdc79c1b55692276c67,du Tricentenaire / Prince-Albert,11,2
+Montreal-45B2bhga,2024-07-25T06:03:10.495000Z,Jeanne-Mance/Beaubien--8RPc73C5,2024-07-25,Thursday,00:03,Montreal,cd4c0fdebcb37039488e28460460af01,Jeanne-Mance / Beaubien,0,15
+Montreal-wPA56Lah,2024-07-25T05:54:34.359000Z,St-Dominique/St-Viateur--mEseOkxd,2024-07-25,Thursday,00:03,Montreal,56cff766a3277c78e45bb4de4ac76197,St-Dominique / St-Viateur,0,30
+Montreal-r2FLPHRJ,2024-07-25T05:54:32.306000Z,ParcSt-Paul(LeCaron/Marc-Sauvalle)--lOhcPld4,2024-07-25,Thursday,00:03,Montreal,e7b4ef40c1aa1decd3a2ffa3bcc9d1ea,Parc St-Paul (Le Caron / Marc-Sauvalle),10,11
+Montreal-qxs9FZam,2024-07-25T06:03:06.919000Z,deL'Esplanade/Fairmount--ymPXDxO1,2024-07-25,Thursday,00:03,Montreal,c3ceec873eb5d232254a49a074e28333,de L'Esplanade  / Fairmount,17,1
+Montreal-gg9HVP3l,2024-07-25T05:54:33.277000Z,Bernard/Jeanne-Mance--abdsMO7W,2024-07-25,Thursday,00:03,Montreal,dce3a1ec07d63b448de172e7d72d0ac3,Bernard / Jeanne-Mance,13,10
+Montreal-s2qKLKeN,2024-07-25T05:54:31.337000Z,Monk/deBiencourt--7skh29wF,2024-07-25,Thursday,00:03,Montreal,839fe2dfb82ec3980eeaa68e23c462d4,Monk / de Biencourt,12,3
+Montreal-uzzMrn9Q,2024-07-25T05:54:31.908000Z,Duvernay/Charlevoix--4ErMeFJ3,2024-07-25,Thursday,00:03,Montreal,7deaa6511276ea56c7a8b337c6f3f64f,Duvernay / Charlevoix,5,17
+Montreal-MLW6iRI4,2024-07-25T06:03:09.475000Z,Davaar/delaCôte-Ste-Catherine--UX1BRzbT,2024-07-25,Thursday,00:03,Montreal,c15a09657007898b3630f7b66f1d42ac,Davaar / de la Côte-Ste-Catherine,3,12
+Montreal-E1Ct2EaR,2024-07-25T05:54:34.385000Z,Waverly/St-Viateur--YAZaPLgF,2024-07-25,Thursday,00:03,Montreal,939bd527ead0d30a6cee8299ce215e7f,Waverly / St-Viateur,15,4
+Montreal-Aq1CEHSb,2024-07-25T06:03:08.251000Z,ParcAtwater(Saint-Charles)--5v6enJzY,2024-07-25,Thursday,00:03,Montreal,8ac0a10397b9d887d54e77c92c6e0704,Parc Atwater (Saint-Charles),10,7
+Montreal-6obuLYT2,2024-07-25T06:03:11.880000Z,MétroPlaceSaint-Henri(St-Ferdinand/St-Jacques)--qTac6BJ4,2024-07-25,Thursday,00:03,Montreal,85c697a6f2803497cabda74c8a7d06f1,Métro Place Saint-Henri (St-Ferdinand / St-Jacques),6,23
+Montreal-d3UDU6xM,2024-07-25T05:54:31.753000Z,Drolet/Jarry--hoynTbhR,2024-07-25,Thursday,00:03,Montreal,d7dff48f13093c3bfd51b409f6c99ca1,Drolet / Jarry,5,14
+Montreal-QUcNw7Ze,2024-07-25T05:54:31.865000Z,Louis-Hémon/Rosemont--dfNZYmZv,2024-07-25,Thursday,00:03,Montreal,42f4ffadab5c5dc4a7ee77a517fc7f44,Louis-Hémon / Rosemont,12,7
+Montreal-DEdzJOYU,2024-07-25T05:54:31.929000Z,McCulloch/delaCôteSte-Catherine--TurjkfHX,2024-07-25,Thursday,00:03,Montreal,5fc280895d73433263120a63fda937fe,McCulloch / de la Côte Ste-Catherine,2,16
+Montreal-lmVh5fGH,2024-07-25T05:54:33.354000Z,Louis-Hébert/deBellechasse--SFB6Q5qt,2024-07-25,Thursday,00:03,Montreal,4fa269879d40657ffbab12fdb2c851cc,Louis-Hébert / de Bellechasse,23,3
+Montreal-DhaPlvNt,2024-07-25T05:54:34.380000Z,Jeanne-Mance/St-Viateur--cPphTKOR,2024-07-25,Thursday,00:03,Montreal,05415b92d6d4fa2364f0151216f4386c,Jeanne-Mance / St-Viateur,13,10
+Montreal-pvnmr03K,2024-07-25T05:54:34.475000Z,Egan/Laurendeau--joCXhtcd,2024-07-25,Thursday,00:03,Montreal,748cda93c263ff091980aed944d7c284,Egan / Laurendeau,9,6
+Montreal-bIKk3DF8,2024-07-25T05:54:35.273000Z,Léa-Roback/Sir-Georges-Etienne-Cartier--g0Ss8YA1,2024-07-25,Thursday,00:03,Montreal,6b17e4dc2ab5fce81cada468591bde1b,Léa-Roback / Sir-Georges-Etienne-Cartier,12,22
+Montreal-6JjY4bKh,2024-07-25T05:54:35.296000Z,MétroMonk(Allard/Beaulieu)--ZneY0Osn,2024-07-25,Thursday,00:03,Montreal,f47f4149fc69eded89e7342b22755024,Métro Monk (Allard / Beaulieu),14,5
+Montreal-um9QEBtw,2024-07-25T06:03:08.036000Z,deRouen/Lespérance--bQOKqJxN,2024-07-25,Thursday,00:03,Montreal,7a50f09abc2d0051cefd3510ca4f6af8,de Rouen / Lespérance,13,10
+Montreal-7oJaqQ7j,2024-07-25T05:54:32.353000Z,Laurier/deBrébeuf--PlULHStN,2024-07-25,Thursday,00:03,Montreal,a73edfff31236331bf0713d675ab01bd,Laurier / de Brébeuf,30,0
+Montreal-sGiv20dh,2024-07-25T05:54:33.403000Z,deRouen/Hogan--SxDEtRJ2,2024-07-25,Thursday,00:03,Montreal,046de14b5741438fbdca56a59103a640,de Rouen / Hogan,8,7
+Montreal-angBA3wc,2024-07-25T05:54:31.502000Z,Bloomfied/Elmwood--howBxcnZ,2024-07-25,Thursday,00:03,Montreal,39244374a5b3ce23cb1b770ca09bd40c,Bloomfied / Elmwood,5,9
+Montreal-MUbB32Dy,2024-07-25T05:54:33.755000Z,duHavre/deRouen--bjsl7tav,2024-07-25,Thursday,00:03,Montreal,ebf264e5f3baddba6e40eba2fe7351e7,du Havre / de Rouen,17,10
+Montreal-72LHkiUu,2024-07-25T06:03:11.296000Z,Aylmer/Sherbrooke--WaJBu6Mw,2024-07-25,Thursday,00:03,Montreal,5428d05f2757392646e8e88bfd1efee3,Aylmer / Sherbrooke,6,21
+Montreal-6gEJspFj,2024-07-25T05:54:31.875000Z,Durocher/Sherbrooke--tWc8kqit,2024-07-25,Thursday,00:03,Montreal,6d09185c43a07f6f17c75c291e67a6f0,Durocher / Sherbrooke,6,17
+Montreal-8x6Cboo5,2024-07-25T06:03:10.137000Z,Bloomfield/VanHorne--29lLWTcL,2024-07-25,Thursday,00:03,Montreal,a2ff3d0c7ee4f7c8686bdafa3a4fc5e7,Bloomfield / Van Horne,19,3
+Montreal-TW2xDQ5Q,2024-07-25T06:03:08.418000Z,Calixa-Lavallée/Sherbrooke--SHwnwdYY,2024-07-25,Thursday,00:03,Montreal,249f1231d93aa589fc7d85b327cfbdc8,Calixa-Lavallée / Sherbrooke,18,1
+Montreal-GEZfIKvn,2024-07-25T05:54:34.332000Z,Shearer/Centre--0wRcj3b0,2024-07-25,Thursday,00:03,Montreal,4fbafd8f80ff042d7fe3cb4b46400514,Shearer / Centre,12,3
+Montreal-64fBXiJX,2024-07-25T05:54:34.890000Z,Milton/Durocher--3uOwEUdA,2024-07-25,Thursday,00:03,Montreal,6687fb585a268ce2773a3bf177d018d1,Milton / Durocher,14,13
+Montreal-lb0QZowC,2024-07-25T06:03:08.968000Z,Gauthier/deLorimier--wZ0DEEXc,2024-07-25,Thursday,00:03,Montreal,0aedabffd74cb17524a08ef1f6b336f9,Gauthier / de Lorimier,19,4
+Montreal-mfTSOsnZ,2024-07-25T05:54:32.882000Z,Ryde/Charlevoix--98zbO3zG,2024-07-25,Thursday,00:03,Montreal,78f0ea4a741954f89ed7cbc892fe355e,Ryde / Charlevoix,19,7
+Montreal-7VYkEObC,2024-07-25T06:03:09.100000Z,ParcJean-Drapeau(CheminMacdonald)--zwrHGcHn,2024-07-25,Thursday,00:03,Montreal,0ccb90229a3c0ef89104428c84d65308,Parc Jean-Drapeau (Chemin Macdonald),8,26
+Montreal-G0LG3rsu,2024-07-25T06:03:06.712000Z,MétroCharlevoix(Charlevoix/Centre)--dhY4NjEr,2024-07-25,Thursday,00:03,Montreal,bcc94bb7b128964b7bb629aac952bd96,Métro Charlevoix (Charlevoix / Centre),8,18
+Montreal-USTns4G5,2024-07-25T06:03:10.760000Z,Ste-Catherine/St-Denis--M4v7aaDi,2024-07-25,Thursday,00:03,Montreal,092deed262da108a6df2ad96c73fe080,Ste-Catherine / St-Denis,0,15
+Montreal-90UDo1mF,2024-07-25T06:03:09.748000Z,MétrodelaConcorde(Léo-Lacombe)--MvTfhTR4,2024-07-25,Thursday,00:03,Montreal,87bf1cff2cd651ba546aa04cfd5885c7,Métro de la Concorde (Léo-Lacombe),4,15
+Montreal-Fa6hNuWK,2024-07-25T05:54:34.701000Z,20eavenue/deBellechasse--Dsz3BlBZ,2024-07-25,Thursday,00:03,Montreal,1f168a2835920f593c6f64459d0bd893,20e avenue / de Bellechasse,7,10
+Montreal-omwSqSGy,2024-07-25T06:03:06.953000Z,Louis-Hébert/St-Zotique--vZ42M73f,2024-07-25,Thursday,00:03,Montreal,2b57be16a1b802c69de6742a1ec49527,Louis-Hébert / St-Zotique,12,2
+Montreal-2ziuTSNb,2024-07-25T06:03:09.788000Z,MétroCartier--6eDcUzbA,2024-07-25,Thursday,00:03,Montreal,126735d125a23869138e84406c649155,Métro Cartier,12,7
+Montreal-3zvyaDKP,2024-07-25T05:54:32.369000Z,Garnier/St-Grégoire--yfd34fGk,2024-07-25,Thursday,00:03,Montreal,3e9e4f67f3381c248e404a31a444593e,Garnier / St-Grégoire,21,2
+Montreal-kls8Xkhj,2024-07-25T06:03:10.617000Z,desÉrables/Bélanger--XO8FHV2c,2024-07-25,Thursday,00:03,Montreal,425d72b42e841857dfef54441255aebe,des Érables / Bélanger,13,2
+Montreal-8fi3RqKs,2024-07-25T05:54:32.345000Z,deLanaudière/Laurier--Qepy09Ul,2024-07-25,Thursday,00:03,Montreal,437c8c76473b5f3e273c27b185aee25c,de Lanaudière / Laurier,25,1
+Montreal-Ib1Sz8qL,2024-07-25T06:03:09.793000Z,MétroMontmorency--2pxAudKR,2024-07-25,Thursday,00:03,Montreal,5aed9bf24e62ea6202a7c08dfac25c88,Métro Montmorency,6,17
+Montreal-Z8by6k7a,2024-07-25T05:54:33.436000Z,Cartier/Bélanger--bGxrHB5I,2024-07-25,Thursday,00:03,Montreal,d6c3fafac0ba50db181823baf216ba98,Cartier / Bélanger,17,6
+Montreal-ZjiBQHCD,2024-07-25T06:03:06.778000Z,Fullum/Gilford--d71tEPvv,2024-07-25,Thursday,00:03,Montreal,21162a6cdfa70ac960742617c5d5aafa,Fullum / Gilford,23,0
+Montreal-2vT6ZfaM,2024-07-25T05:54:34.288000Z,MétroAngrignon(Lamont/desTrinitaires)--Krhx4kKJ,2024-07-25,Thursday,00:03,Montreal,ae879e0ebd76a6a27ee078846f565a59,Métro Angrignon (Lamont / des Trinitaires),7,14
+Montreal-rcEK9ODY,2024-07-25T05:54:31.216000Z,deSoissons/deDarlington--cebSM91u,2024-07-25,Thursday,00:03,Montreal,9c481b0d120d9a0bdf64bca192deb713,de Soissons / de Darlington,14,9
+Montreal-p75Cbqp3,2024-07-25T06:03:06.977000Z,Holt/Fullum--JrEBf0WW,2024-07-25,Thursday,00:03,Montreal,82ee2a45c5d1d863e364929fd6d516e5,Holt / Fullum,8,19
+Montreal-1NSRNzrH,2024-07-25T06:03:09.937000Z,McKenna/Édouard-Montpetit--eY9Jawph,2024-07-25,Thursday,00:03,Montreal,67fb44bf786b39d711a6ae1ac3a0d865,McKenna / Édouard-Montpetit,5,12
+Montreal-uZVWUhKw,2024-07-25T05:54:34.117000Z,McNamara/St-MartinO--Aiy5w4k4,2024-07-25,Thursday,00:03,Montreal,7372f7ed2ed2e266bdc479ac49bc6392,McNamara / St-Martin O,14,12
+Montreal-9ZoTtMBm,2024-07-25T05:54:33.392000Z,Fabre/St-Zotique--uSONvjEV,2024-07-25,Thursday,00:03,Montreal,4fb0196e6cefd3c0304f2f7497e1d53a,Fabre / St-Zotique,6,10
+Montreal-mmnPwjgN,2024-07-25T05:54:31.237000Z,deKent/delaCôte-des-Neiges--7sejUb3f,2024-07-25,Thursday,00:03,Montreal,0c39a4c5f95f416e549a6566c8cd770f,de Kent / de la Côte-des-Neiges,19,20
+Montreal-i8rtwaeq,2024-07-25T05:54:33.721000Z,delaPeltrie/delaCôte-des-Neiges--kFxZH1us,2024-07-25,Thursday,00:03,Montreal,932f0e5ac412c8f96a55ea2e041a0ba3,de la Peltrie / de la Côte-des-Neiges,30,0
+Montreal-fdpcKdJw,2024-07-25T06:03:11.365000Z,Boyer/Jean-Talon--xWKFq7tD,2024-07-25,Thursday,00:03,Montreal,f6e60af660915736503e6392d0adab71,Boyer / Jean-Talon,1,17
+Montreal-vwoKF5w8,2024-07-25T06:03:11.588000Z,Ste-Croix/Tassé--7WfbvGKk,2024-07-25,Thursday,00:03,Montreal,975300771de5568dd1f8359834fc9cc5,Ste-Croix / Tassé,5,17
+Montreal-PeFqWwRE,2024-07-25T05:54:33.949000Z,Louisbourg/O'Brien--Vpr5pDHl,2024-07-25,Thursday,00:03,Montreal,ac7000b84127f7ac259b09f99eb297ad,Louisbourg / O'Brien,13,3
+Montreal-lgJf4BsQ,2024-07-25T06:03:08.589000Z,Chapleau/duMont-Royal--zmsFfR2J,2024-07-25,Thursday,00:03,Montreal,b17c1462a40c242a182e48fe9202146c,Chapleau / du Mont-Royal,19,0
+Montreal-ESdJBf52,2024-07-25T06:03:10.081000Z,deGaspé/Dante--W2V3eF3x,2024-07-25,Thursday,00:03,Montreal,364cabb5949c7690cffca04ee3c6a4b5,de Gaspé / Dante,5,16
+Montreal-yzDa8QmQ,2024-07-25T06:03:06.880000Z,deBullion/St-Joseph--Kw3YZcJr,2024-07-25,Thursday,00:03,Montreal,93d2ac04ded04070eda556c440926253,de Bullion / St-Joseph,17,5
+Montreal-ezCkxB9Q,2024-07-25T05:54:35.210000Z,MétroPlamondon(deKent/Victoria)--0D3fuLqR,2024-07-25,Thursday,00:03,Montreal,c5f193110503c57e1c5f624c8c64f286,Métro Plamondon (de Kent / Victoria),3,19
+Montreal-tLZkzLeQ,2024-07-25T06:03:07.165000Z,Logan/Tiffin--I69X0EJ2,2024-07-25,Thursday,00:03,Montreal,5a47426cb02dc841f67915d35b3ada54,Logan / Tiffin,12,2
+Montreal-dWGYmUEa,2024-07-25T06:03:08.148000Z,DeCallières/d'Auvergne--i2djDDIz,2024-07-25,Thursday,00:03,Montreal,f59884dc043cf535875c6042eb59dd39,De Callières / d'Auvergne,9,11
+Montreal-VzKW3KaG,2024-07-25T05:54:31.205000Z,McLynn/Plamondon--x7yJ0ucm,2024-07-25,Thursday,00:03,Montreal,4e5a6ca40d9348f973223d6171d2313c,McLynn / Plamondon,15,2
+Montreal-HyfZwpro,2024-07-25T05:54:32.721000Z,Logan/Lafayette--1eIHBErU,2024-07-25,Thursday,00:03,Montreal,0443c94a529a06a28f0d1cc3f287b74f,Logan / Lafayette,7,9
+Montreal-krVTt8tM,2024-07-25T05:54:32.734000Z,ParcBariteau(Saint-Georges)--pahMTvRz,2024-07-25,Thursday,00:03,Montreal,46848e4320c219c86a04854a602c2c17,Parc Bariteau (Saint-Georges),12,3
+Montreal-JRfBetsu,2024-07-25T05:54:32.889000Z,TerminusLeCarrefour(Terry-Fox/LeCarrefour)--JMhI17JT,2024-07-25,Thursday,00:03,Montreal,9b28f0b919bfbb8a12134e8ba5e803b5,Terminus Le Carrefour (Terry-Fox / Le Carrefour),13,17
+Montreal-CQbBlZv8,2024-07-25T05:54:32.782000Z,MétroLongueuil-UniversitédeSherbrooke(duTerminus)--O7HQDYLc,2024-07-25,Thursday,00:03,Montreal,fa2468286cdd8248a5fa9d0c6b0bf5d3,Métro Longueuil - Université de Sherbrooke (du Terminus),14,19
+Montreal-l4VawmCL,2024-07-25T05:54:32.700000Z,ParcD.-E.-Joyal(Édouard/Windsor)--Sr72Gxg5,2024-07-25,Thursday,00:03,Montreal,d559e70599d080114bbfdebeb62e9b18,Parc D.-E.-Joyal (Édouard / Windsor),12,3
+Montreal-Bk7CAWMk,2024-07-25T06:03:08.682000Z,ParcHenri-Dunant(Léger/Henri-Dunant)--fHPmIiMO,2024-07-25,Thursday,00:03,Montreal,a31b0781205466d8ec391d6e4d31a0c8,Parc Henri-Dunant (Léger / Henri-Dunant),18,7
+Montreal-YZqlrdic,2024-07-25T06:03:11.223000Z,Ouimet/Goineau--5IRr2vTl,2024-07-25,Thursday,00:03,Montreal,2afa5fecbdfebe7a3aad9070498319ab,Ouimet / Goineau,17,18
+Montreal-9Z7BmXld,2024-07-25T06:03:07.912000Z,Alton-Goldbloom/Notre-Dame--Kl7vWm1Z,2024-07-25,Thursday,00:03,Montreal,1c5d4ba80389fafb75d31d3485e0487d,Alton-Goldbloom / Notre-Dame,15,8
+Montreal-gxezUOpb,2024-07-25T06:03:08.765000Z,Sauriol/CartierO--4iHDn4J5,2024-07-25,Thursday,00:03,Montreal,26cb3fec7993d2a0ae43dfe9bcefbdc5,Sauriol / Cartier O,11,8
+Montreal-Y1TL9VA4,2024-07-25T05:54:31.968000Z,Daniel-Johnson/CartierO--xoFNYimi,2024-07-25,Thursday,00:03,Montreal,c5250f6977dfa97a640d19abb2b60f8e,Daniel-Johnson / Cartier O,15,11
+Montreal-6qrwx1jh,2024-07-25T05:54:31.790000Z,deHampton/deMonkland--AcBvkSGf,2024-07-25,Thursday,00:03,Montreal,2543ea24b3c88ef516b925e0a9233d07,de Hampton / de Monkland,9,3
+Montreal-tmgst925,2024-07-25T06:03:08.690000Z,ParcSt-Claude(7eAvenue/8erue)--fP8MAhxZ,2024-07-25,Thursday,00:03,Montreal,36e1885d1b188abf64ab361cead330a0,Parc St-Claude (7e Avenue / 8e rue),16,11
+Montreal-a8ztpAFH,2024-07-25T06:03:07.167000Z,Curé-Poirier/Joliette--toj75i1M,2024-07-25,Thursday,00:03,Montreal,741858dd605085ce6f58f4958dbc069c,Curé-Poirier / Joliette,17,6
+Montreal-3XVmj6FN,2024-07-25T05:54:31.176000Z,Desaulniers/Marquette--xzbfmmqu,2024-07-25,Thursday,00:03,Montreal,713b7e9b854709ab3bd4a267b17bc522,Desaulniers / Marquette,3,18
+Montreal-8eqHKrOl,2024-07-25T05:54:31.246000Z,St-Laurent/Joliette--kq0GjtSS,2024-07-25,Thursday,00:03,Montreal,321ca92fc7a5d3611502d8ef70f63d04,St-Laurent / Joliette,13,5
+Montreal-BIHZGmg3,2024-07-25T06:03:06.489000Z,Mayfield/St-MartinO--S0nTux4G,2024-07-25,Thursday,00:03,Montreal,d2d233d7e6e100a2596281248ceb5191,Mayfield / St-Martin O,9,10
+Montreal-Uu42ICMY,2024-07-25T06:03:11.012000Z,deChenonceau/Chomedey--ai0g4PaB,2024-07-25,Thursday,00:03,Montreal,a9142a6ec00960d46f5da6ad36796ffe,de Chenonceau / Chomedey,11,12
+Montreal-kMRrwMva,2024-07-25T06:03:09.737000Z,Clark/deLiège--fVfsrLyj,2024-07-25,Thursday,00:03,Montreal,a2c77dac23ba3efc4ebf6465682c33c3,Clark / de Liège,5,14
+Montreal-nEg0ZLAn,2024-07-25T06:03:09.997000Z,St-Dominique/Gounod--NrCrkCt8,2024-07-25,Thursday,00:03,Montreal,239fa44869dc781736051236945c1ac6,St-Dominique / Gounod,5,12
+Montreal-SNBHux1h,2024-07-25T06:03:10.661000Z,Chabot/Villeray--5H4DNIps,2024-07-25,Thursday,00:03,Montreal,1ea56d71c39cd0e2a2ccc6061b5cbe68,Chabot / Villeray,14,0
+Montreal-eElLpAa8,2024-07-25T05:54:34.484000Z,Saint-Rémi/Valois--vd3HNFd1,2024-07-25,Thursday,00:03,Montreal,45c95a8a8c3d7574b79365d50c47627a,Saint-Rémi / Valois,9,13
+Montreal-R5FTUn3j,2024-07-25T05:54:32.853000Z,Lajeunesse/deLiège--kEUm1eN7,2024-07-25,Thursday,00:03,Montreal,ec8426fffaf4299ed6724923251aa640,Lajeunesse / de Liège,9,6
+Montreal-vmcNREwv,2024-07-25T06:03:08.738000Z,ParcChopin(Dumouchel/Tessier)--THdXGvlt,2024-07-25,Thursday,00:03,Montreal,839b54eac6c8b3e1f24c9427392c7456,Parc Chopin (Dumouchel / Tessier),14,5
+Montreal-JhbInx7m,2024-07-25T05:54:34.123000Z,LeCorbusier/St-MartinO--zPNAUFtm,2024-07-25,Thursday,00:03,Montreal,37dfd0b2993501a80fdf81e37768141e,Le Corbusier / St-Martin O,9,9
+Montreal-OIHQh3sI,2024-07-25T05:54:34.134000Z,deGrenoble/deCassis--fauosRpV,2024-07-25,Thursday,00:03,Montreal,2b315425e18f16fa60831f1b3c3404fc,de Grenoble / de Cassis,9,10
+Montreal-z39tuGT3,2024-07-25T06:03:08.880000Z,Bercy/Rachel--eJPtDBlV,2024-07-25,Thursday,00:03,Montreal,934c01777da99558c71fb7d884c0b0fd,Bercy / Rachel,8,10
+Montreal-G2NeM6R8,2024-07-25T05:54:32.100000Z,Murray/Wellington--cR5vcfe0,2024-07-25,Thursday,00:03,Montreal,061c0353daef32e37a1ac99b23494209,Murray / Wellington,15,7
+Montreal-67b0M9eW,2024-07-25T06:03:09.760000Z,2eavenue/Centrale--qfXWw9zV,2024-07-25,Thursday,00:03,Montreal,7cce3c616ae862530bddffb636ed1245,2e avenue / Centrale,11,4
+Montreal-YePTDRjn,2024-07-25T05:54:32.515000Z,ParcSt-Patrick(St-Patrick/St-Columban)--YAXX7YWC,2024-07-25,Thursday,00:03,Montreal,e3b7f4aa2eafec3a2b77734d9bd35614,Parc St-Patrick (St-Patrick / St-Columban),2,16
+Montreal-x7cJ0cbZ,2024-07-25T05:54:34.281000Z,Peel/Ottawa--ysDrV89V,2024-07-25,Thursday,00:03,Montreal,398a688b86aabbf789c6f4edb8b20ed0,Peel / Ottawa,8,18
+Montreal-Iw2Az3AU,2024-07-25T06:03:06.446000Z,duRosaire/St-Hubert--EmafEPBB,2024-07-25,Thursday,00:03,Montreal,a26bf1523b22aa83a563c97fe6ad5ba0,du Rosaire / St-Hubert,8,15
+Montreal-9uz4WDuc,2024-07-25T06:03:08.464000Z,Gauthier/Parthenais--wfWVPROs,2024-07-25,Thursday,00:03,Montreal,4ce15c387a972cba5e0f347686a5bed6,Gauthier / Parthenais,14,1
+Montreal-VZr7Kwbp,2024-07-25T06:03:10.860000Z,Fullum/Ontario--B4J7J8pr,2024-07-25,Thursday,00:03,Montreal,ff57fa074079c8cb3d2bfeffa3adc4bf,Fullum / Ontario,2,13
+Montreal-AHYbkF18,2024-07-25T05:54:33.362000Z,Lionel-Groulx/Georges-Vanier--xk2o4ZEF,2024-07-25,Thursday,00:03,Montreal,d828cd348dc0c9994fbc34219ba5760b,Lionel-Groulx / Georges-Vanier,20,2
+Montreal-ydTrDUnY,2024-07-25T05:54:34.227000Z,Greene/Workman--ecdr1c95,2024-07-25,Thursday,00:03,Montreal,677d6d820690fc67eefaad1eb537fd07,Greene / Workman,1,22
+Montreal-AbwTuLFf,2024-07-25T05:54:34.146000Z,Pierre-Péladeau/duCentropolis--9lCMgsP1,2024-07-25,Thursday,00:03,Montreal,55afb3990a73681697287d73d2c86ee6,Pierre-Péladeau / du Centropolis,10,20
+Montreal-J2k9de68,2024-07-25T06:03:07.888000Z,Gloria/Dollard--PCXN5CBL,2024-07-25,Thursday,00:03,Montreal,3944bbaf9bac2bc4ad72222245d22821,Gloria / Dollard,2,12
+Montreal-j01roNnK,2024-07-25T05:54:31.214000Z,BelAir/St-Antoine--DRCdajYP,2024-07-25,Thursday,00:03,Montreal,67238639a0c8e1f08538b0473cd10170,Bel Air / St-Antoine,7,8
+Montreal-rTBqNizQ,2024-07-25T05:54:31.465000Z,del'Église/Bannantyne--lx8R23Fe,2024-07-25,Thursday,00:03,Montreal,a6620bd5c000126bdfa2f31ec1d86934,de l'Église / Bannantyne,10,5
+Montreal-z0YkpnhK,2024-07-25T06:03:07.282000Z,Fullum/Ste-Catherine--LM4CBWkO,2024-07-25,Thursday,00:03,Montreal,44b7f570e3e5aa9ebda143018bd13e19,Fullum / Ste-Catherine,17,5
+Montreal-ZJmWNQ0u,2024-07-25T05:54:34.801000Z,desÉrables/Laurier--fHw6JeaJ,2024-07-25,Thursday,00:03,Montreal,3bbd92b465a669a54d22a0572cae31ec,des Érables / Laurier,14,0
+Montreal-IOyMT5xK,2024-07-25T06:03:09.085000Z,Bourget/St-Jacques--IkKtH3o0,2024-07-25,Thursday,00:03,Montreal,464e8b5950aee06c1eeb53605b286e92,Bourget / St-Jacques,0,14
+Montreal-dCvT3uA7,2024-07-25T06:03:07.232000Z,René-Philippe/André-Charpentier--4EwGFnSs,2024-07-25,Thursday,00:03,Montreal,95ce98ec38136295fe8d3046bfe2995f,René-Philippe / André-Charpentier,13,6
+Montreal-k1vKFiOg,2024-07-25T05:54:31.060000Z,ParcduPélican(2eavenue/St-Joseph)--nxGT7tCl,2024-07-25,Thursday,00:03,Montreal,d953df55ce2e1380f9348b449c98d4c5,Parc du Pélican (2e avenue / St-Joseph),16,2
+Montreal-59HDPPat,2024-07-25T06:03:10.249000Z,5eavenue/Bannantyne--UiHSyqHG,2024-07-25,Thursday,00:03,Montreal,14a4f6a9b81dfc63d800987c916e1e5c,5e avenue / Bannantyne,5,10
+Montreal-VmB6LWoi,2024-07-25T06:03:09.514000Z,ParcJoyce(Rockland/Lajoie)--7bkEGUQt,2024-07-25,Thursday,00:03,Montreal,63d26eacf7e8f19a45c9e101b6f71ddd,Parc Joyce (Rockland / Lajoie),4,11
+Montreal-t56PRg2w,2024-07-25T05:54:34.463000Z,ParcPratt(Dunlop/VanHorne)--pCu23DXW,2024-07-25,Thursday,00:03,Montreal,cbd672a65f66f7bfa419431d60aea030,Parc Pratt (Dunlop / Van Horne),10,5
+Montreal-i3I2KchP,2024-07-25T06:03:08.025000Z,St-Patrick/Briand--TwR4yxJQ,2024-07-25,Thursday,00:03,Montreal,7eae977392f4943944edb063ec733913,St-Patrick / Briand,12,3
+Montreal-nmzBHZPH,2024-07-25T06:03:08.717000Z,Melville/deMaisonneuve--Pa80DF0g,2024-07-25,Thursday,00:03,Montreal,7604e670cfc2466b147af4ec89f5dba9,Melville / de Maisonneuve,12,1
+Montreal-AXUhN5pr,2024-07-25T06:03:10.892000Z,Lamarre/Lavallée--MRrGIFsF,2024-07-25,Thursday,00:03,Montreal,1972d2e57a368e7c442b2019e5db5461,Lamarre / Lavallée,3,16
+Montreal-ODfToHSX,2024-07-25T05:54:34.580000Z,Parthenais/duMont-Royal--8D7nXzlU,2024-07-25,Thursday,00:03,Montreal,dcf3b29b6fc30a0bc50964db1228f0d3,Parthenais / du Mont-Royal,22,1
+Montreal-oSe2VIbO,2024-07-25T06:03:10.873000Z,ParcLaurier(Laurier/Dubuc)--uKRr5d5j,2024-07-25,Thursday,00:03,Montreal,1b4e99760f4007a289ef12126349d2fe,Parc Laurier (Laurier / Dubuc),11,8
+Montreal-Ett2cZWE,2024-07-25T06:03:09.556000Z,St-Dominique/Jean-Talon--hjnu28pX,2024-07-25,Thursday,00:03,Montreal,fd1821200e01192b443a7ebf048f894b,St-Dominique / Jean-Talon,16,15
+Montreal-nANG2ht3,2024-07-25T06:03:07.209000Z,Labonté/duCoteau-Rouge--HMDlV7rm,2024-07-25,Thursday,00:03,Montreal,afc7ce1ffab5746a791185d5d949148f,Labonté / du Coteau-Rouge,3,19
+Montreal-nPWRauVU,2024-07-25T06:03:06.686000Z,CégepÉdouard-Montpetit(deNormandie)--gq1PAcDD,2024-07-25,Thursday,00:03,Montreal,e0afa56b1f0aed7bb8db942a343a4b67,Cégep Édouard-Montpetit (de Normandie),4,14
+Montreal-OS3WeyEz,2024-07-25T05:54:32.228000Z,Natatorium(LaSalle/Rolland)--7FQBp4vG,2024-07-25,Thursday,00:03,Montreal,a829d7ffd9fc7790630d17dbbbf27641,Natatorium (LaSalle / Rolland),10,13
+Montreal-cenMJycc,2024-07-25T06:03:08.310000Z,desÉrables/Dandurand--r0oyWbji,2024-07-25,Thursday,00:03,Montreal,b4353baef0886436396aa569a95458e7,des Érables / Dandurand,0,18
+Montreal-0C7af6UZ,2024-07-25T06:03:10.782000Z,Jacques-LeBer/delaPointeNord--b1sBAUtr,2024-07-25,Thursday,00:03,Montreal,07c7d44ac97d0906af2e27a24fd56b13,Jacques-Le Ber / de la Pointe Nord,11,16
+Montreal-Po6xvur1,2024-07-25T05:54:31.855000Z,Cartier/Dandurand--WLNLnPSP,2024-07-25,Thursday,00:03,Montreal,23a2852bdcd316d3a09bc9b72aed633c,Cartier / Dandurand,6,16
+Montreal-txaWp1pL,2024-07-25T05:54:33.377000Z,deBordeaux/deBellechasse--GqnsDzAu,2024-07-25,Thursday,00:03,Montreal,44fb5ec63a50a382b4262c30f5470c86,de Bordeaux / de Bellechasse,7,12
+Montreal-fe81uD20,2024-07-25T06:03:07.484000Z,PlaceCharles-LeMoyne(St-Charles)--kz6jiFbt,2024-07-25,Thursday,00:03,Montreal,83c42810a42105ebf9f7d8297dda190a,Place Charles-Le Moyne (St-Charles),13,1
+Montreal-gaXCKPda,2024-07-25T06:03:07.781000Z,MétroJarry(Lajeunesse/Jarry)--9bOyCq6m,2024-07-25,Thursday,00:03,Montreal,53a6c61dff2c34e3657ab034e9a28613,Métro Jarry (Lajeunesse / Jarry),2,21
+Montreal-f8mdNQ3d,2024-07-25T06:03:09.117000Z,CampusMIL(Outremont/Thérèse-LavoieRoux)--o7igW8qY,2024-07-25,Thursday,00:03,Montreal,9acb2c0c2b48fe2e76bcbe4010af342a,Campus MIL (Outremont / Thérèse-Lavoie Roux),7,16
+Montreal-cNdkm3ly,2024-07-25T06:03:08.177000Z,ParcChenier(del'Aréna/Chenier)--R1fmgiZ6,2024-07-25,Thursday,00:03,Montreal,8aa19138e54fae304dcd6f0088db07c3,Parc Chenier (de l'Aréna / Chenier),16,3
+Montreal-AGGt6Jai,2024-07-25T06:03:10.719000Z,deGrosbois/Duchesneau--dvkjAAUz,2024-07-25,Thursday,00:03,Montreal,24170e2b4988a35b835b818e6622f46e,de Grosbois / Duchesneau,13,0
+Montreal-7c2GUV8X,2024-07-25T06:03:09.171000Z,Mansfield/delaGauchetière--4JPTliDq,2024-07-25,Thursday,00:03,Montreal,e4920ad7e5bd3dc8c0e9b2329a950000,Mansfield / de la Gauchetière,4,15
+Montreal-8JfwrrZR,2024-07-25T05:54:33.878000Z,delaCathédrale/Saint-Antoine--JzXtXTty,2024-07-25,Thursday,00:03,Montreal,afeb242cc36b91cf88fbbe7a66686c32,de la Cathédrale / Saint-Antoine,5,21
+Montreal-ToGcVQSX,2024-07-25T05:54:31.080000Z,Letourneux/Hochelaga--18pB3sVh,2024-07-25,Thursday,00:03,Montreal,04c57a547249150f2e0fea6c07bd3037,Letourneux / Hochelaga,7,8
+Montreal-LRFQmleC,2024-07-25T06:03:09.075000Z,Mansfield/Sherbrooke--toLxQV2B,2024-07-25,Thursday,00:03,Montreal,15b463fed646dd685bc3fb1e1e5d2de2,Mansfield / Sherbrooke,7,16
+Montreal-UpGsmTqj,2024-07-25T05:54:32.532000Z,deGentilly/St-Jean--7YlKwnGs,2024-07-25,Thursday,00:03,Montreal,a2eae86531d1cf24446fa7be11ba88cc,de Gentilly / St-Jean,9,9
+Montreal-LzUHkZna,2024-07-25T06:03:06.997000Z,deBellechasse/deSt-Vallier--hbzXtbut,2024-07-25,Thursday,00:03,Montreal,39dfbf1650c05e4f21a3b196818c4d71,de Bellechasse / de St-Vallier,0,18
+Montreal-A3xncAmt,2024-07-25T06:03:06.964000Z,Louis-Hébert/Bélanger--xCC9f774,2024-07-25,Thursday,00:03,Montreal,301ddcb76b9061b666c8b0f473a4f74e,Louis-Hébert / Bélanger,9,10
+Montreal-MexOhKur,2024-07-25T05:54:31.152000Z,deMelrose/Sherbrooke--fZJw2Iud,2024-07-25,Thursday,00:03,Montreal,9294676d7bc2672f3c9a96e997068e0f,de Melrose / Sherbrooke,10,8
+Montreal-34jQcODM,2024-07-25T06:03:07.844000Z,Desjardins/Ontario--CIXGuSp7,2024-07-25,Thursday,00:03,Montreal,14313ece3fba0c9be8615f400fd8980c,Desjardins / Ontario,5,15
+Montreal-Frn59cKW,2024-07-25T05:54:33.496000Z,Drummond/des-Canadiens-de-Montréal--DFXPd2hD,2024-07-25,Thursday,00:03,Montreal,0ce40af037ac8bf1d3716fcb53e235b1,Drummond / des-Canadiens-de-Montréal,0,26
+Montreal-MbGBTEAj,2024-07-25T05:54:33.518000Z,Alma/deBellechasse--fYfNOuG0,2024-07-25,Thursday,00:03,Montreal,f32debb5a5607400dcffa1f4e39754ad,Alma / de Bellechasse,12,7
+Montreal-nRJhSPHd,2024-07-25T06:03:10.240000Z,Guy/Sainte-Catherine--x4Sii1b0,2024-07-25,Thursday,00:03,Montreal,a8be54003fb16d9cab21bd7c5e9c8f66,Guy / Sainte-Catherine,5,26
+Montreal-ITIMoR4W,2024-07-25T06:03:06.657000Z,Mackay/René-Lévesque--NC2sB5Ev,2024-07-25,Thursday,00:03,Montreal,035f64853a0a8204e33cb4a10898068e,Mackay / René-Lévesque,14,16
+Montreal-X5bcdgkA,2024-07-25T06:03:10.198000Z,deGentilly/Roland-Therrien--V9iEydmF,2024-07-25,Thursday,00:03,Montreal,0d85a8b42758ac57f207a20d58279fba,de Gentilly / Roland-Therrien,8,12
+Montreal-QN0lfhZc,2024-07-25T06:03:07.374000Z,Marquette/duCoteau-Rouge--NM8iOa3k,2024-07-25,Thursday,00:03,Montreal,bbc87f203ae21f34f247ea86ab6520c0,Marquette / du Coteau-Rouge,4,14
+Montreal-WtazCFPK,2024-07-25T06:03:07.477000Z,Brébeuf/Curé-Poirier--J74iYvdh,2024-07-25,Thursday,00:03,Montreal,69a08dbed51af2b02c0fa031734ae809,Brébeuf / Curé-Poirier,15,3
+Montreal-3oToqcMi,2024-07-25T05:54:32.384000Z,Cartier/St-Joseph--QhuSG7WP,2024-07-25,Thursday,00:03,Montreal,ee8bc16d40f2c44ec8a99670f13b7646,Cartier / St-Joseph,14,5
+Montreal-PgPGsSzJ,2024-07-25T06:03:06.628000Z,Roy/Saint-Laurent--itRZN76o,2024-07-25,Thursday,00:03,Montreal,2bdfd377bde21a29eafd9298bff9cd23,Roy / Saint-Laurent,21,2
+Montreal-7HWUeC1m,2024-07-25T05:54:33.936000Z,Péloquin/Fleury--6BAgQnP1,2024-07-25,Thursday,00:03,Montreal,562732190a887013c53e200b28d852e4,Péloquin / Fleury,4,9
+Montreal-kYw5WFrm,2024-07-25T05:54:31.249000Z,Canning/Notre-Dame--8E7Ejuhf,2024-07-25,Thursday,00:03,Montreal,05b5b355a4772304d10c45029d08deb0,Canning / Notre-Dame,17,5
+Montreal-vn1QAJY5,2024-07-25T05:54:33.178000Z,Augustin-Cantin/Shearer--VRxZrDFF,2024-07-25,Thursday,00:03,Montreal,8f38bed6dab71436cabe43dea498c8c1,Augustin-Cantin / Shearer,4,23
+Montreal-c8TYlJzK,2024-07-25T06:03:10.202000Z,Churchill/Empire--TatCLNWe,2024-07-25,Thursday,00:03,Montreal,f163f77a25ff90ee28683c57264fbe9b,Churchill / Empire,14,5
+Montreal-nmWra3ja,2024-07-25T06:03:08.020000Z,Jeanne-Mance/St-MartinO--HWTuteWN,2024-07-25,Thursday,00:03,Montreal,2520e15efaf9253232c7bc7a4e181a42,Jeanne-Mance / St-Martin O,13,9
+Montreal-fxUe8OBa,2024-07-25T06:03:08.346000Z,Sewell/Roy--CcA3G8Ii,2024-07-25,Thursday,00:03,Montreal,1878135d03fa93303d3301dc9bac05cf,Sewell / Roy,15,4
+Montreal-7x7zoY2J,2024-07-25T06:03:07.872000Z,Guizot/St-Laurent--OyApcMmZ,2024-07-25,Thursday,00:03,Montreal,b298dc46896563af6ea0d289404ea045,Guizot / St-Laurent,14,5
+Montreal-lQoPwbLu,2024-07-25T05:54:34.529000Z,90eAvenue/BoulevardLévesqueO--iAl0qU19,2024-07-25,Thursday,00:03,Montreal,a65aa68cb23206fc1b15868873e36df2,90e Avenue / Boulevard Lévesque O,13,15
+Montreal-z9SAbmaN,2024-07-25T06:03:10.457000Z,St-André/Rachel--HIqIeTHU,2024-07-25,Thursday,00:03,Montreal,b60f0612abb6b56c0a4a48f129b947c2,St-André / Rachel,10,3
+Montreal-ho2Chagr,2024-07-25T06:03:10.508000Z,Laval/duMont-Royal--EXFaUGZy,2024-07-25,Thursday,00:03,Montreal,d7f6bfbc28cb883fec3bf8652faf9e52,Laval / du Mont-Royal,17,0
+Montreal-lByND9D4,2024-07-25T06:03:11.324000Z,Ste-Famille/desPins--EK3c8phx,2024-07-25,Thursday,00:03,Montreal,07f0abcb10ec09105ffaa1d6cbb3ab14,Ste-Famille / des Pins,20,3
+Montreal-lB17bxMb,2024-07-25T05:54:32.801000Z,Beauregard/LaSalle--B4TNLU07,2024-07-25,Thursday,00:03,Montreal,f2457ae9871eec293afd519d3294527c,Beauregard / La Salle,5,13
+Montreal-ScGiV4lP,2024-07-25T05:54:32.656000Z,Lebrun/Bédard--81rrczqd,2024-07-25,Thursday,00:03,Montreal,7137a250bd6bd7df717f83d133ac328d,Lebrun / Bédard,7,8
+Montreal-NY57Lpki,2024-07-25T05:54:30.927000Z,Fullum/TerrasseMercure--w4YmQsNb,2024-07-25,Thursday,00:03,Montreal,e2a04ee5d75f040dafca0496a9be3521,Fullum / Terrasse Mercure,22,4
+Montreal-LFWwtHTn,2024-07-25T05:54:31.356000Z,1èreavenue/Rosemont--7Q4lgj05,2024-07-25,Thursday,00:03,Montreal,de47bdda50a0b713a267c0bd08d0a959,1ère avenue / Rosemont,18,2
+Montreal-qNhMOMMC,2024-07-25T05:54:32.040000Z,Boyer/St-Joseph--lOOX5FAv,2024-07-25,Thursday,00:03,Montreal,1d42775aa0975f0846191f3e0e25a259,Boyer / St-Joseph,14,5
+Montreal-TjFUzENy,2024-07-25T05:54:34.075000Z,St-Charles/Montarville--NGffuiLy,2024-07-25,Thursday,00:03,Montreal,2bdbcfe52167db778aafe8f5c41b2dd7,St-Charles / Montarville,9,10
+Montreal-sxq39oXE,2024-07-25T06:03:07.835000Z,Guizot/St-Denis--6sy6DY2C,2024-07-25,Thursday,00:03,Montreal,cf6e1409b292b38da683ba44e51a4843,Guizot / St-Denis,9,14
+Montreal-Tflqpu3V,2024-07-25T06:03:10.215000Z,Marie/deMont-Royal--esrOI7Rj,2024-07-25,Thursday,00:03,Montreal,7fd636e659af1d5153733fa80f0b0259,Marie / de Mont-Royal,7,14
+Montreal-WSUjsgYU,2024-07-25T05:54:32.376000Z,Garnier/St-Joseph--QzGmcVoq,2024-07-25,Thursday,00:03,Montreal,23f4a54e25d2d96cc127138ae2ee12f5,Garnier / St-Joseph,17,2
+Montreal-H2vuyu5k,2024-07-25T06:03:08.402000Z,MétroChamp-de-Mars(Hôtel-de-Ville/Viger)--tRAnhvaO,2024-07-25,Thursday,00:03,Montreal,5006cb9f021fa437d5f618a40aa15fea,Métro Champ-de-Mars (Hôtel-de-Ville / Viger),1,18
+Montreal-RJ9dYpnl,2024-07-25T05:54:32.932000Z,Ontario/Sicard--DtNgkMnC,2024-07-25,Thursday,00:03,Montreal,bcdca0295c5c26ad7854aa6c9aabc46b,Ontario / Sicard,16,11
+Montreal-wgjwACq0,2024-07-25T05:54:30.937000Z,deBordeaux/Sherbrooke--sFY9lUJW,2024-07-25,Thursday,00:03,Montreal,5f2a393b4ee449fd5e40048b00911753,de Bordeaux / Sherbrooke,21,2
+Montreal-FwS4Ppl7,2024-07-25T05:54:33.776000Z,LaFontaine/Alexandre-de-Sève--uY0QAZ77,2024-07-25,Thursday,00:03,Montreal,1d33d8f2ef82be88498c6314d7d4c457,La Fontaine / Alexandre-de-Sève,19,0
+Montreal-6RJ7ZRTC,2024-07-25T06:03:06.501000Z,Nicolet/Sherbrooke--EsjZZfAv,2024-07-25,Thursday,00:03,Montreal,dcd94385ae71a2b89052874c692df884,Nicolet / Sherbrooke,12,10
+Montreal-KiaCsMse,2024-07-25T05:54:31.716000Z,ParcSt-Sacrement(desSeigneurs/St-Sacrement)--M7VhbOiJ,2024-07-25,Thursday,00:03,Montreal,fb645db9b2cdd11157289f2b2cdb539c,Parc St-Sacrement (des Seigneurs / St-Sacrement),11,6
+Montreal-ts6m7mV2,2024-07-25T05:54:31.881000Z,TerminusdebusEXO(CôtedeTerrebonne)--sx6jQDjh,2024-07-25,Thursday,00:03,Montreal,dc8a8b448fa7f1018b21065bee6f4b7e,Terminus de bus EXO (Côte de Terrebonne),9,13
+Montreal-tbKGL5IG,2024-07-25T06:03:09.340000Z,5eavenue/Masson--n8fatkKS,2024-07-25,Thursday,00:03,Montreal,3126d658666f5f32075689284fc0ae02,5e avenue / Masson,23,4
+Montreal-C4pzhlgo,2024-07-25T06:03:10.195000Z,Mozart/St-Laurent--NgvGRbfp,2024-07-25,Thursday,00:03,Montreal,2476230f8d661fdb5367ed2c2d41d4b1,Mozart / St-Laurent,7,15
+Montreal-JGrpgka0,2024-07-25T06:03:07.184000Z,delaCôteSt-Antoine/Argyle--P2ww6qrX,2024-07-25,Thursday,00:03,Montreal,167e7c9bdddcd7aa983b61a4f6aaa265,de la Côte St-Antoine / Argyle,10,4
+Montreal-LpkD2Wbz,2024-07-25T06:03:09.355000Z,7eavenue/St-JosephRosemont--5R1h2tNe,2024-07-25,Thursday,00:03,Montreal,a57bc720128ed8a9099da4e5b069f3ef,7e avenue / St-Joseph Rosemont,21,5
+Montreal-yFguhRYg,2024-07-25T05:54:31.203000Z,Bourbonnière/duMont-Royal--Oz2msevE,2024-07-25,Thursday,00:03,Montreal,97d3674bee845c38c126be32647c8c6a,Bourbonnière / du Mont-Royal,24,1
+Montreal-MPTsJojD,2024-07-25T05:54:34.609000Z,Marie-Anne/Papineau--vslEceEq,2024-07-25,Thursday,00:03,Montreal,8efb5a0805e2a3e9ffaaff30fb84d12b,Marie-Anne / Papineau,22,1
+Montreal-qUXfFIIF,2024-07-25T06:03:11.528000Z,5eavenue/Rosemont--w6ER6wMP,2024-07-25,Thursday,00:03,Montreal,31e638f409c4a93e68f461daed035811,5e avenue / Rosemont,8,10
+Montreal-JYSdq6yQ,2024-07-25T05:54:31.444000Z,16eavenue/St-Joseph--fcjSTdwf,2024-07-25,Thursday,00:03,Montreal,63de8e2869ba1c19473b4f0820d45595,16e avenue / St-Joseph,23,0
+Montreal-5I9McZsE,2024-07-25T06:03:09.294000Z,Dandurand/D'Iberville--8sipMFqe,2024-07-25,Thursday,00:03,Montreal,abb3423acb7a7fb732c04e14c19760ff,Dandurand / D'Iberville,15,4
+Montreal-rIImT8Ib,2024-07-25T05:54:31.352000Z,deChambly/Rachel--y1h6j8qw,2024-07-25,Thursday,00:03,Montreal,4248074bfe0e352b10c588b4c6db0b87,de Chambly / Rachel,19,3
+Montreal-MhEbHQWY,2024-07-25T05:54:31.469000Z,ParcJ.-Arthur-Champagne(deChambly/duMont-Royal)--Hg9pPJb5,2024-07-25,Thursday,00:03,Montreal,55d65d7aebf43cb52ab73c81ed816d06,Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),17,1
+Montreal-viHWDB1u,2024-07-25T05:54:32.660000Z,Robert-Bourassa/René-Lévesque--4RjJ8YwA,2024-07-25,Thursday,00:03,Montreal,4cc8089699bfd944c99c4fdef2e3c6ce,Robert-Bourassa / René-Lévesque,6,25
+Montreal-3Cd6q9mp,2024-07-25T06:03:08.276000Z,del'Esplanade/Beaubien--cy5qpNkX,2024-07-25,Thursday,00:03,Montreal,2cf8e66d9d9f38703f5e09b7bd82899a,de l'Esplanade / Beaubien,1,14
+Montreal-qe3elmFD,2024-07-25T05:54:32.394000Z,St-Dominique/deBellechasse--RchMRF6W,2024-07-25,Thursday,00:03,Montreal,b8fa3135508e1b6500591a38636be02e,St-Dominique / de Bellechasse,26,3
+Montreal-kYXXpR9w,2024-07-25T06:03:06.678000Z,deBordeaux/duMont-Royal--dAMVtveL,2024-07-25,Thursday,00:03,Montreal,470f6259142071d54eee382f4da4ee2d,de Bordeaux / du Mont-Royal,20,0
+Montreal-0Qzn0LSG,2024-07-25T05:54:33.885000Z,Fabre/Laurier--MrnTzkh4,2024-07-25,Thursday,00:03,Montreal,6a6ad173538b2384ab5819a233810d59,Fabre / Laurier,12,10
+Montreal-5KesjLpp,2024-07-25T06:03:06.766000Z,Garnier/duMont-Royal--WLWAJPPF,2024-07-25,Thursday,00:03,Montreal,bde04ef3459c5b0a53c33f33f75a7308,Garnier / du Mont-Royal,12,10
+Montreal-s7GN9Cbm,2024-07-25T05:54:31.869000Z,ParcPère-Marquette(Chambord/Rosemont)--1zPWkt3K,2024-07-25,Thursday,00:03,Montreal,a55042c1563ddaefa910fdd0553e594a,Parc Père-Marquette (Chambord / Rosemont),25,17
+Montreal-dv2HqRMw,2024-07-25T05:54:31.370000Z,8eavenue/Beaubien--6Wfz8hsQ,2024-07-25,Thursday,00:03,Montreal,d1a2127c31e824fd7f5080da7b9c72df,8e avenue / Beaubien,3,12
+Montreal-RE5J2bUm,2024-07-25T06:03:08.828000Z,Louis-Hémon/Jean-Talon--a0FpAAV6,2024-07-25,Thursday,00:03,Montreal,4ceb50ee99698a67059c58b4fa0a40f6,Louis-Hémon / Jean-Talon,12,7
+Montreal-0VY2ARk8,2024-07-25T05:54:31.052000Z,Drolet/Beaubien--vS8KFt1f,2024-07-25,Thursday,00:03,Montreal,02044f52405851c50980c20964349a5d,Drolet / Beaubien,2,20
+Montreal-XBqFTtw2,2024-07-25T05:54:35.036000Z,Brittany/Ainsley--S8JrYh0A,2024-07-25,Thursday,00:03,Montreal,0dcaca1327f9e25a991cda59b2f33ac5,Brittany / Ainsley,10,7
+Montreal-xR4RiE7o,2024-07-25T06:03:08.355000Z,deBordeaux/Jean-Talon--bmXvRYOj,2024-07-25,Thursday,00:03,Montreal,210bc54814f1bfa31dbcc85a81a5d434,de Bordeaux / Jean-Talon,17,1
+Montreal-4Dvg04V4,2024-07-25T06:03:06.706000Z,CollègeGrasset(Crémazie/ChristopheColomb)--1UP1iR33,2024-07-25,Thursday,00:03,Montreal,e5073e9271f19edd8b15d012a493c997,Collège Grasset (Crémazie / Christophe Colomb),0,0
+Montreal-LfW72zTH,2024-07-25T06:03:06.452000Z,Boyer/Everett--XzhuxqS5,2024-07-25,Thursday,00:03,Montreal,b3150d5e0b8ef9db81b4ff8588f3ac46,Boyer / Everett,14,9
+Montreal-7XIktNvS,2024-07-25T05:54:31.057000Z,deGaspé/Beaubien--oDpx2OkA,2024-07-25,Thursday,00:03,Montreal,412b6c7d157d69fcf39a8ec8a1269c69,de Gaspé / Beaubien,1,17
+Montreal-uugg1n1U,2024-07-25T05:54:31.167000Z,Hodge/Laperrière--JkNr6u4i,2024-07-25,Thursday,00:03,Montreal,3b1de0977d358e47a8b291dacb47d7e0,Hodge / Laperrière,9,9
+Montreal-CSTAJZGn,2024-07-25T05:54:31.784000Z,delaRoche/deBellechasse--IHxpH0u7,2024-07-25,Thursday,00:03,Montreal,840a8bdce0a97bfedb2d5eb6378b6663,de la Roche / de Bellechasse,9,6
+Montreal-b62mCh6H,2024-07-25T06:03:09.613000Z,MétroBeaubien(deChateaubriand/Beaubien)--cqt88IXu,2024-07-25,Thursday,00:03,Montreal,e0db7aad56ff4ad5c02148ffb2d5a594,Métro Beaubien (de Chateaubriand / Beaubien),10,16
+Montreal-ddDU8oeI,2024-07-25T06:03:06.850000Z,duPresident-Kennedy/Union--2hdvywF6,2024-07-25,Thursday,00:03,Montreal,fa5c754a52303327c38b54956e044594,du President-Kennedy / Union,0,23
+Montreal-TF5AIUTA,2024-07-25T06:03:07.689000Z,University/desPins--6IDypNCZ,2024-07-25,Thursday,00:03,Montreal,3ba6a488913f98c46cc18cf4d705307a,University / des Pins,7,24
+Montreal-DwGl8e0v,2024-07-25T05:54:31.488000Z,Darling/Sherbrooke--1ZSFuCEc,2024-07-25,Thursday,00:03,Montreal,9aaeb514f62c04faf6c442e0a3c422ee,Darling / Sherbrooke,20,3
+Montreal-HI0cuOyG,2024-07-25T05:54:31.229000Z,Drolet/St-Zotique--sNuAHdpb,2024-07-25,Thursday,00:03,Montreal,b0f4cfae8d6efd744b142c7f3140e5dc,Drolet / St-Zotique,19,3
+Montreal-VCpL5Vpy,2024-07-25T06:03:09.541000Z,Mackay/deMaisonneuve--8bpN2vDL,2024-07-25,Thursday,00:03,Montreal,63573412d9fe3de5f6c9f05ac9784a03,Mackay / de Maisonneuve,5,29
+Montreal-WW16jNzS,2024-07-25T06:03:07.662000Z,deMaisonneuve/Greene--dLhtuvk5,2024-07-25,Thursday,00:03,Montreal,ab124a371b47462db18406e94236bbcc,de Maisonneuve / Greene,4,13
+Montreal-k7YCCC69,2024-07-25T06:03:07.672000Z,Hillside/Ste-Catherine--OpMre616,2024-07-25,Thursday,00:03,Montreal,be47af9691772b0d9e5e4c9ac4303975,Hillside / Ste-Catherine,8,4
+Montreal-JOPWFNQA,2024-07-25T05:54:34.570000Z,Plessis/Logan--IwGfgF88,2024-07-25,Thursday,00:03,Montreal,444b2c83a68220fb68006e045ccc0604,Plessis / Logan,18,1
+Montreal-zxT1chzI,2024-07-25T05:54:34.989000Z,St-Jacques/McGill--h5O1Ts27,2024-07-25,Thursday,00:03,Montreal,4ef49918ba3b111a8bed6ad6205372ff,St-Jacques / McGill,0,31
+Montreal-1IY9HJYO,2024-07-25T05:54:33.917000Z,Émile-Journault/deChâteaubriand--woT0n4oD,2024-07-25,Thursday,00:03,Montreal,752f10c6830c88e75d136e6f92d5b506,Émile-Journault / de Châteaubriand,5,20
+Montreal-540blLNw,2024-07-25T06:03:07.371000Z,St-Jean/Guillaume--90ZP9MYU,2024-07-25,Thursday,00:03,Montreal,94a6f7a1e328b502771a17b9dfcd9c1a,St-Jean / Guillaume,7,6
+Montreal-UgoeLCG9,2024-07-25T06:03:09.645000Z,Hochelaga/Chapleau--4BTcXBay,2024-07-25,Thursday,00:03,Montreal,7af9d9872ca3053def29fba6b871e508,Hochelaga / Chapleau,11,8
+Montreal-qEZBNH7f,2024-07-25T06:03:11.053000Z,d'Orléans/Hochelaga--WcihWiOM,2024-07-25,Thursday,00:03,Montreal,abc59938b9cb3b7b75a77041e1e0ec93,d'Orléans / Hochelaga,12,7
+Montreal-7m4w9IHN,2024-07-25T05:54:34.234000Z,BibliothèquedeVerdun(Brown/Bannantyne)--j3ZqQFQ6,2024-07-25,Thursday,00:03,Montreal,63b38e64250435468c4f2982e222f8e1,Bibliothèque de Verdun (Brown / Bannantyne),11,4
+Montreal-MjtL6XPB,2024-07-25T05:54:33.289000Z,MétrodeCastelnau(deCastelnau/St-Laurent)--yPdpWqij,2024-07-25,Thursday,00:03,Montreal,6d4d1b4bf1bb36d1af4c681a0a50c41d,Métro de Castelnau (de Castelnau / St-Laurent),13,10
+Montreal-VKAt5H5j,2024-07-25T06:03:09.661000Z,Bishop/René-Lévesque--KSVLFvy8,2024-07-25,Thursday,00:03,Montreal,f3ce3c900dc4e731c183f40e8a7e043c,Bishop / René-Lévesque,15,15
+Montreal-qXZ3qOU2,2024-07-25T05:54:35.182000Z,GrandBoulevard/Sherbrooke--ggHeSqV4,2024-07-25,Thursday,00:03,Montreal,0ee14b7beea8a04c2f0e034ea91f5c02,Grand Boulevard / Sherbrooke,15,4
+Montreal-5Llqylbj,2024-07-25T06:03:11.136000Z,Dézéry/Ontario--eeDYAFZk,2024-07-25,Thursday,00:03,Montreal,f9cf3e6c91e86cf471029dd10f61f34f,Dézéry / Ontario,18,9
+Montreal-3n3lTdrJ,2024-07-25T05:54:34.422000Z,HôpitalMaisonneuve-Rosemont(Rosemont/Chatelain)--AkNpqgDd,2024-07-25,Thursday,00:03,Montreal,8661cea9ae725868605cd27fbe516bf7,Hôpital Maisonneuve-Rosemont (Rosemont / Chatelain),5,30
+Montreal-uxSqGJiQ,2024-07-25T05:54:33.190000Z,Lincoln/St-Mathieu--bWifLJrc,2024-07-25,Thursday,00:03,Montreal,763350ee25e0bd7d5733dc7bef6c4016,Lincoln / St-Mathieu,22,0
+Montreal-0Et6KUBC,2024-07-25T05:54:31.220000Z,4eavenue/deVerdun--m6678oB2,2024-07-25,Thursday,00:03,Montreal,45e640a085d42dd6f43cbd4a625f5b3a,4e avenue / de Verdun,2,13
+Montreal-loALbWcj,2024-07-25T06:03:10.223000Z,Dubois/Eadie--xobFTstQ,2024-07-25,Thursday,00:03,Montreal,bbc440214ed13ddb8a0aeb3951c418ce,Dubois / Eadie,17,6
+Montreal-AoLyEtDv,2024-07-25T05:54:32.841000Z,deGaspé/Villeray--MS4cWvAK,2024-07-25,Thursday,00:03,Montreal,3dca829b40cecd52c3e06acebea5951f,de Gaspé / Villeray,17,2
+Montreal-24AOmG6q,2024-07-25T05:54:32.939000Z,Marcil/Sherbrooke--CWGVoihv,2024-07-25,Thursday,00:03,Montreal,a75be8f4ffb85d6f4a0996617a2d7f0d,Marcil / Sherbrooke,13,12
+Montreal-ksQLObTy,2024-07-25T06:03:07.792000Z,Leman/deChateaubriand--X6R6Oxg9,2024-07-25,Thursday,00:03,Montreal,f76cd926206a1cd0b4e196175097bca7,Leman / de Chateaubriand,17,1
+Montreal-02UGOGn8,2024-07-25T06:03:06.477000Z,Harvard/deMonkland--OaKKNo0l,2024-07-25,Thursday,00:03,Montreal,546bc36b10be0b09de4a907c9d60ad78,Harvard / de Monkland,18,1
+Montreal-SZUULavx,2024-07-25T06:03:06.973000Z,William/St-Henri--JvAJegCq,2024-07-25,Thursday,00:03,Montreal,52c14dac195f954a63d50779213fa80f,William / St-Henri,9,6
+Montreal-oKo0B2j3,2024-07-25T06:03:09.349000Z,d'Orléans/Masson--fG8EFwE0,2024-07-25,Thursday,00:03,Montreal,62ae697614fc30933f67aa117dcae40a,d'Orléans / Masson,9,10
+Montreal-LSVQ5MUB,2024-07-25T05:54:34.176000Z,CollègedeRosemont(Beaubien/15eavenue)--NMEPxg1F,2024-07-25,Thursday,00:03,Montreal,700cf042fd8763ec6c702d94d5b6689b,Collège de Rosemont (Beaubien / 15e avenue),11,12
+Montreal-N5SRqmYm,2024-07-25T06:03:07.929000Z,deChambly/deRouen--d53pk2ct,2024-07-25,Thursday,00:03,Montreal,effefa0f14c517d8e55f61eece0d2456,de Chambly / de Rouen,1,10
+Montreal-KHJiJy5o,2024-07-25T05:54:34.497000Z,Boileau/Monsabré--rB2iMyxi,2024-07-25,Thursday,00:03,Montreal,65a230476948d7237e13778a580b5834,Boileau / Monsabré,6,9
+Montreal-e0YwdJcV,2024-07-25T06:03:08.431000Z,Laval/Duluth--4RobFPTn,2024-07-25,Thursday,00:03,Montreal,f0aed79f067fad49c9ac4f53a5f5887d,Laval / Duluth,26,1
+Montreal-pB8YeXxl,2024-07-25T05:54:34.671000Z,deBrébeuf/duMont-Royal--FlPV3RzR,2024-07-25,Thursday,00:03,Montreal,d350861395106b1f647488dc72691a9a,de Brébeuf / du Mont-Royal,4,17
+Montreal-ofQuBZ3h,2024-07-25T06:03:08.820000Z,Drummond/Sherbrooke--HIUzU1Js,2024-07-25,Thursday,00:03,Montreal,1206ac092d556059549010db47abaf52,Drummond / Sherbrooke,1,22
+Montreal-k3VhyOOd,2024-07-25T06:03:10.674000Z,Stinson/Montpellier--jUEvecUq,2024-07-25,Thursday,00:03,Montreal,bf2d442f3613b81c253c392cc62e07f8,Stinson / Montpellier,17,2
+Montreal-7db7N55x,2024-07-25T06:03:06.429000Z,Garnier/Villeray--9nvowaC3,2024-07-25,Thursday,00:03,Montreal,20337f912d744698fe7062d1d17badb6,Garnier / Villeray,22,1
+Montreal-Zvc9B3z2,2024-07-25T05:54:34.691000Z,Marie-Anne/delaRoche--BbChNRGI,2024-07-25,Thursday,00:03,Montreal,51cada9ae1043ecc00fa98b7439b11f2,Marie-Anne / de la Roche,19,0
+Montreal-xWQW2HJg,2024-07-25T06:03:07.808000Z,Drolet/Gounod--o78fdegq,2024-07-25,Thursday,00:03,Montreal,f2d6d41e38a65211b2fd584441f2187b,Drolet / Gounod,16,3
+Montreal-dUHJZVnR,2024-07-25T06:03:06.898000Z,Villeneuve/St-Dominique--2vF0NQSn,2024-07-25,Thursday,00:03,Montreal,72f618e3939e7198ce6fd85de4fb2a19,Villeneuve / St-Dominique,21,2
+Montreal-VASKs7VK,2024-07-25T06:03:07.076000Z,Panet/Ste-Catherine--qskspb4v,2024-07-25,Thursday,00:03,Montreal,dd91bdd195e053a5aa09a0b717d60a9d,Panet / Ste-Catherine,21,2
+Montreal-fBtD73tE,2024-07-25T05:54:32.081000Z,Waverly/Beaumont--FUJBTof8,2024-07-25,Thursday,00:03,Montreal,d876da4cd1a0b45465c15ce25aa2f3d0,Waverly / Beaumont,8,11
+Montreal-wqHtc21U,2024-07-25T05:54:33.576000Z,Redpath/Sherbrooke--lni1bJk8,2024-07-25,Thursday,00:03,Montreal,96fab1a8de19e436e8020d1d111c4983,Redpath / Sherbrooke,14,5
+Montreal-pjcuqfJE,2024-07-25T06:03:10.476000Z,delaRoche/Laurier--1xajhJR9,2024-07-25,Thursday,00:03,Montreal,0954cc13ccb351a993b24ca22568d487,de la Roche / Laurier,17,1
+Montreal-nvJ0EyRA,2024-07-25T05:54:31.803000Z,Jean-Rivard/duCirque--iub3czfO,2024-07-25,Thursday,00:03,Montreal,7a293e38d7d7eba3bd8a92b53d216cff,Jean-Rivard / du Cirque,5,18
+Montreal-9K2DEOeO,2024-07-25T06:03:07.797000Z,deGaspé/Jarry--wXYyoJ3g,2024-07-25,Thursday,00:03,Montreal,9ecb8a131a495aaf4da25f65ecba463c,de Gaspé / Jarry,3,9
+Montreal-OXu4QGul,2024-07-25T06:03:10.481000Z,Gilford/Papineau--W8PA3pIf,2024-07-25,Thursday,00:03,Montreal,66617bd74517390afa5e9bbb70c0c005,Gilford / Papineau,14,1
+Montreal-JWK4Lp4e,2024-07-25T06:03:07.017000Z,St-Hubert/René-Levesque--sKPtaF0O,2024-07-25,Thursday,00:03,Montreal,d6260b445fd12c05d79f9ca717d9fdf4,St-Hubert / René-Levesque,5,13
+Montreal-skguzjUt,2024-07-25T06:03:07.264000Z,Alexandre-DeSève/Ste-Catherine--GBJJlaQc,2024-07-25,Thursday,00:03,Montreal,30d2251a5296e82fbebdad1ed2b0531f,Alexandre-DeSève / Ste-Catherine,9,10
+Montreal-JAd4ghtm,2024-07-25T05:54:31.326000Z,Clark/Evans--fxmlaKEz,2024-07-25,Thursday,00:03,Montreal,b14f3b43700ef9bd02f0c1b1a20c78e4,Clark / Evans,6,13
+Montreal-oG22FmCm,2024-07-25T06:03:08.655000Z,Hogan/Ontario--ixUHlmbH,2024-07-25,Thursday,00:03,Montreal,fcfc74103d76278470783dd40eb081d7,Hogan / Ontario,9,2
+Montreal-1uREHxqo,2024-07-25T05:54:31.778000Z,Drummond/Ste-Catherine--RQaILVP2,2024-07-25,Thursday,00:03,Montreal,a62673db1aed74d788b1b30ab280f441,Drummond / Ste-Catherine,15,35
+Montreal-3rBXPuht,2024-07-25T06:03:10.503000Z,Hotel-de-Ville/duMont-Royal--ZPQlQdQO,2024-07-25,Thursday,00:03,Montreal,11e59e3e7821d495304f9959cac4209b,Hotel-de-Ville / du Mont-Royal,17,1
+Montreal-Ly2B7Na8,2024-07-25T05:54:34.151000Z,delaSorbonne/duRousillon--Y5HoFb4t,2024-07-25,Thursday,00:03,Montreal,6f7554b9a062cc5cb90c32a52088e4b4,de la Sorbonne / du Rousillon,17,6
+Montreal-gT2JwxkB,2024-07-25T05:54:32.790000Z,St-Laurent/deChambly--U3gdp9Ix,2024-07-25,Thursday,00:03,Montreal,a0b71d10079c772cc2639c5989535d77,St-Laurent / de Chambly,1,16
+Montreal-S1Cc0hRn,2024-07-25T06:03:06.700000Z,St-Patrick/Thomas-Keefer--TDbfWYCv,2024-07-25,Thursday,00:03,Montreal,98dc497008cbacb892a567bcbf7b20c5,St-Patrick / Thomas-Keefer,3,28
+Montreal-dJGDljnP,2024-07-25T06:03:10.576000Z,McGill/Placed'Youville--ANXisr2L,2024-07-25,Thursday,00:03,Montreal,ad02c113d53bcf71879ead7fe067e381,McGill / Place d'Youville,0,28
+Montreal-CHC2AJlg,2024-07-25T06:03:09.025000Z,Union/René-Lévesque--vwYiC5yL,2024-07-25,Thursday,00:03,Montreal,3fb98eb97376c1da65b2d35fd12cac36,Union / René-Lévesque,2,25
+Montreal-jMCmUhYJ,2024-07-25T06:03:08.456000Z,deLanaudière/duMont-Royal--5AnsX8lE,2024-07-25,Thursday,00:03,Montreal,b4d7848efa570de415e957a27cd538df,de Lanaudière / du Mont-Royal,20,8
+Montreal-0SVdrw8v,2024-07-25T05:54:32.509000Z,LeRoyer/St-Laurent--Vam5OwVY,2024-07-25,Thursday,00:03,Montreal,e254efd043e05eb2cae496c2e3ca6bc7,Le Royer / St-Laurent,1,17
+Montreal-fyPgzneg,2024-07-25T05:54:32.559000Z,St-Dominique/duMont-Royal--QDhiYAlE,2024-07-25,Thursday,00:03,Montreal,fb0e0b07f01088a5b79550e0d0c02700,St-Dominique / du Mont-Royal,18,4
+Montreal-sg0SkRMy,2024-07-25T06:03:08.659000Z,CollègeBois-de-Boulogne(Bois-de-Boulogne)--fps8EjmM,2024-07-25,Thursday,00:03,Montreal,b9ebbf013bec10bb1990b6b8c81368ba,Collège Bois-de-Boulogne (Bois-de-Boulogne),21,3
+Montreal-tspZ1JVq,2024-07-25T06:03:10.258000Z,Metcalfe/deMaisonneuve--Jwho4dw8,2024-07-25,Thursday,00:03,Montreal,6a8a8cf1c82c71f14bb2fb57e2638f23,Metcalfe / de Maisonneuve,3,20
+Montreal-leFiJ6FF,2024-07-25T06:03:08.208000Z,Laurier/St-Denis--iWG4aygs,2024-07-25,Thursday,00:03,Montreal,3431652539e74854f532354fce307481,Laurier / St-Denis,11,17
+Montreal-qSZd3sd0,2024-07-25T06:03:08.805000Z,Chabanel/Esplanade--FbyiKkY3,2024-07-25,Thursday,00:03,Montreal,4958ba9fe75edc660b87802767fc708b,Chabanel / Esplanade,1,23
+Montreal-2qWFlcvp,2024-07-25T05:54:31.733000Z,Wellington/Gordon--R8YlVHAA,2024-07-25,Thursday,00:03,Montreal,be9e290901bb0caf85b3677f3cadce8c,Wellington / Gordon,1,26
+Montreal-sxiJtYMw,2024-07-25T05:54:33.317000Z,Wellington/del'Église--3IPw0PvY,2024-07-25,Thursday,00:03,Montreal,fd89cdd1f8e317c983324a2ebac72f93,Wellington / de l'Église,1,22
+Montreal-J0aXhhAW,2024-07-25T05:54:32.983000Z,Bishop/Ste-Catherine--QA4fU3Yx,2024-07-25,Thursday,00:03,Montreal,1da03a5906f4fcf3ca132918441c9473,Bishop / Ste-Catherine,1,22
+Montreal-Kl7eoNQm,2024-07-25T05:54:31.739000Z,Wellington/3eavenue--lGjGxOrl,2024-07-25,Thursday,00:03,Montreal,0a4faa21a6c8b8fd1e207a603a22e1b6,Wellington / 3e avenue,9,10
+Montreal-nhYtEpkN,2024-07-25T05:54:32.332000Z,Marmier/St-Denis--EXDrhXOB,2024-07-25,Thursday,00:03,Montreal,e64a882ebb68a6efea61667b1cb0a4dc,Marmier / St-Denis,17,10
+Montreal-1UpZk0dt,2024-07-25T06:03:06.915000Z,Berri/Gilford--xuOtD0eh,2024-07-25,Thursday,00:03,Montreal,4bcedc187f3fcb947aa53ad9fec7a98e,Berri / Gilford,14,6
+Montreal-7KNnYpyd,2024-07-25T06:03:07.116000Z,Earnscliffe/Queen-Mary--W1AzTx88,2024-07-25,Thursday,00:03,Montreal,3200daa19ecbfb6ef7bc4a9b3a034696,Earnscliffe / Queen-Mary,14,8
+Montreal-9vzss4cb,2024-07-25T05:54:31.186000Z,Notre-Dame-de-Grâce/Décarie--FSquxi6v,2024-07-25,Thursday,00:03,Montreal,0aca46eec30a812600d7301e3a20bbdb,Notre-Dame-de-Grâce / Décarie,15,0
+Montreal-wQv9lB3C,2024-07-25T06:03:10.469000Z,Roy/St-Denis--iTedbuXz,2024-07-25,Thursday,00:03,Montreal,96a5e4d69af8dd5259395b6843a6f252,Roy / St-Denis,24,2
+Montreal-9JsnylEg,2024-07-25T05:54:32.962000Z,ParcJeanne-Mance(monumentsirGeorge-Étienne-Cartier)--fkLLzjz8,2024-07-25,Thursday,00:03,Montreal,b7ea33e5396a99849c76067836da7f21,Parc Jeanne-Mance (monument sir George-Étienne-Cartier),23,21
+Montreal-0INzhI61,2024-07-25T06:03:08.631000Z,ParcHoward(del'Épée/deLiège)--ykAO0DVY,2024-07-25,Thursday,00:03,Montreal,05d84e15f73c72c1037f6c978bffe09e,Parc Howard (de l'Épée / de Liège),10,10
+Montreal-03KRd07P,2024-07-25T06:03:08.509000Z,delaCathédrale/René-Lévesque--ZB9LK7nm,2024-07-25,Thursday,00:03,Montreal,89894b4d62ba4bf8ee24db691986876a,de la Cathédrale / René-Lévesque,3,28
+Montreal-ZPP1mk4g,2024-07-25T06:03:09.837000Z,LaTourdeMontréal(Pierre-de-Coubertin/Bennett)--0bQOJbeP,2024-07-25,Thursday,00:03,Montreal,0d4d6ab1ff41bf892ecbb0e09a8e2f40,La Tour de Montréal (Pierre-de-Coubertin / Bennett),7,16
+Montreal-axEoOqnj,2024-07-25T05:54:33.561000Z,d'Anvers/Wiseman--iMk8QEKd,2024-07-25,Thursday,00:03,Montreal,e70051a13465431ea81f30bf8b890772,d'Anvers / Wiseman,6,13
+Montreal-OBjjuEwU,2024-07-25T05:54:33.347000Z,Chabot/Beaubien--xkvjdrwa,2024-07-25,Thursday,00:03,Montreal,d593a2669ae3b83f275ccfc7b9a679f5,Chabot / Beaubien,8,7
+Montreal-sjwYTZFB,2024-07-25T06:03:08.865000Z,Parthenais/Larivière--q5zFGz8F,2024-07-25,Thursday,00:03,Montreal,0da087166a30e11c66a497de37fbf4e5,Parthenais / Larivière,19,11
+Montreal-dluTGAE4,2024-07-25T06:03:06.856000Z,St-Jacques/Gauvin--LMqqHGa8,2024-07-25,Thursday,00:03,Montreal,86fbafe757178e7908097abe2491e53a,St-Jacques / Gauvin,6,13
+Montreal-dOxJBVKG,2024-07-25T06:03:06.692000Z,St-Cuthbert/Clark--LNyTiM2W,2024-07-25,Thursday,00:03,Montreal,4d7a62e76ec32939ff122c582158f615,St-Cuthbert / Clark,16,2
+Montreal-nUL1h3Ar,2024-07-25T06:03:10.600000Z,Henri-Julien/duMont-Royal--NVsLVq4T,2024-07-25,Thursday,00:03,Montreal,fbdbf6d3b1a343b0855ff58cd4f68682,Henri-Julien / du Mont-Royal,21,5
+Montreal-Rsdz49qp,2024-07-25T05:54:31.837000Z,Boyer/St-Zotique--5eq3bPlo,2024-07-25,Thursday,00:03,Montreal,8ae3e4d2cea361a6ad7f35890c20cef8,Boyer / St-Zotique,13,13
+Montreal-PMKMF2ie,2024-07-25T05:54:32.690000Z,Crescent/deMaisonneuve--k0lwNhOl,2024-07-25,Thursday,00:03,Montreal,f046d7c00aae3ff92c702141f6475fe9,Crescent / de Maisonneuve,10,13
+Montreal-bkkHgicM,2024-07-25T05:54:33.642000Z,Bennett/Ste-Catherine--AMptuv7k,2024-07-25,Thursday,00:03,Montreal,e61bdf615b9672bd815d52f210429d3c,Bennett / Ste-Catherine,10,11
+Montreal-XKGJySqE,2024-07-25T06:03:08.988000Z,Marianne/deLorimier--OFYQnF88,2024-07-25,Thursday,00:03,Montreal,6d68b66f02a9d23d3677022201b9cd0e,Marianne / de Lorimier,35,1
+Montreal-fuBAdyLG,2024-07-25T05:54:33.602000Z,St-Dominique/St-ViateurNord--2fEmACg1,2024-07-25,Thursday,00:03,Montreal,de4cb1d24f03cefaac0f534a87244af5,St-Dominique / St-Viateur Nord,2,21
+Montreal-ttj5jQNp,2024-07-25T06:03:09.154000Z,St-Timothée/Ste-Catherine--udC31gZP,2024-07-25,Thursday,00:03,Montreal,e8aa2e0708e7988d653b71954682b1a3,St-Timothée / Ste-Catherine,1,21
+Montreal-ySky2XvA,2024-07-25T05:54:31.900000Z,Victoria/39eavenue--TeHRlNFu,2024-07-25,Thursday,00:03,Montreal,a1be5dde43074cbcb300df4a0e8a5b1f,Victoria / 39e avenue,11,2
+Montreal-FsOSE8rV,2024-07-25T06:03:08.613000Z,Principale/Jean-Duceppe--W0xeOfDe,2024-07-25,Thursday,00:03,Montreal,54a78378f9286d9364415a2dafde55cf,Principale / Jean-Duceppe,5,13
+Montreal-W14DtTze,2024-07-25T06:03:08.616000Z,TerminusSte-Julie(Armand-Frappier)--j1W4JH3u,2024-07-25,Thursday,00:03,Montreal,7eaed8b1ce01c3b8b10f735b4258e1a6,Terminus Ste-Julie (Armand-Frappier),11,6
+Montreal-zi3i0cJn,2024-07-25T06:03:08.623000Z,N.-P.Lapierre/Armand-Frappier--DYQHbdzw,2024-07-25,Thursday,00:03,Montreal,8a5da1c02ad5003a97fd26053387b75d,N.-P. Lapierre / Armand-Frappier,5,10
+Montreal-9g69w0O8,2024-07-25T06:03:08.626000Z,duFer-à-Cheval/desHauts-Bois--IulNKrgY,2024-07-25,Thursday,00:03,Montreal,e258f7121ea3d797a8ed6f9189b3e124,du Fer-à-Cheval / des Hauts-Bois,10,5
+Montreal-VQGCcak4,2024-07-25T06:03:08.634000Z,St-Joseph/Lamoureux--twBwYP1k,2024-07-25,Thursday,00:03,Montreal,22b4a3c40dd230168c9aea809bea77ee,St-Joseph / Lamoureux,6,9
+Montreal-B44OdYv7,2024-07-25T05:54:34.196000Z,Keller/Cousineau--cVa4Xyha,2024-07-25,Thursday,00:03,Montreal,44adc0060274b501029d4c79042c349c,Keller / Cousineau,6,9
+Montreal-bZR3wq4j,2024-07-25T06:03:06.797000Z,desÉrables/Beaubien--NqwTVRep,2024-07-25,Thursday,00:03,Montreal,ada592070105d405d209cba9c4955699,des Érables / Beaubien,12,11
+Montreal-O6ZSrGFi,2024-07-25T06:03:09.093000Z,CasinodeMontréal--MnTkw5Ai,2024-07-25,Thursday,00:03,Montreal,517c47dab7563036263420e5eb1526a6,Casino de Montréal,15,19
+Montreal-givbOudr,2024-07-25T05:54:31.516000Z,Bassinolympique(CheminduChenalleMoyne)--IifpIUmF,2024-07-25,Thursday,00:03,Montreal,85ae63e650e620f403ad900a2f1659ac,Bassin olympique (Chemin du Chenal le Moyne),15,4
+Montreal-tbykOIEw,2024-07-25T06:03:08.010000Z,ParcPlage--ojtwLUxj,2024-07-25,Thursday,00:03,Montreal,bd2fc7309def1255bf1611e25cd176f7,Parc Plage,4,13
+Montreal-qJXx92T6,2024-07-25T06:03:10.061000Z,St-Dominique/Rachel--eYQuWHNc,2024-07-25,Thursday,00:03,Montreal,99c56b488e272275ff3b92a0984f3129,St-Dominique / Rachel,5,18
+Montreal-BkALy4G7,2024-07-25T05:54:32.991000Z,Duluth/del'Esplanade--cps0o3Ud,2024-07-25,Thursday,00:03,Montreal,e59b690dd831bd4a6e8637c8dccd306b,Duluth / de l'Esplanade,19,8
+Montreal-YBtwukKs,2024-07-25T06:03:10.704000Z,delaPortedeQuébec/St-André--SDlpoF6H,2024-07-25,Thursday,00:03,Montreal,7244dde4977180daca1765d2c6c82c1a,de la Porte de Québec / St-André,19,4
+Montreal-osyVCLCk,2024-07-25T05:54:32.521000Z,Jean-d’Estrées/Notre-Dame--VmnDjPBz,2024-07-25,Thursday,00:03,Montreal,99fbd521c0096dc0e66c1cd1eecfeb86,Jean-d’Estrées / Notre-Dame,3,20
+Montreal-jRIjw2Kd,2024-07-25T06:03:10.777000Z,Atateken/duSquareAmherst--JM7T0LkN,2024-07-25,Thursday,00:03,Montreal,941a78ce4ad8c4ab81ecd5601f768567,Atateken / du Square Amherst,5,14
+Montreal-FaJbp9QZ,2024-07-25T06:03:07.518000Z,deMentana/duMont-Royal--QeTisCyC,2024-07-25,Thursday,00:03,Montreal,79648258923bbd7c3ead41c36ebad5fa,de Mentana / du Mont-Royal,19,4
+Montreal-t8oGGteT,2024-07-25T06:03:08.065000Z,Plessis/René-Lévesque--cVV4umaS,2024-07-25,Thursday,00:03,Montreal,194e4f5ad2d202fad26fed69af6db071,Plessis / René-Lévesque,15,0
+Montreal-5E4Gx7QV,2024-07-25T06:03:10.803000Z,St-André/Ontario--PcAQM68A,2024-07-25,Thursday,00:03,Montreal,6251ff1e68672d14ccd94dd4d5d86680,St-André / Ontario,6,13
+Montreal-FVYJRQgI,2024-07-25T06:03:08.924000Z,Drolet/Marie-Anne--vmB3zR6M,2024-07-25,Thursday,00:03,Montreal,b299bc3f5212ba3e717cf5916ce62b37,Drolet / Marie-Anne,12,5
+Montreal-RT2jhWHH,2024-07-25T06:03:11.923000Z,Cartier/Masson--A2LSZPlU,2024-07-25,Thursday,00:03,Montreal,e808e34ff5776ce71318665babc70571,Cartier / Masson,19,0
+Montreal-mzeFgIrv,2024-07-25T06:03:08.052000Z,René-Lévesque/Papineau--AcO2IJQg,2024-07-25,Thursday,00:03,Montreal,0d4eff17975078517d6779b678d99fa3,René-Lévesque / Papineau,6,33
+Montreal-kVncpmOe,2024-07-25T06:03:07.301000Z,Montcalm/deMaisonneuve--8hGI6byi,2024-07-25,Thursday,00:03,Montreal,087ebaee08c22fcceddf4c659711fc06,Montcalm / de Maisonneuve,12,3
+Montreal-OYigUpzy,2024-07-25T06:03:10.730000Z,Sanguinet/deMaisonneuve--hiLjnIJL,2024-07-25,Thursday,00:03,Montreal,1423a9915aee85faaf67acb0b093723d,Sanguinet / de Maisonneuve,6,25
+Montreal-1T65wGRe,2024-07-25T05:54:32.976000Z,SquareSt-Louis(duSquareSt-Louis/Laval)--WaTDM2xt,2024-07-25,Thursday,00:03,Montreal,4cfa37d30555ab9641249939855931ed,Square St-Louis (du Square St-Louis / Laval),24,9
+Montreal-w2FSSPsx,2024-07-25T05:54:30.890000Z,Ste-Catherine/Sanguinet--UFI2Jfci,2024-07-25,Thursday,00:03,Montreal,a275d1e1d0b9582f2b705053e47f7c98,Ste-Catherine / Sanguinet,5,33
+Montreal-KjFjdtfY,2024-07-25T06:03:10.514000Z,McGill/Wellington--0ihLAwBT,2024-07-25,Thursday,00:03,Montreal,021186cc14acfe5a05a3d4b5cc35ff8a,McGill / Wellington,6,25
+Montreal-z37v7OFc,2024-07-25T05:54:34.723000Z,Fairmount/Hutchison--29u9Cl1V,2024-07-25,Thursday,00:03,Montreal,2b25484ef818ccbdc7fcffa35d738af1,Fairmount / Hutchison,9,14
+Montreal-rNQtDDEN,2024-07-25T06:03:11.349000Z,Milton/St-Laurent--6WNi180o,2024-07-25,Thursday,00:03,Montreal,ac6fa8afc91dfeaaf3749f5894324039,Milton / St-Laurent,14,4
+Montreal-5fDNMoOl,2024-07-25T05:54:30.772000Z,Aylmer/Prince-Arthur--4IzZXY2g,2024-07-25,Thursday,00:03,Montreal,f6ab2306a49dab9b89f6c9b84ba9db2a,Aylmer / Prince-Arthur,13,10
+Montreal-z7Bqcdsz,2024-07-25T06:03:10.850000Z,ThéâtreduVieux-Terrebonne(St-Pierre/desBraves)--EAqTD4kB,2024-07-25,Thursday,00:03,Montreal,be7eb9139288d63ecd637cbd4d52f05f,Théâtre du Vieux-Terrebonne (St-Pierre / des Braves),10,9
+Montreal-nMekbsrn,2024-07-25T06:03:09.148000Z,deMonaco/duSouvenir--aFz9gnqU,2024-07-25,Thursday,00:03,Montreal,dbab0580c518f74b2ada9ef05f950048,de Monaco / du Souvenir,12,7
+Montreal-0rdU8hvN,2024-07-25T06:03:09.112000Z,Prince-Arthur/St-Urbain--IAXOnvc5,2024-07-25,Thursday,00:03,Montreal,fe77f880822f92a0a42808bd376e76b9,Prince-Arthur / St-Urbain,27,8
+Montreal-3avtUU15,2024-07-25T05:54:31.173000Z,Lincoln/St-Marc--JetZQXKQ,2024-07-25,Thursday,00:03,Montreal,510b38e820d976949a741fdd95dcd284,Lincoln / St-Marc,17,0
+Montreal-ySEp3aQo,2024-07-25T06:03:07.973000Z,duParc/François-Foucault--3YAGas25,2024-07-25,Thursday,00:03,Montreal,adcc113a6107f597a756571d11b252fc,du Parc / François-Foucault,17,7
+Montreal-C7AkiTLB,2024-07-25T06:03:11.102000Z,deBordeaux/St-Joseph--dfGzQRa4,2024-07-25,Thursday,00:03,Montreal,49c9b3c0647532585351cd5b45c8f5d0,de Bordeaux / St-Joseph,17,2
+Montreal-i9FNFwaw,2024-07-25T06:03:08.290000Z,ParcMaisonneuve(Viau/Sherbrooke)--6G5JQiv0,2024-07-25,Thursday,00:03,Montreal,66bb98a5d35f74c7cc6f5951b7c78e4f,Parc Maisonneuve (Viau / Sherbrooke),4,16
+Montreal-4nAygryQ,2024-07-25T05:54:34.650000Z,St-Roch/Querbes--hzdELWgn,2024-07-25,Thursday,00:03,Montreal,5888dbd4c0c3b570a60df325c0b116f7,St-Roch / Querbes,9,9
+Montreal-pgr8sJVr,2024-07-25T06:03:07.215000Z,St-Sylvestre/St-Charles--puziCXlS,2024-07-25,Thursday,00:03,Montreal,94061cd13934f9203606938cc6de14ad,St-Sylvestre / St-Charles,18,5
+Montreal-hJdEsTvC,2024-07-25T06:03:08.609000Z,Édouard-Montpetit/deStirling--hu2R3BQq,2024-07-25,Thursday,00:03,Montreal,1a6cce3eab1bb6fe36200756ff663389,Édouard-Montpetit / de Stirling,8,19
+Montreal-isufDSEO,2024-07-25T05:54:30.916000Z,Guy/Notre-Dame--UbtNf81a,2024-07-25,Thursday,00:03,Montreal,d0763017557c70a8115ad0ccc7f8b7b4,Guy / Notre-Dame,5,22
+Montreal-qhgq4RTF,2024-07-25T05:54:34.964000Z,deKent/Hudson--6m2vMG0B,2024-07-25,Thursday,00:03,Montreal,4e36c47fbe40dde66e2008c3ccb42fc4,de Kent / Hudson,19,7
+Montreal-yGOintYt,2024-07-25T05:54:34.844000Z,Charles-Biddle/Atwater--1Pz1IYWH,2024-07-25,Thursday,00:03,Montreal,e7cf848f2c4a0ef5407cefb7b9099d52,Charles-Biddle / Atwater,2,16
+Montreal-Jdl7xkv6,2024-07-25T05:54:34.445000Z,Villeneuve/duParc--NRad1dba,2024-07-25,Thursday,00:03,Montreal,efd0f237800e412805e3242c7d4a8702,Villeneuve / du Parc,13,1
+Montreal-f0HCfWbE,2024-07-25T06:03:07.977000Z,Ann/Wellington--11AU9b3X,2024-07-25,Thursday,00:03,Montreal,5d34923536095ea13e134f9d89da258f,Ann / Wellington,7,8
+Montreal-Pji2JT2E,2024-07-25T05:54:34.016000Z,d'Aragon/Springland--b1c3wOPJ,2024-07-25,Thursday,00:03,Montreal,b7ec3e53e512a19b78956911f5a94268,d'Aragon / Springland,5,14
+Montreal-7HDBbcQ1,2024-07-25T05:54:31.201000Z,Eadie/Galt--WY6Ee0k5,2024-07-25,Thursday,00:03,Montreal,bfd327f113e8c0444550291f93ef8e59,Eadie / Galt,17,2
+Montreal-HruiOiUw,2024-07-25T05:54:33.204000Z,MountainSights/Édouard-Montpetit--rvrxO9sa,2024-07-25,Thursday,00:03,Montreal,6a492b6e52d07b8efff179530ddb12a6,Mountain Sights / Édouard-Montpetit,3,16
+Montreal-ccRZoSOW,2024-07-25T05:54:33.118000Z,Ste-Émilie/Sir-Georges-Etienne-Cartier--OiC56Wz7,2024-07-25,Thursday,00:03,Montreal,a3b2ff8cca496a88381a6d7427782945,Ste-Émilie / Sir-Georges-Etienne-Cartier,8,15
+Montreal-yznFbYeV,2024-07-25T05:54:34.221000Z,Coffee/Elmhurst--wV0itaw9,2024-07-25,Thursday,00:03,Montreal,022aa88409f3c51f9b7ae91d23161db9,Coffee / Elmhurst,8,11
+Montreal-po3gMUlO,2024-07-25T06:03:06.892000Z,deBordeaux/Masson--2Zn0fPNl,2024-07-25,Thursday,00:03,Montreal,a6bf77e4bebacc670f33d24738bcd9e3,de Bordeaux / Masson,9,10
+Montreal-kkL9MxjT,2024-07-25T06:03:10.963000Z,ParcHector-Toe-Blake(duSussex/René-Lévesque)--9qksryIR,2024-07-25,Thursday,00:03,Montreal,5ad09b42649304cdf005bb37671e1ee1,Parc Hector-Toe-Blake (du Sussex / René-Lévesque),14,3
+Montreal-iLqc7va8,2024-07-25T05:54:34.928000Z,Hamilton/Jolicoeur--jCXmKGaR,2024-07-25,Thursday,00:03,Montreal,01eb2ebf1d0478ffdc9ea49c43a4b7ae,Hamilton / Jolicoeur,10,3
+Montreal-SUH19KNZ,2024-07-25T05:54:31.270000Z,Lincoln/duFort--Vqzr37op,2024-07-25,Thursday,00:03,Montreal,721d4295690082912ec62a1f820d096f,Lincoln / du Fort,18,1
+Montreal-5Xeq9ju1,2024-07-25T05:54:31.384000Z,15eavenue/Dandurand--IJ9CqzeD,2024-07-25,Thursday,00:03,Montreal,ea4d52ca3fb9cacf1c912989b03d0944,15e avenue / Dandurand,19,4
+Montreal-gsXDwxNM,2024-07-25T05:54:31.424000Z,Molson/Beaubien--c0fiAEW3,2024-07-25,Thursday,00:03,Montreal,4ba1659b4edb0baa99268a208f028b86,Molson / Beaubien,14,9
+Montreal-eJPlWU3i,2024-07-25T06:03:08.700000Z,Montmorency/dubonPasteur--OHOfBNuH,2024-07-25,Thursday,00:03,Montreal,26a44bbfde1920376e2082a747a3420e,Montmorency / du bon Pasteur,12,12
+Montreal-d9FdwTOg,2024-07-25T06:03:08.703000Z,Robin/15eRue--Gy7DhFbV,2024-07-25,Thursday,00:03,Montreal,e6ea709b44125dbf15595ae434193cec,Robin / 15e Rue,21,2
+Montreal-XqjqUPtM,2024-07-25T05:54:33.145000Z,BibliothèqueetComplexeaquatiqueRosemont(8eavenue/Rosemont)--BqEYUmsG,2024-07-25,Thursday,00:03,Montreal,65449142f26853132d689c41a44ceae8,Bibliothèque et Complexe aquatique Rosemont (8e avenue / Rosemont),11,5
+Montreal-5VUc7Qjl,2024-07-25T06:03:11.124000Z,LaFontaine/Lyall--7I7rBqRt,2024-07-25,Thursday,00:03,Montreal,39d5940820ab0ed37b58ac3d361fbcde,La Fontaine / Lyall,11,8
+Montreal-qb0sy1Db,2024-07-25T06:03:08.605000Z,MétroPréfontaine(Préfontaine/Hochelaga)--C2J9WQLS,2024-07-25,Thursday,00:03,Montreal,069414550bdba88e9db7e3120441a2c5,Métro Préfontaine (Préfontaine / Hochelaga),2,29
+Montreal-BARu8nxF,2024-07-25T06:03:11.212000Z,LaFontaine/Cadillac--6NkRZUUu,2024-07-25,Thursday,00:03,Montreal,216a81385f33d5b062d7e92606d0f117,La Fontaine / Cadillac,10,8
+Montreal-wYZdvziy,2024-07-25T05:54:31.432000Z,MétroViau(Pierre-de-Coubertin/Viau)--LHILREd4,2024-07-25,Thursday,00:03,Montreal,b3979ab42095be4a4e44978bb9f21b58,Métro Viau (Pierre-de-Coubertin / Viau),6,39
+Montreal-UCVOhFgP,2024-07-25T06:03:11.890000Z,Pratt/Bates--6yfjrQyP,2024-07-25,Thursday,00:03,Montreal,7758064a8883d2200c4ef11ea582fc3a,Pratt / Bates,9,9
+Montreal-Cml3sgLy,2024-07-25T05:54:32.458000Z,Roy/St-André--SwPRjVKA,2024-07-25,Thursday,00:03,Montreal,716fdaa5bf3096b22e6411f8a3b26ce7,Roy / St-André,23,0
+Montreal-VlnZanPP,2024-07-25T05:54:34.973000Z,Laval/Rachel--ZLPoSonq,2024-07-25,Thursday,00:03,Montreal,19c727134141c178c70295a70f778317,Laval / Rachel,22,1
+Montreal-itEXtjy4,2024-07-25T05:54:33.699000Z,MétroVilla-Maria(deMonkland/Décarie)--9lWVOLgd,2024-07-25,Thursday,00:03,Montreal,9f33776b7261015fee19f746343fd39e,Métro Villa-Maria (de Monkland / Décarie),15,7
+Montreal-x44q1Kas,2024-07-25T05:54:32.466000Z,35eavenue/Beaubien--yVRC8NXS,2024-07-25,Thursday,00:03,Montreal,f3137d7a13f223d22a94a847fc537ab1,35e avenue/Beaubien,20,7
+Montreal-j2Cn0YJo,2024-07-25T06:03:10.319000Z,16eavenue/Jean-Talon--Z5kb7had,2024-07-25,Thursday,00:03,Montreal,ca51f806f088e2d3fd280060ee25f224,16e avenue / Jean-Talon,12,7
+Montreal-5G3VWNfx,2024-07-25T05:54:30.953000Z,Ste-Famille/Sherbrooke--lknkUiM8,2024-07-25,Thursday,00:03,Montreal,e66e22ca9900ba053479ed9a0782bedc,Ste-Famille / Sherbrooke,18,5
+Montreal-ZCGCj9Ng,2024-07-25T06:03:08.853000Z,Berri/Laurier--WXIfoCY7,2024-07-25,Thursday,00:03,Montreal,4a754bbdf7514d1e8e49d394cc5b10a8,Berri / Laurier,4,15
+Montreal-yoCQjasI,2024-07-25T05:54:32.476000Z,CitédesArtsduCirque(PaulBoutet/desRegrattiers)--AcEjWMWT,2024-07-25,Thursday,00:03,Montreal,2ea1265bc531dcfaa332451f6b9e3977,Cité des Arts du Cirque (Paul Boutet / des Regrattiers),12,23
+Montreal-nTgkAk1J,2024-07-25T06:03:06.378000Z,deNormanville/Everett--WI4rbCZG,2024-07-25,Thursday,00:03,Montreal,e8c5c767edf29ab8d55c36a572d9b2f4,de Normanville / Everett,17,5
+Montreal-mGNNxQQk,2024-07-25T06:03:06.949000Z,delaRoche/Bélanger--8Q53cmRp,2024-07-25,Thursday,00:03,Montreal,8e08e33c06191a0c2829ddf5b9d61c6a,de la Roche / Bélanger,16,7
+Montreal-oNXaYe8i,2024-07-25T05:54:34.453000Z,del'Esplanade/Rachel--FtYZCgry,2024-07-25,Thursday,00:03,Montreal,c17673d035be2f681b182f2c8a9a3ade,de l'Esplanade / Rachel,23,8
+Montreal-YuozPxBG,2024-07-25T05:54:34.540000Z,TerminusNewman(Airlie/Lafleur)--EoxLftm8,2024-07-25,Thursday,00:03,Montreal,a2da7f5b772dab9f756348a7f21c1984,Terminus Newman (Airlie / Lafleur),8,11
+Montreal-3PcOMt8m,2024-07-25T05:54:32.448000Z,ParcJeanne-Mance(duMont-Royal/duParc)--7WQmjcU6,2024-07-25,Thursday,00:03,Montreal,a20926ccf67c3173efc10f2df7478482,Parc Jeanne-Mance (du Mont-Royal / du Parc),20,12
+Montreal-7m8kO0Gh,2024-07-25T05:54:33.424000Z,Chambord/Beaubien--lfaTZ612,2024-07-25,Thursday,00:03,Montreal,d4b0eb7bc61aae6326fe725d85da751d,Chambord / Beaubien,12,11
+Montreal-O5i0fTyk,2024-07-25T06:03:07.402000Z,Pierce/Ste-Catherine--gkXKYspe,2024-07-25,Thursday,00:03,Montreal,d22ef0870aac8a4ceec210b8b6640494,Pierce / Ste-Catherine,14,9
+Montreal-7XjHzvHZ,2024-07-25T05:54:32.483000Z,St-Antoine/Jean-PaulRiopelle--yjCJTzI8,2024-07-25,Thursday,00:03,Montreal,be964bc3df463cd6bc50cbb16cfc26e8,St-Antoine / Jean-Paul Riopelle,0,22
+Montreal-vLmB9kAj,2024-07-25T06:03:07.316000Z,Square-Victoria(Viger/duSquare-Victoria)--KEa9lvxU,2024-07-25,Thursday,00:03,Montreal,0040082e616edec293c0c74fcbf825c4,Square-Victoria (Viger / du Square-Victoria),0,18
+Montreal-HzbbE67F,2024-07-25T06:03:08.361000Z,Clanranald/delaCôte-St-Luc--gaxao3KP,2024-07-25,Thursday,00:03,Montreal,7d46737bc62cbce4b6a71965083bf0aa,Clanranald / de la Côte-St-Luc,15,8
+Montreal-760C1r7U,2024-07-25T05:54:35.133000Z,26eavenue/Bélanger--qU6iD71c,2024-07-25,Thursday,00:03,Montreal,09eec3fa4ab94df46f6460363e9eeac1,26e avenue / Bélanger,13,6
+Montreal-Xu6gePEL,2024-07-25T05:54:33.293000Z,Léonard-de-Vinci/Villeray--DFlePuoL,2024-07-25,Thursday,00:03,Montreal,a7113db37138c4a7d739f937cb814b18,Léonard-de-Vinci / Villeray,5,14
+Montreal-DQVO6NFJ,2024-07-25T05:54:32.432000Z,Papineau/Émile-Journault--ihUm7QWs,2024-07-25,Thursday,00:03,Montreal,7aebcaf0d07b120a38e159b6f308a24f,Papineau / Émile-Journault,24,9
+Montreal-72Nx8gVe,2024-07-25T05:54:33.743000Z,deMaisonneuve/deBleury--OTr0d39L,2024-07-25,Thursday,00:03,Montreal,8fb6d3f09a95459113a0443a000f0650,de Maisonneuve / de Bleury,0,28
+Montreal-5LvA7tXu,2024-07-25T05:54:35.118000Z,Legendre/André-Grasset--nZQmOzfW,2024-07-25,Thursday,00:03,Montreal,90e1e26dae92c0c18fcc2b2f42bf8d29,Legendre / André-Grasset,16,6
+Montreal-9atLcipZ,2024-07-25T05:54:32.424000Z,Villeray/DeNormanville--8iHy1SiE,2024-07-25,Thursday,00:03,Montreal,cbe2d171bd88264285f629767835bea8,Villeray / De Normanville,10,13
+Montreal-J53SBoPv,2024-07-25T05:54:33.101000Z,Calixa-Lavallée/Rachel--GtcwbeiT,2024-07-25,Thursday,00:03,Montreal,7f3a6642524a1edefb3a06943a81839b,Calixa-Lavallée / Rachel,18,12
+Montreal-lJ8C8sVe,2024-07-25T06:03:07.468000Z,Alexandre-DeSève/Ontario--l2W35CBY,2024-07-25,Thursday,00:03,Montreal,066a3ddb553ab30d56929c200ea2d022,Alexandre-DeSève / Ontario,29,1
+Montreal-FadfsRcu,2024-07-25T05:54:34.857000Z,Queen/Wellington--T864qfMB,2024-07-25,Thursday,00:03,Montreal,1dd2c41ba0060546b80e05d4874c3acc,Queen / Wellington,3,43
+Montreal-BVjMxY7k,2024-07-25T06:03:08.370000Z,Calixa-Lavallée/Rachel2--u61VuPHQ,2024-07-25,Thursday,00:03,Montreal,fedbc60fd86261ca0a76407afc750d49,Calixa-Lavallée / Rachel 2,20,10
+Montreal-WJeMRRP7,2024-07-25T05:54:32.489000Z,Georges-Vanier/Notre-Dame--jA9jPGNN,2024-07-25,Thursday,00:03,Montreal,391131d263b2d9b6a6d3d8a85a54ef64,Georges-Vanier /  Notre-Dame,19,0
+Montreal-PBstYHl1,2024-07-25T05:54:34.029000Z,6eavenue/Wellington--uck4Uf4U,2024-07-25,Thursday,00:03,Montreal,9fe1f930c99391967580f0ed55b2abf1,6e avenue / Wellington,10,8
+Montreal-45EYqg31,2024-07-25T06:03:09.597000Z,Hudson/Goyer--Sy7YOVvw,2024-07-25,Thursday,00:03,Montreal,00b7595b843f69c9041fca9e4e84700b,Hudson / Goyer,14,8
+Montreal-K5gQJpUA,2024-07-25T05:54:32.500000Z,desCarrières/Marquette--K1EvmnEu,2024-07-25,Thursday,00:03,Montreal,78b2a7e46c64e776cb23629f228d2c1e,des Carrières /  Marquette,15,9
+Montreal-Z28ve4LB,2024-07-25T05:54:32.454000Z,PlaceValois(Valois/Ontario)--pMzHk33z,2024-07-25,Thursday,00:03,Montreal,707f0ea8ffb8042e9dd22a3c6c3b70d3,Place Valois (Valois / Ontario),14,7
+Montreal-VsXzlwm7,2024-07-25T05:54:33.298000Z,Adam/d'Orleans--lQ0DdFiT,2024-07-25,Thursday,00:03,Montreal,f627ae5f3cf5f0cb11342d1f31799a48,Adam / d'Orleans,0,19

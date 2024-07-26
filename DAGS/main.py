@@ -5,14 +5,11 @@ import string
 import random
 import json
 import pandas as pd
-
 import os
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-
 from kafka import KafkaProducer, KafkaConsumer
-
 from IO import BytesIO
 from airflow.hooks.S3_hook import S3Hook
 
@@ -175,6 +172,7 @@ def app():
     print(e_message)
     success = 'App-execution-problem'
     write_logger(request_id, request_time, success, e_message, data_dir)
+
 
 def kafka_s3():
     # this function would read data from kafka consumer first

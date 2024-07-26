@@ -179,7 +179,8 @@ def app():
 def kafka_s3():
     # this function would read data from kafka consumer first
     # then upload the data to S3 bucket
-    consumer = KafkaConsumer(bootstrap_servers=['kafka-broker:29092'],max_block_ms=5000)
+    consumer = KafkaConsumer(bootstrap_servers=['kafka-broker:29092'])
+    consumer.subscribe(['city_bikes'])
     s3_hook = S3Hook(aws_conn_id='data_608')
     data = []
     for msg in consumer:
@@ -189,14 +190,13 @@ def kafka_s3():
     df = pd.DataFrame(data)
     buffer = BytesIO()
     df.to_parquet(buffer, index=False)
+    buffer.seek(0)
 
     # Generate a time label and upload to S3
     timestamp = datetime.now().strftime("%Y%m%d%H%M")
     filename = f"data_{timestamp}.parquet"
     s3_path = f"data/{datetime.now().strftime('%Y/%m/%d/%H')}/{filename}"
 
-    s3_hook.load_string(string_data=csv_buffer.getvalue(), key='yt_api_data/video_details.csv',
-                        bucket_name='yt-bucket-demo', replace=True)
     s3_hook.load_bytes(buffer.getvalue(), key=s3_path, bucket_name='your_bucket', replace=True)
 
     consumer.close()

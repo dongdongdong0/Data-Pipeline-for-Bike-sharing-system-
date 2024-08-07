@@ -22,7 +22,7 @@ max_messages = 3
 for message in consumer:
     print(f"Received message: {message.value.decode('utf-8')}")
     message_count += 1
-    print(f"Message count: {message_count}")  # 显示当前消息计数
+    print(f"Message count: {message_count}")  
     if message_count >= max_messages:
         print("Reached max messages, breaking out of loop.")
         break

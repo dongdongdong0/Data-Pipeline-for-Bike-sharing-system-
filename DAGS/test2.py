@@ -239,8 +239,8 @@ def upload_data_to_s3(data, bucket_name, prefix='', aws_access_key_id='your_acce
 app()
 data_to_write = from_consumer()
 bucket_name = 'mybikedata608'
-aws_access_key_id = 'AKIAQFLZDNEDSYOWV2GS'
-aws_secret_access_key = 'MTEO5Bqvcvn4c5Q0WQiWbbaW5rvVgVQPDuuycREY'
+aws_access_key_id = ''
+aws_secret_access_key = ''
 upload_data_to_s3(data_to_write, bucket_name, prefix='data/', aws_access_key_id=aws_access_key_id,
                   aws_secret_access_key=aws_secret_access_key)
 

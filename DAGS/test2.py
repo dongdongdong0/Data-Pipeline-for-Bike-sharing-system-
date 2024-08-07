@@ -240,8 +240,8 @@ app()
 data_to_write = from_consumer()
 bucket_name = 'mybikedata608'
 
-upload_data_to_s3(data_to_write, bucket_name, prefix='data/', aws_access_key_id=aws_access_key_id,
-                  aws_secret_access_key=aws_secret_access_key)
+upload_data_to_s3(data_to_write, bucket_name, prefix='data/', aws_access_key_id=,
+                  aws_secret_access_key=)
 
 
 

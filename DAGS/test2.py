@@ -7,12 +7,9 @@ import json
 import pandas as pd
 import os
 from datetime import datetime
-from airflow import DAG
-from airflow.operators.python import PythonOperator
 from kafka import KafkaProducer, KafkaConsumer
 from io import BytesIO
-from airflow.providers.amazon.aws.hooks.s3 import S3Hook
-
+import boto3
 
 
 """
@@ -133,8 +130,7 @@ def get_id(loc, length=8):
 
 
 def app():
-  producer = KafkaProducer(bootstrap_servers=['kafka-broker:29092'], max_block_ms=5000)
-
+  producer = KafkaProducer(bootstrap_servers=['localhost:9092'], max_block_ms=5000)
   try:
     for city, endpoint in endpoints.items():
         # get data
@@ -181,11 +177,13 @@ def app():
       producer.close()
 
 
+
+
 def from_consumer():
     data = []
     consumer = KafkaConsumer(
         'city_bikes',
-        bootstrap_servers=['kafka-broker:29092'],
+        bootstrap_servers=['localhost:9092'],
         auto_offset_reset='earliest',
         group_id='test-group'
     )
@@ -208,47 +206,44 @@ def from_consumer():
         consumer.close()
 
     return data
+def upload_data_to_s3(data, bucket_name, prefix='', aws_access_key_id='your_access_key',
+                      aws_secret_access_key='your_secret_key'):
+    s3 = boto3.client(
+        's3',
+        aws_access_key_id=aws_access_key_id,
+        aws_secret_access_key=aws_secret_access_key,
+        region_name='us-east-1'  # 根据你的 S3 bucket 位置选择合适的区域
+    )
 
-
-def kafka_s3():
-
-    s3_hook = S3Hook(aws_conn_id='data_608')
-    data = from_consumer()
     df = pd.DataFrame(data)
+
+
     buffer = BytesIO()
     df.to_parquet(buffer, index=False)
+
     buffer.seek(0)
+    parquet_data = buffer.getvalue()
 
-    # set the path
+
     timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-    filename = f"data_{timestamp}.parquet"
-    s3_path = f"data/{filename}"
+    filename = f"{prefix}{timestamp}.parquet"
 
-    # upload the file by s3hook
+    try:
+        response = s3.put_object(Bucket=bucket_name, Key=filename, Body=parquet_data)
+        print("Data uploaded successfully")
+        return response
+    except Exception as e:
+        print(f"Failed to upload data: {e}")
 
 
+app()
+data_to_write = from_consumer()
+bucket_name = 'mybikedata608'
+aws_access_key_id = 'AKIAQFLZDNEDSYOWV2GS'
+aws_secret_access_key = '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'
+upload_data_to_s3(data_to_write, bucket_name, prefix='data/', aws_access_key_id=aws_access_key_id,
+                  aws_secret_access_key=aws_secret_access_key)
 
-
-
-
-default_args = {
-    'owner': 'diego',
-    'start_date': datetime(2024, 7, 23, 10, 00),
-}
-with DAG('user_automation',
-         default_args=default_args,
-         schedule_interval='*/10 * * * *',
-         catchup=False) as dag:
-
-    streaming_task = PythonOperator(
-        task_id='bike_data_api',
-        python_callable=app)
-
-    upload_task = PythonOperator(
-        task_id='upload_to_s3',
-        python_callable=kafka_s3
-    )
-    streaming_task.set_downstream(upload_task)
 
 
 

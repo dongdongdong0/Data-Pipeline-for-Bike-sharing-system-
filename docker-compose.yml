@@ -7,9 +7,10 @@ services:
       - postgres
     environment:
       - LOAD_EX=n
-      - EXECUTOR=Sequential
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
       - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
-      - AIRFLOW_WEBSERVER_SECRET_KEY=this_is_a_very_secured_key
+      - AIRFLOW__WEBSERVER__EXPOSE_CONFIG=True
+      - AIRFLOW__WEBSERVER__SECRET_KEY=this_is_a_very_secured_key
     logging:
       options:
         max-size: 10m
@@ -39,9 +40,10 @@ services:
       - ./requirements.txt:/opt/airflow/requirements.txt
     environment:
       - LOAD_EX=n
-      - EXECUTOR=Sequential
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
       - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
-      - AIRFLOW_WEBSERVER_SECRET_KEY=this_is_a_very_secured_key
+      - AIRFLOW__WEBSERVER__SECRET_KEY=this_is_a_very_secured_key
+
     command: bash -c "pip install -r ./requirements.txt && airflow db upgrade && airflow scheduler"
     networks:
       - confluent
@@ -75,6 +77,7 @@ services:
       retries: 5
     networks:
       - confluent
+
   kafka-broker:
     image: confluentinc/cp-server:7.5.0
     hostname: kafka-broker

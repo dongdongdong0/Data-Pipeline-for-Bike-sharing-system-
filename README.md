@@ -1,12 +1,12 @@
-## We used Apache Airflow, Apache Kafka and other tools to construct a robust data pipeline capable of streaming large volumes of real-time data. Our pipeline is configured to perform API calls every 10 minutes, ensuring continuous data collection and access to the latest information on bike availability. 
+### We used Apache Airflow, Apache Kafka and other tools to construct a robust data pipeline capable of streaming large volumes of real-time data. Our pipeline is configured to perform API calls every 10 minutes, ensuring continuous data collection and access to the latest information on bike availability. 
 
-## We preprocessed the collected data, preparing it for analysis and visualization. This data was then integrated into a dashboard web application, facilitating easy access and interaction. 
+### We preprocessed the collected data, preparing it for analysis and visualization. This data was then integrated into a dashboard web application, facilitating easy access and interaction. 
 
-## We visualized the processed data using interactive plots that display bike availability at 10-minute intervals. These plots allow us to analyze trends and patterns in bike usage over time, providing valuable insights into demand and operational efficiency. 
+### We visualized the processed data using interactive plots that display bike availability at 10-minute intervals. These plots allow us to analyze trends and patterns in bike usage over time, providing valuable insights into demand and operational efficiency. 
 
 
 
-### Here is the steps.
+#### Here is the steps.
 
 Please run our data pipeline following the instructions below. 
 

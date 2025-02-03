@@ -1,49 +1,91 @@
-### We used Apache Airflow, Apache Kafka and other tools to construct a robust data pipeline capable of streaming large volumes of real-time data. Our pipeline is configured to perform API calls every 10 minutes, ensuring continuous data collection and access to the latest information on bike availability. 
+### **Project Overview**
+We built a robust data pipeline utilizing **Apache Airflow**, **Apache Kafka**, and other tools to handle large volumes of real-time streaming data. The pipeline is designed to perform API calls every 10 minutes, ensuring continuous data collection and providing up-to-date information on bike availability.
 
-### We preprocessed the collected data, preparing it for analysis and visualization. This data was then integrated into a dashboard web application, facilitating easy access and interaction. 
+The collected data is preprocessed for analysis and visualization, then integrated into a dashboard web application. This interactive interface allows users to explore and interact with data, visualized through dynamic plots showing bike availability at 10-minute intervals. These visualizations provide critical insights into usage trends, demand fluctuations, and operational efficiency.
 
-### We visualized the processed data using interactive plots that display bike availability at 10-minute intervals. These plots allow us to analyze trends and patterns in bike usage over time, providing valuable insights into demand and operational efficiency. 
+---
 
+### **Instructions to Run the Data Pipeline**
+Follow these steps to set up and run the pipeline:
 
+#### **1. Prerequisite**
+Ensure that **Python** is installed on your computer. Additionally, **Docker** is required for this project.
+- [Download Docker Desktop](https://www.docker.com/products/docker-desktop) and install it.
 
-#### Here is the steps.
+#### **2. Start Docker**
+After installing Docker, start the application.
 
-Please run our data pipeline following the instructions below. 
+#### **3. Download the Project**
+Clone or download the entire project to your local machine.
 
-1.Prerequisite.  I believe you have installed python on your computer. For this project, you must install Docker on your computer. Please download this link:https://www.docker.com/products/docker-desktop/ 
+#### **4. Navigate to the Project Directory**
+Open your terminal and navigate to the folder where the project is located. Run the following command:
+```bash
+docker compose up -d
+```
+Wait for the Docker containers to start. The containers will first pull the necessary images, then initialize and become healthy. You can monitor the containers using Docker Desktop.
 
-2.please start the docker. 
+#### **5. Access Airflow**
+Once the Docker setup is running, open your web browser and go to:
+```
+http://localhost:8080
+```
+Log in using the credentials:
+- **Username**: admin  
+- **Password**: admin  
+You should see the Airflow dashboard with the configured tasks.
 
-3.Download the whole project to your computer. 
+#### **6. Set Up an Airflow Connection to AWS S3**
+In the Airflow UI, go to the **Admin** tab in the top navigation bar and select **Connections**. Create a new connection with the following details:
+- **Connection Name**: data_608  
+- **Connection Type**: Amazon Web Services  
+- **AWS Access Key and Secret Key**: Enter your AWS credentials.  
+Click **Save** once done.
 
-4.In the terminal, please navigate to this folder and use this command 
+#### **7. Modify the S3 Bucket Name in the Code**
+Navigate to the file **main.py** located in the project’s **dags** folder. Find line 228:
+```python
+s3_hook.load_bytes(buffer.getvalue(), key=s3_path, bucket_name='test-608-project', replace=True)
+```
+Replace `'test-608-project'` with the name of your desired S3 bucket.
 
- " docker compose up -d" 
+#### **8. Create an AWS Glue Crawler**
+- Go to the AWS Glue service and create a new crawler.
+- Point the crawler to the folder in your S3 bucket containing the data.
+- Create a new database and configure the crawler to populate it.
 
-waiting for the docker containers to start. You will first see they are pulling and then created and healthy. You can see those containers in the docker desktop. 
+#### **9. Run the Crawler**
+Run the crawler to create the schema and make the data queryable.
 
-5.When the docker starts to work. Type the “http://localhost:8080” in your chrome. Input the name "admin", password "admin", you will see the airflow task is on the page. 
+#### **10. Prepare Dashboard Files**
+- Navigate to the **dashboard** folder in the project.
+- Upload the following files to a designated folder inside the S3 bucket:
+  - `all_locations.csv`
+  - `result_key.txt`
 
-6.Created the connection between your airflow and AWS S3 bucket. In the UI of airflow, in the “admin” (head bar), click connection. Please set the connection’s name as “data_608”, type is “Amazon Web Services”, then fill your AWS access key and secret key in the required position. Then click save at the bottom. 
+#### **11. Set Up an EC2 Instance**
+- Launch an EC2 instance.
+- Install Python and the required dependencies using the provided `requirements.txt`.
+- Copy the files `dash_app.py` and `athena_query.py` to the instance.
 
-7.Change the bucket name in the code. Inside “main.py” (located in the project’s subfolder “dags”), please modify the line 228 
+#### **12. Configure EC2 Security Group**
+- Add a rule to allow inbound traffic on **port 8050**.
 
-s3_hook.load_bytes(buffer.getvalue(), key=s3_path, bucket_name='test-608-project', replace=True) 
+#### **13. Run the Python Scripts**
+- First, run:
+  ```bash
+  python athena_query.py
+  ```
+- Then, run:
+  ```bash
+  python dash_app.py
+  ```
 
-Please replace the “bucket_name” as the bucket you want to store the data in your AWS. 
+#### **14. Access the Dashboard**
+Use the public IP address of the EC2 instance to access the web app in your browser:
+```
+http://<public-ip>:8050
+```
 
-8.Go to AWS Glue to create a crawler. Point the crawler to the S3 bucket’s folder containing the files, create database and point crawler to database. 
+**Note**: Steps 13 and 14 can also be performed locally if desired.
 
-9.Run crawler to create schema. 
-
-10.The following steps will use the file in the folder “dashboard”. Add files all_locations.csv and result_key.txt to a folder inside the S3 bucket. 
-
-11.Create an EC2 instance, install Python and dependencies using requirements.txt, add dash_app.py and athena_query.py to the instance. 
-
-12.Add a rule to your instance to allow inbound traffic on port 8050. 
-
-13.Run athena_query.py first and then dash_app.py. 
-
-14.Use the instance public IP address to open the web app in your browser. 
-
-Steps 13 and 14 can be run on a local computer as well.  

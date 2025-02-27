@@ -1,7 +1,6 @@
-### **Project Overview**
-We built a robust data pipeline utilizing **Apache Airflow**, **Apache Kafka**, **Docker**, **AWS S3**, and other tools to handle large volumes of real-time streaming data. The pipeline is designed to perform API calls every 10 minutes, ensuring continuous data collection and providing up-to-date information on bike availability.
 
-The collected data is preprocessed for analysis and visualization, then integrated into a dashboard web application. This interactive interface allows users to explore and interact with data, visualized through dynamic plots showing bike availability at 10-minute intervals. These visualizations provide critical insights into usage trends, demand fluctuations, and operational efficiency.
+### **Project Overview**
+This project implements a real-time data pipeline to collect and process bike-sharing trip data from multiple city APIs, updated every 10 minutes. Leveraging **Apache Airflow**, **Apache Kafka**, **AWS S3**, and **AWS Glue**, the pipeline ingests approximately 1.2 MB of data per hour in Parquet format, enabling efficient storage and querying. Deployed via **Docker**, it ensures scalability and portability. The processed data powers a dynamic dashboard, visualizing bike availability trends for operational insights. Additionally, explored integrating **Apache Spark** and **Cassandra** for enhanced real-time analytics and structured storage.
 
 ---
 

@@ -1,3 +1,4 @@
+![Bike Sharing Pipeline Diagram](https://github.com/dongdongdong0/Data-Pipeline-for-Bike-sharing-system-/blob/main/data608.png?raw=true)
 
 ### **Project Overview**
 This project implements a real-time data pipeline to collect and process bike-sharing trip data from multiple city APIs, updated every 10 minutes. Leveraging **Apache Airflow**, **Apache Kafka**, **AWS S3**, and **AWS Glue**, the pipeline ingests approximately 1.2 MB of data per hour in Parquet format, enabling efficient storage and querying. Deployed via **Docker**, it ensures scalability and portability. The processed data powers a dynamic dashboard, visualizing bike availability trends for operational insights. Additionally, explored integrating **Apache Spark** and **Cassandra** for enhanced real-time analytics and structured storage.

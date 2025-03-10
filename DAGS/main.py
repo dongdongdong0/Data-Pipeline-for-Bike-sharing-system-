@@ -5,16 +5,15 @@ import string
 import random
 import json
 import pandas as pd
-
 import os
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-
 from kafka import KafkaProducer, KafkaConsumer
+from io import BytesIO
+from airflow.providers.amazon.aws.hooks.s3 import S3Hook
 
-from IO import BytesIO
-from airflow.hooks.S3_hook import S3Hook
+
 
 """
 This program sends a get request to an API, cleans the response, and write it in a csv file.
@@ -112,7 +111,7 @@ def write_json(city_data, city, request_time):
                 "free_bikes": station['free_bikes'],
                 "empty_slots": station['empty_slots']
             })
-        return json.dumps(data_to_write).encode('utf-8')
+        return data_to_write
     except Exception as e:
         message = f"An error occurred while creating JSON data for {city}: {e}"
         request_id = get_id(city)
@@ -132,9 +131,10 @@ def get_id(loc, length=8):
         return None
 
 
-# app
+
 def app():
   producer = KafkaProducer(bootstrap_servers=['kafka-broker:29092'], max_block_ms=5000)
+
   try:
     for city, endpoint in endpoints.items():
         # get data
@@ -147,23 +147,24 @@ def app():
 
         if response[0]:
             # write to logger
-            success = 'Yes'
-            message = f'Successful request for {city}'
-            write_logger(request_id, request_time, success, message,data_dir)
+            # success = 'Yes'
+            # message = f'Successful request for {city}'
+            # write_logger(request_id, request_time, success, message,data_dir)
 
             # get data
             city_data = response[1]
             # json file
-            json_file = write_json(city_data, city, request_time)
-            producer.send("city_bikes", value=json_file)
+            data_to_write = write_json(city_data, city, request_time)
+
+            producer.send("city_bikes", value=json.dumps(data_to_write).encode('utf-8'))
             # write to database
-            write_database(city_data, city, request_time, data_dir)
+            #write_database(city_data, city, request_time, data_dir)
             # final print
             message = f'app.py run succesfully at {get_request_time_full(request_time)}'
             print(message)
             # write to logger
             success = 'App-executed'
-            write_logger(request_id, request_time, success, message, data_dir)
+            #write_logger(request_id, request_time, success, message, data_dir)
         else:
             # error message
             message = response[1]
@@ -175,38 +176,65 @@ def app():
     print(e_message)
     success = 'App-execution-problem'
     write_logger(request_id, request_time, success, e_message, data_dir)
+  finally:
+      # Ensure the producer is closed and resources are released
+      producer.close()
+
+
+def from_consumer():
+    data = []
+    consumer = KafkaConsumer(
+        'city_bikes',
+        bootstrap_servers=['kafka-broker:29092'],
+        auto_offset_reset='earliest',
+        group_id='test-group'
+    )
+
+    message_count = 0
+    max_messages = 3
+    try:
+        for msg in consumer:
+            try:
+                records = json.loads(msg.value.decode('utf-8'))
+                data.extend(records)
+            except json.JSONDecodeError as e:
+                print(f"Error decoding message: {e}")
+            message_count += 1
+            if message_count == max_messages:
+                break
+    except Exception as e:
+        print(f"Error consuming messages: {e}")
+    finally:
+        consumer.close()
+
+    return data
+
 
 def kafka_s3():
-    # this function would read data from kafka consumer first
-    # then upload the data to S3 bucket
-    consumer = KafkaConsumer(bootstrap_servers=['kafka-broker:29092'],max_block_ms=5000)
-    s3_hook = S3Hook(aws_conn_id='data_608')
-    data = []
-    for msg in consumer:
-        record = json.loads(msg.value.decode('utf-8'))
-        data.append(record)
 
+    s3_hook = S3Hook(aws_conn_id='data_608')
+    data = from_consumer()
     df = pd.DataFrame(data)
     buffer = BytesIO()
     df.to_parquet(buffer, index=False)
+    buffer.seek(0)
 
-    # Generate a time label and upload to S3
-    timestamp = datetime.now().strftime("%Y%m%d%H%M")
+    # set the path
+    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
     filename = f"data_{timestamp}.parquet"
-    s3_path = f"data/{datetime.now().strftime('%Y/%m/%d/%H')}/{filename}"
+    s3_path = f"data/{filename}"
 
-    s3_hook.load_string(string_data=csv_buffer.getvalue(), key='yt_api_data/video_details.csv',
-                        bucket_name='yt-bucket-demo', replace=True)
-    s3_hook.load_bytes(buffer.getvalue(), key=s3_path, bucket_name='your_bucket', replace=True)
+    # upload the file by s3hook
 
-    consumer.close()
+
+
+
 
 
 default_args = {
     'owner': 'diego',
     'start_date': datetime(2024, 7, 23, 10, 00),
 }
-
 with DAG('user_automation',
          default_args=default_args,
          schedule_interval='*/10 * * * *',
@@ -216,9 +244,13 @@ with DAG('user_automation',
         task_id='bike_data_api',
         python_callable=app)
 
-    up_load_task = PythonOperator(
-        task_id='kafka_s3',
+    upload_task = PythonOperator(
+        task_id='upload_to_s3',
         python_callable=kafka_s3
     )
+    streaming_task.set_downstream(upload_task)
 
-    streaming_task >> up_load_task
+
+
+
+

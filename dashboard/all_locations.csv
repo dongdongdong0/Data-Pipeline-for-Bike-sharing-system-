@@ -1,0 +1,1940 @@
+city,station_id,station_name,latitude,longitude
+Toronto,fb337bbed72e2be090071e199899b2be,Queen St E / Woodward Ave,43.665269,-79.319796
+Toronto,4ff88d5880e71aa40d34cfe5d09b0ca7,Primrose Ave / Davenport Rd,43.67142,-79.445947
+Toronto,a09c67c0b419654d907c9134b108e328,Queen St E / Rhodes Ave,43.666224,-79.317693
+Toronto,d6a9daee68070a8b106cfb598d81308c,Bond St / Queen St E,43.653236,-79.376716
+Toronto,8f8af40d9388c8a3962559e8681d3db7,Church St / Alexander St,43.663722,-79.380288
+Toronto,5a441560e262305d1934fb3ada5a9517,University Ave / Gerrard St W (East Side),43.657763,-79.389165
+Toronto,18ea490ab3ca4d10e2927308416edbef,Edward St / Yonge St,43.656729,-79.382736
+Toronto,b7850948607474362d3728f19a77fdff,Euclid Ave / Bloor St W,43.664467,-79.414783
+Toronto,7ffd06e0207f80fe1ff6b5ae0bb0544c,Yonge St / Aylmer Ave,43.675492,-79.388858
+Toronto,17fadbdc5848036c8485099bbf517294,Davenport Rd / Avenue Rd,43.674991,-79.396273
+Toronto,843dcb87ce2ddb002d2b2900a5418355,Yonge St / Yorkville Ave,43.671944,-79.387778
+Toronto,438406694750984faa317bc6b1f3f909,Dundas St E / Broadview Ave,43.662365,-79.351104
+Toronto,41c3e6d3bf3bd993e7d56e22084ab5ee,Front St W / Yonge St (Hockey Hall of Fame),43.646144,-79.377962
+Toronto,c95712a6fe0babf73cb9da2c05889749,Gerrard St E / River St,43.663993,-79.358534
+Toronto,2aedc79960408d746f43fb1d91bf7030,Jarvis St / Dundas St E,43.657266,-79.374756
+Toronto,77f9f2420581968255251d9f26c78024,Regal Rd / Dufferin St,43.673939,-79.441159
+Toronto,7461a94289f2956b380e5b7684b56a1e,Morse St / Eastern Ave,43.657991,-79.340075
+Toronto,69dc0257a4d3a1dcd5af06dc3b4eed8c,Alton Ave / Dundas St E (Greenwood Park),43.66745,-79.329408
+Toronto,365a0f49bf1c9b42c35b531688b9fed9,Blake St / Boultbee Ave,43.672453,-79.338259
+Toronto,49021f20833894e3dbfaea4fb6e7a9dc,Eastern Ave / Winnifred Ave,43.6592088,-79.3348396
+Toronto,3910976dfd5888140602a42b14637022,Gamble Ave / Broadview Ave,43.689211,-79.35438
+Toronto,1fe2e0ad1678ffaf965b10e03a08aaf2,111 Bond St (North of Dundas St E)  - SMART,43.656927,-79.378497
+Toronto,e565aef96d6d5fce5279ef6f24b9ce69,Dundas St E / Pembroke St - SMART,43.658295,-79.372346
+Toronto,c765943cac057b6cac0946eff428bf5b,Victoria Park Subway Station - SMART,43.6940155,-79.2889842
+Toronto,e0dec8b8f5ed285bfbd952bb253084f4,Wychwood Ave / Benson Ave - SMART,43.6809164,-79.4229684
+Toronto,5ee5f79fc51737623d425310eb0bf02b,Lawton Blvd / Yonge St,43.6910667,-79.39535
+Toronto,0daa4477ec313c30dc3036f4bd45e0ba,Yonge St / Davisville Ave,43.6975969,-79.39654
+Toronto,e2911ec2b832c350dad0a8831a30d273,Fort York  Blvd / Capreol Ct,43.639832,-79.395954
+Toronto,57ef343f4e12ae497e29c3693d922197,St. George St / Bloor St W,43.667333,-79.399429
+Toronto,a0100ff8f210b72706e06b4c31a329fe,King St W / York St,43.6480008,-79.383177
+Toronto,75b9fc3e9bf42a5d26fa1393d9ce72ed,Rosehill Ave / Avoca Ave - SMART,43.687999,-79.38906
+Toronto,d3e1a4057d9bf7c31c216017a0f1989b,Bloor St W / Dundas St W,43.6563889,-79.45166666666667
+Toronto,8a4d335d5540e0c2132ffdb1def165f6,Bathurst St / Fort York Blvd,43.639179,-79.399595
+Toronto,359ce82fbe9d1e9e9962321e62f6066f,Spadina Ave / Willcocks St,43.6616667,-79.40138888888889
+Toronto,4077bf05c083f50d09a52487fd234193,Cariboo Ave / Railpath Trail,43.66666667,-79.45833333333334
+Toronto,6aa469025f8c5ff029052fab35bca1f4,College St / Major St,43.6576,-79.4032
+Toronto,b086f4ccca33b1b976b40abe69b78d42,McGill St / Church St,43.660694,-79.379052
+Toronto,0fa15700b0d780b8f810ced06a01760d,Queens Quay W / Dan Leckie Way,43.636533,-79.395854
+Toronto,c3033415413ac24bf33672aa79838018,College Park South,43.659777,-79.382767
+Toronto,ce6e330ba7f61e0453dc1567eaa02745,25 York St – Union Station South,43.643667,-79.380414
+Toronto,049c76540151608ec55bfcd0e1748f41,161 Bleecker St (South of Wellesley),43.666233,-79.373327
+Toronto,55a100afdce605b59cf4acbefcdf3213,Spadina Ave / Fort York Blvd,43.640114,-79.393249
+Toronto,422a936ddcb551dd9f26ec313a450057,Augusta Ave / Denison Sq,43.653766,-79.4016759
+Toronto,e38ee1ccd4c3964a5c0d308d29403b88,Lansdowne Ave / Whytock Ave,43.6538888888889,-79.4413888888889
+Toronto,fc5b892aa82601e2374e8c1772dde569,Sterling Rd / Dundas St W,43.6508333333333,-79.4430555555556
+Toronto,452241fc4e912119f006a20b4b0099cf,Ossington Ave / College St,43.6544915,-79.422634
+Toronto,eb20e0b8c7c8bf1fc4157a3b715e2837,High Park Subway Station,43.6543604,-79.4655296
+Toronto,baedec3042f7094d0564ef8a1295e5d8,Lake Shore Blvd W / Ellis Ave,43.635932,-79.465083
+Toronto,e4481e45d22462b01aca9513d8f5674e,Lake Shore Blvd W / Windermere Ave,43.634896,-79.467763
+Toronto,0cf5a51077c51159b5d6c8ed5b4c9db5,Martin Goodman Trail (Marilyn Bell Park),43.6314,-79.4304
+Toronto,59ef2a57efd0caf7727dbb6451bb8808,Lake Shore Blvd W / The Boulevard Club,43.636731,-79.444966
+Toronto,fe00988a883c9469b82d17221ef1824b,Dundas St W / Roncesvalles Ave Green P -SMART,43.6534268,-79.4512787
+Toronto,f376aecd6bb0d97d5d1580e9537017dd,Erskine Ave / Yonge St SMART,43.7112153,-79.39894
+Toronto,d04f206f6afecb72f5821586d56f5071,D'Arcy St / McCaul St - SMART,43.655227,-79.39201
+Toronto,d7227eafd0ff8024632b2c9cef1f209c,Mortimer Ave / Carlaw Ave SMART,43.685167,-79.34962
+Toronto,0ec9fc6c92f35e65f603cd6e7c550f1f,Cumberland St / Bay St SMART,43.6704537,-79.39014
+Toronto,0ff8f31be644b9e2af6d38b89bf42c07,Niagara St / Tecumseth St,43.641389,-79.404444
+Toronto,bb30daddc7221e19cffecf3ac108f28c,Dundas St W / St. Patrick St,43.6545174,-79.3895315
+Toronto,f52bcef41a84669da7a468cfc4531356,Robert St / Bloor St W - SMART,43.665846,-79.404998
+Toronto,05d7abba295be4af9e74ca3ec241ebd7,Queen St E / Hammersmith Ave,43.671349,-79.29451
+Toronto,973748f7f27229b41ca0d2a96dea777e,Queen St. E / Eastern Ave,43.667208,-79.312315
+Toronto,e5a7fc18db4989ecaf70a7e98866faee,Hubbard Blvd / Balsam Av,43.669328,-79.288949
+Toronto,c7cbc921ca5b8310e7218ca5669ad83f,Queen St. E / Spruce Hill Rd.,43.672571,-79.289
+Toronto,d1de2ddc0ea8a90d00ff717ad60a2f23,Lower Spadina Ave / Lake Shore Blvd W,43.638497,-79.39192
+Toronto,61291082be03c77f92f883b95292557a,Lower Coxwell Ave /  Lake Shore Blvd E,43.662771,-79.315223
+Toronto,d60491c58bb95d6ddefb1f1b1ac3f56f,Amelia St / Sumach St,43.66852,-79.363525
+Toronto,d81d4d6231b9da01ba7f3d6e50728ca8,Augusta Ave / Dundas St W,43.652473,-79.401456
+Toronto,d0a8478c786cb2480de4fcecda844781,Queen St W / Ossington Ave,43.643975,-79.419576
+Toronto,1053161189e46ea1c3122c94b644bc9d,Trinity St /Front St E,43.651318,-79.36023
+Toronto,02feaaef65cff4671fb1935179895659,Dundas St W / Yonge St,43.656094,-79.381484
+Toronto,b076c918fa10b274340bcdb0f0bca1a6,Kendal Ave / Spadina Rd,43.670318,-79.405181
+Toronto,dc268bf6d12c7311db0b5b61b3304b03,King St W / Joe Shuster Way,43.639444,-79.423611
+Toronto,0abdfc3177000757dcd71bd4c8b479ee,Yarmouth Rd / Christie St,43.67,-79.42083333333333
+Toronto,37c32c09c594b83701b3b8f6e32db605,Palmerston Ave / Vermont Ave,43.671389,-79.416389
+Toronto,8536b57314846d3b42645c0023e6e60d,Christie St / Benson Ave (Wychwood Barns),43.68,-79.42500000000001
+Toronto,8db5b143b08ea1fed85f0702fcfe01ec,King St W / Fraser Ave,43.6394444,-79.42527777777778
+Toronto,879f0d4ef4403ab902e541528bf329f6,Macpherson Ave / Spadina Rd,43.675791,-79.40698
+Toronto,c497911a9c04bebbbc32e5211c081f85,Bridgman Ave / Kendal Ave,43.675556,-79.410278
+Toronto,2e19220f1e64559e88f3c48b3ebf2916,Bridgman Ave / Bathurst St,43.674444,-79.414722
+Toronto,afa3ff2218a5d1817934c7c7c7bb5d19,Kendal Ave / Bernard Ave,43.671513,-79.408317
+Toronto,ddba9c631e11fbae48e2be60289f60c2,Pretoria Ave / Broadview Ave,43.6783213,-79.35822
+Toronto,a7ca61373064c6581461132f1ae050de,Broadview Ave / Westwood Ave,43.6848652,-79.356602
+Toronto,62a1c39596c3d512dfa04f1d29b81035,Fulton Ave / Pape Ave,43.68395,-79.347046
+Toronto,b960be1eba97f5aefc6ad39ecc93cb11,Cosburn Ave / Donlands Ave,43.690537,-79.341307
+Toronto,908b17c0d06011373777bace0a3cd74c,Beltline Trail / Chaplin Cres,43.704461,-79.423122
+Toronto,d2ce6ae839b7df2c912ab140253a5574,Lake Shore Blvd E / Leslie St,43.659195,-79.329196
+Toronto,72de8a8e0a0966768f8115d755532e4c,Rosedale Park (20 Scholfield Ave),43.682645,-79.377557
+Toronto,4c18c44e6f93e57321d327124945cb19,Mary McCormick Rec Centre (Sheridan Ave),43.6475,-79.43305555555555
+Toronto,071b427d1f3f600d6b9f35ca6576ebe2,Davenport Rd / Lansdowne Ave,43.671526,-79.44874
+Toronto,08b57a79795bbd49a15e4a3692ee924f,Front St W / University Ave (2),43.6452972,-79.3827914
+Toronto,fe806cf907683c67f4d2899eb4123f00,457 King St W,43.6452091,-79.3960744
+Toronto,dad51db43939490092b81d8cea72e018,Dufferin St / Sylvan Av (Dufferin Grove Park),43.6555556,-79.43361111111112
+Toronto,d06ed2c21f6ff4e4cbc77b64e65bd801,Crawford St / Queen St W,43.645665,-79.415345
+Toronto,789f216e52af17d73307365401bb9109,Dundas St E / Regent Park Blvd,43.660207,-79.361275
+Toronto,9c5b6e6af1002ebba73b6be3039e78a2,Lower Sherbourne St / The Esplanade,43.648655,-79.367061
+Toronto,ceb52586adc7097b47183068a3d24862,Nelson St / Duncan St,43.648711,-79.389728
+Toronto,4b5b510307e10e878321a5eaa419c976,Jimmie Simpson Park (Queen St E),43.6605603,-79.3437663
+Toronto,ed77bb45e5a6964a4b94c780d5c21584,Queen St E / Sackville St,43.6561111,-79.36138888888888
+Toronto,419d42f093b90ba03bd31b21039ff5f0,Mill St / Tannery Rd,43.652219,-79.354455
+Toronto,b3fca97a4a4308fefb648b6815e3907d,Cherry St / Distillery Ln,43.650279,-79.356832
+Toronto,17b0d8ca1c69eca14d3173c15fa144e4,Queen St W / Spadina Ave,43.649147,-79.395504
+Toronto,c4077147fd13aa009cb7f1a59b0f8178,Willcocks St / St. George St,43.662085,-79.397735
+Toronto,b894ec8d0d8ab0f3a9bf708ee4c90d14,Dundas St E / Parliament St,43.659575,-79.365769
+Toronto,195c1a917f697ab4b4fb52431e921423,Queen's Park / Bloor St W,43.668456,-79.393899
+Toronto,e67960ae2a91a3adf6adf65a92dfd09f,Fort York Blvd / Bathurst St - SMART,43.639052,-79.399792
+Toronto,4b7f75302d4eec9130e1e486ba486571,Alma Ave / Gladstone Ave SMART,43.6448617,-79.42822
+Toronto,1e01daecd9b52d95d82346c5c81d2ba0,Harbord St / Clinton St,43.660414,-79.415646
+Toronto,82051b9dc79b4b401acc0872abc734a9,Central Tech  (Harbord St),43.661975,-79.407896
+Toronto,4504736e6ccb393e9f89000f91479688,Roxton Rd / Harbord St,43.65905,-79.422988
+Toronto,b4e20439535ceebae999cba2f02789eb,Ulster St / Bathurst St,43.66,-79.4088888888889
+Toronto,09007b5f868cd54be0f040f9a9a75c42,Mortimer Ave / Coxwell Ave,43.690564,-79.326319
+Toronto,7f29cbdced0d217c129cc9648f1becbe,Danforth Ave / Barrington Ave,43.688325,-79.300463
+Toronto,135f69ed3bde48aaf1d0006b4f080149,College Park - Gerrard Entrance,43.658938,-79.383518
+Toronto,fe97ae335b31b6c455f340f397904d38,Danforth Ave / Coxwell Ave,43.683378,-79.322961
+Toronto,d8db167197846ff7cbe59c9a35aed587,12 Harbour St,43.6425636,-79.3762
+Toronto,391a459d2ca6e2c8eefa90736b2e9142,Howard Park Ave / Dundas St W - SMART,43.6521,-79.4486
+Toronto,0ac5489c6a4750403c053598153880b0,Dufferin Gate - SMART,43.633473,-79.425679
+Toronto,0e89e5d6c910f6df787cd9c903ade959,Lake Shore Blvd W / Ontario Dr,43.630254,-79.420317
+Toronto,d0d6832dcab19b3cb35c2474d2e8c088,Bloor St W / Shaw St - SMART,43.662403,-79.423098
+Toronto,beb87ea54499f95a614653924c99b9c4,Concord Ave / Dewson St,43.656945,-79.424911
+Toronto,d8c6779ffdcc8889412fd4c9b0a08c35,Hocken Ave / Vaughan Rd,43.6817346,-79.4184725
+Toronto,fba4560a5641afdb69a97d04466ef788,St Clair Ave W / Bathurst St.,43.683296,-79.418734
+Toronto,a943462e1ee05f0073b647a5b787f81d,Queen St E / Nursewood Rd,43.673831,-79.281455
+Toronto,e3c4ef5e47b905992ebcd262cc3df594,Kewbeach Ave / Kenilworth Ave,43.666325,-79.3014
+Toronto,044fd938d016b91837e9b02be913b5c7,Lakeview Ave / Harrison St (Green P) – SMART,43.651145,-79.423742
+Toronto,c8cc2df4c8343778481f7f7c53499df7,Baldwin St / Spadina Ave - SMART,43.654905,-79.398448
+Toronto,2037c7d47c8b7babcd2c4a058a66a6c8,College St / Borden St,43.6571,-79.4056
+Toronto,73555343619c6b9d1253029204bbd5cd,Beverley St / Dundas St W,43.652823,-79.393388
+Toronto,d4c9a3af6604468422edfb03f56462db,Bay St / St. Joseph St,43.665527,-79.387499
+Toronto,6e0b53806a9d068b042fa21bd67c5418,Gould St / Mutual St,43.6582,-79.3768
+Toronto,c6f56ec0831b791abbce0992adba6318,Riverdale Park North (Broadview Ave),43.671172,-79.354704
+Toronto,3b2853992a1700739c8fa569801e1c48,Danforth Ave / Ellerbeck St,43.677076,-79.35667
+Toronto,a9f7723da0cc432f4d057e3ceede292e,Danforth Ave / Gough Ave,43.678401,-79.346289
+Toronto,79b67fbfd130d41c9162e805a9e755be,Danforth Ave / Lamb Ave,43.681991,-79.329455
+Toronto,667cd54aa27ec06620753f3d19a78b3d,King St W / Stafford St,43.6422222,-79.41111111111111
+Toronto,37b46f2e5573e69f5451dc09c0c14660,Bathurst St / Lennox St,43.663808,-79.410491
+Toronto,8db545a0135f7b92022fbdbbc75af6c4,Bathurst Subway Station,43.6666667,-79.41166666666668
+Toronto,78ac4436b3398ac55b47569863af6c41,Bloor St W / Christie St,43.6638889,-79.41888888888889
+Toronto,6d45f03d18059ba5e61f0d44a0cea59d,Ossington Ave / Bloor St W,43.661705,-79.425734
+Toronto,cf1adac21d23e26855ea06278b5cd149,Essex St / Christie St - SMART,43.6686111,-79.42027777777778
+Toronto,3863dd61e00ea66710f789ae4297a2d2,Westmoreland Ave / Fernbank Ave,43.665327,-79.43235
+Toronto,46bdd4a2b7715a9e32917b830777f17f,Havelock St / Dufferin Park,43.657343,-79.43112
+Toronto,6ac9cdf0b92883715b404d41c779af0b,Bathurst St / Adelaide St W,43.645324,-79.40345
+Toronto,a0582ad73e21704a28197ee3c0aa4bcd,Mill St / Parliament St,43.650256,-79.36163
+Toronto,bc19a4e6924e29937e76c9e82b55584c,Ossington Ave / Harrison St,43.651111111111106,-79.4213888888889
+Toronto,71debce521f35fd4e280e8ee1e2dd8cc,80 Clinton St,43.656296,-79.414663
+Toronto,5dd14c8888280d1274f6ad3e04f6d6cd,Claremont St / Dundas St W,43.651281,-79.411717
+Toronto,d7bb48a755f69109f6584df0a207c9b2,Rusholme Park Cres / College St,43.65277778,-79.42972222
+Toronto,e53f168eadc3a7e3b9704193c739cb12,College St / Crawford St,43.655,-79.418889
+Toronto,3e05658e4bcad33e9d606744235dadcc,Queen St E / Alton Av,43.663912,-79.327987
+Toronto,ab92855299769ca50b1354e489b31a31,Simcoe St / Wellington St W North,43.6462176,-79.3855048
+Toronto,20671fface2f37dd6d2d4263534c29e5,Coxwell Ave / Plains Rd,43.69595,-79.328535
+Toronto,67862da2d3680a6eaa417b8ce2d945d4,Carlaw Ave / Strathcona Ave,43.6753188,-79.3462789
+Toronto,f42363acf4af847ca6fcdbe9b48c8290,Liberty St / Fraser Ave Green P,43.637981,-79.424146
+Toronto,3c85f738ad60e03252f1d62fec2f34d6,King St W / Douro St,43.640885,-79.416379
+Toronto,c7948cf5155f3ddaefa9a8279f203b5a,Queen St E / Berkeley St,43.6552778,-79.36583333333333
+Toronto,13e6abf323682b291aadb3371ce32cc7,Carlton St / Parliament St,43.664524,-79.36793
+Toronto,e46a04a7825e44fa858bc0cb00a4458a,Sumach St / Carlton St (Riverdale Farm),43.665867,-79.362506
+Toronto,5db77b72334a7b8823a28662a03f8e38,King St W / Bay St (East Side),43.648575,-79.380042
+Toronto,c955acbcda8513471837f2aa55a98fb1,Front St W / Blue Jays Way,43.643473,-79.390477
+Toronto,6d07f3c1d79ff6816c5c04a7def6e6eb,Metro Hall Plaza,43.645859,-79.38783
+Toronto,019e5937c3fc120cee906770bca8fa69,Navy Wharf Crt / Bremner Blvd,43.640722,-79.391051
+Toronto,3754aff9599513c7ba4e4649ea3818dd,Jarvis St / Carlton St,43.66207,-79.37617
+Toronto,e0ae749c309ee887012688bbd69c8b10,Lake Shore Blvd E / Knox Ave,43.660206,-79.3244
+Toronto,ee45e3b6a9f07f4581d82c06d9bd5f51,Hubbard Blvd / Glen Manor Dr,43.668633,-79.291162
+Toronto,af0a7227a67fe55fb0c12597326e6b3b,Yonge St / Dundonald St - SMART,43.665801,-79.384796
+Toronto,4f8770c2a0ee3962babd83913df2e99c,Bay St / Charles St W - SMART,43.668153,-79.38891
+Toronto,f0af815a9e6c12bd0382843e03fd322f,Eglinton Ave W / Henning Ave SMART,43.7063473,-79.40161
+Toronto,b3786025b3e4a46d9a21d6b82087cd12,Balliol St / Yonge St  SMART,43.6978701,-79.39419
+Toronto,44bdbe8a2ac75fbe4cc0edf41fe1d4fa,Frobisher Ave / Lascelles Blvd,43.696708,-79.40045
+Toronto,ba979c39b60f1144fc9dd91faaeeea64,Front St E / Scott St,43.6476616,-79.37549
+Toronto,eb9f4cf130feebf9af0dc0225411eb98,Frederick St / The Esplanade,43.6487245,-79.36839
+Toronto,52d497af695140c759b28d7bf63e94f4,King St W / Bay St (West Side),43.64852,-79.380576
+Toronto,ee2e9277d3e8a86acbfdda0e395d1378,Elizabeth St / Edward St (Bus Terminal),43.656026,-79.385327
+Toronto,90d36d6e81fff926a434e196e0a43d53,King St W / Spadina Ave,43.645323,-79.395003
+Toronto,14d5d7e0f5a8e23c9b50f62ea39f725c,Glen Edyth Dr / Davenport Rd,43.677778,-79.405556
+Toronto,3bfbe7d9edced07da6dd283495fb8170,Queens Quay / Yonge St,43.641646,-79.375308
+Toronto,58c0d439a59414e5e23bf5021e264d79,Front St W / Bay St (North Side),43.646162,-79.378912
+Toronto,f36d8ed5ff407fc4eab6c9cc344661f9,Danforth Ave / Westlake Ave,43.687323,-79.304848
+Toronto,15fc89637ebe1c3e63fbe123d70819ee,Jarvis St / Isabella St,43.668991,-79.379385
+Toronto,ef0363fb67db85c62cfe83b7032ade5b,Yonge St / Wood St,43.6622222,-79.3825
+Toronto,9fcbcd2e313ddf16bc7200bede80e9a6,King St W / Tecumseth St,43.64333333333333,-79.40555555555557
+Toronto,f5506a406fb49a19088bedd1d8e9cd2f,Beverley St / College St,43.6575,-79.39527777777778
+Toronto,fc62f74abe3d79fa430f55f6f56e5e3a,Gould St / Yonge St (TMU),43.657424,-79.381019
+Toronto,4b13a471170e0768fe5e1ca0b30fde8d,Front St W / Bay St (South Side),43.64595,-79.378761
+Toronto,5e8bf46c90fa957882beddfb6625870b,Charles St W / Balmuto St - SMART,43.668427,-79.38725
+Toronto,3ba9b248dbb5b0ffa30ec9807f14476c,Charles St E / Jarvis St - SMART,43.669604,-79.381171
+Toronto,0690f86b4ecb172570d8e08b5f9004c3,Queen St E / Pape Ave - SMART,43.661673,-79.337789
+Toronto,9796c16b7ac90260d9f033ba4735acea,Gerrard St E / Broadview Ave  - SMART,43.665656,-79.352055
+Toronto,abbcc3b45ad10472c3ec35ce3fb6e078,Humber Bay Shores Park East,43.6308933,-79.4722622
+Toronto,ec48a65298b460584afe2586c15c360c,Humber Bay Shores Park West,43.6224434,-79.480284
+Toronto,21982c325ac8d5dcc146b350aa0e8298,Taddle Creek Park,43.66986,-79.398443
+Toronto,82748c8c8a714dd216bcd4c636585556,Thompson St / Broadview Ave - SMART,43.659471,-79.350325
+Toronto,16658c808dda522274b99346e8f815fb,Roncesvalles Ave / Marmaduke St,43.650492,-79.450842
+Toronto,4d985c0489e4b123e499fcaa4b70e32e,Queen St W  /  Fuller Ave - SMART,43.640255,-79.439223
+Toronto,2567d3e27e558c6e6ee94c289c838111,King St W / Cowan Ave - SMART,43.637922,-79.431734
+Toronto,760056e88951946d2f3e9bea859333eb,Garden Ave / Roncesvalles Ave,43.643769,-79.447915
+Toronto,c08362564d4889e345bfaaa42da5fb4f,Sorauren Ave / Geoffrey St - SMART,43.649172,-79.4445087
+Toronto,29f79e7d7e4440c7554a3f3e3bae4f88,Mallon Ave / Jones Ave -SMART,43.66587,-79.33443
+Toronto,8d65a48806e799a8c2d5dcb77e97c1cb,Berkeley St / Dundas St E - SMART,43.658816,-79.367318
+Toronto,53fc6d540a0eac8fb9f5366572e53515,128 Sterling Rd - SMART,43.654004,-79.444792
+Toronto,049156f7c0e19a53a77d8310d93eed0c,Sunnyside Ave / The Queensway - SMART,43.6397,-79.44865
+Toronto,adaa360374ea04ae057eba2ca7ba3e5b,Sackville St / Eastern Ave - SMART,43.653809,-79.3595
+Toronto,8485289697ef258129b2437308511fcb,Davenport Rd / McAlpine St - SMART,43.673768,-79.391253
+Toronto,fb0ff514e9bb7798f0a682f36f644b05,Sumach St  / Queen St E,43.656638,-79.358749
+Toronto,c835abf1540e63c50d5a879e5075387e,Gerrard St E / Main St,43.684261,-79.299332
+Toronto,32b476b39dacc23dda545c39ffb549cc,Southwood Dr / Kingston Rd - SMART,43.678685,-79.297974
+Toronto,de5dcf1ee9ccff065e01b4516b46f190,Neil McLellan Park,43.65143,-79.47779
+Toronto,8aa5c061e4ae37e2e05b05d04afadc2e,Jane St / Bloor St W (Jane Subway Station),43.64976,-79.48477
+Toronto,5f6ec96dda864a01fdf0c031b6a1b6d0,Antler St / Campbell Ave - SMART,43.664182,-79.449066
+Toronto,4a5734eee8c1c49197ffe9b992dd032a,Clarence Square,43.64407,-79.3929
+Toronto,41466727730d71a0286376ef3675d282,Front St W / Simcoe St,43.6442,-79.38702
+Toronto,213541646a587196b1acb812a3d0a8ad,Lower Simcoe St / Bremner Blvd,43.64283,-79.38409
+Toronto,1a68bd75d5159c7cc33367b97ee8ab8e,Glendonwynne Rd / Bloor St W,43.65182,-79.47421
+Toronto,1dd10befe3fa0d7d7ebc657b9a01942b,Russell Hill Rd / St Clair Ave W,43.685569,-79.408019
+Toronto,41ead9c9a4a83459161794bfb1894c07,Church St / Lombard St,43.651678,-79.375233
+Toronto,888212c5d33ceed5acbab77b4e544689,Richmond St E / Yonge St,43.651838,-79.378743
+Toronto,189995604737e19f1b76cd3a3ff3aff9,Queen's Park Cres W / Hoskin Ave,43.665221,-79.394009
+Toronto,fe268f3f2f439d0016dc46605491078e,Pottery Rd / Lower Don River Trail,43.688148,-79.362101
+Toronto,70ad303e74f93aa2bfaea256b9b09753,Bleecker St / St James Ave,43.669232,-79.374495
+Toronto,a7cdbedefded6e117505bde22c24ef84,Western Battery Rd / Pirandello St,43.640075,-79.414156
+Toronto,fbcb8f44813b5f7eba282691176d9249,Carlaw Ave / Danforth Ave,43.678285,-79.347346
+Toronto,280ce4cfc4b101f3a8a08843e4a258d6,Cosburn Ave / Cedarvale Ave,43.697139,-79.31469
+Toronto,9d4f1f5d63ed3e297fc737908616f617,Goodwood Park Crt / Dentonia Park,43.694826,-79.295208
+Toronto,0729b25bcf663b7a2278f01d63b50fcf,Eastwood Rd / Coxwell Ave,43.673118,-79.318651
+Toronto,27e30ff4939a3992db39e99af9dfe172,Trent Ave / Danforth Ave,43.689293,-79.295895
+Toronto,675628c054189e3bce23785d6574a24d,Orchard Park,43.66908,-79.3149
+Toronto,32915794131e41a355ebee1ab9ad78fb,Clendenan Ave / Rowland St - SMART,43.66073,-79.47149
+Toronto,738cf12a45b36f443d7585aa9d55e3a9,Concord Ave / Bloor St W,43.66189,-79.42679
+Toronto,1f5bb4fff3139fff3f927f1a4980dc1e,Gothic Ave / Quebec Ave,43.65389,-79.4675
+Toronto,3df6faa6bc73f93a672aa3e3004434f0,Rushton Rd / St Clair Ave W,43.68114,-79.4277
+Toronto,8ab6f991fa3032ee2a20b1d34d50be01,Dundas St E / Boulton Ave - SMART,43.663148,-79.347938
+Toronto,236729e04a979069b035a3070e608f6e,Gerrard St E / Leslie St,43.669813,-79.3335
+Toronto,2800c972b83e435cecefcdb95078e435,Marilyn Bell Park Tennis Court,43.633537,-79.437461
+Toronto,2c32c6a2dbfb666ee51150ce15e1b9a5,The Queensway at South Kingsway,43.63632,-79.47307
+Toronto,9fa8f250a5b887af9cda8df6931f2eca,Merton St / Mount Pleasant Rd,43.697819,-79.38786
+Toronto,c9395d274aa197587eb89f34e68e262a,Tyndall Ave / King St W - SMART,43.638426,-79.429142
+Toronto,a3eb9012fe995bffeef3b7d02cfffbd1,College Park - Yonge St Entrance,43.65988,-79.38279
+Toronto,7c6f64117f740f5dc9114ebfb26a6247,Barton Ave / Howland Ave - SMART,43.66842,-79.410585
+Toronto,d1bac3c8125c67909fa2e4a3cdf6b409,Keele St / Annette St,43.66402,-79.46418
+Toronto,e7384509a60160b8e84403a3247255a5,Keele St / Vine Ave,43.66686,-79.46526
+Toronto,56ff366ef56862dc34e4df414568d4b0,Howard St / Rose Ave,43.671278,-79.372127
+Toronto,940aa4a33247df5ea989d1b07e125e5d,Little Norway Park,43.635023,-79.399505
+Toronto,ef9dfe14fccf2237630ed9002c48fc3b,Lascelles Blvd / Eglinton Ave W,43.70547,-79.40355
+Toronto,93727b82ed700768aa9695d49140f6b3,Polson Pier,43.641675,-79.354006
+Toronto,f84773b4dcedcaea20de2c7e324d8c90,Dentonia Park,43.694341,-79.291416
+Toronto,3d13e32b7336dbe2c6b2190df3ba8600,Lower Jarvis St / Queens Quay E,43.64422,-79.36927
+Toronto,009f180cf35ae1285733d98ccf058313,Summerhill Ave / Maclennan Ave,43.685924,-79.376304
+Toronto,c452eea1e95d474e6f1b7ea545e79d1b,Queens Quay E / Lower Sherbourne St,43.645215,-79.364898
+Toronto,1fe6812cc638f0e5080113daa9a7d77a,Wright Ave / Sorauren Ave - SMART,43.646677,-79.442741
+Toronto,b4462a2daef20c76a3ff7c53326f10e4,Ellis Ave / The Queensway,43.63855,-79.46693
+Toronto,1e83030210b6666f3fe29bade92f1181,High Park - Grenadier Cafe,43.645599,-79.4657123
+Toronto,c102428e69ec84dd803fd2f51b8cfc83,Winona Dr / Davenport Rd,43.674923,-79.430465
+Toronto,68185cf4a510f34c7dd396bb2fb7549a,Danforth Ave / Aldridge Ave,43.684758,-79.316767
+Toronto,deb6cce4318ac072f72c4988efd9dbdf,Dundonald St / Church St,43.66663,-79.38148
+Toronto,7f15a95a0104437a73d574be76cb4158,Gerrard St E / Malvern Ave - SMART,43.685221,-79.294766
+Toronto,263344f0b04caa421826eceaadd15697,Bathurst St/Queens Quay(Billy Bishop Airport),43.635492,-79.398253
+Toronto,624be8411d63932754479f0b710eaa97,Queens Quay W / Lower Simcoe St,43.63951,-79.383717
+Toronto,082fdb9cce172f916dde26cc3a543b69,Bremner Blvd / Rees St,43.641529,-79.386741
+Toronto,26c9984a5ec1ea1e7edb7fafa8d1e6f7,King St W / Crawford St,43.6417852,-79.4131148
+Toronto,d52672d5cddbb77befa3d5d448fc2534,Yonge St / Dundas Sq,43.655766,-79.3802
+Toronto,735f71a11ab473f25860d7366582a5fa,St Clair Ave W / Winona Dr,43.680466,-79.432522
+Toronto,6f5d2f1ea5a0702ceb169480117ac9fd,Bay St / Wellesley St W,43.664088,-79.387095
+Toronto,9c5267129912b44d3d8c91094256f1e2,Humberside Grounds - SMART,43.65917,-79.46997
+Toronto,22cedcbf1b4580a7995f4e15843bd2ef,Bloor St E / Huntley St - SMART,43.671535,-79.379173
+Toronto,ed02403ba3e67b969a9d5e10742b7d5b,York St / Wellington St W ,43.646734,-79.38301
+Toronto,aeeb1fa2ea65f1492a523f0477de71d7,Dalton Rd / Bloor St W,43.6662942,-79.4066433
+Toronto,a249bee44425dc2b5c2f384a00a59f33,Davenport Rd / Christie St,43.675278,-79.423889
+Toronto,24de23035684fccb1f588c7161489075,King St W / Jordan St,43.648928,-79.378623
+Toronto,aa101867125c9cc13920e34d881f86b2,E.T. Seton Park (Eglinton Ave E / Leslie St),43.715951,-79.351246
+Toronto,6cdafdc1db0f73b22c3fd462fd984805,Woodbine Ave / Lake Shore Blvd E,43.665645,-79.304711
+Toronto,1d827726987d707bbcd5562e02416b0e,King St W / Charlotte St,43.645572,-79.39399
+Toronto,08d867cbed5f08addb01b714700eacf7,Jarvis St / Richmond St E,43.652777,-79.372637
+Toronto,2d9b09d13ca6695d876ff08853469a24,Symington Ave / Dupont St,43.665538,-79.451263
+Toronto,c9624aaf955b7fb236dcf2c8443c8fe9,King St E / Jarvis St,43.650325,-79.372287
+Toronto,2d1d89a437dbc32634ba928744831860,Bay St / Bloor St W (East Side),43.66943,-79.38915
+Toronto,179e575503c062aa31a47c6f67d492da,Bay St / Bloor St W (West Side),43.669244,-79.3894
+Toronto,ffc954e6f4228f59169c040483ebcc3a,Wells Hill Ave / St Clair Ave W,43.683351,-79.41562
+Toronto,41b880ed1fe29761e25d4e3a492b563d,Dundas St E / George St,43.6574766,-79.373446
+Toronto,c209afb99ac56fcd8f423e9365621ee7,Fleet St / Bathurst St,43.636611,-79.400042
+Toronto,7f5ae543870ee8917aaa5022234c5e0b,Tecumseth St / Queen St W - SMART,43.646552,-79.406468
+Toronto,d00c14c6cffc4b0fb30239ec2410232c,Briar Hill Ave / Yonge St - SMART,43.713524,-79.400162
+Toronto,9c2e322a9d2bd1035e3f607f96152a98,King St E / Church St,43.65003919999999,-79.3733541
+Toronto,03cb067499bb9bc86cf0c884edb403bc,Wellesley St W / Queen's Park Cres,43.663376,-79.392125
+Toronto,2f10b834460965288d419163586f3f89,University Ave / College St (East),43.65995,-79.38964
+Toronto,1ac23b3d20ad003acf2f9b1f8a2f2f0b,Superior Ave / Lake Shore Blvd W,43.6146692,-79.4873148
+Toronto,50d8ed93a01d05c04298300fe52b5ac7,Lake Shore Blvd W / Colborne Lodge Dr,43.63771,-79.458173
+Toronto,f897c08ea341fc832b7ca756cb0982ae,Ripley Ave / Ormskirk Ave,43.6390437,-79.4760109
+Toronto,0ebd7e4e7c35126cda830c1c67bb3241,St Clarens Ave / Shirley St,43.6486599,-79.4376413
+Toronto,f926e2b4fe4ff841a24b2ac4962e62bd,Bartlett Parkette,43.6702236,-79.4360232
+Toronto,791f66f190e1848c7eeeaf8b937e304f,Sherbourne St N / Elm Ave,43.6752732,-79.3778458
+Toronto,068f5330e49bd7236864c7cbf904813f,Walnut Ave / Queen St W,43.645469,-79.411084
+Toronto,36c244827ed3bd3ee314ab1d2781db2a,Vaughan Rd /Wychwood Ave,43.6882821,-79.4253856
+Toronto,91b75f5884eca61cded2a3da80a6dc2b,Palmerston Ave / Dundas St W,43.651603,-79.408346
+Toronto,e6151e077a7d8141f6ae96e6223d12e9,541 Huron St - SMART,43.670206,-79.402643
+Toronto,03b565f085260e768988cd216fbeeef4,Euclid Ave / Herrick St - SMART,43.661559,-79.413845
+Toronto,34a94fc072487f4615b041d2b7a6c659,Baldwin St / Henry St,43.6560758,-79.393259
+Toronto,2b2e280f715656fb630b59ec9a6d1e0c,Orde St / McCaul St,43.6580442,-79.3927404
+Toronto,026bf7c2104a659ef0392f1c22bc6e17,Ross St / Cecil St - SMART,43.6568254,-79.3966159
+Toronto,b7461d8effda846e2f78dfbee059c433,Lake Shore Blvd W / Thirty Ninth Street,43.5927419,-79.54033009999999
+Toronto,f1bad47f1bca16159267c0ad3e50fb1a,Lake Shore Blvd W / Twenty Fourth St,43.597082,-79.522768
+Toronto,4d9f7ef78ba9859e04d259c1567d1d61,Windsor St / Newcastle St,43.6171635,-79.4971065
+Toronto,1d5a56319adf364532940f86be71ce4b,Royal York Rd / Mimico Ave,43.612063,-79.496573
+Toronto,0deaf45500eb93eeacff86adaafeb180,Berry Rd / Bell Manor Dr,43.63732,-79.489083
+Toronto,4e5712234feb60f46fff461ab136e147,Humber College (Lakeshore Campus),43.5961692,-79.5160575
+Toronto,8b49ce875b451df6dbe4fb4667acb3bd,Amos Waites Park,43.613606,-79.4883535
+Toronto,d9d0c97c8f65e3fb4ebcd464a11f5522,Priscilla Ave / Dundas St W,43.664665,-79.489385
+Toronto,27b5be1cbbce21764b224e820c7f888c,Durie St / Dundas St W,43.665523,-79.484892
+Toronto,600672c7f313e01de8bab00cbee9e7f4,St Clair Ave W / Castleton Ave,43.668496,-79.485426
+Toronto,50dc0fcbc5a62a2cc676ada21ede905c,Weston Lions Park,43.698841,-79.519472
+Toronto,6d6c301acbd12264042475dfd0e0e1e3,Annette St / Jane St,43.658574,-79.487246
+Toronto,1e5bc0c0a2797265956ee948d6dcd49d,Jameson Ave / Queen St W,43.63985,-79.43703
+Toronto,e933ad7ff4aae2c390d9f79c1043d657,Carlaw Ave / Dundas St E,43.665076,-79.341509
+Toronto,c1704a7eebf0bff8016166d14fe130bd,Toronto Inukshuk Park,43.6323994,-79.40978179999999
+Toronto,5bed66406f7431f8d4d8542d107225ea,Cosburn Ave / Durant Ave,43.6935477,-79.3301658
+Toronto,124ed44b13876f8019e356d76ba645ee,Swansea Community Centre,43.6438036,-79.4770327
+Toronto,12481528bb8d296c8bc4014306f36afd,Bellwoods Ave / Treford Pl - SMART,43.65246,-79.413528
+Toronto,5282337e262f025cee74afaf2659b223,Bayview Ave / Lawren Harris Square,43.6548521,-79.35397680000001
+Toronto,125e730a6da5714af8567ae352485337,The Queensway / High St,43.630874,-79.482407
+Toronto,0b153cb4fe7873b109e3068cf99dbf74,Symington Ave / Davenport Rd,43.6704403,-79.45328549999999
+Toronto,fb3867774f8ac943a838fb13a41bd1b6,Front St E / Bayview Avenue,43.6535,-79.354068
+Toronto,8c4531a1d91e5583aff9759a5aedb46d,Oak St / Sumach St,43.6617908,-79.361515
+Toronto,4bb6659976fc4aaf5a141c488a405a00,439 Sherbourne St,43.666051,-79.374161
+Toronto,f04359bb2878aa6d672474276e5017e4,Glebe Rd W / Yonge St,43.7005976,-79.397345
+Toronto,9447917367c25ac832d404c1a4696615,Hillsdale Ave W / Yonge St,43.7029672,-79.3979073
+Toronto,0b85c7861c4c48a4cd4fe140c913da57,Alvin Ave / St Clair Ave E,43.68871,-79.39264
+Toronto,f0ef11b3bf1f1a2ab5d7a556fde038f6,Eglinton Ave W / Scarlett Rd,43.6834703,-79.5108942
+Toronto,e228eced48bdb1f81b6b38456fdcad39,The Pond Rd / Sentinel Rd,43.7696262,-79.5025943
+Toronto,71bf1ff10731929ec44b9dcce72edba6,Sentinel Rd / Finch Corridor Trail,43.7641485,-79.5012809
+Toronto,6a4d3e7625cc41d49674986b994fc5e1,Finch West Subway Station,43.76521,-79.491281
+Toronto,bf413030081fe6f86c21b6412f4e4e1a,Dufferin St / Finch Corridor Trail,43.7724019,-79.4675395
+Toronto,cfcbfa258711beff217aa9d929a3a3ea,G Ross Lord Park,43.7781116,-79.467963
+Toronto,7a86196b811f1b13212052f5cd37e692,Elwood Blvd / Avenue Rd,43.707049,-79.40966
+Toronto,2c429e9e841e213f875d2116cfab30e9,Roehampton Ave / Bayview Ave,43.711751,-79.378615
+Toronto,482006b8f83e7802372448cd4dbd463d,Teddington Park Ave,43.732975,-79.40401
+Toronto,b3ac9ac4dba9aff36e24ba60b6171308,Ursula Franklin St / Huron St - SMART,43.660274,-79.398049
+Toronto,7978548b201c5c5ab2421bc2906bc446,Woodbine Ave / O'Connor Dr,43.699281,-79.318802
+Toronto,65aefd1c1484ebd15a7827285971734e,Dawes Rd / Taylor Creek Trl,43.696631,-79.297436
+Toronto,812af6af42e905fac0cafcf05146f3ba,Fairmount Park,43.6765897,-79.3163022
+Toronto,165388972f43146138b4f5180eead75a,Richmond St W / York St,43.650745,-79.383633
+Toronto,3b0ffacf6f626924fb61b0d6d578561a,Sunnybrook Park,43.720233,-79.362092
+Toronto,3dccd3e0582902632ace3ada9481abb0,Vaughan Rd / Oakwood Ave,43.6926825,-79.441042
+Toronto,cca065ea85fe108c99c68759adf859ee,Braemar Ave / Eglinton Ave W,43.7041957,-79.4094472
+Toronto,e4d76b13daa3859403326b474684159d,Marie Curtis Park,43.5880774,-79.5432067
+Toronto,4a491c94c9b46d3b7927b72a3bad0ab6,Guildwood GO Station (South),43.754978,-79.1971289
+Toronto,0c49d15e80cceca5feb5a2bc84ddc2f5,Chorley Park - SMART,43.6856,-79.3718
+Toronto,937a6d6b325ab59d5e0047f4b8eeb0ac,Cherry Beach,43.637764,-79.345359
+Toronto,30c56fdec4d36ab0124297d6f0101490,Spadina Ave / Harbord St - SMART,43.6629228,-79.4018451
+Toronto,4a1203492305451d3154777c392532f3,Ursula Franklin St / St. George St - SMART,43.660296,-79.397107
+Toronto,07c0bbd2b5c108bacb3a32250af2a076,Rouge Hill GO Station,43.7805505,-79.1301203
+Toronto,a70fe5dd2fa91d6c13d66b5415e9740e,Colonel Danforth Park,43.7777114,-79.1659711
+Toronto,254006acb0d0299f535d3723f656ae67,Morningside Park (Highland Creek Trail),43.779353,-79.193023
+Toronto,93699b431ac46c9e98b3b1c74cda8e95,Livingston Rd / Guildwood Pkwy,43.747854,-79.199327
+Toronto,a3860ef7a1996bfe83863f7086adb77b,Livingston Rd (Highland Creek Trail),43.7561681,-79.2026694
+Toronto,8bd81a9fcb43f04a9b8f80996312e61e,Twelfth St / Thirteenth St,43.6002896,-79.5108692
+Toronto,c5db2e6382e20bec3e404aaf7ea89ccb,Wallace Ave / Pauline Ave,43.6632257,-79.4397052
+Toronto,d747893c66003f215b8502161eb40f5e,Kingston Rd / Beech Ave,43.680095,-79.291714
+Toronto,0153756b9e136b96e730aaa2f048227f,Victoria Park Ave / Danforth Ave,43.691468,-79.288619
+Toronto,ded51d399ed59c94c0a464202fc09fe0,Union Station,43.645609,-79.380386
+Toronto,b5012608da25a66be2fe79465186ff62,Hayter St / La Plante Ave,43.6591666666667,-79.3855555555556
+Toronto,033dd75f330fec10400341177c68036e,Seaton St / Dundas St E - SMART,43.658777,-79.369596
+Toronto,080c6cc1f827d976fd75f9ccf53db95c,Lundy Ave / Étienne Brûlé Park,43.6625395,-79.5030161
+Toronto,5f02574f10f8ec2871df512546cf6f65,Chiltern Hill Rd / Eglinton Ave W,43.7004017,-79.4275305
+Toronto,3e8872d5357f08ebd702863ab04e913e,Torresdale Ave / Antibes Dr,43.77953,-79.45233
+Toronto,126121fbcccd20a50c8bd94206c7d81b,Esther Shiner Stadium,43.7774374,-79.4447096
+Toronto,a2e02c044b1d003adb0993f8da78ee58,St. George St / Hoskin Ave,43.6637403,-79.39806449999999
+Toronto,70222e00b684e247dd3f982cfb268e2e,Fleming Cres / Bayview Ave,43.707045,-79.375437
+Toronto,af8ef901117705bf69e591e81d28a15f,King St E / Victoria St,43.6495789,-79.3762096
+Toronto,9ee0fa9e2c3afc338a74a6b49af02e41,Alameda Ave / Vaughan Rd - SMART,43.690903,-79.4375028
+Toronto,bcf5ea04f184984e5cbd8571527636ff,Adelaide St W / Strachan Ave,43.643253094827294,-79.41230469904167
+Toronto,9c10c5f861261da626f9707ada4e8e04,Royal York Rd / Lake Shore Blvd W,43.6029904,-79.4926867
+Toronto,48a626ef3a6cfbbccdaea283ce5901c6,Runnymede Rd / Annette St,43.6596299,-79.4799176
+Toronto,57f2fc67a917b973ca7f31a994e0c63a,Salem Ave / Bloor St W,43.6608333,-79.43166666666667
+Toronto,8ef3bc5ab6805d2c5411023f4318d778,Dufferin St / Bloor St W,43.66083333333333,-79.43583333333333
+Toronto,407c8fc47ef8f822af020375a4f7dc79,Davisville Ave / Pailton Cres,43.69933,-79.39199
+Toronto,3afcafcea065abef8dd2beafcb78c7bd,High Park Ave / Dundas St W,43.6653032,-79.4701178
+Toronto,e6588e3838b256ab32f9b7db54be5a66,Judson St / Royal York Rd,43.6162721,-79.4990363
+Toronto,b29cba584424066f83f374b2c3fe1780,Wilket Creek Park,43.720645,-79.355474
+Toronto,87722dd793400f7a61a96a59b9133e4f,Annette St / Dundas St W,43.6641174,-79.4588522
+Toronto,d6d49f7d4ddb2cd466938a1b424c1412,Noble St / Queen St W,43.6424558,-79.4296346
+Toronto,51987cd2ab0d05eeb2f79bcb596e348b,Oriole Pkwy / Kilbarry Rd,43.6954486,-79.4026176
+Toronto,b20ef84c05107095581cdd50b2bb4a2c,East Lynn Ave / Danforth Ave,43.6850809,-79.3149901
+Toronto,c4a01864ecb66e9b1ee3023d3205a281,Langford Ave / Danforth Ave - SMART,43.6800218,-79.3405681
+Toronto,3c7236f4a281b569b57f40c0bf29c4ca,University of Toronto Scarborough,43.7842419,-79.1849889
+Toronto,df0ee6e75eb32441818a11d990fa844a,190 Queens Quay E,43.6451308,-79.36536439999999
+Toronto,9703f67f16a349591949e76da3714b61,Elm St/ University Ave (East Side),43.65637299999999,-79.38781039999999
+Toronto,b1685246ce6cfe5b9d621a1991c3cedb,Waterfront Trail (Rouge Hill),43.778015,-79.131911
+Toronto,c0538b0581a59e1e7321a382b5ab17ab,St Clair Ave W / Gunns Rd,43.672079,-79.470171
+Toronto,052763ac927bce9197aa6381f508576f,Pape Ave / Gamble Ave,43.690237,-79.350119
+Toronto,0faf9e7c7d5403b8f7dc7574fa6d0c6e,Roehampton Ave / Mount Pleasant Rd,43.70942,-79.39139
+Toronto,f3aa2a6bb24e5012b030c6810cf39964,Church St / Bloor St E,43.671389,-79.382919
+Toronto,6fcf6974fe1a08b20ab7f70d70da6cb0,200 Bloor St E,43.671561,-79.38117
+Toronto,fb2618cee3456166ccc52c3ceeae13c6,Moore Park,43.693256,-79.383238
+Toronto,e473bffc39f79fdd42e27583ccbe0709,Bloor St W / Pacific Ave,43.65412449999999,-79.4636388
+Toronto,3d71c9ff5bcbaad794a49115e11786e3,Danforth Ave / Dewhurst Blvd,43.680207,-79.339243
+Toronto,fea3f9dfbcc18225728f10913c5d3d5b,Bloor St W / Brock Ave,43.6589882,-79.438715
+Toronto,f3a880cb5277285662d2d68f5523488d,Davenport Rd / Dovercourt Rd - SMART,43.6741219,-79.4352208
+Toronto,844d02b2b7dfdabf7bd044c3edf050d5,1 Market St - SMART,43.6469928,-79.3706665
+Toronto,3d38244751d3c44617f0066466a3bc7d,Brick Works,43.683884,-79.36647
+Toronto,2b4c28b78247a24037bcff2ad8fcc605,University Ave / King St W - SMART,43.6477785,-79.3847928
+Toronto,9d7e8386839f9d834777d1cf0a8482c1,Amroth Ave / Danforth Ave,43.6856128,-79.31168269999999
+Toronto,10722d0c5054c529a0d71f9eb2c89f92,Summerhill Subway Station,43.681944,-79.390556
+Toronto,b1c628d5509021c582f104bc3089e514,Beaty Ave / Queen St W,43.6393107,-79.4408141
+Toronto,f889b35bb8077eaa77f35bed4d524e89,Blantyre Park,43.68306889999999,-79.279682
+Toronto,7e8db6cca9980f9b6daf293197f25fc4,Queen St E / Rushbrooke Ave,43.6626628,-79.3323698
+Toronto,34ec939e3772ab6f8f9be4ae0c98f3a2,Donlands Subway Station,43.681114,-79.3373885
+Toronto,1cc9575bb686fa4a3eb7f4afbdea5073,Lynn Williams St / East Liberty St - SMART,43.638925,-79.4168659
+Toronto,cf43a77e34066db8b926a42b49814963,Eastwood Rd / Woodbine Ave - SMART,43.676216,-79.309395
+Toronto,48f8a355073b35f8720761c96f77d86b,285 Victoria St,43.656633,-79.379625
+Toronto,c147f315755b1b1e79467fab3aaf3cb4,Gerrard St E / Victoria Park Ave - SMART,43.686962,-79.286864
+Toronto,199a939521be6324c802d8d50ebeb4a8,Kilgour Rd / Rumsey Rd,43.718039,-79.371914
+Toronto,04cadbe0f9b27f89f5fa6f6dbdea0883,Bay St / Scollard St,43.672152,-79.39018
+Toronto,be90e51f9b29e31ae1d40a8dea028dcf,Weston Rd / St Clair Ave W - SMART,43.673019,-79.467994
+Toronto,4704fb679220b3879edfa3a853d55fbd,Sunnybrook Health Centre - L Wing,43.72268,-79.37644
+Toronto,8e40f60a48a909297b4114be18956d5c,Dundas St W / St Helen's Ave - SMART,43.6504218,-79.4407647
+Toronto,2ad52acd0c231c654b488e03060224f2,Yonge St / St Clair Ave,43.68850459999999,-79.3940052
+Toronto,1a0670e4e55fe4259c105c6803651334,Spadina Ave / Blue Jays Way,43.641705,-79.393295
+Toronto,9d145fd59618d68dab06dba1c8900fe9,Bloor St W / Riverside Dr,43.647663,-79.487583
+Toronto,ea3315c38d0d6b79d5e38457850a1cfc,Sunnybrook Health Centre - S Wing,43.720998,-79.377456
+Toronto,238f97722fa9fb7a59373178433ee0bb,Simcoe St / Michael Sweet Ave,43.652327224103,-79.3882538196087
+Toronto,bac1dcd28fcdff0438987edfef742154,Queen St W / Dovercourt Rd,43.6438602,-79.4227573
+Toronto,b5473ba8329a31e18dfbc5067cf61369,King's Mill Park,43.64920406876699,-79.49336334201408
+Toronto,2a56ebfe680276d40a591ef322457f70,135 Queens Wharf Rd - SMART,43.6399714,-79.39940399999999
+Toronto,fc6389e5eba6c99ed3c0185b65c9cb5c,406 Oakwood Ave,43.68827060022711,-79.43937767081853
+Toronto,3681db49ef2d337bfb035ab1ac33e2c2,Granby St / Church St - SMART,43.6614605,-79.37894570000002
+Toronto,d10b85cd917407519f2491252a022a01,Lumsden Ave / Eastdale Ave,43.69413548199171,-79.30058718775287
+Toronto,2cf04264d349d318f68193444d9c5ad0,Yonge St / Lawrence Ave E,43.7254665,-79.40115449999999
+Toronto,b63112d639d75af6c2e5481df147cf77,Yonge St / Orchard View Blvd,43.7083577,-79.39886200000001
+Toronto,7398115d8ae10074445ef787822317dd,Lower Don River Trail and Taylor Creek Trail,43.7027268,-79.33368089999999
+Toronto,3941abb3cf0f4b0fed316e0a2ed7452f,St Columba Pl / St Clair Ave E,43.70567,-79.310554
+Toronto,9eb5acc897b27515ad12ee8fade63062,Strachan Ave / Princes' Blvd,43.635,-79.4088888888889
+Toronto,8b5819a5a6fb1ea79521a607ebb0a5ab,King St E / River St,43.656784782853144,-79.35627385059036
+Toronto,bc0aa12455a97e86cf1be415300027db,Yonge St / Golfdale Rd,43.732016,-79.403637
+Toronto,685abb6b7df0fc0b474505ef5e2663fe,640 Bloor Street E,43.67468857448634,-79.36701962396272
+Toronto,2fe7046cdd8cc701a2240f52b9e8555f,York University (Glendon Campus) - SMART,43.727365488246306,-79.3814254607724
+Toronto,37b4b6822fe05d33d64c2a174a23a4ee,1303 Yonge St - SMART,43.6846177,-79.39245919999999
+Toronto,db63343ae1e174637ed6eba3912c4440,York University Station (South) - SMART,43.77345,-79.5002
+Toronto,ef56a1cd06ce475b3420570afbced3fa,Woodbine Subway Station,43.686442,-79.313404
+Toronto,e5f767772c705d8231b6b198de4aa458,Spadina Ave / Sussex Ave - SMART,43.66402799999999,-79.40297869999999
+Toronto,fc7fa6476f3fce587eeb9e2200faa005,Simcoe St / Queen St W,43.65049,-79.3873
+Toronto,a93e2f7df07b08d45c3ae0a1502c184c,Bathurst St / Front St W,43.64134790000001,-79.4013882
+Toronto,ca19ceffb308e52cc30e908f7dd57475,Bay St / Harbour St (East),43.64215,-79.377
+Toronto,b64e9d0701f0c67b654468e6bfdba32a,East Liberty St / Western Battery Rd,43.6392777,-79.4115736
+Toronto,5e955f1219b3ebaf906b808073da5e1e,King St W / Brant St,43.645102,-79.39744979999999
+Toronto,3a6af188aaae40c51d6ec8d22cd104d2,Bloor St W / Gladstone Ave - SMART,43.6602021,-79.4342726
+Toronto,3ffc414d28a17036998674a120f66c6f,Fort York Blvd / Garrison Rd,43.637381,-79.406112
+Toronto,32444ff0455dc908ae997a28379ebe7d,Housey St / Dan Leckie Way,43.63811,-79.397877
+Toronto,bf59891d338ebdd311b6d839cdde77b8,1525 Dundas St W,43.64957,-79.432446
+Toronto,32b49dd6da901eac98ec2028f4447d71,85 Lee Ave,43.6700692,-79.2971326
+Toronto,a5836251279be7a7699855d904f4ddf0,Mutual St / Shuter St (Arena Gardens),43.6559476,-79.37558829999999
+Toronto,010507feed5b8d87c40cd95933ed5654,Queen St E / Joseph Duggan Rd,43.6677628,-79.30811709999999
+Toronto,941a4749a64f58b21da983a2c679ee40,Heyworth Cres / Kingston Rd,43.6750806,-79.3068697
+Toronto,d9103bade315662e56fbbc902b342ee6,St Clair Ave W / Caledonia Rd,43.6754247,-79.4547813
+Toronto,e7c767f3a1e8dcb9a41229a68b69eaad,Wellington St W / Stafford St,43.6409957,-79.40966630000001
+Toronto,a7060ce11ef209bd9f6905ab5bd50a34,111 Broadview Ave,43.6593483,-79.34993659999999
+Toronto,947c5660ee75d790b7db219013ea64e7,Christie St / Dupont St,43.67168,-79.421192
+Toronto,b59204ea6e3eaa8ade44469b0cd3703e,Richmond St E / Jarvis St Green P,43.652634,-79.374222
+Toronto,b01afd080bfe7a9ae061756b868ef9f0,Oak St / Sackville St,43.6613642,-79.3641171
+Toronto,4c1ee1ccabcd1c9eaca449e5b3bbbb6f,24 Mountjoy Ave,43.6808774,-79.3304491
+Toronto,d2505c265a6e749d5d2be70c140f029d,Colgate Ave / Carlaw Ave,43.6623658,-79.3413344
+Toronto,a2f8dc99e24a4f75d8d8f3f98efbc535,Felstead Ave/Gillard Ave (Monarch Park),43.6791345,-79.3263159
+Toronto,290fef611ea995910eb2d8e6dee93350,Lower Jarvis St / The Esplanade,43.6478206,-79.3704721
+Toronto,edbbbbc2b0bd5c8322b6395633ce610c,101 Cedarvale Ave,43.6868681,-79.3110942
+Toronto,61b868926458c2406053b0bf2f81dcd6,St Clair Ave W / Oakwood Ave,43.678177,-79.435364
+Toronto,804d113fb2dbc6b44947189e9e8bff7d,Beltline Trail / Yonge St,43.6962302,-79.39504339999999
+Toronto,7a271c4cbc993e06ac677f78d5b6ba4b,Shaw St / Essex St - SMART,43.667076,-79.425116
+Toronto,d24c01668df7f8e972f3e5980bf1fc6e,St Clair Ave W / Robina Ave,43.68005,-79.43469
+Toronto,a76d410d56c1dadfbc8960683df209e2,Joseph J Piccininni Community Centre,43.675648,-79.4527619
+Toronto,910e92b9e361308bb305c6780fce822f,11 Spadina Rd,43.6677246,-79.4041365
+Toronto,56275b952451bea6cdc0a9e666ea363f,Vanauley St / Queen St W - SMART,43.648437,-79.39838
+Toronto,2904c293698dc248004b5f43e1a28f80,Sherbourne St / Wellesley St E,43.6673,-79.374
+Toronto,2e6dd23e4dee03087c5e80f76cda5519,Queen St W / Bay St (City Hall),43.6517925,-79.38269509999999
+Toronto,90753b36d53f9713816264fff0eb5cba,King St W / Wilson Park Blvd,43.6372958,-79.4423237
+Toronto,19997314e5dc85c591c39255f1081992,Havelock St / Dewson St,43.6554793,-79.4302462
+Toronto,e28bec2cacb249601ba4e3da8ce10aa3,St Clair West Subway Station - Heath Entrance,43.686352,-79.415894
+Toronto,e15764d43dae2febba437044f0b41c0d,Queen St W / Shaw St,43.6442457,-79.41610440000001
+Toronto,02d90c8ede19da66083e0d0e14d17258,York University Station (North),43.7741,-79.5005
+Toronto,70f4c2f125f887140a39865c643b83e1,Spadina Rd / St.Clair Ave West,43.683979,-79.410657
+Toronto,a73d255f1af70c61f91b4bbf216054ec,Spadina Ave / Adelaide St W,43.6472019,-79.3953394
+Toronto,d6bc7298aa11006015119e2e237ce83d,Cherry St / Mill St,43.6513927,-79.35794659999999
+Toronto,a385b32a5f6b3de23ce3def7f59ecbc1,Jarvis St / Maitland Pl,43.6647688,-79.3772602
+Toronto,89a0071a8f7f69a70263dd5c0d9d64f5,Randolph Ave / Perth Ave,43.6585504,-79.4497659
+Toronto,0ec6c1acd2e8975a5a2d5ddfe6028115,Wolseley St / Augusta Ave,43.6484201,-79.40051919999999
+Toronto,a3246dc710b72e282aabc15520392d98,Lumsden Ave / Cedarvale Ave,43.693187,-79.314283
+Toronto,e8fa9e1f75a6a3e6795f420149665538,Niagara St / Portland St,43.6425791,-79.40011729999999
+Toronto,eec8016afd7a2c9574726724fc5bbab9,Widmer St / King St W,43.6463574,-79.391206
+Toronto,f01e7413a6af4607ca80257160d89ae6,Wellesley St E / Parliament St,43.6682342,-79.3702641
+Toronto,90fadd5570633a9503c556d49fcd59b8,Yonge St / Macpherson Ave,43.6791876,-79.39071899999999
+Toronto,2e3ac17daffcf4eac85216832f31a3b5,Davenport Rd / Bedford Rd,43.674446,-79.398331
+Toronto,15b272ca422dbbafeb002f3a84d15436,St. Joseph St / Bay St - SMART,43.6658804,-79.38761010000002
+Toronto,9144e4fe1b004cd29d1f4a056a3542fc,Victoria Park Ave / Kingston Rd,43.68035,-79.28357
+Toronto,328543a3291fd54d24971108f96bb053,Ontario St / Adelaide St E -SMART,43.6535052,-79.3667689
+Toronto,6140f3635573c8910f854df84e633837,Highview Ave / Kennedy Rd,43.702418581463505,-79.2563167072858
+Toronto,8e671c6621816f2d0003b23c0bda5e08,Kingston Rd / Warden Ave,43.68824135931814,-79.27046628033244
+Toronto,88ede41a08aa08dfee94f811a9834e1b,Birchcliff Ave / Kingston Rd,43.691688,-79.265027
+Toronto,3db3e716f02f4035f98fc1f07a0fecd9,Kingston Rd / Glen Everest Rd,43.697490048103,-79.25655146462776
+Toronto,a4e9775f52cd109d87faa6d5de6a395a,Birchmount Rd / Kingston Rd,43.69401297794256,-79.26257204548136
+Toronto,bfa44ca6c3c167b3a804a93fc1f0ce36,Pharmacy Ave / Danforth Ave,43.6929478,-79.28339980000001
+Toronto,719e676d739529c8d5da8bb89c5c8678,Danforth Ave / Warden Ave,43.6950192,-79.27180659999999
+Toronto,4458cd04d9fb8c770ac4bae9d9db2d63,Eglinton Ave W / Gilbert Ave,43.69263249999999,-79.4627536
+Toronto,f01ce5efb5e67f30b96994096ac1d300,Sharpe St / Park St (Sandown Park),43.7105975,-79.2541175
+Toronto,237e73b6b68d9b4f9ce8dded10a8863b,Eglinton Ave W / Prospect Cemetery,43.69415,-79.45782580000001
+Toronto,5d50213748a35f8c70977b69abac0ef3,Marlee Ave / York Beltline Trail,43.70163,-79.44099
+Toronto,6e21dd07c568ac71711f1358b58c7f3c,Bert Robinson Park,43.688028,-79.460265
+Toronto,e59ebca743500b50891c5d639a6ef349,Rogers Rd / Prospect Cemetery,43.68323,-79.455765
+Toronto,3098e8839fd687446744220b13c1744e,Eglinton Ave W / Ennerdale Rd,43.69466,-79.45376999999999
+Toronto,8078f553106f543301e06cb4942063c0,Bloor St W / Old Mill Trl,43.65016869999999,-79.4963345
+Toronto,1b853c3b515bbb20d04729c8059f08ee,Wendover Rd / Bloor St W (Green P),43.6492,-79.50601999999999
+Toronto,b97fe36c9f29990955a8b64d6be5f602,Luttrell Ave / Danforth Ave,43.6897656,-79.2939525
+Toronto,e7b2879f63e9d4253fe62838b99f9b4f,1926 Lake Shore Blvd W,43.6357643,-79.4674917
+Toronto,ab463b4b4fbf00bbfbe972989481ed7d,36 Park Lawn Rd,43.62369169999999,-79.4838132
+Toronto,ad95eee599a96b92c9849bfa5044bba0,Howard Park Ave / Parkside Dr,43.648657,-79.458111
+Toronto,501cea9e754b07ac8713b850ea9b13f2,Ted Rogers Way / Bloor St E,43.671293,-79.380471
+Toronto,b1ab2925abdc520ac548b7e700077bb9,Walter Saunders Park,43.699327072589426,-79.4493630391668
+Toronto,7c454a73ac552534dbda2c7e18d700f2,Park Lawn Rd / Berry Rd,43.63560589999999,-79.4934616
+Toronto,d98ed5a52cd490b3cc4aa57f11510ecb,Tobermory Dr / Finch Corridor Trail,43.7611741,-79.5114452
+Toronto,d18724327840a287a10b260d5b3e0b3a,Driftwood Ave / Finch Corridor Trail,43.7603624,-79.5162777
+Toronto,7ef4283f9ce9f067e7127e5431d45f81,Grand Avenue Park,43.62313,-79.4918
+Toronto,1c756a37352a017e82b4f3d678d00590,The Pond Rd / Shoreham Dr,43.772445,-79.511912
+Toronto,cc1432c52b1e87a738180d369ed1136b,Berkeley St / Adelaide St E - SMART,43.653359,-79.365023
+Toronto,a558e5fb7b283d40286ff45d4f2d1d9f,Kingston Rd / Ridgemoor Ave,43.70643614257429,-79.25104443353288
+Toronto,7598cfd1da04463554587807fee08a3d,Moss Park,43.655972,-79.370638
+Toronto,354bb1fec6b6bcc47b0f2632de2f270e,York St / Lake Shore Blvd W,43.641952,-79.380723
+Toronto,9951452d4d7b06a7090aad89d539aee1,College St / Henry St ,43.6591529,-79.3947953
+Toronto,99585d4f6ec47a797c42027b8c246d25,Sherbourne St / Isabella St,43.669576,-79.375961
+Toronto,8227765aa9d7a960abddcabec4194956,Victoria Park Ave / Dawes Rd,43.706466,-79.29511
+Toronto,c6970dbdfda7b8de482a4f593ed5e4f8,Roncesvalles Ave / Fermanagh Ave,43.646314469245205,-79.44879407014527
+Toronto,9239e6ede8fefff4cde18784c4dd82b0,Tommy Thompson Park (Leslie Street Spit),43.65222662225532,-79.32295440954084
+Toronto,42fd6840fd4d296944709870c6b07d83,St. John's Rd / Dundas St W,43.66526761605873,-79.47502122887077
+Toronto,d0d1e35af38818e4f0d4ce2e983ddb67,Albany Ave / Bloor St W,43.66554144421798,-79.41010317605742
+Toronto,8f1ec0b715c806c73e96db74922ca163,Pioneer Village Subway Station,43.77649016265579,-79.5085364909097
+Toronto,9c273cbe285ff5d1a12e3736a77fa9df,Armoury St / Chestnut St,43.65351799690878,-79.38591063795928
+Toronto,5497bba2b352b75075542bf5a290dd8a,St. Clair Ave W / Osler St,43.673843560032594,-79.46092618902435
+Toronto,9fd381407b51a700753caec17607a127,Simcoe St / King St W,43.647508351306186,-79.38604436555764
+Toronto,af7fe7debf2e8521bcdd991c1bd0b6be,Grenoble Dr / Gateway Blvd,43.71513211098082,-79.33413623320465
+Toronto,427a1106d58263dd1af25b459ea419b1,Grenoble Dr / Deauville Ln,43.71649675774656,-79.33089439933623
+Toronto,5ef85e20443d6510beb1604c56a32dab,Grenoble Dr / Vendome Pl,43.715537998967406,-79.32811427663442
+Toronto,5a0b70488e83a9220011c89551d6a7de,Thorncliffe Park Dr / Leaside Park Trail,43.70400405297843,-79.34807015078738
+Toronto,b621c72d79bc4d5df4258a78fa83412d,Ferrand Dr / Rochefort Dr,43.719632535237835,-79.33199950866776
+Toronto,7cf109e173e4734690f71b81a35ac57d,75 Thorncliffe Park Dr,43.70518328279426,-79.34224729962946
+Toronto,c1a843f198dd5b944533f5b53672a120,Mount Pleasant Rd / Davisville Ave - SMART,43.70088225686968,-79.38736016665911
+Toronto,f4d33af4f0cfe71c2bc31fa004030b47,St Clair Ave W / Avenue Rd ,43.68688938028234,-79.40099513147447
+Toronto,5e41d051a93e4087fc80e372089dbd6c,HTO Park (Queens Quay W),43.63796,-79.387502
+Toronto,dd65003e27abc37a3a1e5b524eb00203,Nassau St / Bellevue Ave,43.65484215542248,-79.40351232494366
+Toronto,8facbe8d87dc7f1fd7ea00321ba78b50,Huron St / Harbord St,43.6637,-79.400053
+Toronto,eb524dc294d5460d6f1d4cdf90b6351f,Ward St / Wallace Ave,43.662857,-79.44618
+Toronto,7a666ee6c60a7f8ffec9334924d36c6a,The Well,43.643025055165865,-79.39430137761319
+Toronto,5335413d6fb1eedf5db4e61589946795,60 Carl Hall Rd - SMART,43.7482972,-79.47570569999999
+Toronto,3c09457be4ce775b0cd37e8b073f4ee8,HTO Park West,43.63737145931921,-79.38976958703309
+Toronto,c0cb4d9e138defbdefd1f862cf2bd095,Downsview Park Blvd / Keele St  - SMART,43.73673829262113,-79.48227195568086
+Toronto,9e69637f78eb0df524d0ac37abb4c431,Downsview Park Subway Station - SMART,43.753107,-79.479626
+Toronto,7b645bb451744c620f391544a625888d,Keele St / Dovehouse Ave - SMART,43.7494501,-79.4869662
+Toronto,a79d5810f694370a821fd385145cb109,Exhibition GO (Atlantic Ave),43.637695491830144,-79.42023184193503
+Toronto,3dbd618c6fba43406cf1b8cf9165647b,Queens Quay E / Lower Jarvis St ,43.64392767366328,-79.3687301736982
+Toronto,2ccced1dbd563c3842d265b565098de1,Phoebe St / Spadina Ave,43.650033,-79.396555
+Toronto,b1378d745af2e60fe542370cb6374226,Lynn Williams St / Pirandello St ,43.63912451479701,-79.41423166721611
+Toronto,c845b03b2ffaa03ebba13b5c61da3af2,Bay St / Queens Quay W (Ferry Terminal),43.640978,-79.376785
+Toronto,f8bbce635f366ade23994d02cb6fcc75,College St / Huron St,43.658148,-79.398167
+Toronto,be39936af5ab6b60d98a2d6756387909,Northern Dancer Blvd / Lake Shore Blvd E,43.663162,-79.309765
+Toronto,146c961dd6b178771287133da0629eba,Spadina Rd / Austin Terrace,43.67883,-79.408723
+Toronto,38d3408bfdf5a321a15ae61358af4aac,York St / Queens Quay W,43.640132,-79.380464
+Toronto,cc38e99861bed2afea72ec6211fecdbf,Front St W / University Ave (1),43.6451635,-79.3831757
+Toronto,ae77752fa855081311919ad282b18482,Willingdon Blvd / Bloor St W (Green P),43.64817,-79.510392
+Toronto,dbf9d3fb9932d05d7ddda51acd4d26b0,Wallace Ave / Symington Ave - SMART,43.661324,-79.449534
+Toronto,c89b262c82b9b2107a954987d36ad4a3,Wellesley Station Green P,43.66496415990742,-79.38355031526893
+Toronto,813af609ddd87595d5352942579a73a9,York St / Harbour St (Love Park),43.640741,-79.3798521
+Toronto,7fac6bfdffa0a7b4ff8a3f1ebd78da81,Sherbourne St / Carlton St (Allan Gardens),43.663102,-79.373181
+Toronto,f91f2493c8cca75e7c70987c8d0a516c,Ontario Place Blvd / Lake Shore Blvd W,43.6322445,-79.4108105
+Toronto,40e171b076eee2cc9b8405f394f0ace7,Simcoe St / Dundas St W - SMART,43.655103,-79.389295
+Toronto,8362e07e9e4d9c67eb283cae15684c8e,College St / Markham St,43.6563888888889,-79.4091666666667
+Toronto,71ecba080a7e19ebfb8dcde4964a5277,Sunnyside - Gus Ryder Pool,43.637894,-79.454823
+Toronto,ba4fc8dd224feedb2762d341bf58916f,Bloor St W / High Park Ave (High Park),43.6535269,-79.4650569
+Toronto,15e76731635f7e3ac4484228bc8f60ad,Front St E / Cherry St,43.652686,-79.358395
+Toronto,092cb5f641f627d7b43e321542ccc066,Dundas St E / River St,43.661152,-79.358505
+Toronto,daf29ca6d17e9b4b4921ebfb3fa749c4,Shuter St/River St,43.659296,-79.358035
+Toronto,83af92756a52874ce9bade85f065f4d1,Madison Ave / Bloor St W,43.667158,-79.402761
+Toronto,59ebd8c24f539c66f2fa4f178e75eb0a,Danforth Ave / Danforth Rd,43.69362206784152,-79.27710529695892
+Toronto,aa44f34bf848cea7d5570c51697d8ac4,Brimley Rd / McCowan District Park,43.72704086366749,-79.24391402446746
+Toronto,1829fb7bd0a98ee2fc523f35ea417baf,King St W / Jameson Ave - SMART,43.63735795888104,-79.43617975886079
+Toronto,8799c470baa28d22cc44e4efd611aef5,Parkcrest Dr / Kingston Rd,43.73596719224253,-79.21995221481933
+Toronto,7f760f7680dae3ad47ef0821337c8366,Scarborough Soccer Centre,43.7154661,-79.2876595
+Toronto,6f7157a5846ff850e7e5b9f6b8b450c4,Lansdowne Ave / Seaforth Ave ,43.64290439595669,-79.43746059447746
+Toronto,cc5bd0485cb1b99156098277af99641f,Danforth Rd / Birchmount Rd ,43.70688,-79.26850999999999
+Toronto,362434f77c0efeb50a5deb4ca9ce8969,Pharmacy Ave / Teesdale Pl,43.69735608087488,-79.28528711019696
+Toronto,ec83cf5759b66963ff5ea75bee4b9f1d,Yonge St / Montgomery Ave - SMART,43.70960859570095,-79.39915125005619
+Toronto,8fc44e8a98df79c9c41e04c531551a25,552 Birchmount Rd,43.71176278859601,-79.27028152889692
+Toronto,519ee649fcd1ad28beade12953db3732,Highfield Rd / Gerrard St E,43.671771,-79.324961
+Toronto,44d245c021bcfb69fed5e4b088d60dd5,Eastgate Cres / Pharmacy Ave ,43.7110442448186,-79.29127313845584
+Toronto,84e8e3827807916c9c3ac9b60404346d,Firvalley Ct / Warden Ave,43.7032112,-79.2787149
+Toronto,84dc7d9185e88915466d12f23fe07753,Midland Ave / Kingston Rd,43.7128578,-79.2487086
+Toronto,6228f42d28032bf18c0a7f9411df5fa0,Bellamy Rd S / Kingston Rd,43.7323277855009,-79.22496619876934
+Toronto,ec3b9fd9e808fc3e1819e802f02ea442,Avenue Rd / Cumberland St ,43.669821695059376,-79.39444614603269
+Toronto,07bf4729ad15e9e2d17d072dfb67e6b0,Fenwood Ht / Kingston Rd,43.72690169821676,-79.22920396582664
+Toronto,df05fe5ca5c71ce120962deaac85c1fa,Avenue Rd / Macpherson Ave ,43.67794376009951,-79.39836278587889
+Toronto,455237ee758de316844bd61287671f23,Dufferin St / Queen St W,43.64309687937765,-79.42875613770637
+Toronto,1993b48e5142184f347f9d517f120d03,Shaw St / King St W,43.6412561641921,-79.41502994047545
+Toronto,6eaaf36cd079d08d973fdf24e217aa3d,Portland St / Queen St W,43.6476,-79.4015
+Toronto,f2bce10cc9ea50a3431d1ed152ff4e2c,Yonge St / Merton St ,43.6962750705313,-79.39629396191867
+Toronto,b602b86a935450f8aae69903762d466e,Soudan Ave / Yonge St ,43.70430959999999,-79.3972815
+Toronto,1458ace78e8ffe65dd60c610007afe8e,Avenue Rd / Oxton Ave ,43.69711160305226,-79.40537298227844
+Toronto,3b485775d2f902b5529790c4047dff24,1612 Danforth Ave ,43.68370788065334,-79.32262453633884
+Toronto,b542b8a95776fceb86045c831303a7cd,Lisgar St / Queen St W - SMART,43.64299174164139,-79.42355911563249
+Toronto,786a216c74ede38763e705b21c0284e2,Leslie St / Commissioners St  ,43.65727549739013,-79.32661544194183
+Toronto,3a73375ca8c3f3fc85b7b32ec080be5e,Greenwood Ave / Sammon Ave,43.68698672516659,-79.33478198280334
+Toronto,8b95bdc7ca8373821bef770b8f074c6c,Lansdowne Subway Station,43.65922918158098,-79.44320901022282
+Toronto,c6bd34bb3023288b5e87df2d3cbb5f43,Warden Subway Station,43.71161098023304,-79.28055565662231
+Toronto,0b46fa9ccc3ac1fa00d279abd7e73df2,Kingston Rd / Scarborough Golf Club Rd,43.74531103700256,-79.20970650787817
+Toronto,045a7a6b973238dc76bc058e4f33f143,Wellington St W / Bay St,43.647259,-79.379878
+Toronto,58d6f7db09c9e2f543e26eca10ea7cb6,Greenwood Ave / Gerrard St E,43.67036917803197,-79.32782698645094
+Toronto,dcbcf9c681fbd3e77dfbea6df0e070bc,Simcoe St / Wellington St W South,43.6458569,-79.3853654
+Toronto,f622ddb7efda3e9074e12ac16bc7fdd7,George St / King St E,43.6509552,-79.3707
+Toronto,9d62413fcaba8ee2d11737b28e8651be,Dundas St W / Crawford St,43.649722,-79.416944
+Toronto,5dc890e084bc63659659eb43adf210f5,Bloor St W / Balmuto St,43.66981064282057,-79.38801106873031
+Toronto,d16798795a3beff0c7f297cee88deb70,Parliament St / Aberdeen Ave,43.665278,-79.368333
+Toronto,e8761ce9af6e4ae2a1eaaaf420b2cd71,Chatham Ave / Byron Ave,43.6798678328407,-79.33424613862303
+Toronto,77d773b9a22a3e2a912a636d4ab89a54,Wakunda Pl / O'Connor Dr,43.71602024377182,-79.3047092517501
+Toronto,eaabca685376f1b1229969e68c26a1b9,Tiago Ave / Westview Blvd,43.71101621552703,-79.30675743891624
+Toronto,086ae84908444d2c0d0faf35deb1704f,Plaxton Dr / St Clair Ave E,43.70751755961952,-79.30252066313936
+Toronto,81449d406b64d7d94f71f69d5bac9ff2,Victoria Park Ave / Edge Park Ave,43.717678679534906,-79.29961580314475
+Toronto,8517a9c8716fe48386963ae0a6524f5a,Galbraith Rd / King's College Rd,43.6603874468082,-79.39537831814152
+Toronto,778b6d674fa920334fdf2f007088aa3f,Exhibition GO Station,43.6352007,-79.4187711
+Toronto,c27d6b38deaf954439fb6fb0f7542045,Finch Subway Station ,43.781877158752955,-79.41528502874928
+Toronto,769a6cb25850b809d38c7a2620731b1e,Glencairn Subway Station,43.70925763810859,-79.44169105036657
+Toronto,216ff915cee84c00ebe3636ee1bc40bc,Glen Long Community Centre,43.70820992643782,-79.45627808717194
+Toronto,f0da3c366706de4cbcc2bba104331023,Caledonia Rd / Lotherton Pathway,43.70756436685646,-79.46571474966814
+Toronto,f17b2cacee03b81324030881d439f7a9,Harvie Ave / Rogers Rd,43.68402031135697,-79.45297885330353
+Toronto,843602f3de2dc3c06cfacd5bf0a1a0fe,Ling Rd / Morningside Ave,43.766663817888656,-79.18521765344238
+Toronto,73a39d0e39f18c0201caac2def38140f,Lake Shore Blvd W / Legion Rd,43.62052630763223,-79.48320224237995
+Toronto,a6e98c52c1541c26efb19ef524a95247,Lake Shore Blvd W / Seventeenth St,43.59841926031898,-79.51561102394257
+Toronto,a61c1c53028dc937958291979ad82de8,Mabelle Park,43.645389479325615,-79.5276822170925
+Toronto,558270f5714fec81ad57e09729ffb761,Islington Subway Station (Aberfoyle Cres),43.645658591546216,-79.52339938954925
+Toronto,b8ce9f7014a12acd13872c96630dc107,Lake Shore Blvd W / Long Branch Ave,43.59445833196281,-79.53387390859834
+Toronto,7e1ef79ac24de4ac7eded230e7caeff4,Second St / Lake Shore Blvd W,43.60191488118503,-79.49941888654288
+Toronto,71cf95ad04d0a455045bcc030c7dd282,Bloor St W / Dundas St W (2),43.64285244644315,-79.53199489206543
+Toronto,323fcb6c6ca04b1cc1ca2b361adb3217,Viewmount Park,43.70735572654095,-79.43723072209013
+Toronto,452b30fbf0fc84eedbd3a7723bdafea0,Sixth St / Lake Shore Blvd W,43.60116229109828,-79.50416046627045
+Toronto,14971ec1c8aa07165b67710a2afb84c2,Queen St W / John St,43.650077,-79.391291
+Toronto,2383fa5f5c21140fe68f8b6dda91a1b1,Maud St / Adelaide St W,43.6460145694434,-79.39960497726345
+Toronto,d926a243600989278d9df1e9156a8ac5,York Recreation Centre,43.688153079245126,-79.48219789940566
+Toronto,25beb3f096bca69d14c865774e03b0e8,Trethewey Dr / Black Creek Dr,43.69549840027979,-79.48809394482672
+Toronto,5fc306e019cf6a10e5f8096acfc2c910,Keele St / Ingram Dr,43.698706949666914,-79.4756586460327
+Toronto,a12d9002aaf2ad0f0f14c3952bd5e0ef,Jane St / Haney Ave,43.6743457123134,-79.4948437786083
+Toronto,ba8491c919d03c2df6ecfdd2f49bf386,Scarlett Rd / Eileen Ave,43.668510906505354,-79.5007648392868
+Toronto,487f2f445a917af1d4fecb653ab5323a,Scarlett Rd / Old Scarlett Rd ,43.678276306636576,-79.50667332401198
+Toronto,709a2d134b022632c50a0a7601762715,Eglinton Ave W / Venn Cres,43.69143920681119,-79.46908634795456
+Toronto,b5ad1157fda3b700cc6d0ffcd32295bc,Rogers Rd / Bicknell Ave,43.68189526215492,-79.4736382392868
+Toronto,8e7a7ed4aca59d5a9bd6606d2b3b5d08,Cruickshank Park,43.7023860650084,-79.52594758324148
+Toronto,3787fcc5d521f5f5a12d7c15d8ce4d51,Mallaby Park ,43.706191092397106,-79.53262795581969
+Toronto,d310230182f10034968c97f0c799ee0b,Emmett Ave,43.68735514096443,-79.50623313806341
+Toronto,4bb6616d228bef48cacf56e55952d22c,Jane St / Weston Rd,43.69144464414302,-79.50154583869246
+Toronto,b9968838980358b9b14c03e5894fd3e9,Jane St / Queens Dr,43.70673804962302,-79.50477543802873
+Toronto,1acb494034578036df5811294b853b12,2700 Eglinton Ave W,43.69074600637147,-79.47820143344333
+Toronto,df51480ffd94a7b3412a6d3cc7706585,265 Armadale Ave,43.6501644,-79.48296909999999
+Toronto,e5f9b21c3995c434d0978634faed2a08,Sentinel Rd / Sheppard Ave W,43.74386580997666,-79.49181654358595
+Toronto,2488c941ca12639d2852ad9cbba92626,High Park - West Rd,43.651922,-79.465693
+Toronto,1e9a239336b30d755305f5041c582f05,High Park Amphitheatre,43.646251,-79.46472
+Toronto,0f6db2aa8f96b5a7e102eb705b9ccc11,High Park Outdoor Pool,43.650154,-79.464934
+Toronto,d44a49765bc28c4e8f29edd8cb694294,Humber River Hospital ,43.72537884183677,-79.48719674218903
+Toronto,122f61f32933992b90325cf6b02de9d5,Sheppard Ave W / Chesswood Dr,43.755583971122874,-79.47446032684479
+Toronto,543865bb3e4e09a051a0cb31322af71e,Jane St / Lawrence Ave W,43.702340220597975,-79.50347389514123
+Toronto,33ec997a2ea47262cb99a5918f15691a,Sussex Ave / St George St,43.665304278965365,-79.39938263802871
+Toronto,3d2b767a1af0d75059d1fd78079d1216,Keele St / Catford Rd,43.75919330632997,-79.49001046850891
+Toronto,75e99d6d359bc2d11479941e6f9279e4,Gerrard St E / Nasmith Ave ,43.66273618779861,-79.36253100740966
+Toronto,32cbcb81d2d04a16ed2d1d2ed35220d4,King St W / Portland St - SMART,43.644395,-79.40065430000001
+Toronto,022818120bd4e5138186fe1ab57f791a,Sentinel Rd / Finch Ave W,43.76073963892478,-79.5000273116394
+Toronto,103d15a731b9d215637c447fea0c7209,Oakdale Community Centre,43.74751496038769,-79.5132569853195
+Toronto,fbc181887030746137034a35fb5f7cfd,The Pond Rd / Ian Macdonald Blvd,43.77086729028769,-79.49812990660705
+Toronto,1c0219e93091b1027eda482f4a31ded6,75 Holly St,43.7063279,-79.3962499
+Toronto,f9095ffa2741d962cd7c3c3bef2ab8a7,Bathurst St / Dundas St W,43.6518918789007,-79.40577861712723
+Toronto,86207afc6caf1d9931468449070c148e,697 Lansdowne Ave ,43.659221843735615,-79.44277410244676
+Toronto,ee019f1c082cac84d721e071f41b4e77,Jane St / Yewtree Blvd,43.75531728502427,-79.51704708227844
+Toronto,3586c281a5706af58a3e4d5d637e7bfc,Weston Rd / Sheppard Ave W,43.73262849415089,-79.5381993243286
+Toronto,161ab27f7f32ba3232c688d388731574,Jane St / Yorkwoods Gt,43.7503016975738,-79.51577557434386
+Toronto,3654ed1bd8516fddd2364502084cd01b,Lindylou Rd / Lanyard Rd,43.74845421407306,-79.5504039969242
+Toronto,3f09d8a338e4501752365339f106a1ff,Tangiers Rd / Finch Ave W,43.76376964130183,-79.48809242593383
+Toronto,eb00d171668cedf07334d8504a1dbd79,Wynford Heights Cres / Concorde Pl,43.72749778259739,-79.32714222209015
+Toronto,6b344a9f4d6c85f7a5f4dbd25dbb2cc3,Bartley Park ,43.72211166436462,-79.30864830919265
+Toronto,57b827c6b26680677f9210d912f842ee,Brooklawn Ave / Kingston Rd,43.72176140069123,-79.2359137196434
+Toronto,a0a11d15c4bd8231d739f71d85a8f29c,Gerrard Square Mall (1010 Gerrard St E),43.668553,-79.338673
+Toronto,ccb82af3c137b126999a511eaead0f38,John St  / Mercer St - SMART,43.6461,-79.3895
+Toronto,f3f1657964f64d6b4355e42b0261c789,University Ave / Gerrard St W - SMART(South),43.65748153286412,-79.38921396018827
+Toronto,9052dabe138fde46f56ee3a693b040cf,Jane St / Finch Ave W,43.759292283169536,-79.5183741465576
+Toronto,100594f0c1240ddcfb94c20a7fc54492,Uno Dr / The Queensway,43.62649329992186,-79.50358167641535
+Toronto,301eed3e90079c5aacccf8f091da64b3,Simcoe St / Elm St,43.656038841714505,-79.38970387738495
+Toronto,0ed2c0bb820523fc4d79b053e79fab5e,Overlea Blvd / Thorncliffe Park Dr,43.707555968595464,-79.34272024477463
+Toronto,be2b9ca08b33ec742028063154706378,The Kingsway / Ashley Rd,43.66279594478841,-79.51959827976225
+Toronto,9c009c161f6266165386889055afdbd6,Dundas St W / Prince Edward Dr N,43.660324268765464,-79.51154350422973
+Toronto,4ce279295f87f42bab37bb1e47448630,60 Broadway Ave,43.71024429599603,-79.39578744603273
+Toronto,9522f94ed6253c90336abf00346620aa,Opposite 1103 Leslie St,43.72093164598881,-79.34989416350709
+Toronto,7217236fd8a18e75df0b026ba219f2ac,Widmer St / Adelaide St W - SMART,43.647547634759206,-79.39155200496292
+Toronto,cd1365da833091487f8bb6167af3b51c,800 Fleet St (North),43.63682856154585,-79.40884160367011
+Toronto,0f773cf33d1731bf05d678ebb945021e,800 Fleet St (South),43.63670985212708,-79.40880517790985
+Toronto,8402cda81d70fbc893e5337366df8d58,Queen's Park Cres E / Grosvenor St - SMART,43.661803,-79.389682
+Toronto,6af8017ad238ae1d069be67118ce5fc5,Erskine Ave / Redpath Ave,43.712154792369496,-79.39425906322937
+Toronto,d7068d4e8b75b5de3cacc529691f159a,Arlington Parkette,43.69105005197055,-79.43281746494293
+Toronto,316d458068c46859ff35dd87578ac14d,Keele St / Lloyd Ave,43.67115532642577,-79.46701597756929
+Toronto,581459af76a94b051df1437a2c641d05,Gunns Rd / Lavender Creek Trail,43.675531973168354,-79.47199740066374
+Toronto,d9b63bdad84959af04feaa873f9c0eaf,20 Charles St E,43.6691099,-79.38551
+Toronto,caae67595976983dc8c383dc592180dc,Bloor St W / Kingsmill Rd,43.64927890131737,-79.50312995581972
+Toronto,0a28cd61ad950b8ebc49d08f1b3936ee,St Clair Ave W / Symes Rd,43.670042134416704,-79.4789424818056
+Toronto,f09065f8c579326456b4b30837f0e96f,Palmerston Blvd / Lennox St,43.66335070995886,-79.41312798316125
+Toronto,5f06c49f182da959fa0f03e746fc2e4a,14 Arundel Ave,43.6784834,-79.3513564
+Toronto,bfe199383cd6a1bb69ec0a92a4900918,Scott St / The Esplanade,43.64659663170443,-79.37530913867988
+Toronto,b24ec0083f9a6261ba6212d69cd28f2c,Humber Bay Shores Park / Marine Parade Dr,43.626265,-79.476723
+Toronto,e23bf5a5ce76983f962ad8f9524e00ab,365 Lippincott St,43.6649482,-79.40947
+Toronto,fb7be9c97f75af521151fda98e85d7f4,E.T Seton Park - South ,43.70503461857136,-79.33547292037659
+Toronto,7b4755b8ea7caf158967d13b0ea2a32d,Eglinton Ave E / Brentcliffe Rd,43.714305793017544,-79.36089045040129
+Toronto,97b424e77042aeb9a491f1e6bb11c14b,King St W / York St (2),43.647968822765,-79.38316961352653
+Toronto,1d35b8fd44d73aabbb39f6e142ee3e7e,King St E / Berkeley St,43.651885,-79.3649
+Toronto,bf5d4d14e7619f5ff51e264e4095cc4b,Princess St / Front St E,43.65029757496104,-79.36648460341635
+Toronto,c53d12128be1f1022c4b78518cca7675,St. George St / Willcocks St,43.662452744495575,-79.3978384219513
+Toronto,d0f019574616cb2bce86924059a4c0f8,York St / Wellington St W (2),43.647043061824,-79.38314120681535
+Toronto,479d21ebdac47eb8e30a209268e0bebe,High Park Blvd / Parkside Dr,43.644887,-79.45641169999999
+Toronto,9a5a9a00b6f0cb77047f37e70887d891,Yonge St / Alexander St - SMART,43.662862,-79.383572
+Toronto,12ff7c783a2e93510819802cd0d2c365,Rogers Rd / Watt Ave,43.68233679999999,-79.4680594
+Toronto,531aa6a10312c51ffdf8a58608a29c5a,Bloor St E / Parliament St,43.671946102001826,-79.37245115337294
+Toronto,509c1014d04a16c25fa22822b85318fd,University Ave / Pearl St ,43.64843020000001,-79.38556559999999
+Toronto,6fd025b50c54cb8b8f23e861b54e5938,King St W / University Ave,43.64781808540915,-79.38427999073791
+Toronto,2889401ba82ea091cd0d1ecff6ab5c56,Joe Shuster Way / King St W ,43.64039672322004,-79.4237424131447
+Toronto,88160dbfae368327ec39ecb0df145055,Albion Rd/ Arcot Blvd,43.727621709316395,-79.55254902939286
+Toronto,680a0b51862cb1e5a1cd965a824d0dd9,Armel Ct / Albion Rd,43.721532966873205,-79.5455834809678
+Toronto,97416e3d0063fa4952e8e667f7a6de08,75 Tandridge Cres,43.729578273586064,-79.54699793872719
+Toronto,2bd06fb77a7734b960080c30c16fb190,Islington Ave / Finch Ave W,43.74445257991756,-79.56824985721664
+Toronto,58dfa00434a5fb645fdd0107c68a2302,Trethewey Dr / Jane St,43.697417070558615,-79.50079830912324
+Toronto,aec7195bb028b992ab8536f51c7d37f8,Niagara St / Richmond St W,43.64534,-79.409597
+Toronto,0fbdefeb0bfefe959be202d06ac88ed8,Duncan St / Adelaide St W - SMART,43.64809661123633,-79.38864543439331
+Toronto,ab2fdf22270be8d0f0e1d7bf22b08e7a,Niagara St / King St W - SMART,43.64286370000001,-79.40713060000002
+Toronto,bc86932eec20796276a7f8f4171eac2d,35 Erindale Ave,43.67729,-79.35741
+Toronto,b1bb117ee97b3fef3ac3b57ae12329f8,Broadview Subway Station,43.6772,-79.35858
+Toronto,fbf3bb78beefa587d54c8b24e2533469,Logan Ave / Bain Ave,43.6720273,-79.3470557
+Toronto,e441f2c2eb1ee656c751ae89b5f28ba9,Queens Quay E / Merchants' Wharf,43.64643026333144,-79.3618163165329
+Toronto,196146f920152f5d70175a14f0e88184,Parkside Dr / Bloor St W - SMART,43.654501,-79.460053
+Toronto,d70594ad9c923bbbae6602d2dff4d154,Church St / Dundas St E - SMART,43.657024,-79.377257
+Toronto,9780f1af94b192d3fd4a7791b1272653,McRae Dr / Laird Dr - SMART,43.70979296822595,-79.36389214460489
+Toronto,6bd88200486000a93cc1ca5b78bc5ba9,Weston Rd / Lanyard Rd,43.748713,-79.541808
+Toronto,4cb41f3ebdb86acc404a0c2683aa1920,50 Overlea Blvd,43.707225,-79.345324
+Toronto,804d33486cc649ec8fa4f1ef762caf0a,University Ave / Richmond St W,43.64981903446256,-79.38641270251617
+Toronto,dc08a348402ae50b98dcbec122c0ab84,University Ave / Queen St W,43.65052424212547,-79.38672702579497
+Toronto,c627928483ecb6ae00b50fee53d608d0,Lonsdale Rd / Spadina Rd,43.688526,-79.412903
+Toronto,92291585d153499d1b34f2471d8ecf9f,Strachan Ave / East Liberty St - SMART,43.63906470236988,-79.41080996164456
+Toronto,aed73d18bad350cbb28c6f04cfb4cd2a,Simcoe St / Pullan Pl,43.65105290412541,-79.38764943227872
+Toronto,63bd4b8df49c2c98f24ccdc469487ae8,Spadina Ave / Bulwer St- SMART ,43.64935447527379,-79.39675713332855
+Toronto,7a991edc2d9d2d07b57ce906af4e0c1d,Cherry St / Lake Shore Blvd E,43.64827015761016,-79.35651733677065
+Toronto,cc7e6e95bcbf7963105e167439b37f4f,Dunn Ave / Queen St W,43.63952275421181,-79.43395976815727
+Toronto,2a68f05a1657d2a5537dac257cc1d734,15 Price St ,43.6799477790745,-79.38994813684005
+Toronto,e3a75a102dcca872bdeebd03b6182728,Queens Park Cres / College St ,43.66018127636866,-79.39083271520538
+Toronto,4c9eb7bf1d6f6464b60956afb4cb7bc6,Church St / The Esplanade,43.6469251,-79.3733192
+Toronto,97db697b7ef7a4de9ca17b9bd037e80f,Lisgar St / Dundas St W - SMART,43.6493472,-79.42668
+Toronto,9e3c071c1a1b47ea05a20fa713416614,Yonge St / Woburn Ave - SMART,43.72814640000001,-79.4032194
+Toronto,ffeaa2aaedeb18fc11f708bcd8323149,Bay St / Dundas St W,43.655350778457056,-79.38345966759798
+Toronto,0f4f8c9f5e6417a981fe793e43984158,Bay St / Albert St,43.653264,-79.382458
+Toronto,9c6584773f4f7697e589824f5c44c6aa,Symes Rd / Glen Scarlett Rd - SMART,43.673391524931525,-79.47798367814572
+Toronto,d7f5003913919e1bbf6fab87fb02a163,Boston Ave / Queen St E- SMART,43.661601650964336,-79.33894582857273
+Toronto,26edc0f88e4e012ab0d9930c725d5fba,Isabella St / Church St,43.66834,-79.38235
+Toronto,c1375239981cfc9b3934e691cb9013bb,Bloor St W / Manning Ave - SMART,43.663912,-79.416124
+Toronto,fca601c1041c34a9c42af38d71e7403a,Cherry Beach Sports Fields (55 Unwin Ave),43.6408346,-79.3429074
+Toronto,524590c5d3e31674dbdbda29cf6a13c6,Church St  / Wood St,43.662712,-79.379903
+Toronto,4e05be8f079a2d69eab3123bd5009561,O'Connor Dr / Curity Ave - Smart,43.707582,-79.311439
+Toronto,97a0a3eefa88468c8389efa6bbbd2f50,Yonge St / Bloor St,43.669969,-79.386532
+Toronto,7d618ea2f2211a41fac619c2c9bb261f,Elizabeth St / Elm St,43.6570908165693,-79.38593668834272
+Toronto,e211f140df2f544c2510493e0c05b570,Lake Shore Blvd W / Brow Dr,43.591410003452495,-79.54418190344097
+Toronto,4334c988ef1798a678b8c1f7278cbc63,Millwood Rd / Southvale Dr,43.70241717215276,-79.36175932936095
+Toronto,dbf21479ba65c85662203d868172f9d6,19 Glendora Ave,43.75921143833388,-79.40960364801701
+Toronto,faff1725fda5d7e4856db9169a7fe130,Queen St W / Cowan Ave,43.64089724173822,-79.43283582518329
+Toronto,44e60e088e0130eb438a3c64cd6074e8,St. Andrew's Playground Park,43.646552,-79.399586
+Toronto,d2f0ec399af3589a8fafad2b8e3b3f05,51 Parliament St,43.652169,-79.362841
+Toronto,74c5097816c80c01188e97b00e93a4b6,Temperance St Station,43.650945,-79.379498
+Toronto,f00a7293c22a11405ed12cee565f4129,91 Via Italia,43.67665014253828,-79.44503029755326
+Toronto,ad9a0a7d4c0962118233d4a59d480c06,Ramsden Park,43.676184561302776,-79.38962496400146
+Toronto,1630e350724cc062ba0e77e103728eac,Bay St / College St (East Side),43.660439,-79.385525
+Toronto,d54842ca6cc3a96c8ebbd4101c620e66,Bay St / College St (West Side) - SMART,43.660087,-79.385655
+Toronto,43e5df21054d20adc56c6aa3544b5980,Dundas St W / Edna Ave,43.657192,-79.452559
+Toronto,db9bcdbd258af5174a3e6d725807957e,Frederick St / King St E,43.651118,-79.369411
+Toronto,36e4390d0f95acd44b5c85f49217d360,Spadina Ave / Sullivan St,43.65082785552666,-79.39698099821702
+Toronto,3fb25e1f9d316b89f4ff0ff777fd3a53,Adelaide St W / Bay St ( South ),43.65011637593798,-79.37953068860327
+Toronto,1c83c4053d34442fe21bd7a52bdd012e,Adelaide St W / Yonge St,43.65038002325664,-79.3787277120385
+Toronto,90ec8d1df4740c1de95c087a11617c47,St Clarens Ave / College St,43.651238,-79.43868
+Toronto,b8cb26c3827d563e60826e8d8ddb8865,Lisgar Park,43.6423847,-79.4240277
+Toronto,01caf8b12874b091f2fccc3818e3c72e,420 Wellington St W,43.643834,-79.396649
+Toronto,25ed68a12f51be0066d864c77e780c82,Adelaide St W / Bay St,43.650152,-79.379856
+Toronto,78a43fc13829a61f8db0c57c96572266,Eglinton Ave E / Redpath Ave,43.7078691,-79.39248
+Toronto,908d3c912d6d67c7a5e2bb94d1ae7df3,Howard St / Sherbourne St,43.6712581,-79.376367
+Toronto,f379a344cec55e6a00db6f95769d9a46,Soho St / Queen St W,43.649649714291584,-79.39372141352654
+Toronto,a7094de32ada64b8fdd296f2ae3960d0,165 McRae Dr,43.70656159598004,-79.36781965092621
+Toronto,8618a0bee94ec84f5c5bbe1e6b16b02e,Portland St / Wellington St W,43.64290167152932,-79.39937033134326
+Toronto,6dcfe452d8f993c37296c024dcebf398,Princes' Gates,43.63467323676012,-79.40897321886649
+Toronto,b9577c38f2c7d4f54016f5a46d48a333,Lillian St / Soudan Ave ,43.70607287248461,-79.39356161653288
+Toronto,147a0f1ac692ec386cfdbadbde2179a1,Hanna Ave / Snooker St,43.639547,-79.420022
+Toronto,8fa4c8b1ddf121e11c9745205bc18c01,Riverdale Park South (Broadview Ave),43.667819,-79.35347
+Toronto,b1555f2b6ec614b9b7337a3670717f14,Coronation Park (Martin Goodman Trail),43.635007,-79.403341
+Toronto,caaae4774b6109797d93ebd6994de203,Hillsdale Ave E / Mount Pleasant Rd,43.70512126615395,-79.3890271081274
+Toronto,0b5802ed91d7f19be521c0ea071c0f71,Harbord St / Grace St (Bickford Park),43.65995363518053,-79.41787388888551
+Toronto,8504eb2e3b8e6dd069ad9568894fa9ad,OCAD University,43.65231552304792,-79.39091185000235
+Toronto,6b2b4eddafec569d19118f473bda9718,Front St W / Spadina Ave,43.64235480340359,-79.39519751877137
+Toronto,dfa3077e49380a6a7accded4a826fa06,Gladstone Ave / Queen St W,43.64314139337404,-79.42728015945511
+Toronto,32f618847043b8011f80333b5e7ea8b3,Toronto Eaton Centre (Yonge St) - SMART,43.655431,-79.380653
+Toronto,b1961f256424a862f9c62845085fa584,Richmond St W / Bathurst St,43.6467917,-79.4030281
+Toronto,1c3fe7eb55ecb4519e422313552760f9,Starspray Blvd / Lawrence Ave E,43.788525214554085,-79.1231844760227
+Toronto,784016bbba7f7be920647e7f8ec00251,Logan Ave / Gerrard St E,43.6672144,-79.3452697
+Toronto,ca51ba7bcedca409fb2d0425ea483922,Thompson St / Carroll St,43.65907064983235,-79.35240134225845
+Toronto,c1fb66a9602a3fa29bf039765f7e4a4e,Fort York Blvd / Grand Magazine St,43.6375063,-79.4031155
+Toronto,6523971b87b918d7d1d2a16e4b78ce3a,Crawford St / Lobb Ave,43.64654941401018,-79.41558900317995
+Toronto,b056610271f25cd1743a9702ef699451,Hanna Ave / Liberty St,43.638608601636705,-79.41965437361068
+Toronto,dee47db4f9132cf52b6b7b07db032e75,Bathurst St / Housey St,43.63781903961206,-79.40013176752855
+Toronto,403e402f8bb6453c515cfa5f3e8de676,Niagara St / Queen St W ,43.64572868466845,-79.40990680181771
+Toronto,54e891116c53e9cd15e6433fe530b43f,519 Church St,43.6668334195837,-79.38120391054117
+Toronto,0e2fafe5a7b1683b6fd9b33654eec20f,Adelaide St W / York St ,43.6491919790139,-79.38363237427446
+Toronto,63503c4a279da64285452d1e676c6c37,Church St / Shuter St,43.65505698168995,-79.37651024603271
+Toronto,f3a3e4be39f05e9b3d9fa4aa863b6d5a,Adelaide St E / Parliament St,43.65378337432506,-79.36335973372954
+Toronto,6149c879e83069dd940e71f9f790d336,Emerson Ave / Bloor St W,43.658739,-79.440691
+Toronto,ad7565976931b367a241a27523e47830,Wellesley St E / Jarvis St,43.6662047,-79.37901219999999
+Toronto,fd7c0cadeb907434f002aadc42a88554,Brimley Rd / Lawrence Ave E ,43.75404854399297,-79.2553167552948
+Toronto,ad299c229e85bba5b84af14933cfac77,2300 Lakeshore Blvd W,43.61868,-79.48674
+Toronto,4898d236bceda7c4cb9430c896669537,Blythwood Rd / Yonge St - SMART,43.716652,-79.399993
+Toronto,d21421de2283d1ef48895cf1810b0200,Temperance St / Bay St,43.6506,-79.381285
+Toronto,90e1949054880d582ccee0b0ae9ce5d5,Benshire Dr / The Meadoway,43.76174092019504,-79.24473961415558
+Toronto,46fbf9a39e05b9dc59aa953a0b867ab2,Bellamy Rd N / The Meadoway,43.76507271818177,-79.23835381614684
+Toronto,81d6569b78463553d6b5594e8af1b0dc,Markham Rd / The Meadoway ,43.77121894873629,-79.22956526983644
+Toronto,59c65f9b8ad030535168838f871d5895,25 Booth Ave,43.6544839,-79.34105699999999
+Toronto,e7ebcf37e1b4dd9b4d8efc7825e114a2,Centennial College (Ashtonbee Campus),43.73003601845614,-79.2920036521843
+Toronto,25609edbdf8f13143b34fb67e9205c65,Ellesmere Rd / Markham Rd,43.77682938751077,-79.2305003612381
+Vancouver,7a19c49f486d7c0c02b3685d7b240448,10th & Cambie,49.262487,-123.114397
+Vancouver,32603a87cfca71d0f7dfa3513bad69d5,Yaletown-Roundhouse Station,49.274566,-123.121817
+Vancouver,6d42fa40360f9a6b2bf641c7b8bb2862,Dunsmuir & Beatty,49.279764,-123.110154
+Vancouver,66f873d641d448bd1572ab086665a458,12th & Yukon (City Hall),49.260599,-123.113504
+Vancouver,485d4d24c803cfde829ab89699fed833,8th & Ash,49.264215,-123.117772
+Vancouver,b07d513f87897cff7319a0e59d7e567c,Spyglass & Seawall,49.270877,-123.115103
+Vancouver,d1c9556d92f329703229fb3e33899a3b,Stamps Landing,49.26893,-123.11813
+Vancouver,95e624191c655f50e401d280cd39a9ad,Ontario & Seawall,49.271721,-123.104207
+Vancouver,3e112f9fe877e0003780386359060ae6,Canada Place,49.287214,-123.11287
+Vancouver,6993b3dbb0758927967592ea612a2b1e,Granville & Georgia,49.282409,-123.118541
+Vancouver,bf8408067b0e0c963f3ff526977bcef3,Pender & Burrard,49.287097,-123.118551
+Vancouver,d2244f1a81d317c76cabd65e81250835,Marinaside & Davie,49.273471,-123.118016
+Vancouver,0b543fc4e694fe07a54dac48bb1b3390,Robson & Hornby,49.282758,-123.122092
+Vancouver,fbb1d30d7f30b049873f5be5688563d4,Hornby & Pender,49.28602,-123.116624
+Vancouver,7181df50ee1d1a05559399211382b7c8,Homer & Robson (Vancouver Public Library),49.279739,-123.116251
+Vancouver,b7683a86874e6300fd89f4cc0b075f57,Beatty & Nelson,49.275679,-123.116963
+Vancouver,3367c1e1dbf73caf7c10e4c96a92f58d,Abbott & Cordova,49.282759,-123.106955
+Vancouver,1d7e73b3321ebb6713774d376247d9f9,Comox & Denman,49.288444,-123.139203
+Vancouver,664502c28e8147615f17b8ea355f40d0,Cordova & Bute,49.289124,-123.12196
+Vancouver,6c24a62b5ee0a2a8014eb0dfb6d40025,Hornby & Nelson,49.28062,-123.12482
+Vancouver,fad9ebcf614dd1a72593a34072ff76f8,Helmcken & Burrard,49.279938,-123.127478
+Vancouver,3a4131fa94946d93d3529136efd62413,Pacific & Richards,49.273663,-123.127075
+Vancouver,25318ec3e06fae1397a3a2f645104149,Chilco & Beach,49.28972,-123.144028
+Vancouver,444991edc9550be0908f032da5e3c95f,Comox & Broughton,49.285253,-123.134356
+Vancouver,434b6f4e7fc30198f901b60fc905f609,Bute & Comox,49.283343,-123.131099
+Vancouver,f97d5bf41f35aa181288429fb52e3488,Cambie & Water,49.284605,-123.108662
+Vancouver,fef69fb400210d861107a61db954d037,Keefer & Abbott,49.279821,-123.10802
+Vancouver,9d3123425823420514b8ad410074f02d,Expo & Carrall,49.278004,-123.105664
+Vancouver,f1ca711137cde59e824167a4274df888,Keefer & Columbia,49.279342,-123.101822
+Vancouver,4f6ebf2026d540ffe40e29a80138ad5e,Marinaside & Cooperage,49.273833,-123.114373
+Vancouver,be14efdc86dedd6a8cd338e78ab4e7c7,Bidwell & Burnaby,49.28526,-123.141809
+Vancouver,6ddeafa873279951630a00191333c45d,Robson & Granville,49.281506,-123.120101
+Vancouver,c7b5bec0b2f4ab9a2d3f9d837725620c,Expo & Smithe,49.276115,-123.114496
+Vancouver,b9fd847d53fe45658fee4c46e7f562b8,Cypress & Cornwall,49.272827,-123.147744
+Vancouver,c2be5403b1c101e8032cf6696457200e,Anderson & 2nd,49.269361,-123.13782
+Vancouver,71c064fa93cab5f0b7306e6c923b77c4,7th & Granville,49.2653,-123.13811
+Vancouver,96bf713e60bc35cc2feb5fd53a4f3471,10th & Granville,49.262598,-123.138921
+Vancouver,8dc684732a2a25bdf63ec0ecccee4e6e,14th & Granville,49.25894,-123.139272
+Vancouver,686c0fdb962e26e274d81fc286c010dd,14th & Cambie,49.258763,-123.115392
+Vancouver,0cf6cd1809fa7f510812f5b052f578c4,Ontario & 5th,49.266724,-123.104824
+Vancouver,93c88a18c673e2c72a6afa93d6b89f18,10th & Main,49.262141,-123.101961
+Vancouver,8fb5ce1e34ad31de940481953aea452c,Cypress & 4th,49.268269,-123.147885
+Vancouver,aa704bfba40286bd0661b64d1f75e778,Vanier Park,49.275717,-123.142564
+Vancouver,8c9ea7f2132376859ef34fab981d6932,Nelson & Mainland,49.276436,-123.11877
+Vancouver,1d4153659a0a0a2089078c739df6737d,Nelson & Richards,49.277844,-123.120942
+Vancouver,fbb4c06b719596c21f91fd51ef6d4710,7th & Heather,49.265089,-123.119425
+Vancouver,72c1049dfbbde7c24ec45c14f1a5ee85,Harwood & Bute,49.28026,-123.135244
+Vancouver,00fa94ad698dc4a9e4d708d6fd32f294,Chilco & Barclay,49.291909,-123.140713
+Vancouver,efa947b901a2cf85b58320b3ad26a2fe,Chilco & Robson,49.293257,-123.138563
+Vancouver,66a53e9c32e4f5c724f9478240020142,Nicola & Robson,49.288011,-123.132006
+Vancouver,97b25faf822b93fdbf72da1d594c0288,Carrall & Hastings,49.28117,-123.104419
+Vancouver,6c7fb9043e6df5a4cc50404581a947b9,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,49.283227,-123.120523
+Vancouver,30bf49544b1c864688b78172d42cca5e,Stanley Park - Vancouver Aquarium,49.299292,-123.130281
+Vancouver,9f63cebac9073eac3e90be2b9a91b02b,Stanley Park - Second Beach North,49.29534,-123.150433
+Vancouver,9aa325529164ec68b4d96c4f1c4fc7c1,Stanley Park - Second Beach South,49.294318,-123.148808
+Vancouver,e3d32ad772a5898c3b96c4d23d2cd542,Stanley Park - Totem Poles,49.298657,-123.121176
+Vancouver,625a2ad202275c8e2be3ce868e85b105,Heather & 14th,49.259183,-123.120126
+Vancouver,6c0de983fb47a3439a9e3c36a3d15804,8th & Ontario,49.263837,-123.105173
+Vancouver,92c9e62c0b42adf4759c430009d3987a,1st & Chestnut,49.270721,-123.146175
+Vancouver,51e4d3731aebbf9c3186f310a08de6c8,7th & Arbutus,49.265605,-123.152566
+Vancouver,826af7eee4ce28b6fa4b4f0211305792,5th & Arbutus,49.267222,-123.153157
+Vancouver,4cb84c9a3743287019ae00ceef9a1cd3,10th & Oak,49.262255,-123.126217
+Vancouver,56fef9ba0af67a4ff3e661a8e02c0b08,Arbutus & 16th,49.257654,-123.153212
+Vancouver,c81f75a80312c51ceaef1304beac1990,Cypress & 14th,49.25919,-123.148268
+Vancouver,afacb2133f2462aba7748cc21b71c788,Cypress & 16th,49.25741,-123.148531
+Vancouver,a9f0b06d07f89b75e92c0cf686223aea,Georgia & Thurlow,49.285953,-123.124066
+Vancouver,686b314a6c3348efd2297d6b3dfed1a7,Thurlow & Pendrell,49.280881,-123.130672
+Vancouver,0d1b5c62f8d22e3650811df55596e25b,Heather & 16th,49.256845,-123.120071
+Vancouver,521c2122c791ed038168c3b8ff24061b,14th & Ontario,49.25849,-123.104799
+Vancouver,838d5bb59963474ad08a6d5b156943ed,14th & Main,49.258425,-123.100792
+Vancouver,b9ab6ce009eda6006ade1d7568d9db9c,David Lam Park,49.270905,-123.126006
+Vancouver,9ec4163496363b31ab475cb851b57b21,Beach & Seymour,49.273568,-123.129935
+Vancouver,fedff7a263c182df94bda7307059cc52,Richards & Helmcken,49.277141,-123.122589
+Vancouver,b9baf685b7053de899bf3467f61c2781,Burrard & 4th,49.267859,-123.145782
+Vancouver,8d6f0cbf7d44d2908c8ce73ed00dbf66,Burrard & 7th,49.265336,-123.145823
+Vancouver,988f8f74c4a12d1a30ddf2f7cd6318f8,Charleson Park,49.267628,-123.127698
+Vancouver,2f09a64507cf6257c67ca20af27339eb,Chestnut & McNicoll,49.275938,-123.145939
+Vancouver,73f388336d879bedc962cd412eb0296e,Creekside Park North,49.2756,-123.102661
+Vancouver,cb6fddfdac7d350d25be475c7ab9e05a,Alexander & Main,49.284157,-123.099917
+Vancouver,cadc004f0903ef45e898032143c0832f,Arbutus Greenway & 14th,49.258924,-123.152591
+Vancouver,57e928d8c30fab0ebffb3ede850f89d6,Arbutus Greenway & Fir,49.266774,-123.141135
+Vancouver,6526a2eb3832f9ba0224d237e901ea5b,Kitsilano Beach Park,49.273355,-123.154493
+Vancouver,e44c2235dd603dbee54fe08f7543e85a,Arbutus & McNicoll,49.276144,-123.151272
+Vancouver,3596b4831ee2ea7812de753b32306835,Vine & 4th,49.268339,-123.157443
+Vancouver,c448b73d92f7f8e1daafb3b9c5fbe6a6,Alexander & Dunlevy,49.284062,-123.095097
+Vancouver,5fc29e0ac42c11abb45bf12aaeb925bd,Alder & 11th,49.261742,-123.13148
+Vancouver,61901a235d4cfceb7f8f2c3888b98617,10th & Columbia,49.262206,-123.109091
+Vancouver,175a074bf65455d1633639511dc129c8,1st & Manitoba,49.27023,-123.10651
+Vancouver,35eb539fb9298bb7e4f6759ca0256505,10th & Ontario,49.262062,-123.104656
+Vancouver,7b8dfa12900bcb02b47a14e4e5010ba3,Quebec & 1st,49.27033,-123.10275
+Vancouver,b30ed0719dd281867a4d39779c78b58a,Columbia & 14th,49.258902,-123.109596
+Vancouver,ace20c241ee38643c9060f290b215b9d,7th & Laurel,49.265071,-123.123864
+Vancouver,3aed670ccdcd94b966c0f505f8b028c7,7th &  Alder,49.265198,-123.131043
+Vancouver,ae69aeab748d02e5a7d89da28a1a8511,Science World,49.273691,-123.102232
+Vancouver,0c9ad3e3703e5869b82619ecdf54f43e,1st & Scotia,49.2685027,-123.0975014
+Vancouver,f3708906ec71348f5a42579fede36a0d,Rogers Tower,49.288682,-123.11818
+Vancouver,9449a6a83fbf88452e384350e5ac95b7,York & Yew,49.271741,-123.155421
+Vancouver,365da33e9ce06ea53db1173a0f8eae71,Pine & 10th,49.262822,-123.14338
+Vancouver,707c1c54e0278fbae5d0ae3c42a25b71,8th & Scotia,49.263635,-123.099236
+Vancouver,5105df3dd0daf4c26980f4134f61e5cc,Alberni & Jervis,49.28763,-123.127245
+Vancouver,82c794442f54fabf9db6e392ca1fac0f,Stanley Park - Information Booth,49.297933,-123.130758
+Vancouver,2ca388bba54706770900ca2a9d7aa5be,14th & Alder,49.258819,-123.131317
+Vancouver,e7bf01431a6982f032996ad50a9e5bd7,Pender & Gore,49.280284,-123.097052
+Vancouver,1648ead5ea617d2cea115869d9516f5e,Carrall & Seawall,49.276294,-123.106534
+Vancouver,91035fe1d70b65c9cb8ec4a007af7c7f,Glen & Union,49.277469,-123.081315
+Vancouver,d3aaff4414a8c3fd5480c470f77ff68a,Adanac & McLean,49.277665,-123.073653
+Vancouver,b307709b305dd04328fbbf2c6db86419,Commercial & Adanac,49.277436,-123.070427
+Vancouver,e9c4bd1fffbb1e5b058b8ea15f7307f6,Pender & Commercial,49.280332,-123.070068
+Vancouver,bb0847559ce71c93d8215c0997ea2811,Keefer & Princess,49.279369,-123.091241
+Vancouver,1ef5c4ff3f0b09422bb1597fd9d7568b,Alexander & Railway,49.283992,-123.091206
+Vancouver,ac3b8198f03754a0afb8b6ed6d220cdd,Napier & Commercial,49.274881,-123.069323
+Vancouver,029a505bd4422a1afd127987757f71a6,Britannia Parking Lot,49.275882,-123.071865
+Vancouver,0459b7e93703980b853cd65a9dc60596,Thornton & National,49.273777,-123.092723
+Vancouver,a21f40838346e300063bdda3c5c04105,Keith & 6th,49.265005,-123.079481
+Vancouver,6b1622540fe5c85d365754dd8c20bf0c,Grant & Commercial,49.271377,-123.069416
+Vancouver,ebc551adb0fc1a684f4080e4954a9ba4,2nd & Commercial,49.268616,-123.069908
+Vancouver,6eaa02e5bcf78db5386683d38fa2dabd,4th & Commercial,49.266969,-123.069936
+Vancouver,983e58671adcc67af94457d7887dbb15,8th & Commercial,49.263242,-123.070521
+Vancouver,797ff1725f8d2b18337de51e240ff60d,10th & Commercial,49.261403,-123.070102
+Vancouver,277b4b4881bdb7dac73012672179def8,Woodland & 10th,49.261263,-123.073707
+Vancouver,e1ff428dadc7c32141b9d89a7b56728a,Glen & Broadway,49.262242,-123.081459
+Vancouver,012d3e06901cc222b1c2cf0a2ace3a29,St George & Broadway,49.262321,-123.09306
+Vancouver,a6455af6b689bcbad07ae2c8a3419b50,7th & Woodland,49.264251,-123.073853
+Vancouver,475627e149c1a6ba73caac8d8d2fa617,Woodland & 4th,49.266751,-123.073501
+Vancouver,f387ec226c432c5c054e3d3616d90501,Woodland & Graveley,49.270684,-123.073562
+Vancouver,1675a77b9af656faf527b4e6de53e63b,Charles & Woodland,49.2731,-123.0732
+Vancouver,1bca0e944a4faf170db82793414b03ab,18th & Main,49.254667,-123.101389
+Vancouver,d0782213f003ce9eb276fbceff44f1f4,Prince Edward & 16th,49.256694,-123.096579
+Vancouver,1ef01f2f89621d51afbabaa6296e55be,Prince Edward & 14th,49.258352,-123.096337
+Vancouver,c47a1f62ea461ce1c9f3e2478c657df6,13th & St George,49.258817,-123.092797
+Vancouver,0cee06d7d10f7d3162cea03d22b7beed,10th & Fraser,49.26151,-123.089413
+Vancouver,f62bc2bfe9a0a563d5b6745ce6d962ba,8th & Fraser,49.263382,-123.088837
+Vancouver,1c8f7fd6535db12cc45cfc59aa9da058,St Catherines & 10th,49.261353,-123.085333
+Vancouver,17a3320a52bcc62161908967f8a06613,St Catherines & 7th,49.264466,-123.085183
+Vancouver,aed214941445e0345aa3254805a9e8b8,Pender & Victoria,49.280197,-123.065859
+Vancouver,d67640af1b3b3b3ce47169dbc9182470,Victoria & 4th,49.266725,-123.065925
+Vancouver,b2c6aaf2b4fa8937bfe3941c038683aa,Victoria & 10th,49.261188,-123.066009
+Vancouver,0a43242bee10cd33f539af2c1bf5ecbf,15th & Victoria (Trout Lake),49.256857,-123.065646
+Vancouver,198810b9b0af5d229d1b6fa12c620e06,Triumph & Victoria,49.283986,-123.065264
+Vancouver,d02e2eaafda91425eddd24d8acd328ab,Windsor & 14th,49.257985,-123.083366
+Vancouver,08c7a90bf297fde8c1f1156db13987d4,14th & Fraser,49.257939,-123.089531
+Vancouver,97005696a3dff3366a8410b817388990,15th & Knight,49.256496,-123.075426
+Vancouver,c52e51e3288a00993bdf892fdc2c2c2c,Commercial & Pandora,49.283236,-123.070443
+Vancouver,7d231a181d21056e4ba80c4d9939fe92,Carolina & Great Northern Way,49.267266,-123.090786
+Vancouver,dcf3d5c9f1b3a46f0ef2eb2247931f89,6th & Prince Edward,49.265242,-123.095577
+Vancouver,9bee3167f10c884044cea0d36afcd1ef,6th & Carolina,49.265213,-123.090785
+Vancouver,45a4c865db23e1cad0209afa5a799de0,Stanley Park - Third Beach Parking Lot,49.302577,-123.155616
+Vancouver,fe0c57d04d6e682d284d501446095fc9,Union & Dunlevy,49.277595,-123.09583
+Vancouver,b10d422b045805f1c350c47c983381e8,Keefer & Hawks,49.279235,-123.087528
+Vancouver,4e8fdc99e77ba1b70d90e124a704d0c1,Hawks & Union,49.277333,-123.087359
+Vancouver,b562f08327af465e4531e20226789489,Charles & Commercial,49.273103,-123.069892
+Vancouver,4ac99b928a91d8ccb785c9d0b805adb6,10th & Kingsway,49.261973,-123.09725
+Vancouver,99c81f71db35911c79a86a1c5edc5604,Beach & Hornby,49.275295,-123.132585
+Vancouver,e12234b6f1299d178f34bffaca92f043,Burrard Station (Melville & Dunsmuir),49.285871,-123.12105
+Vancouver,5a34495280727a5b50b9aa41e14e9a16,Bute & Barclay,49.284893,-123.128685
+Vancouver,9130f9aa3bb037a04c17e6f2630327e5,8th & Yukon,49.263962,-123.112621
+Vancouver,9a48ca226f82f52d02707b054ebc7e9e,Princess & Union,49.277615,-123.091654
+Vancouver,b3bb9f58d3530d33a1a09b6be9e973e0,Dunsmuir & Richards,49.282214,-123.114101
+Vancouver,c2f4e05c01ea0d27934ac7dbc50cbd0c,5th & Main,49.266456,-123.100324
+Vancouver,9a5478470b56379c31cf4e671584d5cc,3rd & Quebec,49.268216,-123.103168
+Vancouver,257715b845828e027ff35dd0f11c971e,Richards & Cordova,49.284554,-123.111031
+Vancouver,910027847876403b57f1013c16504688,Richards & Robson,49.280216,-123.117639
+Vancouver,06487275cd19694152824c7c3088e8ff,Olympic Village Station,49.266314,-123.116011
+Vancouver,b428c0e64d9b9fdb3bf8e85c95ffdf6b,Campbell & Hastings,49.280852,-123.084746
+Vancouver,d085c6749a32517e1fb0d070e4128402,Cardero & Davie,49.285512,-123.1384
+Vancouver,a6aec7b8c25da4c02829cd7839b8933d,Aquatic Centre,49.27821,-123.136972
+Vancouver,c924f6a41b130fad49cfae47271314bc,Beach & Broughton,49.281301,-123.139108
+Vancouver,8e93d0da1ee6caadf21ed9575b5fa9da,Beach & Cardero,49.283298,-123.142288
+Vancouver,9413725a5d3bb5ce2ad0682b07a3ffab,Georgia & Homer,49.280787,-123.115271
+Vancouver,7ed043a19e6a4ece742fe747b663bdbf,Columbia & 5th,49.266476,-123.109389
+Vancouver,ce5dccf5a0f190bb4567a2fd93e7971e,Haro & Denman,49.290587,-123.13625
+Vancouver,1d442ad1a71774c82688a45954e47bfd,Arbutus & 10th,49.262835,-123.152626
+Vancouver,2781435bde344e1b64f1bebac6bc9008,Ontario & 16th,49.256825,-123.105234
+Vancouver,e9b37f2d9b7b2e2e3ade73f13acb69b2,Richards & Davie,49.275683,-123.124388
+Vancouver,fffd87607aaae16fbb1f71615cbe7d17,8th & Prince Edward,49.263518,-123.09568
+Vancouver,da8b6e94f90ad41a3f8de10596992372,Jervis & Robson,49.28691,-123.128818
+Vancouver,32f70f7ae14ba87523c6286a6c4d5c37,Smithe & Burrard,49.282503,-123.124697
+Vancouver,df5ab349a7a85d4b10da4cc3ec65c607,Broughton & Davie,49.283749,-123.136133
+Vancouver,e0318460138ffbf4692005d5b5a9f900,Cypress & 10th,49.262944,-123.148109
+Vancouver,db51c556fe50ec1deefbc9697c70cb51,Granville Island,49.27029,-123.135025
+Vancouver,58a026f0c506caec20697a4f90538450,McLean & Pender,49.280427,-123.074082
+Vancouver,0e0aef6fabaa808b3a3cef24657257a4,Richards & Smithe,49.279259,-123.119145
+Vancouver,90c746df94ce1a12f1f617acfe4a8ce3,Bute & Robson,49.285836,-123.127265
+Vancouver,80b5c12ef21fd47275d37b2c9935249c,Trafalgar & Cornwall,49.272969,-123.164325
+Vancouver,899f59a9994302e8e1e4be01117ef707,Alma & Point Grey,49.27247,-123.185643
+Vancouver,8d2d5bb3b9142f781f2a7f441e6bad7a,Point Grey & Blenheim,49.271471,-123.17731
+Vancouver,5de0fe55497681d4cc9dd25509cf51ab,Hastings & Broughton,49.290112,-123.127062
+Vancouver,2681455ba2d97283998a806b14d3e95c,Yew & Broadway,49.263523,-123.155267
+Vancouver,064a7b39b1dbc4bfc4cf8f454e360c57,8th & Macdonald,49.264928,-123.168068
+Vancouver,9c1397c06e07bf74fc049f1a0872eea0,Balaclava & Broadway,49.264483,-123.173926
+Vancouver,9763838317308a4766b83696986a157b,Dunbar & Broadway,49.264579,-123.18373
+Vancouver,c64ee19c62a363019ddbaedf71df2882,Grandview & Commercial,49.263746,-123.069892
+Vancouver,421516af381a11f54d07fc79be68d3d3,14th & Oak,49.258761,-123.127071
+Vancouver,38f045e3f43f86eae42ca4c60257ade0,Wallace & 4th,49.268974,-123.190701
+Vancouver,5ba6e9725b1b0ee8cd25df976e47726b,Balsam & Cornwall,49.273011,-123.159663
+Vancouver,f90ed7ad754ec04b7852941a480a4c77,Balaclava & 6th,49.266924,-123.173849
+Vancouver,abfaf72456a4828a22f5bf60d3a80777,Trafalgar & Broadway,49.264326,-123.164725
+Vancouver,2ff7eb4230654603592ab1b0780ec5e1,Dunbar & 6th,49.266636,-123.183661
+Vancouver,ea9485fcdce0611243474d000e4ad248,18th & Cambie,49.254818,-123.114785
+Vancouver,671ce9e4a92063620f772d2c57f0f3ab,Blenheim & 4th,49.268837,-123.177633
+Vancouver,41a55a7e2908fbbd65175b794d26bc8d,Heather & 18th,49.255034,-123.120226
+Vancouver,a59924f0ff3fb481a7bd8a5e9c36858f,Point Grey & Bayswater,49.271044,-123.170661
+Vancouver,89a0b49a66e54a7639ad960962148a3e,20th & Main,49.252691,-123.101289
+Vancouver,44fc3d58831a9f2b919c7a3a1838b74a,Station & Terminal,49.272172,-123.097978
+Vancouver,4990fe5772f3b73eebeec125b41e478e,Burrard & Drake,49.27808,-123.130557
+Vancouver,bf96df77771ef0ed710d8e0e67917f45,Columbia & 1st,49.269969,-123.109623
+Vancouver,e75e83499d3fa2e174dc2a8ffd238119,Davie & Beach,49.287528,-123.142139
+Vancouver,0438114d2e6b96118de69bc9775bb21e,Morton & Denman,49.28803,-123.142135
+Vancouver,07b13214cb69f2ec007d888450f3d6bc,13th & Cambie,49.259579,-123.114769
+Vancouver,f5e8fa1fc4252bda2f93dd27ed2d603f,Nelson & Denman,49.2890705989865,-123.138407369468
+Vancouver,c2a9c5d0e4578b928554c86f3d2c1162,Melville & Bute,49.287782,-123.12395
+Vancouver,5f45325fdd6334a4c0d3b62853b19fa6,Seymour & Cordova,49.28512,-123.11242
+Vancouver,085a0e120a08a80a58c0ae0ff9da565a,Arbutus & Nanton,49.247854,-123.153422
+Vancouver,8d5f47f01d7ad668419dfe9b7fe69c9a,Yukon & 6th,49.265939,-123.1129
+Vancouver,bede4b24dae115d4cd43d2e6cc9812cb,11th & Kingsway,49.261122,-123.097571
+Vancouver,680b1ddfd50c4397b365c9c00f09b0d1,Wylie & 2nd,49.267725,-123.11311
+Vancouver,b26f83e904f3a778466ebcd763b7316a,29th & Cambie,49.245135,-123.116098
+Vancouver,6620c54bd6b3a79800b2b67e999b24d0,Rolston & Granville,49.274232,-123.129998
+Vancouver,7f091b50fbbd892bf9fb869a64c47120,East Blvd & 37th,49.238105,-123.154966
+Vancouver,57d39a680c9407cda0fb4de6d9c55138,28th & Willow,49.246243,-123.124373
+Vancouver,97388f4e4ea102a30345524bda465f4e,Ontario & 23rd,49.249722,-123.104991
+Vancouver,066ecc3584913fa035ec1417323beb80,30th & Ontario,49.243375,-123.104978
+Vancouver,b530d04d393d71cffb8b8b07f4a82380,Franklin & Nanaimo,49.282087,-123.056909
+Vancouver,06bdc4d55f34b2a491305534fd5defda,Lakewood & Triumph,49.283968,-123.061615
+Vancouver,8e44a17d2fa446ca220b90c7063b42ca,Wall & Eton,49.287464,-123.060771
+Vancouver,7c17f51469f1a7145455f65ef6afbd87,Lakewood & Oxford,49.285575,-123.061575
+Vancouver,e1432b72df561a1df34290679ec9c773,22nd & Cambie,49.251358,-123.115637
+Vancouver,549f00f6039e8bb702a00dcca08a8ed0,King Edward & Cambie,49.249184,-123.116141
+Vancouver,d8c4fe5e09b6f010fbaa85cc7302d66b,Heather & 29th,49.245535,-123.120496
+Vancouver,0c42f45e4a14957ad4a6d521d0ba8bc3,Cardero & Robson,49.289255,-123.132677
+Vancouver,62a202eb98c0a4b09ba6746f5ee94ab3,Commercial & 20th,49.252656,-123.067965
+Vancouver,04f64fde5ba1ebde8ad78c74914adb34,Burrard & 14th,49.259469,-123.145718
+Vancouver,cc2084e365f6f230fe26bae0b6867775,Hornby & Drake,49.277178,-123.13
+Vancouver,f38bac9712f3beee2149ba2a97048878,Cardero & Bayshore,49.291597,-123.129158
+Vancouver,9ee3bc9e836768e3e04e4f3328dae03b,27th & Main,49.247204,-123.101549
+Vancouver,aa1cbf97abc3cd50515bc54633a9bb2a,Cordova & Granville,49.2856698,-123.1125432
+Vancouver,13021bba7bbeca1ccd8726ca17da59e6,22nd & Main,49.25094,-123.101306
+Vancouver,5699b40126e10c2f68eefc3eb18ff3a1,1st & Fir,49.270783,-123.141564
+Vancouver,34fd37d12eb989b49518ef53941ee3ff,Sasamat & 10th,49.264019,-123.209176
+Vancouver,b7dd37a7dd668d6d10024b7f18acc438,Trimble & 8th,49.2658,-123.20596
+Vancouver,cc25ae4f093b33ba0afd1dbc0dd20324,Highbury & 8th,49.265442,-123.187738
+Vancouver,db1e56a71a3279f51301d732ee5a055b,IK Barber Learning Centre,49.267561,-123.252261
+Vancouver,5726de7c5646b82f7aaeafba50aee03e,War Memorial Gym,49.2665793,-123.2485487
+Vancouver,cde61c70e5556ee2fe3ceb9d958b6482,Pharmaceutical Sciences,49.26262,-123.2431
+Vancouver,852212d6d52b5f00544fad01d21c7db2,Georgia & Main,49.278529,-123.100017
+Vancouver,10acadd77bc21f26a7f09d8c74d4af2d,Robson & Beatty,49.277773,-123.114237
+Vancouver,58345bb719f4e570ed4edc9dfa6a68a2,West Mall Swing Space Building,49.263073,-123.254307
+Vancouver,261efc67071963969b3f848c66454d97,Orchard Commons,49.259999,-123.250902
+Vancouver,ee620d77724c8993b0d366e7ec655b64,Wesbrook Village - Berton & Shrum,49.25478,-123.23621
+Vancouver,e02dd224b0177c65418bcb3f72d2f77d,Adanac & Lakewood,49.27751,-123.061429
+Vancouver,12dd264419c06f596d1a883ed36efd9c,Maple Tree Square,49.283482,-123.103738
+Vancouver,a25947c94149b3aeb93f6e970d63fffc,Jericho Beach,49.271221,-123.191133
+Vancouver,16e885a2eea476d406cd849140898043,Cambie & Cordova,49.28271,-123.10942
+Vancouver,ed1ccbfbaabba798a18d8c4ff3507b1a,Bute & Davie,49.282231,-123.132767
+Montreal,36c6491aa1b52e5ef7005f984738de27,Gare d'autocars de Montréal (Berri / Ontario),45.516926210319546,-73.56425732374191
+Montreal,65f5707d61306518123222b4680bc282,Marché Maisonneuve,45.55321884238814,-73.53978216648102
+Montreal,eeda0f4010f34ca2199f3585a76fef66,Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),45.5534000891078,-73.66225451231003
+Montreal,e287c24d95d9f0e3767d167d83ecebcd,Omer-Lavallée / du Midway,45.5457759528664,-73.56217458844185
+Montreal,bfc27d829d7ce8c0f9e55b1cab901cbb,CHSLD St-Michel (8e avenue / Jarry),45.5616903,-73.610512
+Montreal,1ff33fd73e2add3c30fcd821850dccd3,Chabanel / du Parc,45.53830765459552,-73.6548838019371
+Montreal,41f8b2e49339317de23ae563e66fe4a6,Métro Henri-Bourassa (Henri-Bourassa / Millen),45.55675103297278,-73.66716161370277
+Montreal,f332a5c6e3f7fc73096885d6efc0f829,St-Hubert / de Maisonneuve (sud),45.51586835126322,-73.56008380651474
+Montreal,0243c740e1d4fe272e0c414cdd900c7d,CHSLD Joseph-François-Perrault (St-Michel / Everett),45.55969734528566,-73.60145956277847
+Montreal,278e51e3bb2d95cf556a62edff8f95ec,Parc Nicolas-Tillemont (des Érables / Villeray),45.55463653358596,-73.61255215771962
+Montreal,82cc3be4d76f16ca475536a6e07461c5,Préfontaine / Marcel-Pépin,45.54365380040509,-73.55942063033581
+Montreal,91a138f95bde5c11382cfd13a0592bb2,BAnQ (Berri),45.51601387670667,-73.56291957199574
+Montreal,e335f2f5ad674c200bb9795ee863749c,Messier / St-Joseph,45.53946063965585,-73.57605636119843
+Montreal,30efd061ab22a0caa3dc67f5e027154e,Square Viger (Berri / Viger),45.5121682576952,-73.55481594800949
+Montreal,76d6ac391db2e789d1696e32fccf92f6,Dorion / Ontario,45.526991277453526,-73.55821162462234
+Montreal,69f583a85e1a83b443c203b781bfc0c9,Métro Peel (de Maisonneuve / Stanley),45.50038,-73.57507
+Montreal,7efdfc0229daac74cfa58a8a39d13ac2,Métro Place-d'Armes (Viger / St-Urbain),45.50631445605528,-73.55967122894072
+Montreal,1013ec013026d8e51b4e126c5c72c5c8,Métro Laurier (Berri / St-Joseph),45.52723106564012,-73.58672618865965
+Montreal,04f6eaaa0d7993020973687c13f41663,Métro Frontenac (Ontario / du Havre),45.533705987798946,-73.55217933654784
+Montreal,706aa9cbfdd3690017049a4f1239f340,du Mont-Royal / Clark,45.51941,-73.58685
+Montreal,f9d30314d14794ea0c378ba2c1ee0c5d,Gary-Carter / St-Laurent,45.53613488953656,-73.62258464097977
+Montreal,9836aac1ee4659e9103ab4a3ac10c9e0,Métro Parc  (Hutchison / Ogilvy),45.53035130173597,-73.6243924498558
+Montreal,251c1026721c2b86f0c7b68be5992fdf,6e avenue / Villeray,45.55873962047568,-73.60589044634253
+Montreal,444448176f019fa75930cba6037f6ed8,St-Jacques / Vinet,45.485328993998365,-73.57692271471024
+Montreal,f9cff3cd7959287708ec2346fdc9f24c,Métro Lionel-Groulx (St-Jacques / Atwater),45.48295816149219,-73.57975836854166
+Montreal,b70ce7493bae1388aa38f66e6e8434f1,Métro Pie-IX (Pierre-de-Coubertin / Desjardins),45.554373399819674,-73.55137467384337
+Montreal,0c9cd68aa1bd69a080463ce7f302337c,du Parc-Lafontaine / Rachel,45.52551168509886,-73.57424452900887
+Montreal,b2ff5e1c2db5294d113db231f95c8bb9,Ste-Catherine / St-Clément,45.55671730558936,-73.53024959564209
+Montreal,c6315ed8be3d1b1db4e1743fd8cf702d,de l'Hôtel-de-Ville / Rachel,45.51989655507833,-73.58010649681091
+Montreal,ce541d236b1fb3391edee931485e6ad7,Workman / Vinet,45.483788863965174,-73.5750612616539
+Montreal,9fce8c378d9e1fc9d96999ff50a71f6a,Métro Acadie (de l'Acadie / Beaumont),45.52357479400008,-73.62344294786453
+Montreal,3da178370890fe8edbd73af1c48b6fa7,Métro Crémazie (Crémazie / Lajeunesse),45.54640752148169,-73.63842844963074
+Montreal,8ae2d0c3c6bfb29c5614921e85221107,Lajeunesse / Villeray,45.54218173507584,-73.62268656492233
+Montreal,c56841567707d1812755ec56f2ad2895,Berri / Rachel,45.52275023118295,-73.57724860310555
+Montreal,1f7793b1b7e1c83f11792bddb10e297a,Métro Sauvé (Berri / Sauvé),45.55069206841976,-73.65636706352234
+Montreal,73eda86efde149b545d1e7646de05cd6,Tolhurst / Fleury,45.54407915308118,-73.66735741496086
+Montreal,4752f08cc123b7e93771ee25c318efee,Métro Sherbrooke (de Rigaud / Berri),45.51814312154928,-73.56800436973572
+Montreal,4c87345d7a652a966f526460dfa264c5,Marché Atwater,45.48020822800015,-73.57759863138199
+Montreal,eb0fd4c2ab7be34b815978bb8ebfbe65,Métro St-Laurent (de Maisonneuve / St-Laurent),45.51074821798916,-73.56512099504471
+Montreal,0cc110260f90b08675fba8b904866c5c,Pierre-de-Coubertin / Aird,45.55903106539297,-73.54830354452133
+Montreal,75029d868bd65133941f05b6d4fa2daf,Frontenac / Ste-Catherine,45.53006276144042,-73.54559183120728
+Montreal,5e32fab9110f792cab5784b893f3a1af,Lanaudière / Jean-Talon,45.545350334193245,-73.61032962799072
+Montreal,3cbb64215b647b4779187f72b150a036,de Maisonneuve / Mansfield (sud-est),45.50229349416256,-73.5733064264059
+Montreal,462e77d533503e90f53675acf2f9ddcc,Clark / de l'Arcade,45.527371996141,-73.60398352146149
+Montreal,5a1a7b87aa778fdd439fe21cc643e051,Sherbrooke / Jeanne-d'Arc,45.55398156058887,-73.55496388156098
+Montreal,5678ed90f0af2bf60b25261bf16f6c70,Métro Papineau (Dorion / De Maisonneuve),45.5238445756922,-73.55236601831166
+Montreal,81835dccb50d8900b00cc0a3ea1b480f,Duke / Nazareth,45.49572236030835,-73.55461344122887
+Montreal,2b9e2e02951cbf0f3386b55b303d7105,Parc Molson (d'Iberville / Beaubien),45.54902230455398,-73.59198164194822
+Montreal,07151bf35f8c11187f1e4e0c0311b250,de Bellechasse / de Lanaudière,45.539306918976,-73.59521873295307
+Montreal,16fb65f48b8435b23e10d3e232fd5f0c,Notre-Dame / St-Martin,45.48830194643546,-73.56871783733366
+Montreal,26aa0933324c9525e24f3b802787f507,des Érables / Rachel,45.533313304815366,-73.56671154499054
+Montreal,7fb17e275b3e5006964621b39f5decbd,Jean-Talon / de l'Épée,45.527941351769826,-73.62388551235199
+Montreal,d63041391198f1496b84b02d71a3ed90,St-Rémi / Ste-Émilie,45.46976497412213,-73.58923405408859
+Montreal,352d6c6589d10485af73efe4b2df8660,Métro St-Michel (Shaughnessy / St-Michel),45.55897660298603,-73.59951764345168
+Montreal,f07d83b19d7555633ed07b8705e1439c,Cartier / Marie-Anne,45.53280412806031,-73.57190161943436
+Montreal,8569736c023d7713fa1054b1dc71a704,St-Grégoire / Christophe-Colomb,45.53255611409675,-73.58993947505951
+Montreal,9af471a77a41e1bdde69ab0533d721ec,6e Avenue / Bélanger,45.554582815249745,-73.59631910920143
+Montreal,1e35b33de4e369aeedcdd6de0f62c2cb,St-Urbain / Laurier,45.52164617544124,-73.59366774559021
+Montreal,c7c82cf193fdc50ec1a106c90cb51544,Masson / Molson,45.54434593245247,-73.57697686180472
+Montreal,4249917b3ff262f4cd831f8ea34cf74e,Atwater / Sherbrooke,45.4912258547597,-73.58763009309769
+Montreal,7b28024fd4c90ded38fc0447771d1ca4,Ste-Catherine / Bishop,45.49658063218649,-73.5762146115303
+Montreal,7c116c44d814279d54202eeec81ddddb,Métro Lucien-L'Allier (Lucien l'Allier / Argyle),45.49487159597493,-73.57112377882004
+Montreal,f05dc5b7b3635787d9fe3fd8565bee7a,Ste-Catherine / Towers,45.49228068089086,-73.58096480369566
+Montreal,3e138c9acff07bff5f9e684c01bc564f,Viger / Chenneville,45.50531166520915,-73.56089115142822
+Montreal,420d9c027c261cae251568f7f8d5a9cc,Stanley / René-Lévesque,45.49790394592446,-73.57077571808077
+Montreal,014e10dba2d92bd20c826b88864dc6b6,de Maisonneuve / Aylmer (ouest),45.505173440423306,-73.5706517100334
+Montreal,8ae106c7b71f9c4a8f753c79cbe1603f,de Maisonneuve / Aylmer (est),45.50538591756765,-73.5704317688942
+Montreal,353cde491172cf1f6f0e038c29f9ca2b,Métro Joliette  (Hochelaga / Joliette),45.54699194653282,-73.55115339159964
+Montreal,f7b1f88c4f4e3231537dd0a5a7397287,Ottawa / du Séminaire,45.4912954250061,-73.56159925460815
+Montreal,c0bf44a23aa9fdfd893bd437866dbf2a,Parc St-Henri (Laporte / Guay),45.4801160762769,-73.58560770750046
+Montreal,508a89286045d9bc7e8188522a328f63,de Maisonneuve / Mansfield (nord),45.502386079583346,-73.57333794236183
+Montreal,24d6cf55dd9c36caa1aac57ea06d80d7,de Maisonneuve / Mansfield (sud),45.502053864057466,-73.57346534729004
+Montreal,4dfba1c78f4c98769c58749cb8f10472,McTavish / Sherbrooke,45.50277615861811,-73.57589408755302
+Montreal,21a2faa2030e136896fc22dcbb613e52,de Bleury / de Maisonneuve,45.50710632433956,-73.56861054897308
+Montreal,4aead5b6002007d40c34c9a53ffecbdf,Ste-Catherine / Drummond,45.498488900657,-73.57436656951904
+Montreal,326615f796f68a086a7460d4f41ae806,de la Montagne / Notre-Dame,45.492913379064625,-73.5646878182888
+Montreal,a8dca6a7c9f8451b38af2eee446736df,Jeanne-Mance / René-Lévesque,45.5063713381299,-73.5642009973526
+Montreal,cb1d736547a9e93d8e3427b1f232a0f9,Cathcart / McGill College,45.501187681489775,-73.57045487814501
+Montreal,dfaab1117322af6f88c48893144bcf6f,de la Côte St-Paul / St-Ambroise,45.46766565386597,-73.59391784324544
+Montreal,e1d27e3bb1414d200aac4dbc156450d7,Jacques-Casault / Christophe-Colomb,45.551961779348346,-73.6303174495697
+Montreal,f0aeadde961c7d845b9a1b6aeab78eb8,Garnier / Beaubien,45.54144823434163,-73.59839379787445
+Montreal,63c25a074954b752156b8c981b4e1f99,de Maisonneuve / Fullum,45.52797141659334,-73.54948371648788
+Montreal,7eaaf829040807e1e2c7091f2866f62e,Hamel / Sauriol,45.56157008176612,-73.65338176488876
+Montreal,796a9f355c39aaf2fcedeae95260306f,Parc Henri-Julien (Legendre / Henri-Julien),45.54612833838664,-73.64650368695946
+Montreal,49a34fd07d2a10bef806a1abcc921a87,Ontario / Ville-Marie,45.56001959585449,-73.534934520776
+Montreal,286671379fa925e68543ac801281068b,Ball / Bloomfield,45.529996997063385,-73.63287091255188
+Montreal,aa4100b71e77eb483a5d173547e56ab6,Parc Villeray (Christophe-Colomb / Jarry),45.54851320767611,-73.62365484237671
+Montreal,3cc8af25d891cb13e3301e4a612d0383,Notre-Dame / St-Gabriel,45.50714391928411,-73.55511903762817
+Montreal,b9d14281ceeaf9913a820adab2e125c6,St-Hubert / de Maisonneuve (nord),45.51613214980722,-73.56049686670303
+Montreal,1469c136bd5b7cecb99703bfdeaeda8b,Robert-Bourassa / St-Maurice,45.49837045828952,-73.56055587530136
+Montreal,76fdf335f45f4dc6aa762acab6a94e41,Complexe sportif Claude-Robillard (Émile-Journault),45.55358456339093,-73.6383855342865
+Montreal,cfc09f1f86e151cf8778b662a3d3650b,15e avenue / Laurier,45.55331992800521,-73.56932803988457
+Montreal,3f155bd80f721e2f372821f3a7b08512,de la Commune / Berri,45.51086,-73.54983
+Montreal,d5193bc68b01855a79fd8c694ef2e2f9,de la Commune / St-Sulpice,45.50424245563397,-73.553469479084
+Montreal,5628b95a789420240f43c4f870c685de,CHSLD Robert Cliche (de Bellechasse / 16e avenue),45.557568,-73.579191
+Montreal,ff85c138d884da9a4540f32b12086338,St-Jacques / des Seigneurs,45.489185716082275,-73.57190027832984
+Montreal,ac728f271b196e19899f2323fb8d7795,Richmond / des Bassins,45.48752158511353,-73.56500297784805
+Montreal,0a3aa715457ea0c777ddd396228eafd1,de la Commune / Place Jacques-Cartier,45.50761009451047,-73.55183601379395
+Montreal,f6f620ef83bbb9c0e42133ca15de895b,St-Antoine / de la Montagne,45.495369835210354,-73.56859177350998
+Montreal,85f495db4bcf79e15029dcc21da9b2a7,Métro Mont-Royal (Utilités publiques / Rivard),45.52423612093815,-73.58155220746994
+Montreal,8c3e8bbf15685f205ba044dbeac4960a,Peel / Notre-Dame,45.49544692088696,-73.56329441070557
+Montreal,567cbde732fdd0fb13d545dd1b5e963c,Atwater / Greene,45.48049514330605,-73.57782661914825
+Montreal,918f32736e8c298b4c7a5a58f6e46da5,de la Commune / King,45.49750375338383,-73.55284452438353
+Montreal,7214c61eb7f8d875d6db8db935ad16ea,Smith / Peel,45.49276061084002,-73.55641052126883
+Montreal,5782e71fd4ba8263a67de59b093dc320,William / Robert-Bourassa,45.49716534003792,-73.55933010578154
+Montreal,5b7a4c0ffaa2aeb1b8583498e113e81d,des Pins / St-Laurent,45.51522812881499,-73.5750961303711
+Montreal,15f3a0b338dba26f99a8df6fab3fdbc7,Émile-Duployé / Sherbrooke,45.52719536319051,-73.5645255446434
+Montreal,aa392581e19d48cf19a168a0dfa88f4b,Métro Atwater (Atwater / Ste-Catherine),45.48952522221574,-73.5844581949641
+Montreal,afb936a3ae54566d7c227dc5b6ee94f3,Complexe Desjardins (St-Urbain / René-Lévesque),45.50788520688478,-73.56315059590997
+Montreal,f542176bf7e4e0f28f80cb1d57e323ec,BIXI K5,45.530297633587914,-73.60139787197113
+Montreal,862dcb9c957597a18cfec10729b53a88,Ste-Catherine / Union,45.50370387789841,-73.56941521167755
+Montreal,ee43e83128a1380f7aa33378bd66c56e,Place du Canada (Peel / des Canadiens-de-Montréal),45.497795545133336,-73.56825113296509
+Montreal,3abdc1b0a911538a256467510b0dcc50,Aylwin / Ontario,45.544290485374304,-73.54523241519928
+Montreal,531dfca0ea4152da1c5e60b7fa74ba1c,Molson / William-Tremblay,45.541602844435374,-73.56496073305605
+Montreal,bd65f469d3bd0db96ca1b27b13dd0602,St-Jacques / Richmond,45.4906636488045,-73.57080727815628
+Montreal,00c210cb99cf9d1b923c1548938aee56,Marché Jean-Talon (Casgrain / Shamrock),45.53519006163501,-73.61548215150833
+Montreal,f9bb106633ce38eeec6728faed3155ad,Fabrik8 (Waverly / Jean-Talon),45.53330725719417,-73.62082242965698
+Montreal,31c3024050ee6f3e44c85eceae251db1,Ottawa / William,45.48972725318433,-73.56406286358833
+Montreal,12d398be5955fed8787b107d04ba8cab,CÉGEP du Vieux-Montréal (Ontario / de l'Hôtel-de-Ville),45.51401222645779,-73.56598667800426
+Montreal,c8aba35f90d2eeada8a20ea7915c943a,de Gaspé / Marmier,45.529668174024685,-73.60166944563389
+Montreal,0804af1a0607c5aff81fae6d4bab8fc7,Boyer / Rosemont,45.53409866804061,-73.59553456306458
+Montreal,9ae44308b0fc72776b463bce99473ace,Laurier / de Bordeaux,45.53725128371284,-73.57918381690979
+Montreal,662e5de818ea47b2da5296790a8093cc,Métro Rosemont (de St-Vallier / Rosemont),45.531921043052655,-73.59804779291153
+Montreal,745e24e22f492961cb96d949cd8747e3,Boyer / Beaubien,45.537041,-73.602026
+Montreal,45f58d2bbe9530b531b4d156490598a5,de Lanaudière / Marie-Anne,45.52932643090091,-73.57480645179749
+Montreal,03306a21cafcf901fa4a45504a834c72,Boyer / Bélanger,45.54006,-73.60897
+Montreal,e3bc8082b32ea4f2d9185551c9e96782,de Lanaudière / Bélanger,45.54365085053057,-73.60565051436424
+Montreal,882a16842469a73f4c033de3f0a99d40,de la Gauchetière / Robert-Bourassa,45.50064338023683,-73.5654079914093
+Montreal,57c201651dba51666c7f98afb887cb07,Mozart / Waverly,45.5315236502754,-73.61701235175133
+Montreal,e14b6c2c9409f80090a2cabc3ebe4a42,Aylmer / Ste-Catherine,45.50434678685089,-73.56894850730896
+Montreal,97a7209d05565c0dd383256371451ed2,Hutchison / Beaubien,45.52605851018324,-73.61296892166138
+Montreal,f841f00a51ce7d08ecd1ec2f960bfd83,Christophe-Colomb / St-Joseph,45.53036486555959,-73.58439266681671
+Montreal,3927bde7b8a85d0f3f18369211619cc2,Métro Fabre (Fabre / Jean-Talon),45.54667895468375,-73.60795050859451
+Montreal,8680c2c22674be06c18897967d07274d,Jeanne-Mance / Laurier,45.52027633320609,-73.59497621666378
+Montreal,0daffa0f2290fcf3a58b579d914c16cc,de Gaspé / Fairmount,45.52557815939422,-73.59285570681095
+Montreal,4c6ee625de158c398332f0bce7a5ee9f,Henri-Julien / du Carmel,45.52795093787009,-73.59502326697111
+Montreal,510a14e4eb76249f0477e2256b4eedd7,de l'Hôtel-de-Ville / Villeneuve,45.52348082760688,-73.58732756238169
+Montreal,4de7379430623fca6d843562d1ce43e6,Hélène-Baillargeon / St-Denis,45.52974,-73.59527
+Montreal,8e960ee01aeaabf154ed0de7706cba84,Vallières / St-Laurent,45.518967223320054,-73.5836161673069
+Montreal,99bb7462f129883fb6a5e88e688a7377,Hutchison / Van Horne,45.52497612960628,-73.61066222190857
+Montreal,a7f948d13af46099ebb555d4d25d4567,Waverly / Bernard,45.52562443297396,-73.60413372516632
+Montreal,c88102464b88e2dae390420e94d969a9,de St-Vallier / St-Zotique,45.536434338630336,-73.60783427975548
+Montreal,09d8a78e2a08d9f1f4ab81c09198acf3,des Pins / Hutchison,45.510800289485616,-73.57822090387344
+Montreal,210bb64df496d2f79181a4c8be41419d,Chambord / Gilford,45.53149589691095,-73.58106877662067
+Montreal,16a02da5dfbb9169ba09818f80797447,Maguire / St-Laurent,45.52462848559264,-73.5958108305931
+Montreal,7d10cc3be562e52b9c9787752b1991f8,Gilford / des Érables,45.53728040418993,-73.57534691691399
+Montreal,09cef143d6e60e226015fbdf71c2d345,de Bordeaux / Rachel,45.53207532297607,-73.56769983980485
+Montreal,c752d8b62e9fb1db8cab2c9b414c8ddf,Marquette / du Mont-Royal,45.53221791147474,-73.57543140649796
+Montreal,548d982f0a3ef288c42eb4e689272c61,Marquette / Laurier,45.53543,-73.5822
+Montreal,cc88d8f8a364b686cdd744b1eafedeff,Gilford / de Brébeuf,45.530870247773066,-73.58155757188797
+Montreal,a2c46273aac398c46a03e72aac69153b,Marquette / Rachel,45.52983801723605,-73.5703244805336
+Montreal,115474ece7fe0aa5e0a79e56b11b3c8c,St-André / Cherrier,45.52051578783967,-73.567695915699
+Montreal,7ade71dc0f1e89d5e60fa41449efd516,Messier / du Mont-Royal,45.53711414,-73.5710031
+Montreal,38a5272f540008af3bbca0d281fa3f9c,St-Dominique / Napoléon,45.51666442219882,-73.57722043991089
+Montreal,4d1355baaff5d1f22441110f464bde78,de l'Esplanade / Villeneuve,45.51943184213857,-73.59095953859651
+Montreal,9dbc225970bc3623c91fd503d77751ef,Jeanne-d'Arc / Ontario,45.54959767887176,-73.54187428951263
+Montreal,03ded6d6c0277b031f18feae9c518a75,Poupart / Ontario,45.531836726498305,-73.55348825454712
+Montreal,485d66968361b44b2fbfa4a1384d87f1,Logan / de Champlain,45.5231943285584,-73.55584256350994
+Montreal,5aaf47dc0e0960e251b829e0aa574ed7,Jean Langlois / Fullum,45.526499983000186,-73.54575277422555
+Montreal,6b566fd6a50d2693ee4c6a56bbf20b13,Fullum / Marie-Anne,45.53650541861215,-73.56803923845291
+Montreal,a39ecc2edf78db413094a4f6e7c898e8,Montcalm / Ontario,45.52110494530867,-73.56229394674301
+Montreal,b3595b16fa264069717263de34d8abab,de Mentana / Marie-Anne,45.526026565221414,-73.57785880565643
+Montreal,b15109d9282a8fb0f2bf73265d357c8d,Durocher / Beaumont,45.52799772330074,-73.61919969320297
+Montreal,3907c9dd03e1eb2b87e60ee8e44cc076,Métro Beaudry (Beaudry / Ste-Catherine),45.51888453178292,-73.55593845248222
+Montreal,32062cce0f8aa927527eeca915fd3afd,Parc Joseph-Robin (18e avenue / Everett),45.56481129244175,-73.59580412507057
+Montreal,068b8514c4f15a3d822da22705e1906c,de l'Hotel-de-Ville / Ontario,45.51374520222444,-73.56666326522826
+Montreal,f06063d509814af631ff3637dd0ad8bc,Beaudry / Sherbrooke,45.52303493310712,-73.56539458036421
+Montreal,be81ff208d6924d4baa6817fb7771d35,St-André / Ste-Catherine,45.516297540849614,-73.55801045894623
+Montreal,77be8b3e222ca95757ab876157bb30dc,de l'Hôtel-de-Ville / Sherbrooke,45.5145247302944,-73.56835573911665
+Montreal,636183b074c59d10b7ef068230b11fb9,Marie-Anne / St-Hubert,45.5246829812827,-73.5788968205452
+Montreal,d3a51b0b1043d0371d4803848c5489aa,du Parc-La Fontaine / Duluth,45.52451761488783,-73.57197672128677
+Montreal,6716d6af871575e44ca751b5224df1ef,de l'Hôtel-de-Ville / Ste-Catherine,45.51166045593874,-73.56213569641113
+Montreal,ac4e6691d6abacc0db1730d36a2f3bca,St-Hubert / Duluth,45.522425652788634,-73.57418417930603
+Montreal,9b1fefd8f850f3343e75c549459840df,des Récollets / McGill,45.5008764952487,-73.55900555849075
+Montreal,bad24d2594ee98a4efaff5132822ee7a,Parc Hilda-Ramacière (de Bullion / Prince-Arthur),45.51562131982338,-73.57212960720062
+Montreal,50ee08de38ded52019cad64b2be46375,du Champ-de-Mars / Gosford,45.50965520472071,-73.55400860309601
+Montreal,cefc5afe09efc11756e70a7d5f0b7c39,St-Denis / Ste-Catherine,45.51372291221464,-73.5603104531765
+Montreal,7c1b0523756e972a564a67a123642ce4,St-Alexandre / Ste-Catherine,45.50527354034462,-73.5674786567688
+Montreal,f2ceabcf431e79ae367e832282b28e0d,Basile-Routhier / Chabanel,45.549846830745,-73.64767402410507
+Montreal,d57940b77a62f7a447df3d64a43c6792,Maguire / Henri-Julien,45.527041096087785,-73.59347056655677
+Montreal,6830d20837ee0a702a0d46d406d28adc,Clark / Prince-Arthur,45.513342512307055,-73.57301607728004
+Montreal,5c11d3959c0abea9f83d3f82a8b9f28f,de St-Firmin / Fleury,45.57062472207837,-73.6517858505249
+Montreal,1fefddadf6dab1b29ac4d1759d4ea7a5,Francis / Fleury,45.56387237463668,-73.6555677652359
+Montreal,388667308b5ef2108146c41196454cf2,de Chateaubriand / Jarry,45.54588672296563,-73.62673670053482
+Montreal,1f5a5fee591fc04c2bd579240b619b80,Parc Champdoré (Champdoré / de Lille),45.5692509593831,-73.63642623429769
+Montreal,fec442e5bd4a6d1999980029e905394e,du Mont-Royal / Augustin-Frigon,45.54355786336148,-73.56780052185059
+Montreal,17b6900c27a6d394bf754e410e736806,Ernest-Gendreau / du Mont-Royal,45.549713734001415,-73.56384828686714
+Montreal,09fe2c61fe35c26c42e876ca291f8984,Everett / Garnier,45.54758153109644,-73.61220851540565
+Montreal,c57dd75c9c28e325882f666e1fe30c7a,8e avenue / Dandurand,45.550113551561694,-73.5772217810154
+Montreal,f579de6a5a33991af59a9ac22eee6f95,Berri / Cherrier,45.519266156911335,-73.5692971944809
+Montreal,a0dafca2160e6e43d700ba63c07a7af2,Parc Lalancette (de Rouen / Valois),45.54814504700217,-73.5471260547638
+Montreal,6194bc5aa55d462f6e7cbe7c657858ed,Rousselot / Jarry,45.55081979211847,-73.62088680267334
+Montreal,85531326f9e29994cf18c81558db9fe5,Henri-Julien / de Castelnau,45.53789110878484,-73.6182153224945
+Montreal,fb827e1f22e7180918b8311814ad5b5b,1ère  avenue / St-Zotique,45.551937362101,-73.59392791986465
+Montreal,052eb3e7422cdd1cdc5d555cf8d05c98,Duluth  / St-Denis,45.52062760607925,-73.57594907283782
+Montreal,dd90b8d66fbadef744f51cb9403d0fc6,St-Nicolas / Place d'Youville,45.501966859101564,-73.55515256524086
+Montreal,4a0edadcaf1f36efd17948fdf1407120,12e avenue / St-Zotique,45.5568667309625,-73.589306473732
+Montreal,2539b5b1357e00a4c59b263b929bfd86,Valois / Ste-Catherine,45.54522973039872,-73.53725016117096
+Montreal,6e3570378de8c1eab67ca40818e30a41,Clark / Fleury,45.54758205939525,-73.66522908210754
+Montreal,fbce0c9761735863a0a102042faea923,de l'Hôtel-de-Ville / Roy,45.51733075399989,-73.57449866831303
+Montreal,edde889fae7031ef9951452b3d46c13c,19e avenue / St-Zotique,45.56168275734862,-73.58564794063568
+Montreal,0dc51758d1fa3f735ae6aceec2ebbccd,Ste-Catherine / Dézéry,45.53938508196168,-73.54099988937377
+Montreal,e2b99409a7260b74d305e1a5fd4fd0ab,de Léry / Sherbrooke,45.54099971663243,-73.55826258659361
+Montreal,6d0a3c1b3a79bb42f1125970e00cd5b1,Parc du Pélican (1ere Ave / Masson),45.54518840394769,-73.57644259929657
+Montreal,2d1688ea5fe9eda664f3bbb9ac5be483,André-Laurendeau / Rachel,45.54303187243879,-73.56256484985352
+Montreal,1461a02f003268b78a89d6ad0ac551dd,Rosemont / Viau,45.56833021674857,-73.56666326522826
+Montreal,4ddafa381fe8b555fe22b7fd44790eac,du Parc-La Fontaine / Roy,45.5232203879173,-73.56916093829568
+Montreal,465cd2e49c7225463b4e34c0c019930c,Alfred Laliberté / de Poutrincourt,45.53308032414161,-73.6945965886116
+Montreal,6a842356c5017c283342c979fe0cdc92,City Councillors / du President-Kennedy,45.50625103256782,-73.57139065861702
+Montreal,fc76ef32a2323d60d759e2229379418c,St-Dominique / Bernard,45.52793332015246,-73.60122251338906
+Montreal,ab4b146737660d93b736cd75010e84a5,10e avenue / Masson,45.55037651450808,-73.57373356819151
+Montreal,5dd6f59bec1281b10376e79f7f4277b4,Prince-Arthur / du Parc,45.51044465753362,-73.5755842924118
+Montreal,ed38025541fc9ef1a0a96c118bd9628b,Milton / du Parc,45.50936142835129,-73.57386365532875
+Montreal,416cf5d02e2213626d5df87e159af93a,Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),45.508204615051355,-73.56881439685822
+Montreal,b575803863daa30f30a36d475b72895f,Place des Festivals (du Président-Kennedy / de Bleury),45.50764392965887,-73.56932401657104
+Montreal,2c57dc3c587c73e643e570106ee6c6b2,26e avenue / Beaubien,45.56485589064712,-73.5774926841259
+Montreal,42d228ac4871096ae20cb29c7448d2b9,Union / Ste-Catherine,45.504027213143104,-73.56970220804214
+Montreal,924dd6324e287ed19cdcc5d511e06b66,Parc de la Louisiane (31e avenue / de Bellechasse),45.566542615726334,-73.57124984264374
+Montreal,17be2f8f5808ea2980f56a1a19273084,Ste-Catherine / St-Laurent,45.50991130818593,-73.56380604207516
+Montreal,deb13451bd5ea6dc7edc042c646cdee8,Clark / Rachel,45.517537449207474,-73.58241524554614
+Montreal,34bfe048772e22905ada401f52cc5c1f,St-Laurent / Pl. du Marché,45.50928960913111,-73.56241598725319
+Montreal,267b809394e2dd9fdd7924b7cceda261,St-Urbain / de la Gauchetière,45.50707812811467,-73.56139540672302
+Montreal,dffd7ae90953dd62b4787c3c9e57bbe9,Stanley / Sherbrooke,45.50105732321463,-73.57722634080346
+Montreal,0366a94e06c77055841607882a40a484,University / Prince-Arthur,45.5074794530521,-73.57864737510681
+Montreal,c91fa33a4fe66a418c93d36c60b34f64,Joseph-Manseau / René-Levesque,45.491686521008035,-73.57682347297668
+Montreal,8dfcd2d833a194d09c77461eb0546343,Henri-Julien / Laurier,45.52574657625029,-73.59033644199371
+Montreal,2d115175567a8c88d4f82138687cda9e,Waverly / Van Horne,45.527363,-73.607723
+Montreal,802c2ec80bcafd464dd2c20569192bac,Ste-Catherine / St-Mathieu,45.49384690142783,-73.57917845249176
+Montreal,9e9b183acee751ed5cfa1d04cd97ec8e,Gilford / St-Denis,45.52497612960628,-73.58558893203735
+Montreal,f287b99d3b1011f3ce2a2db77e0feee9,Chabot / du Mont-Royal,45.53413436610844,-73.57352435588837
+Montreal,f4ecabed1cc5d24dc4d5641aba401496,Boyer / du Mont-Royal,45.527432126380575,-73.57991673052311
+Montreal,6c956ee33047a4618e258500a6d71629,Mackay / Ste-Catherine,45.495774063803815,-73.57687845826149
+Montreal,374dc4fabb37db40b8c3d8751fe4d033,St-Hubert / Laurier,45.52893724049854,-73.58786880970001
+Montreal,532c02142d78a5864381ff420e87c1c4,Coloniale / Duluth,45.51786873150825,-73.57842743396758
+Montreal,5cfd60046a752b4509984dd7a4809b97,de l'Esplanade / du Mont-Royal,45.51825290855221,-73.5883381962776
+Montreal,61913f1d35736d6e9931720b2da53fcd,St-Dominique / Laurier,45.52361490311454,-73.59245739877223
+Montreal,f8a0ae729a9fb295579ee66a3a5c7066,Hutchison / Prince-Arthur,45.50975858607626,-73.57610732316971
+Montreal,b0d05e909fdee92a5a247fd7d5f60023,Plessis / Ontario,45.523593057451045,-73.56109768152237
+Montreal,8a5ece7901703661f4245e63fcbc43a0,Sherbrooke / Frontenac,45.53673221553339,-73.560796189131
+Montreal,e2922721127dd2164c595a61feb86504,27e avenue / Rosemont,45.563709940264175,-73.57139468193054
+Montreal,d6ff1c4cb864d2d50b5d9ed8097dfb17,St-Germain / Hochelaga,45.543652466151,-73.5534825682771
+Montreal,53ed994603563480cf89037f5e16fb63,Fullum / de Rouen,45.53225536243612,-73.55892024004788
+Montreal,69d16a3ba682305cb780815926ca26bb,29e avenue / St-Zotique,45.56776565172907,-73.57968807220459
+Montreal,0e3b6af52859bc94cc7117506bfd08c7,Wolfe / Robin,45.51959908817399,-73.56020073872969
+Montreal,83a66bd66da62b3668815713aad56886,Chomedey / de Maisonneuve,45.491750449903954,-73.58394473791122
+Montreal,cc211dcba4ef94c4a141a37ef87da2aa,Letourneux / Ste-Catherine,45.55078357889704,-73.53409996037954
+Montreal,8a24a55a96155cb2e3f2786b53b23ce5,Rachel / de Brébeuf,45.526911494644025,-73.5727014299664
+Montreal,0935ec87605094d4db1be8d4cfc4f73f,Mansfield / Ste-Catherine,45.50140664031126,-73.57165485620499
+Montreal,b9847a1de2b4262657af0eb5a457baba,Poupart / Logan,45.52997432204594,-73.54900679552884
+Montreal,a3a7c5013570835afae29db254bcf8a9,Parc Ludger-Duvernay (St-André / St-Hubert),45.53147464147482,-73.59242051839828
+Montreal,9e58c0e020f84f039538f831c62589ba,Lucien L'Allier / St-Jacques,45.49354367087787,-73.568536271232
+Montreal,9c775529696c6b915012a33012974f53,Milton / University,45.50651983995355,-73.57640504837036
+Montreal,7f06a7dd290f87014f37b09606f82501,Métro Bonaventure (de la Gauchetière / de la Cathédrale),45.49831217703312,-73.56725603342056
+Montreal,3e9578b17608be128b6600c721bbcf80,Clark / Laurier,45.522583792261266,-73.59361327255101
+Montreal,202f7da35f952703f25808c13ef16abe,Labadie / du Parc,45.5198946757576,-73.59682738780975
+Montreal,325edfe3c45a789a37855388fb453463,St-Zotique / Clark,45.53143760098197,-73.61270070075989
+Montreal,af546a8f7b1b7fb5f30b8913d91132bf,Bélanger / St-Denis,45.53696,-73.61199
+Montreal,d6c6e63d2c2821556619377f1518eac6,Tupper / du Fort,45.491202175002506,-73.58074486255646
+Montreal,469ae7d7a28665f3f945c3a1aa53cc0d,Cartier / Rosemont,45.54124722370603,-73.59104454517365
+Montreal,62a29075527f21702be0eb6acec62701,1ere avenue / Jean-Talon,45.55490679722509,-73.60114574432373
+Montreal,7a656eb406afce1faa73c89dd333cb9a,de Bordeaux / St-Zotique,45.546534315701145,-73.59866335988045
+Montreal,fafae7f39486cd7ee5583dc014cf3fc3,de Castelnau / Lajeunesse,45.54043190217008,-73.61650675535202
+Montreal,644b526864832172e7ee3bf91f2e81ca,Wolfe / de la Gauchetière,45.51625372636654,-73.55291748050148
+Montreal,30b3972ded9afdaa750cbbeef330fe74,Marché Jean-Talon (Henri-Julien / Jean-Talon),45.53678525128436,-73.6148879583925
+Montreal,207a35d9de6603a273b94a33cc5e6fe0,Bloomfield / Bernard,45.520338193708305,-73.60775470733641
+Montreal,25ff9160f5e83d4e9c15806e5f503df3,St-Cyril / Wiseman,45.52085479492202,-73.61573964357376
+Montreal,9be4ba581c634c13710aea276bade56b,Métro Jean-Talon (Berri / Jean-Talon),45.53900036432657,-73.6142510175705
+Montreal,658bb3c7434993bc7278b948e197aded,Dollard / Bernard,45.51678269880724,-73.61142262816429
+Montreal,5457af150071eaabeeaae9a5bfd12fe5,Dollard / Van Horne,45.51887607468706,-73.6161071062088
+Montreal,638db20afe40bf00a77633fca8ebfee9,Graham / Brookfield,45.52022241072457,-73.62985610961914
+Montreal,853715acead028932c2c08ad1a02a20f,Regina / de Verdun,45.46729397908692,-73.57081098485651
+Montreal,0960bf3c2e9be92bd03fd80c49bf720f,Victoria Hall,45.48129146961133,-73.6003303527832
+Montreal,6e94d95dad598b7c8fd380e55b289caf,Victoria / de Maisonneuve,45.47742856483265,-73.60016942024231
+Montreal,2a20aa1c87cc30a2968fe04fe4e5b0df,Place Longueuil,45.52841043752244,-73.51716578006744
+Montreal,517a5c37755499a8e454d67bcf6b1834,Parc Benny (Benny / de Monkland),45.46693565237702,-73.63153114914894
+Montreal,c6a91ac9d7ded0182772e4f8ca92f2ef,Querbes / Laurier,45.517503062030734,-73.59790614807935
+Montreal,c3e33911cfd4f366ea6d4284fd5eb057,Berlioz / de l'Île des Soeurs,45.45998577640931,-73.54395568370819
+Montreal,bf1b9dadf6f48f60249162012d29a06b,Métro Lasalle (de Rushbrooke / Caisse),45.47039991066639,-73.56551858292733
+Montreal,734e36f9bfc759c9c5b1b9b44a85966e,Place du Commerce,45.46714,-73.54259
+Montreal,2ac881e707deb129d22c277981b83221,des Ormeaux / Notre-Dame,45.59926552299961,-73.51226069033146
+Montreal,4c422c0fa82a3c9954a411ba87f52901,La Ronde,45.52156536710626,-73.53533238172531
+Montreal,31535dd5ca8ee557209a804807032aff,Wilderton  / Van Horne,45.51014162409143,-73.6247518658638
+Montreal,dbe6f3be853e1100918aa06b6418eb86,U. Concordia - Campus Loyola (Sherbrooke / West Broadway),45.45750908083069,-73.6394852399826
+Montreal,bf0edad2c41a84e491bfeaa7cedb3392,Métro Vendôme (de Marlowe / de Maisonneuve),45.47393028235147,-73.60473453998564
+Montreal,370c80563082368ae1464ee995801961,Paré / Mountain Sights,45.49810026070624,-73.65294188261032
+Montreal,6f14a073d6fabe8288b7861b4c2dde4d,Métro Côte-Ste-Catherine (Beaucourt / de la Côte-Ste-Catherine),45.491513,-73.633649
+Montreal,39752185bee108a7c529c25dbf2b1ae7,de la Côte St-Antoine / Royal,45.468926984877434,-73.6198702454567
+Montreal,c48a16100836e81076eece8b635c8828,de Monkland / Girouard,45.47710675189806,-73.6214379966259
+Montreal,d8bf2d80c73cf09dbfd6b7f76d063424,Quai de la navette fluviale,45.51366626207095,-73.53842496871948
+Montreal,e39b2990521714e01d4fb710f8d264d8,de Laprairie / Centre,45.48059248038378,-73.56577813625336
+Montreal,36062f17a7454e3f40f96283ff611cf5,CCI Outremont (Dollard / Ducharme),45.52001910239163,-73.61890733242035
+Montreal,8fb4901e0373b487626367a6769c39c8,Parc Beaubien Outremont (Stuart / St-Viateur),45.51596969492227,-73.60827505588531
+Montreal,fccd62f25a7dcb4f43bf9a6a18e805be,Durocher / Bernard,45.52222528598142,-73.60668718814848
+Montreal,95bece3ee8f3f93d2a2c3fc1b555f5a7,Métro Verdun (Willibrord / de Verdun),45.45944369868444,-73.57247931886377
+Montreal,e6df3fa7dd1c07040cbfbff79a395015,Métro de l'Église (Ross / de l'Église),45.462835777941144,-73.565876549128
+Montreal,85c717da7306440022c12ccb771b0bde,Graham / Wicksteed,45.51693654712809,-73.64048302173615
+Montreal,c42929dcdbfe4a38f068a2fdd3da946e,Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),45.50363996257211,-73.6182689666748
+Montreal,1ffa6ec805ef0a7803b86fa6bef5c1af,Kirkfield / de Chambois,45.51293324107222,-73.63389015197754
+Montreal,48358d12d83653f998be0408f938da97,Métro Langelier (Langelier / Sherbrooke),45.58284663189181,-73.54247644543648
+Montreal,0c2a4ecc9f51dd227f050651ae2dd6fe,Métro Radisson (Sherbrooke / des Groseilliers),45.58917500418707,-73.53965610265732
+Montreal,7c32f3b5366899daa12d5a2315c5eb5e,Grand Boulevard / de Terrebonne,45.470535000953966,-73.63165721297264
+Montreal,5f87ab3bfe9c4289033da69a74957d0e,Aréna Rodrigue-Gilbert (du Tricentenaire / de Montigny),45.65140583915357,-73.50041270256041
+Montreal,c9e9fe27274a30074192edf2943a819d,Pierre-de-Coubertin / Langelier,45.580314546424674,-73.5353136062622
+Montreal,6ecaf7d11d573ebfe1e6d00703d11552,Graham / Kindersley,45.514080696641386,-73.64694982767105
+Montreal,df284d02a5abe2ca93e5885f5718f0f0,Bourgeoys / Favard,45.47993042065731,-73.55592101812363
+Montreal,a4587d02411ea6ab69af7d1d5f8fa987,Michelet / Jean-Talon,45.57627820285533,-73.58353972434998
+Montreal,1f96d87b02f5ddf8831c2d5f2473b0a8,Centre ÉPIC (St-Zotique / 40e avenue),45.57414703721992,-73.57462137937546
+Montreal,523850c4d0985de08981251a3b2fd36a,Grey / Sherbrooke,45.47629426230192,-73.60617488622665
+Montreal,9575da078eee4b025a4c319fc2347b0d,Bélanger / des Galeries d'Anjou,45.59722114932571,-73.56279015541077
+Montreal,2032711148d8591691b99033ef8cb1c8,Métro Assomption (Chauveau / de l'Assomption),45.569789,-73.548081
+Montreal,a5ee89a51582e9fef1d0598a74d5401d,de l'Église / de Verdun,45.46300108733155,-73.57156895217486
+Montreal,83002097940dd96fa20d8df45c2835fc,Argyle / de Verdun,45.45301583620112,-73.57191503047943
+Montreal,9f499059b795e09782c2fca675a5e382,St-Joseph / 8e avenue Lachine,45.431518914135125,-73.67110446095467
+Montreal,8a258ed78afb57f3980301e5f4272f4e,8e avenue / Notre-Dame Lachine,45.43498715540587,-73.67079868912697
+Montreal,efd89dd6cc7db7e7ea67a4ccb75372a1,Parc St-Louis (St-Joseph / 34e avenue),45.432839840726125,-73.69349151849747
+Montreal,4e1cd6aa776d6e4078886c39f454b29f,Victoria / 18e avenue Lachine,45.43579350588776,-73.6801904439926
+Montreal,f637d93e69b10a014aa14b90626113fb,St-Joseph Lachine / 21e avenue,45.43352120253739,-73.68354320526123
+Montreal,95f3d2a11576645b02bba246ee638c70,de la Vérendrye / 75e avenue,45.42070552680549,-73.62966051438889
+Montreal,37ce10146483055c24d0d49bddc32c5d,Mairie d'arrondissement LaSalle (Dupras / Jeannette),45.429166968311485,-73.66280972957611
+Montreal,667794df885562752e3112b7c43ac609,Parc Lacharité (Latour / Forget),45.41773748108526,-73.62338548639853
+Montreal,4e0a2eec48ee705304b2799cff6fc240,Newman / Senkus,45.44404309237571,-73.61375212669373
+Montreal,bf77b109a6eff9c654508ba2d20ffb12,LaSalle / Crawford,45.43791516514076,-73.58253550531117
+Montreal,d9fdeeb4d94f016bff5cd776466d6a30,Métro Jolicoeur (de Sève / Drake),45.45608545783109,-73.58193710446358
+Montreal,c799ff1b7971723fea262952f298e8af,Beatty / de Verdun,45.450729976972944,-73.5725748538971
+Montreal,ac023980748426fdbb7ea233b5043dc6,Parc de Dieppe,45.501863463435576,-73.5439610481262
+Montreal,1ab036620d1ba6d8e205d99b44ef1a5b,Jogues / Allard,45.450020323797766,-73.60030621290207
+Montreal,d3b6f3327b6e20c1b95cef748885233c,Ropery / Augustin-Cantin,45.48097552629275,-73.56863468885422
+Montreal,8816abf99dad433ee5a7dfd43eb9e7b4,Gagne / LaSalle,45.422451407155854,-73.601194024086
+Montreal,2de477065bed58974606e104a8906429,LaSalle / 37e avenue,45.416294661505354,-73.6129005253315
+Montreal,cc60da52525500f1d3b637b7b988705f,Fortune / Wellington,45.477923,-73.559038
+Montreal,2dbff1ebbfc94016ae35ddfeb6133850,Du Quesne / de Marseille,45.575812361972055,-73.54123055934906
+Montreal,392420a4d81c444ab82f2c51172413a5,Métro Cadillac (Cadillac / Sherbrooke),45.57683333463968,-73.54647415224463
+Montreal,06e8e2c218b3554dddcbe40d6646b472,Parc Loyola (Doherty / Somerled),45.45973217968101,-73.64468067884445
+Montreal,82f49b8988992baa16b26be90036cc48,Métro Honoré-Beaugrand (Sherbrooke / Honoré-Beaugrand),45.59685627935051,-73.53526366878214
+Montreal,1082604365572209e09718f6690249b1,Ste-Claire / Pierre-Tétreault,45.60191332161639,-73.52441847324371
+Montreal,27664eb30b56774476616bd5f1ddc0de,Parc Félix-Leclerc (François-Boivin / St-Zotique),45.5914549914687,-73.56275528669356
+Montreal,ab865ab695ca69089498736e6bac9a16,Duchesneau / de Marseille,45.60962627826218,-73.52273898082785
+Montreal,99225e1b15b81b48a3eab08fd447ecca,Parc MacDonald (Clanranald / Isabella),45.48274245886277,-73.63497912883759
+Montreal,114edd30245c9b7ae8dedcc2d22fc398,Parc nature de l'Île-de-la-Visitation (Gouin / de Bruchési),45.57833184623925,-73.65595400333405
+Montreal,cf89ce8fe2aafb11df3c7a2262e6013e,Parc Georges St-Pierre (Oxford / Upper Lachine),45.46887995929811,-73.60943913459778
+Montreal,9f8b5a5097e54b755691624a27a320a0,Parc de la Confédération (Fielding / West Hill),45.471881993586074,-73.64002168178558
+Montreal,88cb58243c5bb76b6a8f796ec76f7594,Métro du Collège (Cartier / Décarie),45.50843904979172,-73.6729645729065
+Montreal,ce07562033e4ecc1a2ed18864bc3e612,des Récollets / Martial,45.590916779468024,-73.64067547023296
+Montreal,d5f8970c51111a8acd3612e60a278f47,41e avenue / Rosemont,45.57178977666956,-73.56431499123573
+Montreal,25db3ab71ecaf5dc56f934c637c1a542,Notre-Dame-de-Grâce / Westmount,45.48046706437983,-73.61122308304402
+Montreal,6866c654a6dbffa8186d1495a5ebea63,Elgar / de l'Île-des-Sœurs,45.45682318753668,-73.546804189682
+Montreal,cd185bcb977059337ef71026ca9f75bf,Plymouth / Chem.Eden,45.506488823782234,-73.66047888994217
+Montreal,1e2c0e04e52f776287eed225a5a2382a,Parc Ferland (Belleherbe / Albanel),45.59573798024675,-73.59529852867126
+Montreal,01f9b7e63833ad61e80a7963e2ad9b25,de Lisieux / Jean-Talon,45.57934937043077,-73.58168095350266
+Montreal,2203b1d78848ffe20d0ed9d29d7dce2e,O'Brien / Poirier,45.52252484113786,-73.69143962860107
+Montreal,ffb74f094efc5f559700c6b2431da637,de Maisonneuve / Wood,45.48819793805841,-73.58807051185067
+Montreal,f6b224af771e55d8ded0206097c994c0,Thimens / Alexis-Nihon,45.50897852206792,-73.69856357574463
+Montreal,ce9dbfc9842d2eff631cf5898df68683,Parc Van Horne (de la Peltrie / de Westbury),45.490494421832885,-73.63852232694626
+Montreal,389a103b106275a594cb7caafbf34e27,Hôpital Sacré-Coeur (Forbes),45.531943590076395,-73.71360540390015
+Montreal,7bd0327716a2b7b7ea04361e80d53423,Parc de Beauséjour (Gouin / Henri-d'Arles),45.526765,-73.730423
+Montreal,765d7ab045b2fb1beb8a1034fb01171a,Liébert / Hochelaga,45.59587457490178,-73.52352797985077
+Montreal,c91d47b7a498fe1a3016800f0678f419,LaSalle / Godin,45.44693448484644,-73.57219934463501
+Montreal,62f2158455e02b627217bff86692c592,Argyle / Bannantyne,45.453318765468914,-73.5767751932144
+Montreal,bab144d31daa205b40397f6c7b46930a,Parc Courbertin (Valéry / Perrier),45.5839877335556,-73.60809333622456
+Montreal,352adb5a53498de53161649383b7d10f,Cégep André-Laurendeau (Lapierre),45.43605512104547,-73.60577523708344
+Montreal,4863e13ad31f9c44326032df3c09519b,du Marché Central / Crémazie,45.53341740599902,-73.64888370037079
+Montreal,83d02cd8a043b8305a4031063005d32e,Parc Marlborough (Beauzèle / Robichaud),45.52234149817879,-73.72167885303497
+Montreal,888e6052f1aebab8d8a527776b3499b6,Champdoré / de Lorimier,45.566869345371856,-73.64101678133011
+Montreal,f3e8bbaffc3930bc19681467b42595cf,Beurling / Godin,45.44791581215845,-73.58381867408752
+Montreal,f2498d8d29d546f48e46b3b783f5d07e,Dixie / 54e avenue,45.44255264540259,-73.71770113706589
+Montreal,3164e04d211736d6dfc9eedf75212e3b,Stationnement incitatif de Montarville (de Montarville),45.6011635681891,-73.44999354332685
+Montreal,3bd58a7f78129d50b6cb591e8c09e7ec,Laird / Glencoe,45.50619158460727,-73.64230799681536
+Montreal,d45cc49cea4480b9116b1363dcc5355d,Parc Labelle (LaSalle / Henri-Duhamel),45.47256100297732,-73.56998920440674
+Montreal,576e0d3e08c4c2a9ec39b3228ac9b91e,Souligny / Desmarteau,45.60444089974122,-73.51611837744713
+Montreal,bfbe27bd89264f5821d6d0c7f0d2e765,des Ormeaux / de Grosbois,45.605901731906485,-73.53436946868896
+Montreal,3dee6dd50b00ebe97be68a34fa0c1590,Parc Reine-Élizabeth (Penniston / Crawford),45.43914465255811,-73.59173655509949
+Montreal,5e4cc24a6bea5e106ac0ca40faaa7e69,Parc d'Antioche (Place d'Antioche / St-Zotique),45.59566584124368,-73.5596626996994
+Montreal,b73710100fe1a3264b69eb01257177ec,Parc de l'Hôtel-de-Ville (Ste-Julie / Laurendeau),45.63068604376728,-73.4948467835784
+Montreal,1f663a5fe8a59077b3b1acef1408dbf2,Centre récréatif Édouard-Rivet (Notre-Dame / Lesage),45.62846158049899,-73.49952153861523
+Montreal,02e0f09887bab2491c3cf2e6d0b477e4,Parc de Montréal-Est (Notre-Dame / David),45.61316323215739,-73.50989364087582
+Montreal,13644fc87d5bae7c6738fba71a62d02c,CHU Ste-Justine (de la Côte Ste-Catherine / Hudson),45.50398168549117,-73.62283945083618
+Montreal,72bfd647b3d2b650546f42319729757d,Cégep Marie-Victorin,45.617499783128075,-73.60601127147675
+Montreal,b403b750b260047ba702ad1b98fae6ac,Parc des Vétérans (des Vétérans / Broadway),45.63147192165401,-73.50819479674101
+Montreal,10a32e00bc65e9fb33eef10d6e3e75e9,Bibliothèque Jean-Corbeil (Goncourt / Place Montrichard),45.6027276,-73.5579303
+Montreal,79817ddade43d27901df8f29feaebc39,Aréna Chaumont (Chaumont / des Ormeaux),45.610926628992026,-73.54673445224762
+Montreal,1f75c2bd5876aa50df724147f470784c,de Côme / Jean-Talon,45.58830296569168,-73.57783721439773
+Montreal,d0fc3a82ee0af511ffda9618f1263b84,Lapierre / Serge,45.43854405099729,-73.62021625041962
+Montreal,fddada5adc997290212b3f540c017274,Centre des loisirs (Tassé / Grenet),45.51473429416659,-73.69144901633263
+Montreal,8db822a266b5ccb3a1e323ddc8721d62,Ateliers municipaux de St-Laurent (Cavendish / Poirier),45.506175841460966,-73.71118605136871
+Montreal,76724952c28f4094bc271838f3de2bcf,Langelier / Marie-Victorin,45.61451982045293,-73.6118745803833
+Montreal,ab80e2f4c922bcac89121cb2d46a0ee4,Travaux publics LaSalle (Cordner / Léger),45.44527192876118,-73.62448364496231
+Montreal,4bc7ec27e8646cc8b33932be911bef47,St-Antoine / 19e avenue,45.43993803436114,-73.68146234754022
+Montreal,f065f00d09ed459c5d9a0076383dc3e0,du Canal / McLaughlin,45.42969214118378,-73.6694884300232
+Montreal,83d07a416ce0edf43f1cda66480ea525,Parc Sauvé (Balzac / de Bayonne),45.598880374710674,-73.63657951360437
+Montreal,2ce53a590d5af666dc9c4af17eb4f1f5,de la Côte-Ste-Catherine / Decelles,45.50094101588506,-73.62563699483871
+Montreal,e71036c3bdeb0765305e4bb03bf53127,Parc Ernest-Rouleau (Gouin),45.63131269772338,-73.61631497740746
+Montreal,7bedad3f528849a1cc130a3a0ad67f35,Stationnement incitatif de Mortagne (Ampère),45.57251733677832,-73.44312071800232
+Montreal,741db2af6fcc3e2144a41caa2918f1dd,Quai Yvon-Julien (Marie-Victorin / de Montarville),45.606718042243784,-73.45692034810781
+Montreal,23f1b244e618444f565f402a81c585d6,Parc St-Laurent (Salk / Thomas-Chapais),45.6062348,-73.6287838
+Montreal,cabbcb2310a23cb9394df1d78a9b0fc2,Parc Aimé-Léonard (Gouin / Ste-Gertrude),45.60835820969716,-73.63850623369217
+Montreal,183d71b897d5f38425ccbf45247818c4,St-Timothée / Robin,45.51863175803531,-73.56112986803055
+Montreal,0bfb7384b255c89b94b68ee5f227a792,Carrefour Angrignon (Angrignon / Newman),45.44843408492706,-73.6129454523325
+Montreal,4fe6b12b4792320f5835327e055c9a92,Gare LaSalle (Highlands),45.425612687757926,-73.65713578464238
+Montreal,3557bec6e2c20690d2c912e713edad35,Mairie d'arrondissement Montréal-Nord (Hébert / de Charleroi),45.59398503487043,-73.63767206668854
+Montreal,b43e650c8729a68e3a7858fbfbe57cbf,Parc Beaulac (rue Élizabeth),45.5200557245067,-73.67795147001743
+Montreal,cebdd81cd194840f09e6c07f1f7198a4,Parc Stoney-Point (St-Joseph / 47e avenue),45.43656827071224,-73.70836973190308
+Montreal,0217b73736addb107209816f03000a18,Parc LaSalle (10e avenue / Victoria),45.43805550384184,-73.67273926734924
+Montreal,d5689456bbada11a02e0a17b675f2544,Parc Ottawa (de Belleville / Fleury),45.58116,-73.6412434
+Montreal,4cb50bc7e3ed79928cef296e135b1e84,Parc Noel-Nord (Toupin / Keller),45.51758306374252,-73.72661411762238
+Montreal,a44871a432bc65d33bfb1ed04dab02ca,Parc du Bois-Franc (de l'Équateur / des Andes),45.51317758246596,-73.71306091547012
+Montreal,7b71605bd83572e8804e860f434f1055,Parc Grovehill (St-Antoine / Ivan-Franko),45.43982382100397,-73.69487822055817
+Montreal,a75f61cc35fc749366c8e6ef816fb8a0,Parc Chamberland (Dorais / de l'Église),45.502989,-73.689113
+Montreal,abd3530a2acf6d587950005b613d40cb,Parc Summerlea (53e avenue / St-Joseph),45.43836713933041,-73.71546685695648
+Montreal,b77888871c6837a551022c5c739042ac,Parc Kirkland (des Érables / Boyer),45.44606092178209,-73.65079946815968
+Montreal,58bc069d3319c0c45a22b8a5c0ee3e81,de Mortagne / Jean-Neveu,45.56923752103412,-73.44949901103973
+Montreal,fb88f8d82067a1df86928727c6fadfc0,Hôpital Pierre-Boucher (Jacques-Cartier / Bourdon),45.53653210295224,-73.4576690196991
+Montreal,832860f26bd8716c883200eb861e3ab7,de Mortagne / de Montarville,45.59147977279279,-73.43605846166611
+Montreal,92252d871abdc921fc8db0a357e3c30b,Irwin / Allard,45.44890342900198,-73.6049048602581
+Montreal,00c84f03ca5970eaa144ed6867d1e2b9,du Fort Saint-Louis / de la Perrière,45.613330089384625,-73.45154017210007
+Montreal,faf37dc745f8802b34a0c53f2f55a079,Parc Olympique (Pie-IX / Sherbrooke),45.554824549823,-73.55370283126831
+Montreal,da5f7ede0484d9eb36444471bdba6827,LaSalle / 90e avenue,45.41774583815495,-73.64518761634827
+Montreal,d91563f1329dacd26318b07d7242afdf,HEC (Decelles / Jean-Brillant),45.49772282989976,-73.61925333738327
+Montreal,20f7dc366cab76a84531b65e16252f5b,Hôpital Santa Cabrini (de Pontoise / d'Évreux),45.58135403391153,-73.57260999085156
+Montreal,5b9ad55443ed6b09dfdee5336b56b41b,Parc St-Laurent (Dutrisac),45.52591381815231,-73.68911147117615
+Montreal,26141dc97cf91e1003a500841cc56b6c,Parc Eusèbe-Ménard (Gouin / St-Vital),45.59253950875074,-73.64874824881554
+Montreal,fccc47cfce1447df0ad26a52c8702dd6,IUSMM (Georges-Villeneuve),45.58661042838809,-73.52969169616699
+Montreal,a1ded48e42e6fb03da399602be3aab17,Parc Garibaldi (Liénart / Bélanger),45.586476480180046,-73.570396900177
+Montreal,8326ad85524fa7fa9e741b0cc595d098,Square Nelligan (des Appalaches / Alexis-Nihon),45.51431824920811,-73.70799824595451
+Montreal,27064168fabfe462923c7d8fe7021aa6,Parc Honoré-Mercier (Notre-Dame / Liébert),45.59275253568305,-73.51035632193089
+Montreal,03b603c4b20174089f79116554c9c199,Hôpital Général Juif (de la Côte-Ste-Catherine / Légaré),45.49624140543275,-73.62983867526054
+Montreal,33a2455e6803dd9aa77a4090dfae83f8,Parc Charleroi (Alfred / Louis-Francoeur),45.59953472156509,-73.62360253930092
+Montreal,b8d3de5b902c4b274f7fffee62009ef9,Parc Hébert (Colbert / Provencher),45.57237805962001,-73.59370462596415
+Montreal,d68c60c044800e509408d2a6b712af2c,Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),45.5102725432849,-73.61140972936482
+Montreal,19f1df34d9b117ae604c95591cf3e129,Mairie d'arrondissement St-Laurent (Beaudet / Marcel-Laurin),45.50682415585665,-73.68184804916382
+Montreal,53a067639d877bfe105996a58bc1aa3a,Gare St-Michel / Montréal-Nord (Pie-IX / 56e),45.583197821913785,-73.62978704273701
+Montreal,8b16cd408c6adee5f72d6e5d91bc2b9d,Parc Maurice-Bélanger (Hébert / Denommée),45.5877138098252,-73.63171823322773
+Montreal,815c7df219d6937348c91d460fd1ff44,Parc du Mail (Bois de Coulonges / du Mail),45.59833498124187,-73.54596734046936
+Montreal,be9c873b6a7a17a56d9b813b70e29367,Jean-Paul-Vincent / Adoncour,45.5646764291021,-73.47957750896057
+Montreal,94ad6ee5b193f8c17b3fdfaa82b5edb0,Gare Lachine (Sir George Simpson / 48e avenue),45.447821314280105,-73.71091783046722
+Montreal,a00db472afa6e0875cce0d13acf03632,Parc St-Gabriel (Grand Trunk / Ropery),45.478545712518894,-73.56572315096855
+Montreal,d396617f8d34e1100febd7cd446e790a,Grenet / Poirier,45.51871924623225,-73.69875401258469
+Montreal,88de0ba474d1d950ec32feacb9c50d61,Bibliothèque du Vieux-St-Laurent (de l'Église / Filiatrault),45.512843286755896,-73.67612421512604
+Montreal,9ee74f8bb62f38529fa85da832fdfed4,Gare du Ruisseau (Dutrisac / Henri-Bourassa),45.52814371649508,-73.69254536926746
+Montreal,6854cb59f24f653adfba864ecd063aa2,Hochelaga / de l'Assomption,45.566883091095185,-73.53943817317486
+Montreal,efe7c56e36749af8000e9ef4ee4fc883,Gare Montpellier (Muir / de la Côte-Vertu),45.52374047147138,-73.67169924080372
+Montreal,5d9239bc34108ada8bac98a19e0b3371,Fernand-Lafontaine / Adoncour,45.5512193,-73.483912
+Montreal,af74c93fbc64f9a6aad9b05ab410b0ac,Industriel / Louis-J.-Lafortune,45.58190955549507,-73.45529912039638
+Montreal,ab65f5f1207275299c5d897fa65e1347,Parc Delorme (Malouin / Laferté),45.5904902,-73.5902694
+Montreal,f95ae94bbf8d2dd56d009f8bbf21044a,Parc Luigi-Pirandello (de Bretagne / Jean-Rivard),45.57940569041942,-73.60258877277374
+Montreal,ee6ad7e94cd47718c9f03d9248357f5c,Parc Wilfrid-Bastien (Lacordaire / des Galets),45.5864002,-73.5952181
+Montreal,05b2ac429b1d77afa9c0d51ebaf1e9cf,Parc Armand-Bombardier (Perras / Armand-Bombardier),45.6391233,-73.5961118
+Montreal,c8a7d37a65570e41ab00b550e01ed19d,Métro Snowdon (Circle / Queen-Mary),45.48514885008702,-73.6275440454483
+Montreal,ffb9a83c9965e7749a06d468a36a7e35,Métro Côte-des-Neiges (Jean-Brillant / de la Côte-des-Neiges),45.495537539518104,-73.6222583055769
+Montreal,b7664c29e84839606e88152819b3ce55,Faillon / St-Denis,45.53989085278141,-73.62026989459991
+Montreal,65fcf6251f8e1caef9d4ec19d3c37f64,Parc des Rapides (LaSalle / 6e avenue),45.42947143740888,-73.59309915918857
+Montreal,e727397bea9429cbc9b8d450c34d97d0,St-Antoine / St-François-Xavier,45.5045770667804,-73.55918392539024
+Montreal,2c9020413f1e9874756f0d7fcc743307,St-Dominique / St-Zotique,45.53226461018495,-73.6110632121563
+Montreal,a10f7f46ff1cfff0a26c3f9f364d83b6,Benny / Sherbrooke,45.4648769981855,-73.62659722566605
+Montreal,cfa85c0d171620de658d1fffcd749528,des Jockeys / Décarie,45.49404432109336,-73.65449488162994
+Montreal,9ded0f40cc46b3f01b00a3033246b3b9,St-Jacques / St-Laurent,45.50644464920572,-73.55648696422577
+Montreal,814ad44a52efef38cb7aafd234bd5623,Métro de la Savane (Décarie / de Sorel),45.500251758943925,-73.66171056035454
+Montreal,0b43d5b25082fcf948a599c9c2f004ad,Park Row O / Sherbrooke,45.46072936353252,-73.63407254219055
+Montreal,39bb125f5342525e2cea093e9229bdcb,Clark / St-Viateur,45.5251943015533,-73.59935637563467
+Montreal,1f7deeaa21159a7e183915b23c21ac81,Marquette / Fleury,45.56735205736566,-73.65378744900227
+Montreal,9c62a50110d8ee96b870cb01b31ada39,Chambord / Fleury,45.55982811984724,-73.65832507610321
+Montreal,8c98afa17b727544b37cc38c9b3eb7d8,des Récollets / Fleury,45.58538842877648,-73.6347109079361
+Montreal,d81961450801e6c7a09c6bc9d4ab8eda,Casgrain / Maguire,45.52621764749851,-73.5957657695144
+Montreal,1c05683a4675c3de48297fdef6870e62,St-Jean-Baptiste / René-Lévesque,45.64141535746634,-73.4999567270279
+Montreal,61da15b80b82561752f3270693c5165c,Turgeon / Notre-Dame,45.47888852807208,-73.58198940753937
+Montreal,b046e8a8afb19a66afac180111d612e4,Richardson / Montmorency,45.484966061164755,-73.56032252311707
+Montreal,b0b6c3a809801a02bced4c84f8ce3e8f,de Gaspé / de Liège,45.54248521237199,-73.63634169101715
+Montreal,427f2a0d1140f625f37362e57df8ddc8,de Gaspé / St-Viateur,45.527672646696104,-73.59738260507582
+Montreal,3565ca57a8993b9bf335ed73042cafb8,Place du Village (St-Jean-Baptiste / Notre-Dame),45.640002860465096,-73.49011301994324
+Montreal,1de81a5a8e6f461e2b0ed7c9c2e6c3e8,St-Ambroise / Louis-Cyr,45.47519326260791,-73.58094334602356
+Montreal,6293616d8cd965f97d230104de1b8083,d'Outremont / Ogilvy,45.526870027508245,-73.62676186490717
+Montreal,9b279b4355888cdc79c1b55692276c67,du Tricentenaire / Prince-Albert,45.64954588445726,-73.49191546440125
+Montreal,cd4c0fdebcb37039488e28460460af01,Jeanne-Mance / Beaubien,45.527650097960205,-73.61229971051216
+Montreal,56cff766a3277c78e45bb4de4ac76197,St-Dominique / St-Viateur,45.52655700191558,-73.5982757806778
+Montreal,e7b4ef40c1aa1decd3a2ffa3bcc9d1ea,Parc St-Paul (Le Caron / Marc-Sauvalle),45.46174102134744,-73.58412176370621
+Montreal,c3ceec873eb5d232254a49a074e28333,de L'Esplanade  / Fairmount,45.521484558655224,-73.59684884548187
+Montreal,dce3a1ec07d63b448de172e7d72d0ac3,Bernard / Jeanne-Mance,45.52428310031213,-73.6049484461546
+Montreal,839fe2dfb82ec3980eeaa68e23c462d4,Monk / de Biencourt,45.458663192410306,-73.59602272510529
+Montreal,7deaa6511276ea56c7a8b337c6f3f64f,Duvernay / Charlevoix,45.482097305112845,-73.57487753033638
+Montreal,c15a09657007898b3630f7b66f1d42ac,Davaar / de la Côte-Ste-Catherine,45.514379,-73.610871
+Montreal,939bd527ead0d30a6cee8299ce215e7f,Waverly / St-Viateur,45.5238561444472,-73.60012650489807
+Montreal,8ac0a10397b9d887d54e77c92c6e0704,Parc Atwater (Saint-Charles),45.477300883436854,-73.57314472410508
+Montreal,85c697a6f2803497cabda74c8a7d06f1,Métro Place Saint-Henri (St-Ferdinand / St-Jacques),45.47728092665489,-73.58730420470238
+Montreal,d7dff48f13093c3bfd51b409f6c99ca1,Drolet / Jarry,45.54195463236575,-73.62994194030762
+Montreal,42f4ffadab5c5dc4a7ee77a517fc7f44,Louis-Hémon / Rosemont,45.544500877623655,-73.58810484409332
+Montreal,5fc280895d73433263120a63fda937fe,McCulloch / de la Côte Ste-Catherine,45.51577505385328,-73.60060930252075
+Montreal,4fa269879d40657ffbab12fdb2c851cc,Louis-Hébert / de Bellechasse,45.546661109634606,-73.58868420124054
+Montreal,05415b92d6d4fa2364f0151216f4386c,Jeanne-Mance / St-Viateur,45.523026476635074,-73.60184043645859
+Montreal,748cda93c263ff091980aed944d7c284,Egan / Laurendeau,45.45290792768395,-73.58918591405198
+Montreal,6b17e4dc2ab5fce81cada468591bde1b,Léa-Roback / Sir-Georges-Etienne-Cartier,45.471703687608354,-73.58268946409225
+Montreal,f47f4149fc69eded89e7342b22755024,Métro Monk (Allard / Beaulieu),45.451030919298056,-73.5939010977745
+Montreal,7a50f09abc2d0051cefd3510ca4f6af8,de Rouen / Lespérance,45.538859462962286,-73.5528177022934
+Montreal,a73edfff31236331bf0713d675ab01bd,Laurier / de Brébeuf,45.532449016819825,-73.5847695171833
+Montreal,046de14b5741438fbdca56a59103a640,de Rouen / Hogan,45.53636263222538,-73.55421245098114
+Montreal,39244374a5b3ce23cb1b770ca09bd40c,Bloomfied / Elmwood,45.51825588419192,-73.60320568084717
+Montreal,ebf264e5f3baddba6e40eba2fe7351e7,du Havre / de Rouen,45.53456256501449,-73.55478646466509
+Montreal,5428d05f2757392646e8e88bfd1efee3,Aylmer / Sherbrooke,45.50629456823703,-73.57282698154448
+Montreal,6d09185c43a07f6f17c75c291e67a6f0,Durocher / Sherbrooke,45.507088290505685,-73.57227981090546
+Montreal,a2ff3d0c7ee4f7c8686bdafa3a4fc5e7,Bloomfield / Van Horne,45.522745298216094,-73.61328139901161
+Montreal,249f1231d93aa589fc7d85b327cfbdc8,Calixa-Lavallée / Sherbrooke,45.52479,-73.56545
+Montreal,4fbafd8f80ff042d7fe3cb4b46400514,Shearer / Centre,45.4828250990486,-73.56206325352105
+Montreal,6687fb585a268ce2773a3bf177d018d1,Milton / Durocher,45.508140959417744,-73.57492983341217
+Montreal,0aedabffd74cb17524a08ef1f6b336f9,Gauthier / de Lorimier,45.53166363055749,-73.56536373496056
+Montreal,78f0ea4a741954f89ed7cbc892fe355e,Ryde / Charlevoix,45.4757434,-73.5646007
+Montreal,0ccb90229a3c0ef89104428c84d65308,Parc Jean-Drapeau (Chemin Macdonald),45.512470265414784,-73.53212228978008
+Montreal,bcc94bb7b128964b7bb629aac952bd96,Métro Charlevoix (Charlevoix / Centre),45.47840064366771,-73.56917751956644
+Montreal,092deed262da108a6df2ad96c73fe080,Ste-Catherine / St-Denis,45.5138663042805,-73.56042764151425
+Montreal,87bf1cff2cd651ba546aa04cfd5885c7,Métro de la Concorde (Léo-Lacombe),45.5604898518365,-73.7091851234436
+Montreal,1f168a2835920f593c6f64459d0bd893,20e avenue / de Bellechasse,45.55992951142522,-73.5767751932144
+Montreal,2b57be16a1b802c69de6742a1ec49527,Louis-Hébert / St-Zotique,45.55001,-73.59576
+Montreal,126735d125a23869138e84406c649155,Métro Cartier,45.56007440937141,-73.68125259876251
+Montreal,3e9e4f67f3381c248e404a31a444593e,Garnier / St-Grégoire,45.5358215436799,-73.58710169792175
+Montreal,425d72b42e841857dfef54441255aebe,des Érables / Bélanger,45.54912085535069,-73.60087350010872
+Montreal,437c8c76473b5f3e273c27b185aee25c,de Lanaudière / Laurier,45.5333136054992,-73.58373686671257
+Montreal,5aed9bf24e62ea6202a7c08dfac25c88,Métro Montmorency,45.55814299291968,-73.71942043304443
+Montreal,d6c3fafac0ba50db181823baf216ba98,Cartier / Bélanger,45.546779039476185,-73.60281676054001
+Montreal,21162a6cdfa70ac960742617c5d5aafa,Fullum / Gilford,45.539198007249375,-73.5737818479538
+Montreal,ae879e0ebd76a6a27ee078846f565a59,Métro Angrignon (Lamont / des Trinitaires),45.44650450192042,-73.6025619506836
+Montreal,9c481b0d120d9a0bdf64bca192deb713,de Soissons / de Darlington,45.50689914049937,-73.623526096344
+Montreal,82ee2a45c5d1d863e364929fd6d516e5,Holt / Fullum,45.543937325185645,-73.58444631099701
+Montreal,67fb44bf786b39d711a6ae1ac3a0d865,McKenna / Édouard-Montpetit,45.50116436275711,-73.62056359648705
+Montreal,7372f7ed2ed2e266bdc479ac49bc6392,McNamara / St-Martin O,45.57120355585774,-73.72351884841918
+Montreal,4fb0196e6cefd3c0304f2f7497e1d53a,Fabre / St-Zotique,45.543653916207866,-73.60126135876271
+Montreal,0c39a4c5f95f416e549a6566c8cd770f,de Kent / de la Côte-des-Neiges,45.50144933057703,-73.63305062055588
+Montreal,932f0e5ac412c8f96a55ea2e041a0ba3,de la Peltrie / de la Côte-des-Neiges,45.499665790644286,-73.63029062747955
+Montreal,f6e60af660915736503e6392d0adab71,Boyer / Jean-Talon,45.541569834507,-73.61250426627521
+Montreal,975300771de5568dd1f8359834fc9cc5,Ste-Croix / Tassé,45.51953948301331,-73.68516325950623
+Montreal,ac7000b84127f7ac259b09f99eb297ad,Louisbourg / O'Brien,45.53039449604383,-73.70393217686795
+Montreal,b17c1462a40c242a182e48fe9202146c,Chapleau / du Mont-Royal,45.53867,-73.56936
+Montreal,364cabb5949c7690cffca04ee3c6a4b5,de Gaspé / Dante,45.53429782539273,-73.61217230558395
+Montreal,93d2ac04ded04070eda556c440926253,de Bullion / St-Joseph,45.524186371734054,-73.59061207629566
+Montreal,c5f193110503c57e1c5f624c8c64f286,Métro Plamondon (de Kent / Victoria),45.494686752797904,-73.63871866467889
+Montreal,5a47426cb02dc841f67915d35b3ada54,Logan / Tiffin,45.513787364296896,-73.50874415600629
+Montreal,f59884dc043cf535875c6042eb59dd39,De Callières / d'Auvergne,45.59342197869864,-73.6690217256546
+Montreal,4e5a6ca40d9348f973223d6171d2313c,McLynn / Plamondon,45.48911308766352,-73.6470128595829
+Montreal,0443c94a529a06a28f0d1cc3f287b74f,Logan / Lafayette,45.51654502289009,-73.50663459861607
+Montreal,46848e4320c219c86a04854a602c2c17,Parc Bariteau (Saint-Georges),45.507181850364056,-73.49484494889111
+Montreal,9b28f0b919bfbb8a12134e8ba5e803b5,Terminus Le Carrefour (Terry-Fox / Le Carrefour),45.56842034638607,-73.74687284231186
+Montreal,fa2468286cdd8248a5fa9d0c6b0bf5d3,Métro Longueuil - Université de Sherbrooke (du Terminus),45.5233308452134,-73.52013658267424
+Montreal,d559e70599d080114bbfdebeb62e9b18,Parc D.-E.-Joyal (Édouard / Windsor),45.50073113467841,-73.47395724618764
+Montreal,a31b0781205466d8ec391d6e4d31a0c8,Parc Henri-Dunant (Léger / Henri-Dunant),45.56843961893042,-73.6752020941276
+Montreal,2afa5fecbdfebe7a3aad9070498319ab,Ouimet / Goineau,45.57504823374693,-73.68799567222595
+Montreal,1c5d4ba80389fafb75d31d3485e0487d,Alton-Goldbloom / Notre-Dame,45.54502601340392,-73.73787671327591
+Montreal,26cb3fec7993d2a0ae43dfe9bcefbdc5,Sauriol / Cartier O,45.547431259234145,-73.71622860431671
+Montreal,c5250f6977dfa97a640d19abb2b60f8e,Daniel-Johnson / Cartier O,45.54334371050831,-73.72530519962311
+Montreal,2543ea24b3c88ef516b925e0a9233d07,de Hampton / de Monkland,45.47117930747152,-73.6270022392273
+Montreal,36e1885d1b188abf64ab361cead330a0,Parc St-Claude (7e Avenue / 8e rue),45.56206585263884,-73.69186341762543
+Montreal,741858dd605085ce6f58f4958dbc069c,Curé-Poirier / Joliette,45.52034169784984,-73.48791999746027
+Montreal,713b7e9b854709ab3bd4a267b17bc522,Desaulniers / Marquette,45.52468003531611,-73.51046747529834
+Montreal,321ca92fc7a5d3611502d8ef70f63d04,St-Laurent / Joliette,45.52893060032485,-73.51326006931231
+Montreal,d2d233d7e6e100a2596281248ceb5191,Mayfield / St-Martin O,45.553017541248565,-73.75822663307189
+Montreal,a9142a6ec00960d46f5da6ad36796ffe,de Chenonceau / Chomedey,45.56157,-73.75448
+Montreal,a2c77dac23ba3efc4ebf6465682c33c3,Clark / de Liège,45.53998802401576,-73.63811277307832
+Montreal,239fa44869dc781736051236945c1ac6,St-Dominique / Gounod,45.538591573269706,-73.62778007984161
+Montreal,1ea56d71c39cd0e2a2ccc6061b5cbe68,Chabot / Villeray,45.552289376429215,-73.61300647258759
+Montreal,45c95a8a8c3d7574b79365d50c47627a,Saint-Rémi / Valois,45.583961790351886,-73.72082591056824
+Montreal,ec8426fffaf4299ed6724923251aa640,Lajeunesse / de Liège,45.54566376066234,-73.63510044919167
+Montreal,839b54eac6c8b3e1f24c9427392c7456,Parc Chopin (Dumouchel / Tessier),45.570726609302966,-73.7370860205192
+Montreal,37dfd0b2993501a80fdf81e37768141e,Le Corbusier / St-Martin O,45.565006717407506,-73.7319054454565
+Montreal,2b315425e18f16fa60831f1b3c3404fc,de Grenoble / de Cassis,45.57889719514108,-73.70492711663245
+Montreal,934c01777da99558c71fb7d884c0b0fd,Bercy / Rachel,45.53840340979245,-73.56196403503418
+Montreal,061c0353daef32e37a1ac99b23494209,Murray / Wellington,45.49225247724067,-73.55850666761398
+Montreal,7cce3c616ae862530bddffb636ed1245,2e avenue / Centrale,45.43289463113104,-73.59685689210892
+Montreal,e3b7f4aa2eafec3a2b77734d9bd35614,Parc St-Patrick (St-Patrick / St-Columban),45.48870785150952,-73.55899317193689
+Montreal,398a688b86aabbf789c6f4edb8b20ed0,Peel / Ottawa,45.49419955357054,-73.55998456478119
+Montreal,a26bf1523b22aa83a563c97fe6ad5ba0,du Rosaire / St-Hubert,45.54481928225348,-73.6215104162693
+Montreal,4ce15c387a972cba5e0f347686a5bed6,Gauthier / Parthenais,45.53292625574653,-73.56377989053726
+Montreal,ff57fa074079c8cb3d2bfeffa3adc4bf,Fullum / Ontario,45.5303174,-73.5548669
+Montreal,d828cd348dc0c9994fbc34219ba5760b,Lionel-Groulx / Georges-Vanier,45.48632828127419,-73.57357263565062
+Montreal,677d6d820690fc67eefaad1eb537fd07,Greene / Workman,45.481069047931975,-73.57935216285114
+Montreal,55afb3990a73681697287d73d2c86ee6,Pierre-Péladeau / du Centropolis,45.56251175219665,-73.74370649456978
+Montreal,3944bbaf9bac2bc4ad72222245d22821,Gloria / Dollard,45.42971096449354,-73.633883446455
+Montreal,67238639a0c8e1f08538b0473cd10170,Bel Air / St-Antoine,45.4824297233159,-73.58367975812143
+Montreal,a6620bd5c000126bdfa2f31ec1d86934,de l'Église / Bannantyne,45.4632535358533,-73.57587933540344
+Montreal,44b7f570e3e5aa9ebda143018bd13e19,Fullum / Ste-Catherine,45.527137816431285,-73.54804444319598
+Montreal,3bbd92b465a669a54d22a0572cae31ec,des Érables / Laurier,45.538514913607656,-73.57769921422005
+Montreal,464e8b5950aee06c1eeb53605b286e92,Bourget / St-Jacques,45.48067368593179,-73.58351558446884
+Montreal,95ce98ec38136295fe8d3046bfe2995f,René-Philippe / André-Charpentier,45.496967676737675,-73.49533898759546
+Montreal,d953df55ce2e1380f9348b449c98d4c5,Parc du Pélican (2e avenue / St-Joseph),45.54458083116821,-73.5717111825943
+Montreal,14a4f6a9b81dfc63d800987c916e1e5c,5e avenue / Bannantyne,45.45649192816104,-73.57604078018994
+Montreal,63d26eacf7e8f19a45c9e101b6f71ddd,Parc Joyce (Rockland / Lajoie),45.515617,-73.614991
+Montreal,cbd672a65f66f7bfa419431d60aea030,Parc Pratt (Dunlop / Van Horne),45.51491895406187,-73.61968517303467
+Montreal,7eae977392f4943944edb063ec733913,St-Patrick / Briand,45.46366064035559,-73.59586715698242
+Montreal,7604e670cfc2466b147af4ec89f5dba9,Melville / de Maisonneuve,45.48184019359366,-73.59537899494171
+Montreal,1972d2e57a368e7c442b2019e5db5461,Lamarre / Lavallée,45.53374770433337,-73.48599582910538
+Montreal,dcf3b29b6fc30a0bc50964db1228f0d3,Parthenais / du Mont-Royal,45.53640396516409,-73.57141345739365
+Montreal,1b4e99760f4007a289ef12126349d2fe,Parc Laurier (Laurier / Dubuc),45.533610547532355,-73.47374618053436
+Montreal,fd1821200e01192b443a7ebf048f894b,St-Dominique / Jean-Talon,45.53520398241678,-73.6175217570053
+Montreal,afc7ce1ffab5746a791185d5d949148f,Labonté / du Coteau-Rouge,45.526787093145025,-73.49153663970355
+Montreal,e0afa56b1f0aed7bb8db942a343a4b67,Cégep Édouard-Montpetit (de Normandie),45.53724605357659,-73.49498215598032
+Montreal,a829d7ffd9fc7790630d17dbbbf27641,Natatorium (LaSalle / Rolland),45.4443505862464,-73.57542979723802
+Montreal,07c7d44ac97d0906af2e27a24fd56b13,Jacques-Le Ber / de la Pointe Nord,45.47259900304475,-73.5398056358099
+Montreal,23a2852bdcd316d3a09bc9b72aed633c,Cartier / Dandurand,45.53923559055867,-73.58594566583633
+Montreal,44fb5ec63a50a382b4262c30f5470c86,de Bordeaux / de Bellechasse,45.54325917626278,-73.59154611825943
+Montreal,83c42810a42105ebf9f7d8297dda190a,Place Charles-Le Moyne (St-Charles),45.52504512475178,-73.51951967460082
+Montreal,53a6c61dff2c34e3657ab034e9a28613,Métro Jarry (Lajeunesse / Jarry),45.54355974189168,-73.62777203321457
+Montreal,9acb2c0c2b48fe2e76bcbe4010af342a,Campus MIL (Outremont / Thérèse-Lavoie Roux),45.52311432992147,-73.61815363168716
+Montreal,8aa19138e54fae304dcd6f0088db07c3,Parc Chenier (de l'Aréna / Chenier),45.60248649638568,-73.5432904958725
+Montreal,24170e2b4988a35b835b818e6622f46e,de Grosbois / Duchesneau,45.611230741550536,-73.5312415660519
+Montreal,e4920ad7e5bd3dc8c0e9b2329a950000,Mansfield / de la Gauchetière,45.499078974175056,-73.56702102351846
+Montreal,afeb242cc36b91cf88fbbe7a66686c32,de la Cathédrale / Saint-Antoine,45.497480937983774,-73.56584353376093
+Montreal,04c57a547249150f2e0fea6c07bd3037,Letourneux / Hochelaga,45.55465888075087,-73.54660302400589
+Montreal,15b463fed646dd685bc3fb1e1e5d2de2,Mansfield / Sherbrooke,45.50301533529815,-73.5751303658617
+Montreal,a2eae86531d1cf24446fa7be11ba88cc,de Gentilly / St-Jean,45.532497613819366,-73.49942399192514
+Montreal,39dfbf1650c05e4f21a3b196818c4d71,de Bellechasse / de St-Vallier,45.53341043363302,-73.60112428665161
+Montreal,301ddcb76b9061b666c8b0f473a4f74e,Louis-Hébert / Bélanger,45.55158518908433,-73.59916493296623
+Montreal,9294676d7bc2672f3c9a96e997068e0f,de Melrose / Sherbrooke,45.46991202213883,-73.61735232174397
+Montreal,14313ece3fba0c9be8615f400fd8980c,Desjardins / Ontario,45.55118417872238,-73.54087114334106
+Montreal,0ce40af037ac8bf1d3716fcb53e235b1,Drummond / des-Canadiens-de-Montréal,45.49676067752141,-73.57027635600843
+Montreal,f32debb5a5607400dcffa1f4e39754ad,Alma / de Bellechasse,45.531034186281765,-73.60352754592896
+Montreal,a8be54003fb16d9cab21bd7c5e9c8f66,Guy / Sainte-Catherine,45.49497512853125,-73.57777043248461
+Montreal,035f64853a0a8204e33cb4a10898068e,Mackay / René-Lévesque,45.49445745087875,-73.57411649085407
+Montreal,0d85a8b42758ac57f207a20d58279fba,de Gentilly / Roland-Therrien,45.54086016564935,-73.49124181550906
+Montreal,bbc87f203ae21f34f247ea86ab6520c0,Marquette / du Coteau-Rouge,45.52022330145822,-73.49676324058237
+Montreal,69a08dbed51af2b02c0fa031734ae809,Brébeuf / Curé-Poirier,45.52688330834135,-73.48339325750203
+Montreal,ee8bc16d40f2c44ec8a99670f13b7646,Cartier / St-Joseph,45.53582823686429,-73.57869029045105
+Montreal,2bdfd377bde21a29eafd9298bff9cd23,Roy / Saint-Laurent,45.51565182195085,-73.57577390039296
+Montreal,562732190a887013c53e200b28d852e4,Péloquin / Fleury,45.55702223161539,-73.6599015713
+Montreal,05b5b355a4772304d10c45029d08deb0,Canning / Notre-Dame,45.486318644010225,-73.5702332854271
+Montreal,8f38bed6dab71436cabe43dea498c8c1,Augustin-Cantin / Shearer,45.48390169543355,-73.56363236904144
+Montreal,f163f77a25ff90ee28683c57264fbe9b,Churchill / Empire,45.49211844605989,-73.48672430497572
+Montreal,2520e15efaf9253232c7bc7a4e181a42,Jeanne-Mance / St-Martin O,45.55729575447216,-73.74795377254486
+Montreal,1878135d03fa93303d3301dc9bac05cf,Sewell / Roy,45.51467743947122,-73.57659816741943
+Montreal,b298dc46896563af6ea0d289404ea045,Guizot / St-Laurent,45.53968044327973,-73.63450437784195
+Montreal,a65aa68cb23206fc1b15868873e36df2,90e Avenue / Boulevard Lévesque O,45.53121456506295,-73.74735295772552
+Montreal,b60f0612abb6b56c0a4a48f129b947c2,St-André / Rachel,45.52409561323593,-73.57537156904073
+Montreal,d7f6bfbc28cb883fec3bf8652faf9e52,Laval / du Mont-Royal,45.5223645775784,-73.58414590358734
+Montreal,07f0abcb10ec09105ffaa1d6cbb3ab14,Ste-Famille / des Pins,45.512856179335664,-73.57692807912827
+Montreal,f2457ae9871eec293afd519d3294527c,Beauregard / La Salle,45.511126706889264,-73.4860880487031
+Montreal,7137a250bd6bd7df717f83d133ac328d,Lebrun / Bédard,45.5470644513283,-73.45196210302673
+Montreal,e2a04ee5d75f040dafca0496a9be3521,Fullum / Terrasse Mercure,45.535541603465234,-73.56593906879425
+Montreal,de47bdda50a0b713a267c0bd08d0a959,1ère avenue / Rosemont,45.54779995287998,-73.58486741781235
+Montreal,1d42775aa0975f0846191f3e0e25a259,Boyer / St-Joseph,45.529493172855894,-73.58450902629556
+Montreal,2bdbcfe52167db778aafe8f5c41b2dd7,St-Charles / Montarville,45.5335557310391,-73.51536766939716
+Montreal,cf6e1409b292b38da683ba44e51a4843,Guizot / St-Denis,45.543423548290185,-73.63246187567711
+Montreal,7fd636e659af1d5153733fa80f0b0259,Marie / de Mont-Royal,45.497292117993744,-73.48374999130101
+Montreal,23f4a54e25d2d96cc127138ae2ee12f5,Garnier / St-Joseph,45.53329492220251,-73.58165103477404
+Montreal,5006cb9f021fa437d5f618a40aa15fea,Métro Champ-de-Mars (Hôtel-de-Ville / Viger),45.50956143036354,-73.55743234369584
+Montreal,bcdca0295c5c26ad7854aa6c9aabc46b,Ontario / Sicard,45.55626186680846,-73.53744059801102
+Montreal,5f2a393b4ee449fd5e40048b00911753,de Bordeaux / Sherbrooke,45.529914321737415,-73.56302618980408
+Montreal,1d33d8f2ef82be88498c6314d7d4c457,La Fontaine / Alexandre-de-Sève,45.52330366033427,-73.55799973011017
+Montreal,dcd94385ae71a2b89052874c692df884,Nicolet / Sherbrooke,45.54969542033443,-73.55464696884155
+Montreal,fb645db9b2cdd11157289f2b2cdb539c,Parc St-Sacrement (des Seigneurs / St-Sacrement),45.70234934325735,-73.63957804443088
+Montreal,dc8a8b448fa7f1018b21065bee6f4b7e,Terminus de bus EXO (Côte de Terrebonne),45.697815037503666,-73.65406465532033
+Montreal,3126d658666f5f32075689284fc0ae02,5e avenue / Masson,45.54752382909683,-73.57513636350632
+Montreal,2476230f8d661fdb5367ed2c2d41d4b1,Mozart / St-Laurent,45.53328624709234,-73.61546382309369
+Montreal,167e7c9bdddcd7aa983b61a4f6aaa265,de la Côte St-Antoine / Argyle,45.48624101696415,-73.59572768211365
+Montreal,a57bc720128ed8a9099da4e5b069f3ef,7e avenue / St-Joseph Rosemont,45.54710817336986,-73.56936693191528
+Montreal,97d3674bee845c38c126be32647c8c6a,Bourbonnière / du Mont-Royal,45.55358456339093,-73.56052905321121
+Montreal,8efb5a0805e2a3e9ffaaff30fb84d12b,Marie-Anne / Papineau,45.53176697148175,-73.5724139213562
+Montreal,31e638f409c4a93e68f461daed035811,5e avenue / Rosemont,45.54990048023633,-73.58308374881744
+Montreal,63de8e2869ba1c19473b4f0820d45595,16e avenue / St-Joseph,45.55293611277267,-73.56577143073082
+Montreal,abb3423acb7a7fb732c04e14c19760ff,Dandurand / D'Iberville,45.5443716426341,-73.5809513926506
+Montreal,4248074bfe0e352b10c588b4c6db0b87,de Chambly / Rachel,45.54991069359101,-73.55826258659361
+Montreal,55d65d7aebf43cb52ab73c81ed816d06,Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),45.551584,-73.561916
+Montreal,4cc8089699bfd944c99c4fdef2e3c6ce,Robert-Bourassa / René-Lévesque,45.502182909901194,-73.56825381517409
+Montreal,2cf8e66d9d9f38703f5e09b7bd82899a,de l'Esplanade / Beaubien,45.52839983858232,-73.61192286014557
+Montreal,b8fa3135508e1b6500591a38636be02e,St-Dominique / de Bellechasse,45.52952466565309,-73.60488876700401
+Montreal,470f6259142071d54eee382f4da4ee2d,de Bordeaux / du Mont-Royal,45.53451201270128,-73.57283771038055
+Montreal,6a6ad173538b2384ab5819a233810d59,Fabre / Laurier,45.53458691154375,-73.58259929347696
+Montreal,bde04ef3459c5b0a53c33f33f75a7308,Garnier / du Mont-Royal,45.53075597398246,-73.5761762317452
+Montreal,a55042c1563ddaefa910fdd0553e594a,Parc Père-Marquette (Chambord / Rosemont),45.53708783301333,-73.59321847558022
+Montreal,d1a2127c31e824fd7f5080da7b9c72df,8e avenue / Beaubien,45.553150698635406,-73.58768105506897
+Montreal,4ceb50ee99698a67059c58b4fa0a40f6,Louis-Hémon / Jean-Talon,45.5517742671765,-73.60347837231528
+Montreal,02044f52405851c50980c20964349a5d,Drolet / Beaubien,45.533348,-73.605834
+Montreal,0dcaca1327f9e25a991cda59b2f33ac5,Brittany / Ainsley,45.52588991809354,-73.65003436803818
+Montreal,210bc54814f1bfa31dbcc85a81a5d434,de Bordeaux / Jean-Talon,45.54975479298636,-73.60556602478027
+Montreal,e5073e9271f19edd8b15d012a493c997,Collège Grasset (Crémazie / Christophe Colomb),45.550989649719114,-73.63216600382657
+Montreal,b3150d5e0b8ef9db81b4ff8588f3ac46,Boyer / Everett,45.54310243053054,-73.61607524188003
+Montreal,412b6c7d157d69fcf39a8ec8a1269c69,de Gaspé / Beaubien,45.531957916826386,-73.60700100660324
+Montreal,3b1de0977d358e47a8b291dacb47d7e0,Hodge / Laperrière,45.51369983907863,-73.6650772206849
+Montreal,840a8bdce0a97bfedb2d5eb6378b6663,de la Roche / de Bellechasse,45.53718135927993,-73.59750330448149
+Montreal,e0db7aad56ff4ad5c02148ffb2d5a594,Métro Beaubien (de Chateaubriand / Beaubien),45.5353599615622,-73.60363483428955
+Montreal,fa5c754a52303327c38b54956e044594,du President-Kennedy / Union,45.505102242483595,-73.57187882065773
+Montreal,3ba6a488913f98c46cc18cf4d705307a,University / des Pins,45.50802525900976,-73.57988489795387
+Montreal,9aaeb514f62c04faf6c442e0a3c422ee,Darling / Sherbrooke,45.54545514686953,-73.55673909187317
+Montreal,b0f4cfae8d6efd744b142c7f3140e5dc,Drolet / St-Zotique,45.53488214147823,-73.60941231250763
+Montreal,63573412d9fe3de5f6c9f05ac9784a03,Mackay / de Maisonneuve,45.496840189747,-73.5792407642475
+Montreal,ab124a371b47462db18406e94236bbcc,de Maisonneuve / Greene,45.48697062,-73.58929306
+Montreal,be47af9691772b0d9e5e4c9ac4303975,Hillside / Ste-Catherine,45.48282602624293,-73.59084337949753
+Montreal,444b2c83a68220fb68006e045ccc0604,Plessis / Logan,45.5218942750191,-73.55725058932876
+Montreal,4ef49918ba3b111a8bed6ad6205372ff,St-Jacques / McGill,45.50139912055804,-73.56039762496947
+Montreal,752f10c6830c88e75d136e6f92d5b506,Émile-Journault / de Châteaubriand,45.54971240353109,-73.6406914051804
+Montreal,94a6f7a1e328b502771a17b9dfcd9c1a,St-Jean / Guillaume,45.53524851020352,-73.5068191587925
+Montreal,7af9d9872ca3053def29fba6b871e508,Hochelaga / Chapleau,45.5343711000901,-73.55968952178955
+Montreal,abc59938b9cb3b7b75a77041e1e0ec93,d'Orléans / Hochelaga,45.55063206740221,-73.54912223921929
+Montreal,63b38e64250435468c4f2982e222f8e1,Bibliothèque de Verdun (Brown / Bannantyne),45.44878841549165,-73.57767310000781
+Montreal,6d4d1b4bf1bb36d1af4c681a0a50c41d,Métro de Castelnau (de Castelnau / St-Laurent),45.53552563367942,-73.61981123685837
+Montreal,f3ce3c900dc4e731c183f40e8a7e043c,Bishop / René-Lévesque,45.49536795507059,-73.57401251792908
+Montreal,0ee14b7beea8a04c2f0e034ea91f5c02,Grand Boulevard / Sherbrooke,45.46659823105616,-73.62334638833998
+Montreal,f9cf3e6c91e86cf471029dd10f61f34f,Dézéry / Ontario,45.54095791741757,-73.54702949523926
+Montreal,8661cea9ae725868605cd27fbe516bf7,Hôpital Maisonneuve-Rosemont (Rosemont / Chatelain),45.575707,-73.561562
+Montreal,763350ee25e0bd7d5733dc7bef6c4016,Lincoln / St-Mathieu,45.49503704949293,-73.58157634735107
+Montreal,45e640a085d42dd6f43cbd4a625f5b3a,4e avenue / de Verdun,45.45686162938348,-73.57212341392369
+Montreal,bbc440214ed13ddb8a0aeb3951c418ce,Dubois / Eadie,45.45760820718457,-73.59051011502743
+Montreal,3dca829b40cecd52c3e06acebea5951f,de Gaspé / Villeray,45.53888723230076,-73.62390697002411
+Montreal,a75be8f4ffb85d6f4a0996617a2d7f0d,Marcil / Sherbrooke,45.471743,-73.613924
+Montreal,f76cd926206a1cd0b4e196175097bca7,Leman / de Chateaubriand,45.54721107501036,-73.63105237483978
+Montreal,546bc36b10be0b09de4a907c9d60ad78,Harvard / de Monkland,45.474565185029945,-73.62403571605682
+Montreal,52c14dac195f954a63d50779213fa80f,William / St-Henri,45.49896591854122,-73.55703081942919
+Montreal,62ae697614fc30933f67aa117dcae40a,d'Orléans / Masson,45.557192,-73.569847
+Montreal,700cf042fd8763ec6c702d94d5b6689b,Collège de Rosemont (Beaubien / 15e avenue),45.55774990838239,-73.58380123972893
+Montreal,effefa0f14c517d8e55f61eece0d2456,de Chambly / de Rouen,45.5470496637535,-73.54892179369926
+Montreal,65a230476948d7237e13778a580b5834,Boileau / Monsabré,45.57175879648152,-73.54176163673401
+Montreal,f0aed79f067fad49c9ac4f53a5f5887d,Laval / Duluth,45.519192617838605,-73.57715926134915
+Montreal,d350861395106b1f647488dc72691a9a,de Brébeuf / du Mont-Royal,45.52922355524467,-73.57784914976946
+Montreal,1206ac092d556059549010db47abaf52,Drummond / Sherbrooke,45.500535752214155,-73.578113079202
+Montreal,bf2d442f3613b81c253c392cc62e07f8,Stinson / Montpellier,45.519485452174514,-73.66647094488144
+Montreal,20337f912d744698fe7062d1d17badb6,Garnier / Villeray,45.54948004519436,-73.61605471489383
+Montreal,51cada9ae1043ecc00fa98b7439b11f2,Marie-Anne / de la Roche,45.527550507601894,-73.5762870311737
+Montreal,f2d6d41e38a65211b2fd584441f2187b,Drolet / Gounod,45.54095134225734,-73.62637460231781
+Montreal,72f618e3939e7198ce6fd85de4fb2a19,Villeneuve / St-Dominique,45.522272664526696,-73.58870131898584
+Montreal,dd91bdd195e053a5aa09a0b717d60a9d,Panet / Ste-Catherine,45.52002998668944,-73.55491518974304
+Montreal,d876da4cd1a0b45465c15ce25aa2f3d0,Waverly / Beaumont,45.53118825986005,-73.61607760190964
+Montreal,96fab1a8de19e436e8020d1d111c4983,Redpath / Sherbrooke,45.49807529130555,-73.58057856559753
+Montreal,0954cc13ccb351a993b24ca22568d487,de la Roche / Laurier,45.531778245025635,-73.5850203037262
+Montreal,7a293e38d7d7eba3bd8a92b53d216cff,Jean-Rivard / du Cirque,45.56268743796862,-73.61651211977005
+Montreal,9ecb8a131a495aaf4da25f65ecba463c,de Gaspé / Jarry,45.540780049797995,-73.63040059804916
+Montreal,66617bd74517390afa5e9bbb70c0c005,Gilford / Papineau,45.5343936461316,-73.57823699712753
+Montreal,d6260b445fd12c05d79f9ca717d9fdf4,St-Hubert / René-Levesque,45.514481971650625,-73.5568732023239
+Montreal,30d2251a5296e82fbebdad1ed2b0531f,Alexandre-DeSève / Ste-Catherine,45.52118763358253,-73.55378866195679
+Montreal,b14f3b43700ef9bd02f0c1b1a20c78e4,Clark / Evans,45.511105776623936,-73.56784012175922
+Montreal,fcfc74103d76278470783dd40eb081d7,Hogan / Ontario,45.53530299560492,-73.55113729834557
+Montreal,a62673db1aed74d788b1b30ab280f441,Drummond / Ste-Catherine,45.49861674293281,-73.5741600394249
+Montreal,11e59e3e7821d495304f9959cac4209b,Hotel-de-Ville / du Mont-Royal,45.522178004145694,-73.58460858464241
+Montreal,6f7554b9a062cc5cb90c32a52088e4b4,de la Sorbonne / du Rousillon,45.58060341546917,-73.68892639875412
+Montreal,a0b71d10079c772cc2639c5989535d77,St-Laurent / de Chambly,45.5398841503055,-73.504639035109
+Montreal,98dc497008cbacb892a567bcbf7b20c5,St-Patrick / Thomas-Keefer,45.47801152713375,-73.57427294832632
+Montreal,ad02c113d53bcf71879ead7fe067e381,McGill / Place d'Youville,45.500014581102505,-73.55625258141116
+Montreal,3fb98eb97376c1da65b2d35fd12cac36,Union / René-Lévesque,45.50235036136798,-73.56658279895781
+Montreal,b4d7848efa570de415e957a27cd538df,de Lanaudière / du Mont-Royal,45.53008802331729,-73.57688208474428
+Montreal,e254efd043e05eb2cae496c2e3ca6bc7,Le Royer / St-Laurent,45.50597445022123,-73.55429930616083
+Montreal,fb0e0b07f01088a5b79550e0d0c02700,St-Dominique / du Mont-Royal,45.52058062365273,-73.5857605934143
+Montreal,b9ebbf013bec10bb1990b6b8c81368ba,Collège Bois-de-Boulogne (Bois-de-Boulogne),45.53690740947054,-73.67478135508463
+Montreal,6a8a8cf1c82c71f14bb2fb57e2638f23,Metcalfe / de Maisonneuve,45.50177034353527,-73.57427495998309
+Montreal,3431652539e74854f532354fce307481,Laurier / St-Denis,45.5271540234837,-73.58943924307823
+Montreal,4958ba9fe75edc660b87802767fc708b,Chabanel / Esplanade,45.54132316817171,-73.65271349801333
+Montreal,be9e290901bb0caf85b3677f3cadce8c,Wellington / Gordon,45.46115406449117,-73.56709241867065
+Montreal,fd89cdd1f8e317c983324a2ebac72f93,Wellington / de l'Église,45.46311264513107,-73.56705610964127
+Montreal,1da03a5906f4fcf3ca132918441c9473,Bishop / Ste-Catherine,45.496597761984034,-73.57650284979172
+Montreal,0a4faa21a6c8b8fd1e207a603a22e1b6,Wellington / 3e avenue,45.45749246180326,-73.56758799411182
+Montreal,e64a882ebb68a6efea61667b1cb0a4dc,Marmier / St-Denis,45.53080495407925,-73.59839648008347
+Montreal,4bcedc187f3fcb947aa53ad9fec7a98e,Berri / Gilford,45.52677632748293,-73.58606100082396
+Montreal,3200daa19ecbfb6ef7bc4a9b3a034696,Earnscliffe / Queen-Mary,45.48184399150666,-73.6303972452879
+Montreal,0aca46eec30a812600d7301e3a20bbdb,Notre-Dame-de-Grâce / Décarie,45.477332647079656,-73.61529976129532
+Montreal,96a5e4d69af8dd5259395b6843a6f252,Roy / St-Denis,45.51908,-73.5727
+Montreal,b7ea33e5396a99849c76067836da7f21,Parc Jeanne-Mance (monument sir George-Étienne-Cartier),45.51487490356938,-73.58486406505108
+Montreal,05d84e15f73c72c1037f6c978bffe09e,Parc Howard (de l'Épée / de Liège),45.53337693203317,-73.64228380847635
+Montreal,89894b4d62ba4bf8ee24db691986876a,de la Cathédrale / René-Lévesque,45.499161694813886,-73.56931967664423
+Montreal,0d4d6ab1ff41bf892ecbb0e09a8e2f40,La Tour de Montréal (Pierre-de-Coubertin / Bennett),45.55970526805903,-73.55155438184738
+Montreal,e70051a13465431ea81f30bf8b890772,d'Anvers / Wiseman,45.53014304871808,-73.6400398240221
+Montreal,d593a2669ae3b83f275ccfc7b9a679f5,Chabot / Beaubien,45.54442573762501,-73.59578132629395
+Montreal,0da087166a30e11c66a497de37fbf4e5,Parthenais / Larivière,45.53025954525953,-73.55784621096973
+Montreal,86fbafe757178e7908097abe2491e53a,St-Jacques / Gauvin,45.50065923264611,-73.5611384269032
+Montreal,4d7a62e76ec32939ff122c582158f615,St-Cuthbert / Clark,45.51567168354896,-73.57744306325912
+Montreal,fbdbf6d3b1a343b0855ff58cd4f68682,Henri-Julien / du Mont-Royal,45.52302929545924,-73.58409225940704
+Montreal,8ae3e4d2cea361a6ad7f35890c20cef8,Boyer / St-Zotique,45.53866220045916,-73.60580742359161
+Montreal,f046d7c00aae3ff92c702141f6475fe9,Crescent / de Maisonneuve,45.49812041247333,-73.57759594917297
+Montreal,e61bdf615b9672bd815d52f210429d3c,Bennett / Ste-Catherine,45.55315915057821,-73.53263273835182
+Montreal,6d68b66f02a9d23d3677022201b9cd0e,Marianne / de Lorimier,45.53402821126129,-73.57024937868117
+Montreal,de4cb1d24f03cefaac0f534a87244af5,St-Dominique / St-Viateur Nord,45.526967994427125,-73.59916895627975
+Montreal,e8aa2e0708e7988d653b71954682b1a3,St-Timothée / Ste-Catherine,45.5170563208812,-73.55770137168292
+Montreal,a1be5dde43074cbcb300df4a0e8a5b1f,Victoria / 39e avenue,45.44001578400139,-73.70019972324371
+Montreal,54a78378f9286d9364415a2dafde55cf,Principale / Jean-Duceppe,45.587907229193526,-73.34771825004282
+Montreal,7eaed8b1ce01c3b8b10f735b4258e1a6,Terminus Ste-Julie (Armand-Frappier),45.58231159807488,-73.32433423960538
+Montreal,8a5da1c02ad5003a97fd26053387b75d,N.-P. Lapierre / Armand-Frappier,45.57978196712583,-73.34458894098134
+Montreal,e258f7121ea3d797a8ed6f9189b3e124,du Fer-à-Cheval / des Hauts-Bois,45.57231912648751,-73.32789487207265
+Montreal,22b4a3c40dd230168c9aea809bea77ee,St-Joseph / Lamoureux,45.59260312756609,-73.33754654508994
+Montreal,44adc0060274b501029d4c79042c349c,Keller / Cousineau,45.52355020292929,-73.7138856947422
+Montreal,ada592070105d405d209cba9c4955699,des Érables / Beaubien,45.54614641841041,-73.59369993209839
+Montreal,517c47dab7563036263420e5eb1526a6,Casino de Montréal,45.5063732,-73.52457672
+Montreal,85ae63e650e620f403ad900a2f1659ac,Bassin olympique (Chemin du Chenal le Moyne),45.5169025120042,-73.52724552154541
+Montreal,bd2fc7309def1255bf1611e25cd176f7,Parc Plage,45.50263299287665,-73.52748987080304
+Montreal,99c56b488e272275ff3b92a0984f3129,St-Dominique / Rachel,45.51861160491394,-73.58156056457119
+Montreal,e59b690dd831bd4a6e8637c8dccd306b,Duluth / de l'Esplanade,45.515132275425785,-73.58105599880219
+Montreal,7244dde4977180daca1765d2c6c82c1a,de la Porte de Québec / St-André,45.51329411414168,-73.55057805776596
+Montreal,99fbd521c0096dc0e66c1cd1eecfeb86,Jean-d’Estrées / Notre-Dame,45.49439027388589,-73.56391131877899
+Montreal,941a78ce4ad8c4ab81ecd5601f768567,Atateken / du Square Amherst,45.52058271176779,-73.56395011160203
+Montreal,79648258923bbd7c3ead41c36ebad5fa,de Mentana / du Mont-Royal,45.52694544540877,-73.58005285263062
+Montreal,194e4f5ad2d202fad26fed69af6db071,Plessis / René-Lévesque,45.51937504116866,-73.55190977454185
+Montreal,6251ff1e68672d14ccd94dd4d5d86680,St-André / Ontario,45.51889,-73.56353
+Montreal,b299bc3f5212ba3e717cf5916ce62b37,Drolet / Marie-Anne,45.52240257341408,-73.58117669820786
+Montreal,e808e34ff5776ce71318665babc70571,Cartier / Masson,45.5380207402854,-73.58352363109587
+Montreal,0d4eff17975078517d6779b678d99fa3,René-Lévesque / Papineau,45.52097057660443,-73.5499919950962
+Montreal,087ebaee08c22fcceddf4c659711fc06,Montcalm / de Maisonneuve,45.519131967116216,-73.55788965214742
+Montreal,1423a9915aee85faaf67acb0b093723d,Sanguinet / de Maisonneuve,45.51344071816516,-73.56261849403381
+Montreal,4cfa37d30555ab9641249939855931ed,Square St-Louis (du Square St-Louis / Laval),45.516090801970655,-73.5701286792755
+Montreal,a275d1e1d0b9582f2b705053e47f7c98,Ste-Catherine / Sanguinet,45.512936177874096,-73.56124520301817
+Montreal,021186cc14acfe5a05a3d4b5cc35ff8a,McGill / Wellington,45.499447710650415,-73.55489909648894
+Montreal,2b25484ef818ccbdc7fcffa35d738af1,Fairmount / Hutchison,45.51969064184933,-73.59826556408734
+Montreal,ac6fa8afc91dfeaaf3749f5894324039,Milton / St-Laurent,45.512916325090295,-73.57055649161339
+Montreal,f6ab2306a49dab9b89f6c9b84ba9db2a,Aylmer / Prince-Arthur,45.508566869474386,-73.57769787311554
+Montreal,be7eb9139288d63ecd637cbd4d52f05f,Théâtre du Vieux-Terrebonne (St-Pierre / des Braves),45.69223305604548,-73.63703128697125
+Montreal,dbab0580c518f74b2ada9ef05f950048,de Monaco / du Souvenir,45.569501890755866,-73.7059235572815
+Montreal,fe77f880822f92a0a42808bd376e76b9,Prince-Arthur / St-Urbain,45.51262123436571,-73.5737282037735
+Montreal,510b38e820d976949a741fdd95dcd284,Lincoln / St-Marc,45.49404056072524,-73.58274042606354
+Montreal,adcc113a6107f597a756571d11b252fc,du Parc / François-Foucault,45.605939260812214,-73.66295456886292
+Montreal,49c9b3c0647532585351cd5b45c8f5d0,de Bordeaux / St-Joseph,45.53683253167888,-73.57777421686478
+Montreal,66bb98a5d35f74c7cc6f5951b7c78e4f,Parc Maisonneuve (Viau / Sherbrooke),45.56493679334249,-73.5555911064148
+Montreal,5888dbd4c0c3b570a60df325c0b116f7,St-Roch / Querbes,45.53020744279929,-73.62907156348228
+Montreal,94061cd13934f9203606938cc6de14ad,St-Sylvestre / St-Charles,45.53638517746843,-73.51247191429138
+Montreal,1a6cce3eab1bb6fe36200756ff663389,Édouard-Montpetit / de Stirling,45.50737888711866,-73.61485987901688
+Montreal,d0763017557c70a8115ad0ccc7f8b7b4,Guy / Notre-Dame,45.490000580719105,-73.56706600863617
+Montreal,4e36c47fbe40dde66e2008c3ccb42fc4,de Kent / Hudson,45.50582139761067,-73.62943192376406
+Montreal,e7cf848f2c4a0ef5407cefb7b9099d52,Charles-Biddle / Atwater,45.47913738100108,-73.57514977455139
+Montreal,efd0f237800e412805e3242c7d4a8702,Villeneuve / du Parc,45.518197623521424,-73.59239235520363
+Montreal,b7ec3e53e512a19b78956911f5a94268,d'Aragon / Springland,45.4533311522553,-73.59767496585846
+Montreal,bfd327f113e8c0444550291f93ef8e59,Eadie / Galt,45.46299810854156,-73.59011898464814
+Montreal,6a492b6e52d07b8efff179530ddb12a6,Mountain Sights / Édouard-Montpetit,45.4872273014705,-73.63343954086304
+Montreal,a3b2ff8cca496a88381a6d7427782945,Ste-Émilie / Sir-Georges-Etienne-Cartier,45.47301091860492,-73.58505249023438
+Montreal,022aa88409f3c51f9b7ae91d23161db9,Coffee / Elmhurst,45.454791592731134,-73.64039182662964
+Montreal,a6bf77e4bebacc670f33d24738bcd9e3,de Bordeaux / Masson,45.539037937964046,-73.58252048492432
+Montreal,5ad09b42649304cdf005bb37671e1ee1,Parc Hector-Toe-Blake (du Sussex / René-Lévesque),45.48915410275294,-73.58088755610879
+Montreal,01eb2ebf1d0478ffdc9ea49c43a4b7ae,Hamilton / Jolicoeur,45.45670692115263,-73.59764814376831
+Montreal,721d4295690082912ec62a1f820d096f,Lincoln / du Fort,45.49306511863136,-73.58382672071457
+Montreal,ea4d52ca3fb9cacf1c912989b03d0944,15e avenue / Dandurand,45.554786595434784,-73.57425928115845
+Montreal,4ba1659b4edb0baa99268a208f028b86,Molson / Beaubien,45.54977750895228,-73.59132108093945
+Montreal,26a44bbfde1920376e2082a747a3420e,Montmorency / du bon Pasteur,45.55329239896619,-73.71069212807924
+Montreal,e6ea709b44125dbf15595ae434193cec,Robin / 15e Rue,45.55988743285077,-73.69822025299072
+Montreal,65449142f26853132d689c41a44ceae8,Bibliothèque et Complexe aquatique Rosemont (8e avenue / Rosemont),45.551574858642525,-73.58225226402283
+Montreal,39d5940820ab0ed37b58ac3d361fbcde,La Fontaine / Lyall,45.57943760505458,-73.5196280479431
+Montreal,069414550bdba88e9db7e3120441a2c5,Métro Préfontaine (Préfontaine / Hochelaga),45.542231957614106,-73.55444365743097
+Montreal,216a81385f33d5b062d7e92606d0f117,La Fontaine / Cadillac,45.5698417467524,-73.52553829550743
+Montreal,b3979ab42095be4a4e44978bb9f21b58,Métro Viau (Pierre-de-Coubertin / Viau),45.56228814999496,-73.54622590548388
+Montreal,7758064a8883d2200c4ef11ea582fc3a,Pratt / Bates,45.51694782364431,-73.62631559371948
+Montreal,716fdaa5bf3096b22e6411f8a3b26ce7,Roy / St-André,45.52161742271569,-73.57037329677041
+Montreal,19c727134141c178c70295a70f778317,Laval / Rachel,45.52022449558384,-73.5795271396637
+Montreal,9f33776b7261015fee19f746343fd39e,Métro Villa-Maria (de Monkland / Décarie),45.4790046017838,-73.61956179141998
+Montreal,f3137d7a13f223d22a94a847fc537ab1,35e avenue/Beaubien,45.569996465032766,-73.57307481772295
+Montreal,ca51f806f088e2d3fd280060ee25f224,16e avenue / Jean-Talon,45.56239073042133,-73.5953414440155
+Montreal,e66e22ca9900ba053479ed9a0782bedc,Ste-Famille / Sherbrooke,45.51002361741137,-73.57068121433258
+Montreal,4a754bbdf7514d1e8e49d394cc5b10a8,Berri / Laurier,45.52809995527671,-73.58843871625139
+Montreal,2ea1265bc531dcfaa332451f6b9e3977,Cité des Arts du Cirque (Paul Boutet / des Regrattiers),45.55982621051128,-73.61538398272387
+Montreal,e8c5c767edf29ab8d55c36a572d9b2f4,de Normanville / Everett,45.54543260526312,-73.61438512802124
+Montreal,8e08e33c06191a0c2829ddf5b9d61c6a,de la Roche / Bélanger,45.54159135681213,-73.60757953489156
+Montreal,c17673d035be2f681b182f2c8a9a3ade,de l'Esplanade / Rachel,45.51631633525551,-73.58359336853027
+Montreal,a2da7f5b772dab9f756348a7f21c1984,Terminus Newman (Airlie / Lafleur),45.425059666150744,-73.64959917962551
+Montreal,a20926ccf67c3173efc10f2df7478482,Parc Jeanne-Mance (du Mont-Royal / du Parc),45.5169290827898,-73.58911652441746
+Montreal,d4b0eb7bc61aae6326fe725d85da751d,Chambord / Beaubien,45.539900246044354,-73.59936207532883
+Montreal,d22ef0870aac8a4ceec210b8b6640494,Pierce / Ste-Catherine,45.49450684445683,-73.57859909534454
+Montreal,be964bc3df463cd6bc50cbb16cfc26e8,St-Antoine / Jean-Paul Riopelle,45.50304782909863,-73.56058964667682
+Montreal,0040082e616edec293c0c74fcbf825c4,Square-Victoria (Viger / du Square-Victoria),45.50208503935104,-73.56294138360681
+Montreal,7d46737bc62cbce4b6a71965083bf0aa,Clanranald / de la Côte-St-Luc,45.47900836315578,-73.62692713737488
+Montreal,09eec3fa4ab94df46f6460363e9eeac1,26e avenue / Bélanger,45.56725240529474,-73.58511686325073
+Montreal,a7113db37138c4a7d739f937cb814b18,Léonard-de-Vinci / Villeray,45.56581967268723,-73.5998260974884
+Montreal,7aebcaf0d07b120a38e159b6f308a24f,Papineau / Émile-Journault,45.55991753389444,-73.63352854128607
+Montreal,8fb6d3f09a95459113a0443a000f0650,de Maisonneuve / de Bleury,45.50710068509571,-73.56907725334167
+Montreal,90e1e26dae92c0c18fcc2b2f42bf8d29,Legendre / André-Grasset,45.5585431972121,-73.63820562786714
+Montreal,cbe2d171bd88264285f629767835bea8,Villeray / De Normanville,45.54716675630067,-73.6184438467353
+Montreal,7f3a6642524a1edefb3a06943a81839b,Calixa-Lavallée / Rachel,45.527856794367565,-73.5719096660614
+Montreal,066a3ddb553ab30d56929c200ea2d022,Alexandre-DeSève / Ontario,45.52437454361268,-73.56055689979257
+Montreal,1dd2c41ba0060546b80e05d4874c3acc,Queen / Wellington,45.49760527699099,-73.55534970760345
+Montreal,fedbc60fd86261ca0a76407afc750d49,Calixa-Lavallée / Rachel 2,45.52771409041715,-73.57180299864922
+Montreal,391131d263b2d9b6a6d3d8a85a54ef64,Georges-Vanier /  Notre-Dame,45.48504525051504,-73.57192163679429
+Montreal,9fe1f930c99391967580f0ed55b2abf1,6e avenue / Wellington,45.45542715196195,-73.56789708137512
+Montreal,00b7595b843f69c9041fca9e4e84700b,Hudson / Goyer,45.507437367855864,-73.63265757772751
+Montreal,78b2a7e46c64e776cb23629f228d2c1e,des Carrières /  Marquette,45.53859456744162,-73.58865737915039
+Montreal,707f0ea8ffb8042e9dd22a3c6c3b70d3,Place Valois (Valois / Ontario),45.54701750084233,-73.543126247896
+Montreal,f627ae5f3cf5f0cb11342d1f31799a48,Adam / d'Orleans,45.54733170390415,-73.53858858346939
+Montreal,dc49e9feaf60abcd81da39da3b124082,des Érables / Dandurand,45.54136064451518,-73.58398067957751
+Montreal,74779778d60c41418071fab5fe857943,Édouard-Montpetit / Victoria,45.491172162374106,-73.62996836556704
+Montreal,ceb930ce31162427c786e15307f5aa69,du  Séminaire / de la Montagne,45.49210581803197,-73.56246560811996
+Montreal,ebdddf885baaef4c41adb972137a7012,Parc Baldwin (Chapleau / Sherbrooke),45.53536352346638,-73.56201391202376
+Montreal,295b9ba08218eb8601089a2fd6d8640b,D'Iberville/Fleury,45.575431237891664,-73.64741921424866
+Montreal,5d34923536095ea13e134f9d89da258f,Ann / Wellington,45.494520387544334,-73.55676591396332

@@ -1,7 +1,10 @@
 ![Bike Sharing Pipeline Diagram](https://github.com/dongdongdong0/Data-Pipeline-for-Bike-sharing-system-/blob/main/data608.png?raw=true)
 
 ### **Project Overview**
-This project implements a real-time data pipeline to collect and process bike-sharing trip data from multiple city APIs, updated every 10 minutes. Leveraging **Apache Airflow**, **Apache Kafka**, **AWS S3**, and **AWS Glue**, the pipeline ingests approximately 1.2 MB of data per hour in Parquet format, enabling efficient storage and querying. Deployed via **Docker**, it ensures scalability and portability. The processed data powers a dynamic dashboard, visualizing bike availability trends for operational insights. Additionally, explored integrating **Apache Spark** and **Cassandra** for enhanced real-time analytics and structured storage.
+This project implements a real-time data pipeline to collect and process bike-sharing trip data from multiple city APIs, updated every 10 minutes. Each run ingests approximately **4,000 records per API**, accumulating **1.2 MB of data per hour**. The pipeline leverages **Apache Airflow, Apache Kafka, AWS S3, and AWS Glue**, storing data in **Parquet format** for efficient querying and analysis. 
+
+Deployed via **Docker**, the pipeline ensures **scalability and portability**. The processed data powers a **dynamic dashboard**, visualizing bike availability trends for operational insights. Additionally, the project integrates **Prometheus and Grafana** for real-time monitoring, enabling observability of system performance and task execution. Future enhancements may include **Apache Spark and Cassandra** for advanced analytics and structured storage.
+
 
 ---
 
@@ -49,29 +52,49 @@ s3_hook.load_bytes(buffer.getvalue(), key=s3_path, bucket_name='test-608-project
 ```
 Replace `'test-608-project'` with the name of your desired S3 bucket.
 
-#### **8. Create an AWS Glue Crawler**
+#### **8. Access the Monitoring Dashboard**
+To monitor the performance of the pipeline, including system resource utilization and data ingestion status, access **Grafana** for real-time visualization:
+
+（1）Open your web browser and navigate to:
+```
+http://localhost:3000
+```
+（2）Log in using the default credentials:
+- **Username:** admin
+- **Password:** admin
+
+（3） Once inside **Grafana**, navigate to the **Dashboards** section. Here, you can view:
+- **Airflow task execution metrics**
+- **Kafka message throughput**
+- **Container resource usage (CPU, memory, disk I/O)**
+- **System-wide monitoring from Prometheus and cAdvisor**
+
+This allows users to ensure the pipeline is running efficiently and troubleshoot any potential bottlenecks.
+
+
+#### **9. Create an AWS Glue Crawler**
 - Go to the AWS Glue service and create a new crawler.
 - Point the crawler to the folder in your S3 bucket containing the data.
 - Create a new database and configure the crawler to populate it.
 
-#### **9. Run the Crawler**
+#### **10. Run the Crawler**
 Run the crawler to create the schema and make the data queryable.
 
-#### **10. Prepare Dashboard Files**
+#### **11. Prepare Dashboard Files**
 - Navigate to the **dashboard** folder in the project.
 - Upload the following files to a designated folder inside the S3 bucket:
   - `all_locations.csv`
   - `result_key.txt`
 
-#### **11. Set Up an EC2 Instance**
+#### **12. Set Up an EC2 Instance**
 - Launch an EC2 instance.
 - Install Python and the required dependencies using the provided `requirements.txt`.
 - Copy the files `dash_app.py` and `athena_query.py` to the instance.
 
-#### **12. Configure EC2 Security Group**
+#### **13. Configure EC2 Security Group**
 - Add a rule to allow inbound traffic on **port 8050**.
 
-#### **13. Run the Python Scripts**
+#### **14. Run the Python Scripts**
 - First, run:
   ```bash
   python athena_query.py
@@ -81,11 +104,11 @@ Run the crawler to create the schema and make the data queryable.
   python dash_app.py
   ```
 
-#### **14. Access the Dashboard**
+#### **15. Access the Dashboard**
 Use the public IP address of the EC2 instance to access the web app in your browser:
 ```
 http://<public-ip>:8050
 ```
 
-**Note**: Steps 13 and 14 can also be performed locally if desired.
+**Note**: Steps 14 and 15 can also be performed locally if desired.
 

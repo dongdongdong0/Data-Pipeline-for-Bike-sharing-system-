@@ -30,7 +30,7 @@ jobs:
 
       # Run pylint to analyze Python code quality
       - name: Lint Python code with pylint
-        run: pylint dags/main.py
+        run: pylint DAGS/main.py
 
       # Validate docker-compose.yml syntax
       - name: Validate docker-compose.yml

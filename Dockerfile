@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "dags/main.py"]
+CMD ["python", "DAGS/main.py"]

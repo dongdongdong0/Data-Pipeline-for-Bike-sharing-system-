@@ -1,0 +1,66 @@
+name: CI and Docker Hub Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Set up Python environment
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Install project dependencies
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # Install pylint for Python linting
+      - name: Install linting tools
+        run: pip install pylint
+
+      # Run pylint to analyze Python code quality
+      - name: Lint Python code with pylint
+        run: pylint dags/main.py
+
+      # Validate docker-compose.yml syntax
+      - name: Validate docker-compose.yml
+        run: |
+          docker-compose -f docker-compose.yml config --quiet
+
+      # Validate Prometheus configuration (prometheus.yml)
+      - name: Validate Prometheus config
+        uses: promtools/promtool-action@v1
+        with:
+          config_file: 'prometheus/prometheus.yml'
+
+      # Set up Docker Buildx for multi-platform builds
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      # Log in to Docker Hub using secrets
+      - name: Login to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      # Build and push the Docker image to Docker Hub
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: |
+            yourdockerhubusername/BikesharingDataPipeline:latest
+            yourdockerhubusername/BikesharingDataPipeline:${{ github.sha }}

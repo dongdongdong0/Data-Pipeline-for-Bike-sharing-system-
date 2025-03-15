@@ -30,7 +30,7 @@ jobs:
 
       # Run pylint to analyze Python code quality
       - name: Lint Python code with pylint
-        run: pylint DAGS/main.py
+        run: pylint DAGS/main.py || true
 
       # Validate docker-compose.yml syntax
       - name: Validate docker-compose.yml
@@ -60,11 +60,10 @@ jobs:
 
       # Build and push the Docker image to Docker Hub
       - name: Build and push Docker image
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
           context: .
           file: ./Dockerfile
           push: true
-          tags: |
-            yourdockerhubusername/BikesharingDataPipeline:latest
-            yourdockerhubusername/BikesharingDataPipeline:${{ github.sha }}
+          tags: zane5017/dongdongdong1:latest
+

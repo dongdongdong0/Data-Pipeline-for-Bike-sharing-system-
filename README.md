@@ -1,9 +1,12 @@
 ![Bike Sharing Pipeline Diagram](https://github.com/dongdongdong0/Data-Pipeline-for-Bike-sharing-system-/blob/main/data608.png?raw=true)
 
 ### **Project Overview**
-This project implements a real-time data pipeline to collect and process bike-sharing trip data from multiple city APIs, updated every 10 minutes. Each run ingests approximately **4,000 records per API**, accumulating **1.2 MB of data per hour**. The pipeline leverages **Apache Airflow, Apache Kafka, AWS S3, and AWS Glue**, storing data in **Parquet format** for efficient querying and analysis. 
+This project implements a **real-time data pipeline** designed to fetch, process, and store bike-sharing trip data from multiple city APIs at **10-minute intervals**. Each execution ingests approximately **4,000 records per API endpoint**, resulting in around **1.2 MB of data collected hourly**. The pipeline leverages **Apache Airflow** for task scheduling and orchestration, **Apache Kafka** for real-time data streaming, **Docker and Docker Compose** for containerization and simplified deployment, **Terraform** for infrastructure-as-code (IaC) automation, and **AWS S3** as a cloud-based data lake for scalable data storage.
 
-Deployed via **Docker**, the pipeline ensures **scalability and portability**. The processed data powers a **dynamic dashboard**, visualizing bike availability trends for operational insights. Additionally, the project integrates **Prometheus and Grafana** for real-time monitoring, enabling observability of system performance and task execution. Future enhancements may include **Apache Spark and Cassandra** for advanced analytics and structured storage.
+Continuous integration and continuous deployment (**CI/CD**) are facilitated by **GitHub Actions**, automating testing and deployment workflows, and ensuring code reliability and consistency with DockerHub integration. **Prometheus and Grafana** are configured to provide comprehensive real-time monitoring and visualization, enhancing the observability of the pipeline's performance and reliability.
+
+Future project iterations may incorporate **Apache Spark** for data processing optimization, **Snowflake** for efficient cloud-based data warehousing, and **Cassandra** for structured data storage to support advanced analytics use cases.
+
 
 
 ---
